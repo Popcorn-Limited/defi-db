@@ -1,0 +1,14 @@
+{
+  "name": "apy-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Popcorn-Limited/apy-data.git",
+  "author": "Ruhum <ruhum@proton.me>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@viem/anvil": "^0.0.6",
+    "vaultcraft-sdk": "^0.0.17",
+    "viem": "^1.10.14"
+  }
+}

@@ -1,0 +1,26 @@
+name: APY
+run-name: Pull APY data
+on:
+    schedule:
+        # * is a special character in YAML so you have to quote this string
+        - cron:  '0 * * * *'
+
+jobs:
+  full:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up foundry
+        uses: foundry-rs/foundry-toolchain@v1
+      - uses: actions/checkout@v3
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: yarn --frozen-lockfile
+      - uses: nick-fields/retry@v2
+        with:
+            timeout_minutes: 2
+            max_attempts: 5
+            command: node index.js
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
