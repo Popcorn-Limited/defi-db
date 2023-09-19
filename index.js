@@ -1,9 +1,19 @@
 import { createAnvil } from "@viem/anvil";
 import { YieldOptions, ProtocolProvider } from "vaultcraft-sdk";
 import { createPublicClient, http } from "viem";
-import { writeFileSync } from "fs";
+import { existsSync, mkdirSync, renameSync, writeFileSync } from "fs";
+import dayjs from "dayjs";
 
+const ARCHIVE_PATH = "./archive";
 (async () => {
+    console.log("moving current file to archive");
+    const date = dayjs().subtract(1, 'day').format("YYYY-MM-DD");
+
+    if (!existsSync(ARCHIVE_PATH)) {
+        mkdirSync(ARCHIVE_PATH);
+    }
+    renameSync("./apy-data.json", `${ARCHIVE_PATH}/${date}.json`);
+
     // we use a local anvil instance to decrease the number of RPC requests sent to a public endpoint.
     const anvil = createAnvil({
         forkUrl: "https://eth.llamarpc.com",
