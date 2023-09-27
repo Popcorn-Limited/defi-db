@@ -3,6 +3,7 @@ import { YieldOptions, LiveProvider } from "vaultcraft-sdk";
 import { createPublicClient, http } from "viem";
 import { existsSync, mkdirSync, renameSync, writeFileSync } from "fs";
 import dayjs from "dayjs";
+import { mainnet } from "viem/chains";
 
 const ARCHIVE_PATH = "./archive";
 (async () => {
@@ -18,10 +19,21 @@ const ARCHIVE_PATH = "./archive";
   const anvil = createAnvil({
     forkUrl: "https://eth.llamarpc.com",
   });
+  const anvilChain = {
+    ...mainnet,
+    id: 1337,
+    rpcUrls: {
+      default: {
+        http: [`http://127.0.0.1:8545`],
+      },
+      public: {
+        http: [`http://127.0.0.1:8545`],
+      },
+    },
+  };
   const publicClient = createPublicClient({
-    chain: anvil,
-    mode: "anvil",
-    transport: http("http://127.0.0.1:8545"),
+    chain: anvilChain,
+    transport: http(),
   });
   console.log("starting anvil instance");
   await anvil.start();
