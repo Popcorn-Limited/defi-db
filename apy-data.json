@@ -8194,20 +8194,20 @@
         ]
       },
       "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
-        "total": 0,
+        "total": 3.76,
         "apy": [
           {
             "rewardToken": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-            "apy": 0
+            "apy": 3.76
           }
         ]
       },
       "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
-        "total": 0,
+        "total": 7.75,
         "apy": [
           {
             "rewardToken": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-            "apy": 0
+            "apy": 7.75
           }
         ]
       }
@@ -8241,20 +8241,20 @@
         ]
       },
       "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
-        "total": 0,
+        "total": 2.76,
         "apy": [
           {
             "rewardToken": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-            "apy": 0
+            "apy": 2.76
           }
         ]
       },
       "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
-        "total": 0,
+        "total": 3.34,
         "apy": [
           {
             "rewardToken": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-            "apy": 0
+            "apy": 3.34
           }
         ]
       }
