@@ -276,10 +276,10 @@ strip-final-newline@^3.0.0:
   resolved "https://registry.yarnpkg.com/strip-final-newline/-/strip-final-newline-3.0.0.tgz#52894c313fbff318835280aed60ff71ebf12b8fd"
   integrity sha512-dOESqjYr96iWYylGObzd39EuNTa5VJxyvVAEm5Jnh7KGo75V43Hk1odPQkNDyXNmUR6k+gEiDVXnjB8HJ3crXw==
 
-vaultcraft-sdk@0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/vaultcraft-sdk/-/vaultcraft-sdk-0.1.10.tgz#e6121de6a5b858c24cfff5bc261418a7ee250d32"
-  integrity sha512-VozSwsohjyXGSf6Ai27aL0bZb6VGdnbwudyOHp8PCSNj8Vwq4DV2xe0RZZJ5OyxFvnCj9Glx7KhpjB6Ig6gT5A==
+vaultcraft-sdk@0.1.12:
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/vaultcraft-sdk/-/vaultcraft-sdk-0.1.12.tgz#28dfa355f9e59b3cff8f9a6163b34c48047a6316"
+  integrity sha512-tOCEB0kGZfgVotJKO9+9ZjQ6ZWE3ytKq4A7Z8hVgVL+yvcOv/KKCKegbSiBo0Kw8YEa7Ff9Uqo4VXUZMaHqEPw==
   dependencies:
     axios "^1.5.0"
     dotenv "^16.3.1"
