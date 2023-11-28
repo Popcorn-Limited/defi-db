@@ -26,9 +26,7 @@ const anvilPool = createPool();
   const polygonClient = await createClient(polygon, POLYGON_URL, 8546);
   const arbitrumClient = await createClient(arbitrum, ARBITRUM_URL, 8547);
   const optimismClient = await createClient(optimism, OPTIMISM_URL, 8548);
-  console.log({
-    mainnetClient, polygonClient, arbitrumClient, optimismClient
-  })
+
   const provider = new LiveProvider(
     {
       clients: {
