@@ -5,10 +5,10 @@ import { existsSync, mkdirSync, renameSync, writeFileSync } from "fs";
 import dayjs from "dayjs";
 import { mainnet, polygon, arbitrum, optimism } from "viem/chains";
 
-const MAINNET_URL = "https://eth.llamarpc.com";
-const POLYGON_URL = "https://polygon.llamarpc.com";
-const ARBITRUM_URL = "https://arbitrum.llamarpc.com";
-const OPTIMISM_URL = "https://optimism.llamarpc.com";
+const MAINNET_URL = "https://eth-mainnet.alchemyapi.io/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg";
+const POLYGON_URL = "https://polygon-mainnet.g.alchemy.com/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg";
+const ARBITRUM_URL = "https://arb-mainnet.alchemyapi.io/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg";
+const OPTIMISM_URL = "https://opt-mainnet.alchemyapi.io/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg";
 
 const ARCHIVE_PATH = "./archive";
 const anvilPool = createPool();
@@ -26,17 +26,22 @@ const anvilPool = createPool();
   const polygonClient = await createClient(polygon, POLYGON_URL, 8546);
   const arbitrumClient = await createClient(arbitrum, ARBITRUM_URL, 8547);
   const optimismClient = await createClient(optimism, OPTIMISM_URL, 8548);
-
+  console.log({
+    mainnetClient, polygonClient, arbitrumClient, optimismClient
+  })
   const provider = new LiveProvider(
     {
-      1: mainnetClient,
-      137: polygonClient,
-      10: optimismClient,
-      42161: arbitrumClient,
-    },
-    10000
+      clients: {
+        1: mainnetClient,
+        137: polygonClient,
+        10: optimismClient,
+        42161: arbitrumClient,
+      },
+      ttl: 10_000
+    }
   );
-  const yieldOptions = new YieldOptions(provider, 1000);
+
+  const yieldOptions = new YieldOptions({ provider, ttl: 10_000 });
   const result = {
     1: await collectApyData(yieldOptions, mainnet.id),
     137: await collectApyData(yieldOptions, polygon.id),
@@ -85,10 +90,7 @@ async function collectApyData(yieldOptions, chainId) {
     console.log(`pulling yield data for ${key}`);
     result[key] = {};
     try {
-      const protocolData = await yieldOptions.getYieldOptionsByProtocol(
-        chainId,
-        key
-      );
+      const protocolData = await yieldOptions.getYieldOptionsByProtocol({ chainId, protocol: key });
       protocolData.forEach((data) => {
         result[key][data.asset] = data.yield;
       });
