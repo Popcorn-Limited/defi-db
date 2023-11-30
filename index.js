@@ -10,7 +10,7 @@ const POLYGON_URL = "https://polygon-mainnet.g.alchemy.com/v2/KsuP431uPWKR3KFb-K
 const ARBITRUM_URL = "https://arb-mainnet.alchemyapi.io/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg";
 const OPTIMISM_URL = "https://opt-mainnet.alchemyapi.io/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg";
 
-const ARCHIVE_PATH = "./archive";
+const ARCHIVE_PATH = "./archive/apy";
 const anvilPool = createPool();
 (async () => {
   console.log("moving current file to archive");
