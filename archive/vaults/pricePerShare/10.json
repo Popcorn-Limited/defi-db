@@ -1,1 +1,282 @@
-{}
+{
+  "0xC2241a5B22Af50b2bb4C4960C23Ed1c8DB7f4D6c": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 358521098949940
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 3.44208000000028e+23
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1.0415827027550517e-9
+      }
+    ]
+  },
+  "0x2F1698D249782dbA192aF2Bab91E5eA621b7C6f7": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 86109614399093150000
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 8.450571178569737e+28
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1.0189798130742121e-9
+      }
+    ]
+  },
+  "0xe64E5e2E58904366A6E24CF1e0aC7922AfCe4332": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 2950396388917411
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 2.8821691445686146e+24
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1.0236721860954514e-9
+      }
+    ]
+  },
+  "0xFd136eF035Cf18E8F2573CaEbb3c4554635DC4F5": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 0
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 0
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1e-9
+      }
+    ]
+  },
+  "0x0825bb2F6Ce26af1652584F1Da9e55e54015904A": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 19166793591136
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 1.9112738221653e+22
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1.0028282378409682e-9
+      }
+    ]
+  },
+  "0x1F01c6bFDE973be1573AbFC1B6b1dFb1D8F22A86": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 1131935871187803800
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 1.1310060097100325e+27
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1.000822154320833e-9
+      }
+    ]
+  },
+  "0x48b2Bc0C40F4483EC982408F06Dc0E1e111D966b": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 435811895055
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 434710960572047500000
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1.0025325666541768e-9
+      }
+    ]
+  },
+  "0x740dc6c1eA74BbbadCCA0aB6253319e200c421a5": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 0
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 0
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1e-9
+      }
+    ]
+  },
+  "0x400a838eeA2ec6Daf6fA30d7Bc60505f0CecCec1": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 0
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 0
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1e-9
+      }
+    ]
+  },
+  "0x5D45accb18A88895aCac95F13a2882C273E22e3A": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 176738109574
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 175042563323207420000
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1.0096864797829322e-9
+      }
+    ]
+  },
+  "0x5Df527eb4cE7dE09f8e966F9bbc9bc4Edbc7f458": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 0
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 0
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1e-9
+      }
+    ]
+  },
+  "0x78C44B3A63b94d2EFc98c2Cc9701F9BEE1b6a56A": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 20047194
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 19981006472169332
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1.0033125220498946e-9
+      }
+    ]
+  },
+  "0x5372c5AF5f078f2d4B5dbBE4377b2f0225f2863A": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 10043549
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 10028014828585858
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 1.0015490772730793e-9
+      }
+    ]
+  },
+  "0x4E564bC61Cf97737cE110c7929b17963E9232aE9": {
+    "totalAssets": [
+      {
+        "date": 1702062077866,
+        "value": 0
+      }
+    ],
+    "totalSuply": [
+      {
+        "date": 1702062077866,
+        "value": 1000000000
+      }
+    ],
+    "pricePerShare": [
+      {
+        "date": 1702062077866,
+        "value": 5e-10
+      }
+    ]
+  }
+}
