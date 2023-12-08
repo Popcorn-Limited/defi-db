@@ -1,0 +1,26 @@
+{
+  [
+    "address": "Address"
+  ],
+  "totalAssets": [
+    // date desc
+    {
+      "date": number,
+      "value": number
+    }
+  ],
+  "totalSupply": [
+    // date desc
+    {
+      "date": number,
+      "value":number
+    }
+  ],
+  "pricePerShare": [
+    // date desc
+    {
+      "date": number,
+      "value": number
+    }
+  ]
+}
