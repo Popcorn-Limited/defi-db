@@ -1,22 +1,2 @@
 {
-  "0x5d344226578DC100b2001DA251A4b154df58194f": {
-    "totalAssets": [
-      {
-        "date": 10,
-        "value": 1
-      }
-    ],
-    "totalSupply": [
-      {
-        "date": 10,
-        "value": 1
-      }
-    ],
-    "pricePerShare": [
-      {
-        "date": 10,
-        "value": 1
-      }
-    ]
-  }
 }
