@@ -38,5 +38,13 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
     "chainId": 42161
+  },
+  "0x21989947F87EC6f86D21e3966EAeEeE1095887bc": {
+    "address": "0x21989947F87EC6f86D21e3966EAeEeE1095887bc",
+    "name": "TestVault",
+    "symbol": "tsv",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "chainId": 42161
   }
 }
