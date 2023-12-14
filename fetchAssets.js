@@ -83,6 +83,7 @@ const IconByProtocol= {
   "balancer": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
   "curve": "https://app.vaultcraft.io/images/tokens/curve-lp.png",
   "stargate": "https://icons.llamao.fi/icons/protocols/stargate?w=48&h=48",
+  "velodrome" : "https://app.vaultcraft.io/images/tokens/velodrome-lp.svg"
 }
 
 async function getLpAssets(tokens, chainId, protocol, client) {

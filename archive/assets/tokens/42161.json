@@ -892,7 +892,7 @@
     "name": "StakedGlp",
     "symbol": "sGLP",
     "decimals": 18,
-    "logoURI": "https://metadata-service.herokuapp.com/api/token/42161/0x5402b5f40310bded796c7d0f3ff6683f5c0cffdf/icon",
+    "logoURI": "https://pirex.io/assets/images/tokens/GLP.png",
     "chainId": 42161
   },
   "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
@@ -2692,7 +2692,7 @@
     "name": "Pirex GMX",
     "symbol": "pxGMX",
     "decimals": 18,
-    "logoURI": "https://metadata-service.herokuapp.com/api/token/42161/0x9a592b4539e22eeb8b2a3df679d572c7712ef999/icon",
+    "logoURI": "https://pirex.io/assets/images/tokens/GMX.png",
     "chainId": 42161
   },
   "0xcb1D846468c31248609bF867f4015d14818f5b77": {
