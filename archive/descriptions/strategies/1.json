@@ -25,7 +25,7 @@
   },
   "0x743EaD6E224283D00e29866327d4E35B6f196F79": {
     "address": "0x743EaD6E224283D00e29866327d4E35B6f196F79",
-    "name": "OETH",
+    "name": "Origin",
     "description": "OETH integrates with various Liquid Staking Provider to optimize interest earned by staking Ether.\n      ----\n      The OETH protocol also utilizes Curve and Convex Finance to earn trading fees and additional rewards on ETH / OETH. It automatically claims and converts bonus incentives that are being distributed by these protocols.",
     "resolver": "origin"
   },
