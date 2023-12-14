@@ -1,1 +1,248 @@
-{}
+{
+  "0x612465C8d6F1B2Bc85DF43224a8A3b5e04F634fc": {
+    "address": "0x612465C8d6F1B2Bc85DF43224a8A3b5e04F634fc",
+    "name": "CompoundV2 Lending",
+    "description": "**Lending** - The vault supplies assets into CompoundV2 to earn lending interest.",
+    "resolver": "compoundV2"
+  },
+  "0xB98B71F5B756493a898E8B05ac7d6B20644435E6": {
+    "address": "0xB98B71F5B756493a898E8B05ac7d6B20644435E6",
+    "name": "CompoundV2 Lending",
+    "description": "**Lending** - The vault supplies assets into CompoundV2 to earn lending interest.",
+    "resolver": "compoundV2"
+  },
+  "0x7a2F96F36a03c91Cbf5f4490B4002254c5b7a5E8": {
+    "address": "0x7a2F96F36a03c91Cbf5f4490B4002254c5b7a5E8",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0x104AeAC31048aD01A2836254ad0330F3fC8E7Fbc": {
+    "address": "0x104AeAC31048aD01A2836254ad0330F3fC8E7Fbc",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0x743EaD6E224283D00e29866327d4E35B6f196F79": {
+    "address": "0x743EaD6E224283D00e29866327d4E35B6f196F79",
+    "name": "OETH",
+    "description": "OETH integrates with various Liquid Staking Provider to optimize interest earned by staking Ether.\n      ----\n      The OETH protocol also utilizes Curve and Convex Finance to earn trading fees and additional rewards on ETH / OETH. It automatically claims and converts bonus incentives that are being distributed by these protocols.",
+    "resolver": "origin"
+  },
+  "0x61e629419410E913060Cf321989b3f6AF2C09164": {
+    "address": "0x61e629419410E913060Cf321989b3f6AF2C09164",
+    "name": "Beefy Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0xB597852043Ce22D293F533143C2bE47aF94C456A": {
+    "address": "0xB597852043Ce22D293F533143C2bE47aF94C456A",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0x3e8a2993d950C718e5b85285D7FCa0b33Ae0C2eA": {
+    "address": "0x3e8a2993d950C718e5b85285D7FCa0b33Ae0C2eA",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0x33d9A49CfB1005E722a3BEE2959b2Ed3c127eA84": {
+    "address": "0x33d9A49CfB1005E722a3BEE2959b2Ed3c127eA84",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0x99513f12ac1dd0d9979e07e59b06Cd5d6dfB9330": {
+    "address": "0x99513f12ac1dd0d9979e07e59b06Cd5d6dfB9330",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0xF35Dc1F592ed2D6dE8a9af2116683f2D6fac2a7f": {
+    "address": "0xF35Dc1F592ed2D6dE8a9af2116683f2D6fac2a7f",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0x9bdC69Aaba05E1425a44fc439a7Fe92615977a1f": {
+    "address": "0x9bdC69Aaba05E1425a44fc439a7Fe92615977a1f",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0x1125f17E999ea4F2498D01c35785fE90B5C4d8ff": {
+    "address": "0x1125f17E999ea4F2498D01c35785fE90B5C4d8ff",
+    "name": "Stargate Compounding",
+    "description": "**Stargate LP-Compounding** - The vault stakes the user's LP Token in a Stargate gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
+    "resolver": "stargate"
+  },
+  "0xC09C94BDb26cAEd2099C7ffA8fBAc903E9338D02": {
+    "address": "0xC09C94BDb26cAEd2099C7ffA8fBAc903E9338D02",
+    "name": "Idle Senior Tranche",
+    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "resolver": "idleSenior"
+  },
+  "0x197F58De2559097d956b4192e8F89A2F36190a48": {
+    "address": "0x197F58De2559097d956b4192e8F89A2F36190a48",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0xaD8c7EbEEA0706476CB6656349456B44ccd79A64": {
+    "address": "0xaD8c7EbEEA0706476CB6656349456B44ccd79A64",
+    "name": "Idle Senior Tranche",
+    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "resolver": "idleSenior"
+  },
+  "0x29bE2A691394f635a9AC506a238Cc201BAA52351": {
+    "address": "0x29bE2A691394f635a9AC506a238Cc201BAA52351",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0xE48d33e869f874D6BEe3701beF22ae72c60A3b3c": {
+    "address": "0xE48d33e869f874D6BEe3701beF22ae72c60A3b3c",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0x550DE5484998957F90986FfAfcE505E790A43CDA": {
+    "address": "0x550DE5484998957F90986FfAfcE505E790A43CDA",
+    "name": "Idle Senior Tranche",
+    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "resolver": "idleSenior"
+  },
+  "0x2661495A1B6BF8b7a2F33c707A74801aBeCA3d74": {
+    "address": "0x2661495A1B6BF8b7a2F33c707A74801aBeCA3d74",
+    "name": "OUSD",
+    "description": "OUSD integrates with Aave and Compound to automate yield on over-collateralized loans.\n    ----\n    The OUSD protocol also routes USDT, USDC, and DAI to highly-performing liquidity pools as determined by trading volume and rewards tokens (e.g. Curve rewards CRV tokens to liquidity providers). Yields are then passed on to OUSD holders.\n    ---\n    In addition to collecting interest from lending and fees from market making, the protocol automatically claims and converts bonus incentives that are being distributed by DeFi protocols.",
+    "resolver": "origin"
+  },
+  "0x2d676E8547a99eb386Ddc6a9e0262E2ffC8215dc": {
+    "address": "0x2d676E8547a99eb386Ddc6a9e0262E2ffC8215dc",
+    "name": "Aura Compounding",
+    "description": "**Aura LP-Compounding** - The vault stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
+    "resolver": "aura"
+  },
+  "0x239377821bbA921307622349C20ffb3DbBD36F2D": {
+    "address": "0x239377821bbA921307622349C20ffb3DbBD36F2D",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0xbA1d38D6bb5E2FA2a08aA9f660B2c7A6D933Da87": {
+    "address": "0xbA1d38D6bb5E2FA2a08aA9f660B2c7A6D933Da87",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0x2BFDbad3504e585830409158e389FaBC9B4a0A49": {
+    "address": "0x2BFDbad3504e585830409158e389FaBC9B4a0A49",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0x9EB44d66a0610F89f227ca8Df38766a9c72A640c": {
+    "address": "0x9EB44d66a0610F89f227ca8Df38766a9c72A640c",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0xA301B31184CF084e817C6eB1C7eF57956486853E": {
+    "address": "0xA301B31184CF084e817C6eB1C7eF57956486853E",
+    "name": "Beefy Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0xb7fBFBA3e2d146B849D0B473cd04d53fe88FD704": {
+    "address": "0xb7fBFBA3e2d146B849D0B473cd04d53fe88FD704",
+    "name": "AaveV2 Lending",
+    "description": "**Lending** - The vault supplies assets into AaveV2 to earn lending interest.",
+    "resolver": "aaveV2"
+  },
+  "0xf9C4E79C874465e275a236f71ca7D9BB699fA810": {
+    "address": "0xf9C4E79C874465e275a236f71ca7D9BB699fA810",
+    "name": "AaveV2 Lending",
+    "description": "**Lending** - The vault supplies assets into AaveV2 to earn lending interest.",
+    "resolver": "aaveV2"
+  },
+  "0x37447E69A1Dd931a4B5b9c28C186B37e216aa4E8": {
+    "address": "0x37447E69A1Dd931a4B5b9c28C186B37e216aa4E8",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0x89580C72a147A43CD05a9f001542729FdB194cFE": {
+    "address": "0x89580C72a147A43CD05a9f001542729FdB194cFE",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0x6Bd0C1823cd18f6bb8FFbb7Da0a3dEB09D2cFebB": {
+    "address": "0x6Bd0C1823cd18f6bb8FFbb7Da0a3dEB09D2cFebB",
+    "name": "Idle Junior Tranche",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.",
+    "resolver": "idleJunior"
+  },
+  "0xc4Cc9a9008E0bd6C6ED156fc540C93D1b96ac7B9": {
+    "address": "0xc4Cc9a9008E0bd6C6ED156fc540C93D1b96ac7B9",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0xBE1F69ed8f0cd5FCa72a28d8F249632e05Ec9655": {
+    "address": "0xBE1F69ed8f0cd5FCa72a28d8F249632e05Ec9655",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0x1061321151bD892F8044ecc095166a7F54D7d96a": {
+    "address": "0x1061321151bD892F8044ecc095166a7F54D7d96a",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  },
+  "0x351DFF520260b118cA7830c32cD50158e2AF85Ef": {
+    "address": "0x351DFF520260b118cA7830c32cD50158e2AF85Ef",
+    "name": "Idle Senior Tranche",
+    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "resolver": "idleSenior"
+  },
+  "0xE4aa80152b36E0b52B366d8B1a5c8A36233DD978": {
+    "address": "0xE4aa80152b36E0b52B366d8B1a5c8A36233DD978",
+    "name": "Pirex Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Pirex to earn yield on their automated asset strategies.",
+    "resolver": "pirex"
+  },
+  "0xaBA6F3A82DE6F64284D321d35974E903178D9b96": {
+    "address": "0xaBA6F3A82DE6F64284D321d35974E903178D9b96",
+    "name": "Beefy Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0x641E2eb744360c10FCBff358488525E44029eA6A": {
+    "address": "0x641E2eb744360c10FCBff358488525E44029eA6A",
+    "name": "Beefy Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0xDD4D33dbB2A9922fB7524Ad5eD20b6F52EdA5d80": {
+    "address": "0xDD4D33dbB2A9922fB7524Ad5eD20b6F52EdA5d80",
+    "name": "Beefy Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0xE3267A9Ff2d38B748B6aA202e006F7d94Ca22df3": {
+    "address": "0xE3267A9Ff2d38B748B6aA202e006F7d94Ca22df3",
+    "name": "Sommelier Turbo",
+    "description": "Sommelier Turbo",
+    "resolver": "sommelier"
+  },
+  "0xebEE0d3B137290438bd796109CB3e9eEa211d9D1": {
+    "address": "0xebEE0d3B137290438bd796109CB3e9eEa211d9D1",
+    "name": "Yearn Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
+    "resolver": "yearn"
+  }
+}

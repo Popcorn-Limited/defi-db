@@ -1,1 +1,14 @@
-{}
+{
+  "0x5CE9601F1E15FDED207a6078b1180815D8F469AA": {
+    "address": "0x5CE9601F1E15FDED207a6078b1180815D8F469AA",
+    "name": "Beefy Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0xdd1AB4f32a68eCA535a07bdFDfB350D29cC59230": {
+    "address": "0xdd1AB4f32a68eCA535a07bdFDfB350D29cC59230",
+    "name": "Beefy Depositor",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  }
+}
