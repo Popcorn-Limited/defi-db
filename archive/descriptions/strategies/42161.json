@@ -1,31 +1,31 @@
 {
   "0x62a56830C10e3daD8Be198EfeDdec05Aa582392c": {
     "address": "0x62a56830C10e3daD8Be198EfeDdec05Aa582392c",
-    "name": "Beefy Depositor",
+    "name": "Beefy",
     "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
     "resolver": "beefy"
   },
   "0x3592E15c4fA75acF1F0229c86fAB7C2304721359": {
     "address": "0x3592E15c4fA75acF1F0229c86fAB7C2304721359",
-    "name": "Beefy Depositor",
+    "name": "Beefy",
     "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
     "resolver": "beefy"
   },
   "0xaa8A299694aC82fe7529FE89148545C7C09Ff277": {
     "address": "0xaa8A299694aC82fe7529FE89148545C7C09Ff277",
-    "name": "Beefy Depositor",
+    "name": "Beefy",
     "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
     "resolver": "beefy"
   },
   "0xe961DCb94A599B17b8be068AFF3F53A7C447918A": {
     "address": "0xe961DCb94A599B17b8be068AFF3F53A7C447918A",
-    "name": "Beefy Depositor",
+    "name": "Beefy",
     "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
     "resolver": "beefy"
   },
   "0xDf92DaBbF013d9214822904b495CC0F70EFbdbC7": {
     "address": "0xDf92DaBbF013d9214822904b495CC0F70EFbdbC7",
-    "name": "Pirex Depositor",
+    "name": "Pirex",
     "description": "**Automated Asset Strategy** - The vault supplies assets into Pirex to earn yield on their automated asset strategies.",
     "resolver": "pirex"
   },

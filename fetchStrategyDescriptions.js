@@ -11,13 +11,13 @@ function addGenericStrategyDescription(key, symbol) {
     case "compoundFolding":
       return `**Compound Folding** \- The ${symbol} Smartt Vault supplies and borrows DAI on Compound Finance simultaneously to earn COMP. Flashmints are then used to mint ${symbol} from MakerDAO to flashlend and fold the position to boost APY. Earned tokens are then harvested, sold for more ${symbol}, and then deposited back into the strategy.`
     case "lending":
-      return `**Lending** \- The vault supplies assets into ${symbol} to earn lending interest.`
+      return `**Lending** \- The vault supplies assets into ${symbol} to earn interest.`
     case "automatedAssetStrategy":
       return `**Automated Asset Strategy** \- The vault supplies assets into ${symbol} to earn yield on their automated asset strategies.`
     case "seniorTranche":
-      return `**Senior Tranche** \- The vault supplies assets into a senior tranche of ${symbol}. Senior tranches offer stable returns with built-in coverage but reduced upside.`
+      return `**Senior Tranche** \- The vault supplies assets into a of ${symbol}.s offer stable returns with built-in coverage but reduced upside.`
     case "juniorTranche":
-      return `**Junior Tranche** \- The vault supplies assets into a junior tranche of ${symbol}. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding senior Tranche.`
+      return `**Junior Tranche** \- The vault supplies assets into a of ${symbol}.s offer higher returns but with higher risk since they minize the risk of the corresponding.`
     default:
       return ""
   }
@@ -36,61 +36,61 @@ function addLpMetadata(key, symbol) {
 
 function getStargateMetadata(name) {
   return {
-    name: "Stargate Compounding", description: addGenericStrategyDescription("lpCompounding", "Stargate"), resolver: "stargate"
+    name: "Stargate", description: addGenericStrategyDescription("lpCompounding", "Stargate"), resolver: "stargate"
   }
 }
 
 function getConvexMetadata(name) {
   return {
-    name: "Convex Compounding", description: addGenericStrategyDescription("lpCompounding", "Convex"), resolver: "convex",
+    name: "Convex", description: addGenericStrategyDescription("lpCompounding", "Convex"), resolver: "convex",
   }
 }
 
 function getAaveV2Metadata(name) {
   return {
-    name: "AaveV2 Lending", description: addGenericStrategyDescription("lending", "AaveV2"), resolver: "aaveV2",
+    name: "Aave", description: addGenericStrategyDescription("lending", "AaveV2"), resolver: "aaveV2",
   }
 }
 
 function getAaveV3Metadata(name) {
   return {
-    name: "AaveV3 Lending", description: addGenericStrategyDescription("lending", "AaveV3"), resolver: "aaveV3",
+    name: "Aave", description: addGenericStrategyDescription("lending", "AaveV3"), resolver: "aaveV3",
   }
 }
 
 function getAuraMetadata(name) {
   return {
-    name: "Aura Compounding", description: addGenericStrategyDescription("lpCompounding", "Aura"), resolver: "aura",
+    name: "Aura", description: addGenericStrategyDescription("lpCompounding", "Aura"), resolver: "aura",
   }
 }
 
 function getCompoundV2Metadata(name) {
   return {
-    name: "CompoundV2 Lending", description: addGenericStrategyDescription("lending", "CompoundV2"), resolver: "compoundV2",
+    name: "Compound", description: addGenericStrategyDescription("lending", "CompoundV2"), resolver: "compoundV2",
   }
 }
 
 function getCompoundV3Metadata(name) {
-  return { name: "CompoundV3 Lending", description: addGenericStrategyDescription("lending", "CompoundV3"), resolver: "compoundV3", }
+  return { name: "Compound", description: addGenericStrategyDescription("lending", "CompoundV3"), resolver: "compoundV3", }
 }
 
 function getFluxMetadata(name) {
-  return { name: "Flux Lending", description: addGenericStrategyDescription("lending", "Flux"), resolver: "flux" }
+  return { name: "Flux", description: addGenericStrategyDescription("lending", "Flux"), resolver: "flux" }
 }
 
 function getBeefyMetadata(name) {
-  return { name: "Beefy Depositor", description: addGenericStrategyDescription("automatedAssetStrategy", "Beefy"), resolver: "beefy" }
+  return { name: "Beefy", description: addGenericStrategyDescription("automatedAssetStrategy", "Beefy"), resolver: "beefy" }
 }
 
 function getYearnMetadata(name) {
-  return { name: "Yearn Depositor", description: addGenericStrategyDescription("automatedAssetStrategy", "Yearn"), resolver: "yearn" }
+  return { name: "Yearn", description: addGenericStrategyDescription("automatedAssetStrategy", "Yearn"), resolver: "yearn" }
 }
 
 function getIdleMetadata(name) {
   return {
     ...name.includes("Senior") ?
-      { name: "Idle Senior Tranche", description: addGenericStrategyDescription("seniorTranche", "Idle") } :
-      { name: "Idle Junior Tranche", description: addGenericStrategyDescription("juniorTranche", "Idle") },
+      { name: "Idle", description: addGenericStrategyDescription("seniorTranche", "Idle") } :
+      { name: "Idle", description: addGenericStrategyDescription("juniorTranche", "Idle") },
     resolver: name.includes("Senior") ? "idleSenior" : "idleJunior",
   }
 }
@@ -99,14 +99,14 @@ function getOriginMetadata(name) {
   return {
     ...name.includes("Ether") ?
       {
-        name: "OUSD",
+        name: "Origin",
         description: `OUSD integrates with Aave and Compound to automate yield on over-collateralized loans.
     ----
     The OUSD protocol also routes USDT, USDC, and DAI to highly-performing liquidity pools as determined by trading volume and rewards tokens (e.g. Curve rewards CRV tokens to liquidity providers). Yields are then passed on to OUSD holders.
     ---
-    In addition to collecting interest from lending and fees from market making, the protocol automatically claims and converts bonus incentives that are being distributed by DeFi protocols.`} :
+    In addition to collecting interest from and fees from market making, the protocol automatically claims and converts bonus incentives that are being distributed by DeFi protocols.`} :
       {
-        name: "OETH",
+        name: "Origin",
         description: `OETH integrates with various Liquid Staking Provider to optimize interest earned by staking Ether.
       ----
       The OETH protocol also utilizes Curve and Convex Finance to earn trading fees and additional rewards on ETH / OETH. It automatically claims and converts bonus incentives that are being distributed by these protocols.`
@@ -116,11 +116,11 @@ function getOriginMetadata(name) {
 }
 
 function getPirexMetadata(name) {
-  return { name: "Pirex Depositor", description: addGenericStrategyDescription("automatedAssetStrategy", "Pirex"), resolver: "pirex" }
+  return { name: "Pirex", description: addGenericStrategyDescription("automatedAssetStrategy", "Pirex"), resolver: "pirex" }
 }
 
 function getSommelierMetadata(name) {
-  return { name: "Sommelier Depositor", description: addGenericStrategyDescription("automatedAssetStrategy", "Sommelier"), resolver: "sommelier" }
+  return { name: "Sommelier", description: addGenericStrategyDescription("automatedAssetStrategy", "Sommelier"), resolver: "sommelier" }
 }
 
 function getEmptyMetadata(name) {
