@@ -129,8 +129,8 @@ function getEmptyMetadata(name) {
 
 const EXCEPTIONS = {
   "0xE3267A9Ff2d38B748B6aA202e006F7d94Ca22df3": {
-    name: "Sommelier Turbo",
-    description: "Sommelier Turbo",
+    name: "Sommelier",
+    description: "**Automated Asset Strategy** - The vault supplies assets into Sommelier to earn yield on their automated asset strategies.",
     resolver: "sommelier"
   }
 }
