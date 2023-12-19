@@ -4,7 +4,7 @@
     "name": "Popcorn Hop USDC LP Token Vault",
     "symbol": "pop-HOP-USDC",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0xfC2193ac4E8145E192bC3d9Db9407A4aE0Dc4DF8": {
@@ -12,7 +12,7 @@
     "name": "Popcorn Hop DAI LP Token Vault",
     "symbol": "pop-HOP-DAI",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0xa6fcC7813d9D394775601aD99874c9f8e95BAd78": {
@@ -20,7 +20,7 @@
     "name": "Popcorn Automated Pool Token - Oracle Vault #3 Vault",
     "symbol": "pop-APT",
     "decimals": 21,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0x54d921B6397731222aB0b898bAE58c948d187Cd1": {
@@ -28,7 +28,7 @@
     "name": "Popcorn StakedGlp Vault",
     "symbol": "pop-sGLP",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0x1225354B00372c531e1c39ECe1cec548358926bb": {
@@ -36,23 +36,23 @@
     "name": "Popcorn Pirex GMX Vault",
     "symbol": "pop-pxGMX",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0x21989947F87EC6f86D21e3966EAeEeE1095887bc": {
     "address": "0x21989947F87EC6f86D21e3966EAeEeE1095887bc",
-    "name": "TestVault",
-    "symbol": "tsv",
+    "name": "Frax Stake Vault",
+    "symbol": "FSV",
     "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0xC2241a5B22Af50b2bb4C4960C23Ed1c8DB7f4D6c": {
     "address": "0xC2241a5B22Af50b2bb4C4960C23Ed1c8DB7f4D6c",
-    "name": "TestVault2",
-    "symbol": "tsv2",
+    "name": "Frax Stake Vault2",
+    "symbol": "FSV2",
     "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   }
 }

@@ -79,7 +79,7 @@ async function getStuffByChain(chainId) {
       name: results[i],
       symbol: results[i + 1],
       decimals: results[1 + 2],
-      logoURI: "https://app.vaultcraft.io/images/tokens/pop.svg",
+      logoURI: "https://app.vaultcraft.io/images/tokens/vcx.svg",
       chainId: chainId
     }
   })

@@ -4,7 +4,7 @@
     "name": "Popcorn (PoS) Tether USD-LP Vault",
     "symbol": "pop-S*USDT",
     "decimals": 15,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 137
   },
   "0xB38b9522005ffBb0e297c17A8e2a3f11C6433e8C": {
@@ -12,7 +12,7 @@
     "name": "Popcorn USD Coin (PoS)-LP Vault",
     "symbol": "pop-S*USDC",
     "decimals": 15,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 137
   }
 }

@@ -4,7 +4,7 @@
     "name": "Popcorn StableV1 AMM - USDC/DOLA Vault",
     "symbol": "pop-USDC/DOLA",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x2F1698D249782dbA192aF2Bab91E5eA621b7C6f7": {
@@ -12,7 +12,7 @@
     "name": "Popcorn Hop DAI LP Token Vault",
     "symbol": "pop-HOP-DAI",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0xe64E5e2E58904366A6E24CF1e0aC7922AfCe4332": {
@@ -20,7 +20,7 @@
     "name": "Popcorn Hop USDT LP Token Vault",
     "symbol": "pop-HOP-USDT",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0xFd136eF035Cf18E8F2573CaEbb3c4554635DC4F5": {
@@ -28,7 +28,7 @@
     "name": "Popcorn StableV1 AMM - USDC/LUSD Vault",
     "symbol": "pop-USDC/LUSD",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x0825bb2F6Ce26af1652584F1Da9e55e54015904A": {
@@ -36,7 +36,7 @@
     "name": "Popcorn VolatileV2 AMM - OP/USDC Vault",
     "symbol": "pop-OP/USDC",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x1F01c6bFDE973be1573AbFC1B6b1dFb1D8F22A86": {
@@ -44,7 +44,7 @@
     "name": "Popcorn VolatileV2 AMM - wstETH/OP Vault",
     "symbol": "pop-wstETH/OP",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x48b2Bc0C40F4483EC982408F06Dc0E1e111D966b": {
@@ -52,7 +52,7 @@
     "name": "Popcorn StableV2 AMM - USDC/DOLA Vault",
     "symbol": "pop-USDC/DOLA",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x740dc6c1eA74BbbadCCA0aB6253319e200c421a5": {
@@ -60,7 +60,7 @@
     "name": "Popcorn VolatileV2 AMM - STG/USDC Vault",
     "symbol": "pop-STG/USDC",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x400a838eeA2ec6Daf6fA30d7Bc60505f0CecCec1": {
@@ -68,7 +68,7 @@
     "name": "Popcorn VolatileV2 AMM - wstETH/WETH Vault",
     "symbol": "pop-wstETH/WETH",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x5D45accb18A88895aCac95F13a2882C273E22e3A": {
@@ -76,7 +76,7 @@
     "name": "Popcorn VolatileV2 AMM - USDC/VELO Vault",
     "symbol": "pop-USDC/VELO",
     "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x5Df527eb4cE7dE09f8e966F9bbc9bc4Edbc7f458": {
@@ -84,7 +84,7 @@
     "name": "Popcorn Tether USD Vault",
     "symbol": "pop-USDT",
     "decimals": 15,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x78C44B3A63b94d2EFc98c2Cc9701F9BEE1b6a56A": {
@@ -92,7 +92,7 @@
     "name": "Popcorn Tether USD Vault",
     "symbol": "pop-USDT",
     "decimals": 15,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x5372c5AF5f078f2d4B5dbBE4377b2f0225f2863A": {
@@ -100,7 +100,7 @@
     "name": "Popcorn USD Coin Vault",
     "symbol": "pop-USDC",
     "decimals": 15,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
   "0x4E564bC61Cf97737cE110c7929b17963E9232aE9": {
@@ -108,7 +108,7 @@
     "name": "Popcorn USD Coin Vault",
     "symbol": "pop-USDC",
     "decimals": 15,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/pop.svg",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   }
 }
