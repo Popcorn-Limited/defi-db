@@ -1,5 +1,5 @@
-name: APY
-run-name: Pull APY data
+name: PPS
+run-name: Pull Total Assets and Total Supply for all vaults
 on:
     schedule:
         # * is a special character in YAML so you have to quote this string

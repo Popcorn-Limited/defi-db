@@ -1,5 +1,5 @@
-name: APY
-run-name: Pull APY data
+name: Strategy Descriptions
+run-name: Pull Strategy Descriptions
 on:
     schedule:
         # * is a special character in YAML so you have to quote this string
