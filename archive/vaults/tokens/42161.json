@@ -39,18 +39,10 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0x21989947F87EC6f86D21e3966EAeEeE1095887bc": {
-    "address": "0x21989947F87EC6f86D21e3966EAeEeE1095887bc",
+  "0x355d6ee7a1386d0659495d249E3cC085eC90Ba18": {
+    "address": "0x355d6ee7a1386d0659495d249E3cC085eC90Ba18",
     "name": "Frax Stake Vault",
     "symbol": "FSV",
-    "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
-  "0xC2241a5B22Af50b2bb4C4960C23Ed1c8DB7f4D6c": {
-    "address": "0xC2241a5B22Af50b2bb4C4960C23Ed1c8DB7f4D6c",
-    "name": "Frax Stake Vault2",
-    "symbol": "FSV2",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
