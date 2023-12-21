@@ -46,5 +46,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0xc44371C57073eF9FafB7631376573baCfEd3928a": {
+    "address": "0xc44371C57073eF9FafB7631376573baCfEd3928a",
+    "name": "ibFrax Stake Vault",
+    "symbol": "ibFSV",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }

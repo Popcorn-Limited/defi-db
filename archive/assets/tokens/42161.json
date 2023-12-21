@@ -16646,5 +16646,13 @@
     "decimals": 18,
     "logoURI": "https://icons.llama.fi/harvest-finance.png",
     "chainId": 42161
+  },
+  "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472": {
+    "address": "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
+    "name": "Interest Bearing FRAX",
+    "symbol": "ibFRAX",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/FRAX.png",
+    "chainId": 42161
   }
 }
