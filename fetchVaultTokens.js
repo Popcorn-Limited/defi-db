@@ -62,8 +62,7 @@ async function getStuffByChain(chainId) {
     functionName: "getRegisteredAddresses",
   })
 
-  const filteredAddresses = addresses.filter(address => Object.keys(data).includes(getAddress(address)))
-
+  const filteredAddresses = addresses.filter(address => !Object.keys(data).includes(getAddress(address)))
   if (filteredAddresses.length === 0) return []
 
   const results = await client.multicall({
@@ -78,12 +77,11 @@ async function getStuffByChain(chainId) {
       address: getAddress(address),
       name: results[i],
       symbol: results[i + 1],
-      decimals: results[1 + 2],
+      decimals: results[i + 2],
       logoURI: "https://app.vaultcraft.io/images/tokens/vcx.svg",
       chainId: chainId
     }
   })
-
   return data
 }
 
@@ -92,7 +90,7 @@ const chains = [1, 137, 10, 42161]
 async function main() {
   for (let i = 0; i < chains.length; i++) {
     const data = await getStuffByChain(chains[i])
-    if (data.length > 0) {
+    if (Object.keys(data).length > 0) {
       writeFileSync(`./archive/vaults/tokens/${chains[i]}.json`, JSON.stringify(data), "utf-8");
     }
   }

@@ -326,5 +326,13 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0xD7364b3b5747e34d902aa87ffE52f686522dE8f4": {
+    "address": "0xD7364b3b5747e34d902aa87ffE52f686522dE8f4",
+    "name": "Popcorn Balancer swETH-WETH Stable Pool Vault",
+    "symbol": "pop-swETH-WETH-BPT",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }
