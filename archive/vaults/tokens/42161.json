@@ -39,8 +39,8 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0x355d6ee7a1386d0659495d249E3cC085eC90Ba18": {
-    "address": "0x355d6ee7a1386d0659495d249E3cC085eC90Ba18",
+  "0xF10878bc18193DD92F934C8A9b945c1172CCb5cA": {
+    "address": "0xF10878bc18193DD92F934C8A9b945c1172CCb5cA",
     "name": "Frax Stake Vault",
     "symbol": "FSV",
     "decimals": 18,
