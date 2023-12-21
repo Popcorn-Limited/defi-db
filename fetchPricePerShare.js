@@ -73,7 +73,7 @@ async function getStuffByChain(chainId, date) {
     if (!Object.keys(data).includes(getAddress(address))) {
       data[getAddress(address)] = {
         totalAssets: [{ date: date, value: totalAssets }],
-        totalSuply: [{ date: date, value: totalSupply }],
+        totalSupply: [{ date: date, value: totalSupply }],
         pricePerShare: [{ date: date, value: assetsPerShare }]
       }
     } else {
