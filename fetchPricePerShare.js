@@ -2,8 +2,8 @@ import axios from "axios"
 import { writeFileSync } from "fs"
 import { createPublicClient, getAddress, http } from "viem"
 import { arbitrum, mainnet, optimism, polygon } from "viem/chains"
-import {VaultAbi} from "./lib/vaultAbi.js";
-import {VaultRegistryAbi} from "./lib/vaultRegistryAbi.js";
+import { VaultAbi } from "./lib/vaultAbi.js";
+import { VaultRegistryAbi } from "./lib/vaultRegistryAbi.js";
 
 const RPC_URLS = {
   [1]: `https://eth-mainnet.alchemyapi.io/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg`,
@@ -13,7 +13,7 @@ const RPC_URLS = {
   [56]: `https://bsc-dataseed1.binance.org`,
 };
 
-function prepareTokenContracts(address){
+function prepareTokenContracts(address) {
   const token = {
     address,
     abi: VaultAbi
@@ -86,7 +86,7 @@ async function getStuffByChain(chainId, date) {
   return data
 }
 
-const chains = [1,137,10,42161]
+const chains = [1, 137, 10, 42161]
 
 async function main() {
   const now = Number(new Date())
