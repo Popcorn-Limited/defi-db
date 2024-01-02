@@ -1,336 +1,336 @@
 {
   "0x5d344226578DC100b2001DA251A4b154df58194f": {
     "address": "0x5d344226578DC100b2001DA251A4b154df58194f",
-    "name": "Popcorn Dai Stablecoin Vault",
-    "symbol": "pop-DAI",
+    "name": "VaultCraft Dai Stablecoin Vault",
+    "symbol": "vc-DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D": {
     "address": "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D",
-    "name": "Popcorn USD Coin Vault",
-    "symbol": "pop-USDC",
+    "name": "VaultCraft USD Coin Vault",
+    "symbol": "vc-USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xb6cED1C0e5d26B815c3881038B88C829f39CE949": {
     "address": "0xb6cED1C0e5d26B815c3881038B88C829f39CE949",
-    "name": "Popcorn Dai Stablecoin Vault",
-    "symbol": "pop-DAI",
+    "name": "VaultCraft Dai Stablecoin Vault",
+    "symbol": "vc-DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x2fD2C18f79F93eF299B20B681Ab2a61f5F28A6fF": {
     "address": "0x2fD2C18f79F93eF299B20B681Ab2a61f5F28A6fF",
-    "name": "Popcorn USD Coin Vault",
-    "symbol": "pop-USDC",
+    "name": "VaultCraft USD Coin Vault",
+    "symbol": "vc-USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xc8C88fdF2802733f8c4cd7c0bE0557fdC5d2471c": {
     "address": "0xc8C88fdF2802733f8c4cd7c0bE0557fdC5d2471c",
-    "name": "Popcorn Origin Dollar Vault",
-    "symbol": "pop-OUSD",
+    "name": "VaultCraft Origin Dollar Vault",
+    "symbol": "vc-OUSD",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xBae30fBD558A35f147FDBaeDbFF011557d3C8bd2": {
     "address": "0xBae30fBD558A35f147FDBaeDbFF011557d3C8bd2",
-    "name": "Popcorn 50OHM-50DAI Vault",
-    "symbol": "pop-50OHM-50DAI",
+    "name": "VaultCraft 50OHM-50DAI Vault",
+    "symbol": "vc-50OHM-50DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340": {
     "address": "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340",
-    "name": "Popcorn Curve.fi USD-BTC-ETH Vault",
-    "symbol": "pop-crv3crypto",
+    "name": "VaultCraft Curve.fi USD-BTC-ETH Vault",
+    "symbol": "vc-crv3crypto",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x9E237F8A3319b47934468e0b74F0D5219a967aB8": {
     "address": "0x9E237F8A3319b47934468e0b74F0D5219a967aB8",
-    "name": "Popcorn Balancer Aave Boosted StablePool Vault",
-    "symbol": "pop-bb-a-USD",
+    "name": "VaultCraft Balancer Aave Boosted StablePool Vault",
+    "symbol": "vc-bb-a-USD",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x759281a408A48bfe2029D259c23D7E848A7EA1bC": {
     "address": "0x759281a408A48bfe2029D259c23D7E848A7EA1bC",
-    "name": "Popcorn Yearn CRV Vault",
-    "symbol": "pop-yCRV",
+    "name": "VaultCraft Yearn CRV Vault",
+    "symbol": "vc-yCRV",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xF1649eC625Aca15831237D29cd09F3c71a5cca63": {
     "address": "0xF1649eC625Aca15831237D29cd09F3c71a5cca63",
-    "name": "Popcorn Curve.fi Factory Pool: stETH-ng Vault",
-    "symbol": "pop-stETH-ng-f",
+    "name": "VaultCraft Curve.fi Factory Pool: stETH-ng Vault",
+    "symbol": "vc-stETH-ng-f",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567": {
     "address": "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567",
-    "name": "Popcorn Curve.fi Factory Crypto Pool: OHM/FRAXBP Vault",
-    "symbol": "pop-OHMFRAXBP-f",
+    "name": "VaultCraft Curve.fi Factory Crypto Pool: OHM/FRAXBP Vault",
+    "symbol": "vc-OHMFRAXBP-f",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xd4D442AC311d918272911691021E6073F620eb07": {
     "address": "0xd4D442AC311d918272911691021E6073F620eb07",
-    "name": "Popcorn Curve.fi DAI/USDC/USDT Vault",
-    "symbol": "pop-3Crv",
+    "name": "VaultCraft Curve.fi DAI/USDC/USDT Vault",
+    "symbol": "vc-3Crv",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x8bd3D95Ec173380AD546a4Bd936B9e8eCb642de1": {
     "address": "0x8bd3D95Ec173380AD546a4Bd936B9e8eCb642de1",
-    "name": "Popcorn USD Coin-LP Vault",
-    "symbol": "pop-S*USDC",
+    "name": "VaultCraft USD Coin-LP Vault",
+    "symbol": "vc-S*USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x30D6a7B8c985d5dd7B9823d3B6Ae2726c8FFf81F": {
     "address": "0x30D6a7B8c985d5dd7B9823d3B6Ae2726c8FFf81F",
-    "name": "Popcorn Dai Stablecoin Vault",
-    "symbol": "pop-DAI",
+    "name": "VaultCraft Dai Stablecoin Vault",
+    "symbol": "vc-DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x6cE9c05E159F8C4910490D8e8F7a63e95E6CEcAF": {
     "address": "0x6cE9c05E159F8C4910490D8e8F7a63e95E6CEcAF",
-    "name": "Popcorn Dai Stablecoin Vault",
-    "symbol": "pop-DAI",
+    "name": "VaultCraft Dai Stablecoin Vault",
+    "symbol": "vc-DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xcdc3CbF94114406a0b59aDA090807838369ced2b": {
     "address": "0xcdc3CbF94114406a0b59aDA090807838369ced2b",
-    "name": "Popcorn USD Coin Vault",
-    "symbol": "pop-USDC",
+    "name": "VaultCraft USD Coin Vault",
+    "symbol": "vc-USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x52Aef3ea0D3F93766D255A1bb0aA7F1C4885E622": {
     "address": "0x52Aef3ea0D3F93766D255A1bb0aA7F1C4885E622",
-    "name": "Popcorn USD Coin Vault",
-    "symbol": "pop-USDC",
+    "name": "VaultCraft USD Coin Vault",
+    "symbol": "vc-USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x3D04Aade5388962C9A4f83B636a3a8ED63ea5b4D": {
     "address": "0x3D04Aade5388962C9A4f83B636a3a8ED63ea5b4D",
-    "name": "Popcorn Tether USD Vault",
-    "symbol": "pop-USDT",
+    "name": "VaultCraft Tether USD Vault",
+    "symbol": "vc-USDT",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x11E10B12e8DbF7aE44EE50873c09e5C7c3e01385": {
     "address": "0x11E10B12e8DbF7aE44EE50873c09e5C7c3e01385",
-    "name": "Popcorn Tether USD Vault",
-    "symbol": "pop-USDT",
+    "name": "VaultCraft Tether USD Vault",
+    "symbol": "vc-USDT",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x95Ca391fB08F612Dc6b0CbDdcb6708C21d5A8295": {
     "address": "0x95Ca391fB08F612Dc6b0CbDdcb6708C21d5A8295",
-    "name": "Popcorn Origin Ether Vault",
-    "symbol": "pop-OETH",
+    "name": "VaultCraft Origin Ether Vault",
+    "symbol": "vc-OETH",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x860b717B360378E44A241b23d8e8e171E0120fF0": {
     "address": "0x860b717B360378E44A241b23d8e8e171E0120fF0",
-    "name": "Popcorn R/DAI Stable Pool Vault",
-    "symbol": "pop-R-DAI-BLP",
+    "name": "VaultCraft R/DAI Stable Pool Vault",
+    "symbol": "vc-R-DAI-BLP",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x0f915066D3D87ACAf3e07F41b039B413ae128706": {
     "address": "0x0f915066D3D87ACAf3e07F41b039B413ae128706",
-    "name": "Popcorn USD Coin Vault",
-    "symbol": "pop-USDC",
+    "name": "VaultCraft USD Coin Vault",
+    "symbol": "vc-USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x98fFB8c18A48fae7a446B4b4C337109eCa0115d4": {
     "address": "0x98fFB8c18A48fae7a446B4b4C337109eCa0115d4",
-    "name": "Popcorn Dai Stablecoin Vault",
-    "symbol": "pop-DAI",
+    "name": "VaultCraft Dai Stablecoin Vault",
+    "symbol": "vc-DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xacEa24F64a7ce148bA17A920F033f78Edf8315ac": {
     "address": "0xacEa24F64a7ce148bA17A920F033f78Edf8315ac",
-    "name": "Popcorn Dai Stablecoin Vault",
-    "symbol": "pop-DAI",
+    "name": "VaultCraft Dai Stablecoin Vault",
+    "symbol": "vc-DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xC6411c6a98986F341487699A055d9b8872B05343": {
     "address": "0xC6411c6a98986F341487699A055d9b8872B05343",
-    "name": "Popcorn USD Coin Vault",
-    "symbol": "pop-USDC",
+    "name": "VaultCraft USD Coin Vault",
+    "symbol": "vc-USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x7975Ea3912d93F79Af42f0BC319470b737cbC42F": {
     "address": "0x7975Ea3912d93F79Af42f0BC319470b737cbC42F",
-    "name": "Popcorn USD Coin-LP Vault",
-    "symbol": "pop-S*USDC",
+    "name": "VaultCraft USD Coin-LP Vault",
+    "symbol": "vc-S*USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x3789940e26f0Cf5ba3808AaF6460Dbfc2f7a3b66": {
     "address": "0x3789940e26f0Cf5ba3808AaF6460Dbfc2f7a3b66",
-    "name": "Popcorn LUSD Stablecoin Vault",
-    "symbol": "pop-LUSD",
+    "name": "VaultCraft LUSD Stablecoin Vault",
+    "symbol": "vc-LUSD",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x3740a5C629532135c7805628bFECCC7c16980287": {
     "address": "0x3740a5C629532135c7805628bFECCC7c16980287",
-    "name": "Popcorn LUSD Stablecoin Vault",
-    "symbol": "pop-LUSD",
+    "name": "VaultCraft LUSD Stablecoin Vault",
+    "symbol": "vc-LUSD",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xB614BF04b7c82700895b9F5730A279696753675E": {
     "address": "0xB614BF04b7c82700895b9F5730A279696753675E",
-    "name": "Popcorn Dai Stablecoin Vault",
-    "symbol": "pop-DAI",
+    "name": "VaultCraft Dai Stablecoin Vault",
+    "symbol": "vc-DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x768558C7fFDb06164852006b10c4119A094Ef9B3": {
     "address": "0x768558C7fFDb06164852006b10c4119A094Ef9B3",
-    "name": "Popcorn USD Coin Vault",
-    "symbol": "pop-USDC",
+    "name": "VaultCraft USD Coin Vault",
+    "symbol": "vc-USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xC08962B618611DD0eee654427bd7ee92C234314D": {
     "address": "0xC08962B618611DD0eee654427bd7ee92C234314D",
-    "name": "Popcorn USD Coin Vault",
-    "symbol": "pop-USDC",
+    "name": "VaultCraft USD Coin Vault",
+    "symbol": "vc-USDC",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xFC08d3d58E1b5385bFAdfCdEE9211F754D7AeF90": {
     "address": "0xFC08d3d58E1b5385bFAdfCdEE9211F754D7AeF90",
-    "name": "Popcorn Curve.fi Factory Plain Pool: cvxCrv/Crv Vault",
-    "symbol": "pop-cvxcrv-crv-f",
+    "name": "VaultCraft Curve.fi Factory Plain Pool: cvxCrv/Crv Vault",
+    "symbol": "vc-cvxcrv-crv-f",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xdD01c7f24801eE73a0d1Ff6a79048f18ee071AC2": {
     "address": "0xdD01c7f24801eE73a0d1Ff6a79048f18ee071AC2",
-    "name": "Popcorn Curve.fi Factory Plain Pool: cvxCrv/Crv Vault",
-    "symbol": "pop-cvxcrv-crv-f",
+    "name": "VaultCraft Curve.fi Factory Plain Pool: cvxCrv/Crv Vault",
+    "symbol": "vc-cvxcrv-crv-f",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x6b60f289F568E045099e8Bd2bC1067032aB53E4d": {
     "address": "0x6b60f289F568E045099e8Bd2bC1067032aB53E4d",
-    "name": "Popcorn Dai Stablecoin Vault",
-    "symbol": "pop-DAI",
+    "name": "VaultCraft Dai Stablecoin Vault",
+    "symbol": "vc-DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xa9dfbFdDF8f1d8a93c563f9cC3Bb0cf109f619E8": {
     "address": "0xa9dfbFdDF8f1d8a93c563f9cC3Bb0cf109f619E8",
-    "name": "Popcorn Tether USD Vault",
-    "symbol": "pop-USDT",
+    "name": "VaultCraft Tether USD Vault",
+    "symbol": "vc-USDT",
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xdC266B3D2c62Ce094ff4E12DC52399c430283417": {
     "address": "0xdC266B3D2c62Ce094ff4E12DC52399c430283417",
-    "name": "Popcorn Pirex CVX Vault",
-    "symbol": "pop-pxCVX",
+    "name": "VaultCraft Pirex CVX Vault",
+    "symbol": "vc-pxCVX",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x6B2c5ef7FB59e6A1Ad79a4dB65234fb7bDDcaD6b": {
     "address": "0x6B2c5ef7FB59e6A1Ad79a4dB65234fb7bDDcaD6b",
-    "name": "Popcorn Curve.fi Factory Pool: OETH Vault",
-    "symbol": "pop-OETHCRV-f",
+    "name": "VaultCraft Curve.fi Factory Pool: OETH Vault",
+    "symbol": "vc-OETHCRV-f",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xD211486ed1A04A176E588b67dd3A30a7dE164C0B": {
     "address": "0xD211486ed1A04A176E588b67dd3A30a7dE164C0B",
-    "name": "Popcorn 50WETH-50AURA Vault",
-    "symbol": "pop-50WETH-50AURA",
+    "name": "VaultCraft 50WETH-50AURA Vault",
+    "symbol": "vc-50WETH-50AURA",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0x61f313C98ebAd818442CBEE2A196720C8986Cdf4": {
     "address": "0x61f313C98ebAd818442CBEE2A196720C8986Cdf4",
-    "name": "Popcorn Curve.fi Factory USD Metapool: Magic Internet Money 3Pool Vault",
-    "symbol": "pop-MIM-3LP3CRV-f",
+    "name": "VaultCraft Curve.fi Factory USD Metapool: Magic Internet Money 3Pool Vault",
+    "symbol": "vc-MIM-3LP3CRV-f",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D": {
     "address": "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D",
-    "name": "Popcorn Wrapped Ether Vault",
-    "symbol": "pop-WETH",
+    "name": "VaultCraft Wrapped Ether Vault",
+    "symbol": "vc-WETH",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xA3cd112fFb1E3A358EF270a07F5901FF0fD1CD0f": {
     "address": "0xA3cd112fFb1E3A358EF270a07F5901FF0fD1CD0f",
-    "name": "Popcorn Curve.fi Factory USD Metapool: Magic Internet Money 3Pool Vault",
-    "symbol": "pop-MIM-3LP3CRV-f",
+    "name": "VaultCraft Curve.fi Factory USD Metapool: Magic Internet Money 3Pool Vault",
+    "symbol": "vc-MIM-3LP3CRV-f",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
   "0xD7364b3b5747e34d902aa87ffE52f686522dE8f4": {
     "address": "0xD7364b3b5747e34d902aa87ffE52f686522dE8f4",
-    "name": "Popcorn Balancer swETH-WETH Stable Pool Vault",
-    "symbol": "pop-swETH-WETH-BPT",
+    "name": "VaultCraft Balancer swETH-WETH Stable Pool Vault",
+    "symbol": "vc-swETH-WETH-BPT",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1

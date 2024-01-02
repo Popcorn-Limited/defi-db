@@ -1,40 +1,40 @@
 {
   "0x36EC2111A68350dBb722B872963F05992dd08E42": {
     "address": "0x36EC2111A68350dBb722B872963F05992dd08E42",
-    "name": "Popcorn Hop USDC LP Token Vault",
-    "symbol": "pop-HOP-USDC",
+    "name": "VaultCraft Hop USDC LP Token Vault",
+    "symbol": "vc-HOP-USDC",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0xfC2193ac4E8145E192bC3d9Db9407A4aE0Dc4DF8": {
     "address": "0xfC2193ac4E8145E192bC3d9Db9407A4aE0Dc4DF8",
-    "name": "Popcorn Hop DAI LP Token Vault",
-    "symbol": "pop-HOP-DAI",
+    "name": "VaultCraft Hop DAI LP Token Vault",
+    "symbol": "vc-HOP-DAI",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0xa6fcC7813d9D394775601aD99874c9f8e95BAd78": {
     "address": "0xa6fcC7813d9D394775601aD99874c9f8e95BAd78",
-    "name": "Popcorn Automated Pool Token - Oracle Vault #3 Vault",
-    "symbol": "pop-APT",
+    "name": "VaultCraft Automated Pool Token - Oracle Vault #3 Vault",
+    "symbol": "vc-APT",
     "decimals": 21,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0x54d921B6397731222aB0b898bAE58c948d187Cd1": {
     "address": "0x54d921B6397731222aB0b898bAE58c948d187Cd1",
-    "name": "Popcorn StakedGlp Vault",
-    "symbol": "pop-sGLP",
+    "name": "VaultCraft StakedGlp Vault",
+    "symbol": "vc-sGLP",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
   "0x1225354B00372c531e1c39ECe1cec548358926bb": {
     "address": "0x1225354B00372c531e1c39ECe1cec548358926bb",
-    "name": "Popcorn Pirex GMX Vault",
-    "symbol": "pop-pxGMX",
+    "name": "VaultCraft Pirex GMX Vault",
+    "symbol": "vc-pxGMX",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
