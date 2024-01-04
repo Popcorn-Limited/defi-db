@@ -327,8 +327,8 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0x7c9676e545E180362E06144481b4D2DaB4E54837": {
-    "address": "0x7c9676e545E180362E06144481b4D2DaB4E54837",
+  "0x3B51bba174478D641770bF4356a1BF3c215AEd49": {
+    "address": "0x3B51bba174478D641770bF4356a1BF3c215AEd49",
     "name": "VaultCraft Balancer swETH-WETH",
     "symbol": "vc-swETH-WETH",
     "decimals": 27,
