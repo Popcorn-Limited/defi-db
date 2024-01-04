@@ -327,16 +327,8 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0xD7364b3b5747e34d902aa87ffE52f686522dE8f4": {
-    "address": "0xD7364b3b5747e34d902aa87ffE52f686522dE8f4",
-    "name": "VaultCraft Balancer swETH-WETH Stable Pool Vault",
-    "symbol": "vc-swETH-WETH-BPT",
-    "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
-  "0x7c9676e545E180362E06144481b4D2DaB4E54837": {
-    "address": "0x7c9676e545E180362E06144481b4D2DaB4E54837",
+  "0x27Da6422620A688619AaEf12BCc9C770C333A101": {
+    "address": "0x27Da6422620A688619AaEf12BCc9C770C333A101",
     "name": "VaultCraft Balancer swETH-WETH",
     "symbol": "vc-swETH-WETH",
     "decimals": 27,

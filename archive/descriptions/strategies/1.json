@@ -245,14 +245,8 @@
     "description": "**Automated Asset Strategy** - The vault supplies assets into Yearn to earn yield on their automated asset strategies.",
     "resolver": "yearn"
   },
-  "0x6D28E5e18C732Fb357DABd94e057d557a53f6f7E": {
-    "address": "0x6D28E5e18C732Fb357DABd94e057d557a53f6f7E",
-    "name": "Aura",
-    "description": "**Aura LP-Compounding** - The vault stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
-    "resolver": "aura"
-  },
-  "0xc93715c85870b520AC2A08D0Cf546104408be230": {
-    "address": "0xc93715c85870b520AC2A08D0Cf546104408be230",
+  "0x27Da6422620A688619AaEf12BCc9C770C333A101": {
+    "address": "0x27Da6422620A688619AaEf12BCc9C770C333A101",
     "name": "Aura",
     "description": "**Aura LP-Compounding** - The vault stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
     "resolver": "aura"
