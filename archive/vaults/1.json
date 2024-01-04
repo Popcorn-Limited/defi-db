@@ -696,8 +696,8 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
   },
-  "0x27Da6422620A688619AaEf12BCc9C770C333A101": {
-    "address": "0x27Da6422620A688619AaEf12BCc9C770C333A101",
+  "0x7c9676e545E180362E06144481b4D2DaB4E54837": {
+    "address": "0x7c9676e545E180362E06144481b4D2DaB4E54837",
     "assetAddress": "0xE7e2c68d3b13d905BBb636709cF4DfD21076b9D2",
     "chainId": 1,
     "type": "single-asset-vault-v1",
