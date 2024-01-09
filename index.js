@@ -84,6 +84,7 @@ async function createClient(chain, forkUrl, port) {
 async function collectApyData(yieldOptions, chainId) {
   console.log("collecting APY data for chain: ", chainId);
   const result = {};
+  console.log(yieldOptions.getProtocols(chainId))
   for (const { key } of yieldOptions.getProtocols(chainId)) {
     console.log(`pulling yield data for ${key}`);
     result[key] = {};
