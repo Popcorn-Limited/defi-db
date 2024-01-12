@@ -16,9 +16,9 @@ function addGenericStrategyDescription(key, symbol) {
     case "automatedAssetStrategy":
       return `**Automated Asset Strategy** \- The vault supplies assets into ${symbol} to earn yield on their automated asset strategies.`;
     case "seniorTranche":
-      return `**Senior Tranche** \- The vault supplies assets into a of ${symbol}.s offer stable returns with built-in coverage but reduced upside.`;
+      return `**Senior Tranche** \- The vault supplies assets into a senior tranche of ${symbol}. Senior tranches offer stable returns with built-in coverage but reduced upside.`;
     case "juniorTranche":
-      return `**Junior Tranche** \- The vault supplies assets into a of ${symbol}.s offer higher returns but with higher risk since they minize the risk of the corresponding.`;
+      return `**Junior Tranche** \- The vault supplies assets into a junior tranche of ${symbol}. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.`;
     default:
       return "";
   }
