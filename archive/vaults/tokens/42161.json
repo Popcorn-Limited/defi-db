@@ -41,8 +41,8 @@
   },
   "0xF10878bc18193DD92F934C8A9b945c1172CCb5cA": {
     "address": "0xF10878bc18193DD92F934C8A9b945c1172CCb5cA",
-    "name": "Frax Stake Vault",
-    "symbol": "FSV",
+    "name": "FraxLend (ARB) Stake Vault",
+    "symbol": "FL-ARB-SV",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
