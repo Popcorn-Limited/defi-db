@@ -2,16 +2,9 @@ import axios from "axios"
 import { writeFileSync,readFileSync } from "fs"
 import { YieldOptions, CachedProvider } from "vaultcraft-sdk";
 import { createPublicClient, getAddress, http } from "viem"
-import { arbitrum, mainnet, optimism, polygon } from "viem/chains"
+import { networksByChainId, RPC_URLS } from "./utils.js";
 import {ERC20Abi} from "./lib/erc20Abi.js";
 
-const RPC_URLS = {
-  [1]: `https://eth-mainnet.alchemyapi.io/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg`,
-  [42161]: `https://arb-mainnet.g.alchemy.com/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg`,
-  [137]: `https://polygon-mainnet.g.alchemy.com/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg`,
-  [10]: `https://opt-mainnet.g.alchemy.com/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg`,
-  [56]: `https://bsc-dataseed1.binance.org`,
-};
 
 async function getBaseTokens() {
   const { data } = await axios.get("https://enso-scrape.s3.us-east-2.amazonaws.com/output/backend/baseTokens.json")
@@ -105,13 +98,6 @@ async function getLpAssets(tokens, chainId, protocol, client) {
 }
 
 const chains = [1, 137, 10, 42161]
-
-const networksByChainId = {
-  1: mainnet,
-  137: polygon,
-  10: optimism,
-  42161: arbitrum
-}
 
 const lpProtocols = ['balancer', "stargate"]
 

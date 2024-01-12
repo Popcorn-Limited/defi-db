@@ -1,6 +1,7 @@
-import { writeFileSync } from "fs";
-import { createPublicClient, http } from "viem";
-import { arbitrum, mainnet, optimism, polygon } from "viem/chains";
+import { writeFileSync } from "fs"
+import { createPublicClient, http } from "viem"
+
+import { networksByChainId, RPC_URLS } from "./utils.js";
 import axios from "axios";
 import { ERC20Abi } from "./lib/erc20Abi.js";
 import { VaultAbi } from "./lib/vaultAbi.js";
@@ -125,13 +126,13 @@ function getIdleMetadata(name) {
   return {
     ...(name.includes("Senior")
       ? {
-          name: "Idle",
-          description: addGenericStrategyDescription("seniorTranche", "Idle"),
-        }
+        name: "Idle",
+        description: addGenericStrategyDescription("seniorTranche", "Idle"),
+      }
       : {
-          name: "Idle",
-          description: addGenericStrategyDescription("juniorTranche", "Idle"),
-        }),
+        name: "Idle",
+        description: addGenericStrategyDescription("juniorTranche", "Idle"),
+      }),
     resolver: name.includes("Senior") ? "idleSenior" : "idleJunior",
   };
 }
@@ -140,19 +141,19 @@ function getOriginMetadata(name) {
   return {
     ...(name.includes("Ether")
       ? {
-          name: "Origin",
-          description: `OUSD integrates with Aave and Compound to automate yield on over-collateralized loans.
+        name: "Origin",
+        description: `OUSD integrates with Aave and Compound to automate yield on over-collateralized loans.
     ----
     The OUSD protocol also routes USDT, USDC, and DAI to highly-performing liquidity pools as determined by trading volume and rewards tokens (e.g. Curve rewards CRV tokens to liquidity providers). Yields are then passed on to OUSD holders.
     ---
     In addition to collecting interest from and fees from market making, the protocol automatically claims and converts bonus incentives that are being distributed by DeFi protocols.`,
-        }
+      }
       : {
-          name: "Origin",
-          description: `OETH integrates with various Liquid Staking Provider to optimize interest earned by staking Ether.
+        name: "Origin",
+        description: `OETH integrates with various Liquid Staking Provider to optimize interest earned by staking Ether.
       ----
       The OETH protocol also utilizes Curve and Convex Finance to earn trading fees and additional rewards on ETH / OETH. It automatically claims and converts bonus incentives that are being distributed by these protocols.`,
-        }),
+      }),
     resolver: "origin",
   };
 }
@@ -230,21 +231,6 @@ function getFactoryMetadata({ address, name }) {
       return getEmptyMetadata(name);
   }
 }
-
-const RPC_URLS = {
-  [1]: `https://eth-mainnet.alchemyapi.io/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg`,
-  [42161]: `https://arb-mainnet.g.alchemy.com/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg`,
-  [137]: `https://polygon-mainnet.g.alchemy.com/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg`,
-  [10]: `https://opt-mainnet.g.alchemy.com/v2/KsuP431uPWKR3KFb-K_0MT1jcwpUnjAg`,
-  [56]: `https://bsc-dataseed1.binance.org`,
-};
-
-const networksByChainId = {
-  1: mainnet,
-  137: polygon,
-  10: optimism,
-  42161: arbitrum,
-};
 
 async function getStuffByChain(chainId) {
   const client = createPublicClient({
