@@ -1,1 +1,58 @@
-{"0x62a56830C10e3daD8Be198EfeDdec05Aa582392c":{"address":"0x62a56830C10e3daD8Be198EfeDdec05Aa582392c","asset":"0xB67c014FA700E69681a673876eb8BAFAA36BFf71","name":"Beefy","description":"**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.","resolver":"beefy"},"0x3592E15c4fA75acF1F0229c86fAB7C2304721359":{"address":"0x3592E15c4fA75acF1F0229c86fAB7C2304721359","asset":"0x68f5d998F00bB2460511021741D098c05721d8fF","name":"Beefy","description":"**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.","resolver":"beefy"},"0xaa8A299694aC82fe7529FE89148545C7C09Ff277":{"address":"0xaa8A299694aC82fe7529FE89148545C7C09Ff277","asset":"0x5FB31318E9A82EfCaA2cfEFBaCF63e85f4dFF2F1","name":"Beefy","description":"**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.","resolver":"beefy"},"0xe961DCb94A599B17b8be068AFF3F53A7C447918A":{"address":"0xe961DCb94A599B17b8be068AFF3F53A7C447918A","asset":"0x5402B5F40310bDED796c7D0F3FF6683f5C0cFfdf","name":"Beefy","description":"**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.","resolver":"beefy"},"0xDf92DaBbF013d9214822904b495CC0F70EFbdbC7":{"address":"0xDf92DaBbF013d9214822904b495CC0F70EFbdbC7","asset":"0x9A592B4539E22EeB8B2A3Df679d572C7712Ef999","name":"Pirex","description":"**Automated Asset Strategy** - The vault supplies assets into Pirex to earn yield on their automated asset strategies.","resolver":"pirex"},"0x2D0483FefAbA4325c7521539a3DFaCf94A19C472":{"address":"0x2D0483FefAbA4325c7521539a3DFaCf94A19C472","asset":"0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F","name":"Strategy","description":"Not found","resolver":"none"}}
+{
+  "0x62a56830C10e3daD8Be198EfeDdec05Aa582392c": {
+    "address": "0x62a56830C10e3daD8Be198EfeDdec05Aa582392c",
+    "asset": "0xB67c014FA700E69681a673876eb8BAFAA36BFf71",
+    "name": "Beefy",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0x3592E15c4fA75acF1F0229c86fAB7C2304721359": {
+    "address": "0x3592E15c4fA75acF1F0229c86fAB7C2304721359",
+    "asset": "0x68f5d998F00bB2460511021741D098c05721d8fF",
+    "name": "Beefy",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0xaa8A299694aC82fe7529FE89148545C7C09Ff277": {
+    "address": "0xaa8A299694aC82fe7529FE89148545C7C09Ff277",
+    "asset": "0x5FB31318E9A82EfCaA2cfEFBaCF63e85f4dFF2F1",
+    "name": "Beefy",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0xe961DCb94A599B17b8be068AFF3F53A7C447918A": {
+    "address": "0xe961DCb94A599B17b8be068AFF3F53A7C447918A",
+    "asset": "0x5402B5F40310bDED796c7D0F3FF6683f5C0cFfdf",
+    "name": "Beefy",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Beefy to earn yield on their automated asset strategies.",
+    "resolver": "beefy"
+  },
+  "0xDf92DaBbF013d9214822904b495CC0F70EFbdbC7": {
+    "address": "0xDf92DaBbF013d9214822904b495CC0F70EFbdbC7",
+    "asset": "0x9A592B4539E22EeB8B2A3Df679d572C7712Ef999",
+    "name": "Pirex",
+    "description": "**Automated Asset Strategy** - The vault supplies assets into Pirex to earn yield on their automated asset strategies.",
+    "resolver": "pirex"
+  },
+  "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472": {
+    "address": "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "name": "Strategy",
+    "description": "Not found",
+    "resolver": "none"
+  },
+  "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08": {
+    "address": "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "name": "Strategy",
+    "description": "Not found",
+    "resolver": "none"
+  },
+  "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38": {
+    "address": "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "name": "Strategy",
+    "description": "Not found",
+    "resolver": "none"
+  }
+}

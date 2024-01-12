@@ -54,5 +54,21 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0xdBd005FCe7767e7e66AeCfC53f054065187330A8": {
+    "address": "0xdBd005FCe7767e7e66AeCfC53f054065187330A8",
+    "name": "FraxLend (WBTC) Stake Vault",
+    "symbol": "FL-WBTC-SV",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
+  },
+  "0x86Aa9599A8edE1F5d181c2dAc37D826c16792408": {
+    "address": "0x86Aa9599A8edE1F5d181c2dAc37D826c16792408",
+    "name": "FraxLend (GMX) Stake Vault",
+    "symbol": "FL-GMX-SV",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }
