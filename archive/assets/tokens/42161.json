@@ -12,7 +12,7 @@
     "name": "USDC (Bridged)",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDT.png",
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
     "chainId": 42161
   },
   "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F": {
