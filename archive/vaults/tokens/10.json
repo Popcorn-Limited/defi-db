@@ -110,5 +110,13 @@
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
+  },
+  "0x10710562d45a5356d32aD27Eea9f61F6ec44Cc19": {
+    "address": "0x10710562d45a5356d32aD27Eea9f61F6ec44Cc19",
+    "name": "VaultCraft OP/USDC-Lp Vault",
+    "symbol": "vc-OP/USDC-LP",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 10
   }
 }
