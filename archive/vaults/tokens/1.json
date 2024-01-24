@@ -334,5 +334,13 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725": {
+    "address": "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725",
+    "name": "VaultCraft rsETH Vault",
+    "symbol": "vc-rsETH",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

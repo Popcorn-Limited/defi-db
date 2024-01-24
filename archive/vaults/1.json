@@ -669,5 +669,20 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "strategies": ["0x27Da6422620A688619AaEf12BCc9C770C333A101"]
+  },
+  "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725": {
+    "address": "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725",
+    "assetAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "strategies": ["0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d"]
   }
 }

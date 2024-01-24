@@ -292,5 +292,12 @@
     "name": "Aura",
     "description": "**Aura LP-Compounding** - The vault stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
     "resolver": "aura"
+  },
+  "0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d": {
+    "address": "0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d",
+    "asset": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+    "name": "KelpDao",
+    "description": "**KelpDao Depositor** - COMING SOON",
+    "resolver": "kelpDao"
   }
 }
