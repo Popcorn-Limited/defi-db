@@ -173,7 +173,8 @@
     "type": "single-asset-vault-v1",
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "name" : "Senior Tether USD"
   },
   "0x78C44B3A63b94d2EFc98c2Cc9701F9BEE1b6a56A": {
     "address": "0x78C44B3A63b94d2EFc98c2Cc9701F9BEE1b6a56A",
@@ -189,7 +190,8 @@
     "type": "single-asset-vault-v1",
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "name" : "Junior Tether USD"
   },
   "0x5372c5AF5f078f2d4B5dbBE4377b2f0225f2863A": {
     "address": "0x5372c5AF5f078f2d4B5dbBE4377b2f0225f2863A",
