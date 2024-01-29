@@ -145,7 +145,7 @@
   },
   "0x44a7b29335cfc61C2bEA1c48710A1fE11f4aFBa9": {
     "address": "0x44a7b29335cfc61C2bEA1c48710A1fE11f4aFBa9",
-    "assetAddress": "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
+    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "strategies": ["0x2D0483FefAbA4325c7521539a3DFaCf94A19C472"],
     "chainId": 42161,
     "fees": {
