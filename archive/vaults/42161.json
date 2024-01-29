@@ -187,5 +187,25 @@
     "type": "single-asset-lock-vault-v1",
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
+  },
+  "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93": {
+    "address": "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93",
+    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "strategies": [
+      "0x61dCd1Da725c0Cdb2C6e67a0058E317cA819Cf5f",
+      "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08",
+      "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
+      "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38"
+    ],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "multi-strategy-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
   }
 }

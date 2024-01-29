@@ -54,5 +54,12 @@
     "name": "Strategy",
     "description": "Not found",
     "resolver": "none"
+  },
+  "0x61dCd1Da725c0Cdb2C6e67a0058E317cA819Cf5f": {
+    "address": "0x61dCd1Da725c0Cdb2C6e67a0058E317cA819Cf5f",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "name": "AaveV3 Depositor",
+    "description": "This strategy supplies assets into AaveV3 to earn interest.",
+    "resolver": "aaveV3"
   }
 }
