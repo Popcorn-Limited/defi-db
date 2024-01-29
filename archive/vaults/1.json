@@ -666,7 +666,7 @@
       "performance": 0
     },
     "type": "single-asset-vault-v1",
-    "description": "",
+    "description": "This is an experimental vault testing Aura Compounding. It stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token are swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event.",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "strategies": ["0x27Da6422620A688619AaEf12BCc9C770C333A101"],
     "labels": ["Experimental"]
