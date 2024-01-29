@@ -70,5 +70,29 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0x44a7b29335cfc61C2bEA1c48710A1fE11f4aFBa9": {
+    "address": "0x44a7b29335cfc61C2bEA1c48710A1fE11f4aFBa9",
+    "name": "FraxLend (ARB) Stake Vault",
+    "symbol": "FL-ARB-SV",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
+  },
+  "0x1F0a3bF1e4Ea8f27449AFa0a3A27eFc3817431fc": {
+    "address": "0x1F0a3bF1e4Ea8f27449AFa0a3A27eFc3817431fc",
+    "name": "FraxLend (WBTC) Stake Vault",
+    "symbol": "FL-WBTC-SV",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
+  },
+  "0xDc5Ed7b972710594082479AF498B1dA02d03a273": {
+    "address": "0xDc5Ed7b972710594082479AF498B1dA02d03a273",
+    "name": "FraxLend (GMX) Stake Vault",
+    "symbol": "FL-GMX-SV",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }
