@@ -205,7 +205,7 @@
       "performance": 100000000000000000
     },
     "type": "multi-strategy-vault-v1",
-    "description": "",
+    "description": "This is an experimental vault testing the multi strategy vault. This vault allocates rebalances your assets between multiple fraxlend pools and aave to optimize your yield.",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
   }
 }
