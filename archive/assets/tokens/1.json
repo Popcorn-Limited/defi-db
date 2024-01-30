@@ -132,7 +132,7 @@
     "name": "yCRV",
     "symbol": "yCRV",
     "decimals": 18,
-    "logoURI": "https://etherscan.io/token/images/yearncrvnew_32.png",
+    "logoURI": "https://yearn.fi/_next/image?url=https%3A%2F%2Fassets.smold.app%2Fapi%2Ftoken%2F1%2F0xFCc5c47bE19d06BF83eB04298b026F81069ff65b%2Flogo-128.png%3Ffallback%3Dtrue&w=256&q=75",
     "chainId": 1
   },
   "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC": {
@@ -52325,7 +52325,7 @@
     "symbol": "pxCVX",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://etherscan.io/images/main/empty-token.png"
+    "logoURI": "https://pirex.io/assets/images/tokens/CVX.png"
   },
   "0x49849C98ae39Fff122806C06791Fa73784FB3675": {
     "address": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
@@ -52453,6 +52453,6 @@
     "symbol": "rsETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://etherscan.io/token/images/kelprseth_32.png"
+    "logoURI": "https://icons.llamao.fi/icons/protocols/kelp-dao?w=48&h=48"
   }
 }
