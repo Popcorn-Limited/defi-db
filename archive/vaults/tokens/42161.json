@@ -102,5 +102,13 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c": {
+    "address": "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c",
+    "name": "Frax SingleAssetCompounder Vault",
+    "symbol": "vc-sacFrax",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }

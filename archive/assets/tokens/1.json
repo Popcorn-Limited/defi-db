@@ -10740,7 +10740,7 @@
     "name": "Stader ETHx",
     "symbol": "ETHX",
     "decimals": 18,
-    "logoURI": "https://metadata-service.herokuapp.com/api/token/1/0xa35b1b31ce002fbf2058d22f30f95d405200a15b/icon",
+    "logoURI": "https://www.staderlabs.com/eth/ethx.svg?imwidth=32",
     "chainId": 1
   },
   "0x19042021329FDdcFBea5f934FB5b2670C91F7D20": {

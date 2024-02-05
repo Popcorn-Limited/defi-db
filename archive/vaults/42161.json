@@ -206,6 +206,25 @@
     },
     "type": "multi-strategy-vault-v1",
     "description": "This is an experimental vault testing the multi strategy vault. This vault allocates rebalances your assets between multiple fraxlend pools and aave to optimize your yield.",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "labels": ["Experimental"]
+  },
+  "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c": {
+    "address": "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c",
+    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "strategies": [
+      "0x323053A0902E67791c06F65A5D2097ee79dD740F"
+    ],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "description": "This is an experimental vault testing the CurveSingleAssetCompounder. It deploys FRAX into the crvUSD/FRAX Pool on Curve and compounds rewards back into it.",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "labels": ["Experimental"]
   }
 }

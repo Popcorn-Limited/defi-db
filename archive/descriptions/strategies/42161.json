@@ -58,8 +58,15 @@
   "0x61dCd1Da725c0Cdb2C6e67a0058E317cA819Cf5f": {
     "address": "0x61dCd1Da725c0Cdb2C6e67a0058E317cA819Cf5f",
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "name": "AaveV3 Depositor",
+    "name": "AaveV3",
     "description": "This strategy supplies assets into AaveV3 to earn interest.",
     "resolver": "aaveV3"
+  },
+  "0x323053A0902E67791c06F65A5D2097ee79dD740F": {
+    "address": "0x323053A0902E67791c06F65A5D2097ee79dD740F",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "name": "CurveGauge",
+    "description": "This strategy supplies FRAX into the 'crvUSD / FRAX'-Pool and compounds its rewards.",
+    "resolver": "curve"
   }
 }
