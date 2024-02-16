@@ -685,5 +685,21 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "strategies": ["0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d"]
+  },
+  "0xE3514a5e431442D794A1aa738aC94984B593C799": {
+    "address": "0xE3514a5e431442D794A1aa738aC94984B593C799",
+    "assetAddress": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "description": "This is an experimental vault testing the CurveGaugeCompounder. It deploys pyUSD/crvUSD into its Gauge on Curve and compounds rewards back into it.",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "labels": ["Experimental"],
+    "strategies": ["0xdce45fEab60668195D891242914864837Aa22d8d"]
   }
 }

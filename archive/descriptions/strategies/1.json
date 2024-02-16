@@ -299,5 +299,12 @@
     "name": "KelpDao",
     "description": "**KelpDao Depositor** - COMING SOON",
     "resolver": "kelpDao"
+  },
+  "0xdce45fEab60668195D891242914864837Aa22d8d": {
+    "address": "0xdce45fEab60668195D891242914864837Aa22d8d",
+    "asset": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
+    "name": "Curve",
+    "description": "**Curve LP-Compounding** - The vault stakes the user's LP Token in a Curve gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
+    "resolver": "curve"
   }
 }
