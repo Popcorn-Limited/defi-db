@@ -52454,5 +52454,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://icons.llamao.fi/icons/protocols/kelp-dao?w=48&h=48"
+  },
+  "0x625E92624Bc2D88619ACCc1788365A69767f6200": {
+    "address": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
+    "name": "pyUSD/crvUSD",
+    "symbol": "PYcrvUSD",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/curve-lp.png"
   }
 }
