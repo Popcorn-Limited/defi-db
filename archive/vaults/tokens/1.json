@@ -366,5 +366,13 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x2D5A6B779e3a227b20825e823924574211ceEc8d": {
+    "address": "0x2D5A6B779e3a227b20825e823924574211ceEc8d",
+    "name": "VaultCraft pyUSD/crvUSD Vault",
+    "symbol": "vc-pyUSDLp",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }
