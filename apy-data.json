@@ -4160,6 +4160,15 @@
       }
     },
     "origin": {
+      "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615": {
+        "total": 3.98,
+        "apy": [
+          {
+            "rewardToken": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
+            "apy": 3.98
+          }
+        ]
+      },
       "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
         "total": 4.73112627178102,
         "apy": [
