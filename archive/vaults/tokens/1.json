@@ -350,5 +350,21 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77": {
+    "address": "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77",
+    "name": "VaultCraft PrimeEth Vault",
+    "symbol": "vc-primeETH",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
+  "0xd24844c1eb111C1385A311DeEc62533A09d4C86B": {
+    "address": "0xd24844c1eb111C1385A311DeEc62533A09d4C86B",
+    "name": "VaultCraft Balancer ezETH-WETH Vault",
+    "symbol": "vc-ezETH-WETH",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

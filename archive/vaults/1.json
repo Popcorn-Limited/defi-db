@@ -701,5 +701,36 @@
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "labels": ["Experimental"],
     "strategies": ["0xdce45fEab60668195D891242914864837Aa22d8d"]
+  },
+  "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77": {
+    "address": "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77",
+    "assetAddress": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "strategies": ["0xBD4458CfA154eA9ADE45BaF4dA6136cbC3A70f9f"]
+  },
+  "0xd24844c1eb111C1385A311DeEc62533A09d4C86B": {
+    "address": "0xd24844c1eb111C1385A311DeEc62533A09d4C86B",
+    "assetAddress": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
+    "strategies": ["0x24166a9C53D83b935c03F27C29081310d5bf1189"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
   }
 }

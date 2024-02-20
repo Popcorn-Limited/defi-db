@@ -306,5 +306,19 @@
     "name": "Curve",
     "description": "**Curve LP-Compounding** - The vault stakes the user's LP Token in a Curve gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
     "resolver": "curve"
+  },
+  "0xBD4458CfA154eA9ADE45BaF4dA6136cbC3A70f9f": {
+    "address": "0xBD4458CfA154eA9ADE45BaF4dA6136cbC3A70f9f",
+    "asset": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
+    "name": "Origin",
+    "description": "**Origin Depositor** - Restaking PrimeETH",
+    "resolver": "origin"
+  },
+  "0x24166a9C53D83b935c03F27C29081310d5bf1189": {
+    "address": "0x24166a9C53D83b935c03F27C29081310d5bf1189",
+    "asset": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
+    "name": "Aura",
+    "description": "**Aura LP-Compounding** - The vault stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
+    "resolver": "aura"
   }
 }
