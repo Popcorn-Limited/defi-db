@@ -374,5 +374,13 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0xBb5B77A1f61ece8feAb332f2d437815983c00574": {
+    "address": "0xBb5B77A1f61ece8feAb332f2d437815983c00574",
+    "name": "VaultCraft Balancer svETH-wstETH Vault",
+    "symbol": "vc-svETH-wstETH",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

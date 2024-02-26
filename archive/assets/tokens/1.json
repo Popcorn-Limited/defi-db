@@ -52478,5 +52478,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
     "chainId": 1
+  },
+  "0xdEdb11A6a23263469567C2881A9b9F8629eE0041": {
+    "address": "0xdEdb11A6a23263469567C2881A9b9F8629eE0041",
+    "name": "svETH/wstETH",
+    "symbol": "svETH-wstETH",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
+    "chainId": 1
   }
 }
