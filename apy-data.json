@@ -3870,1281 +3870,1281 @@
           ]
         }
       }
-    }
-  },
-  "compoundV2": {
-    "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
-      "total": 7.213059162608526,
-      "apy": [
-        {
-          "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-          "apy": 7.213059162608526
-        }
-      ]
     },
-    "0x0000000000085d4780B73119b644AE5ecd22b376": {
-      "total": 12.182392900259353,
-      "apy": [
-        {
-          "rewardToken": "0x0000000000085d4780B73119b644AE5ecd22b376",
-          "apy": 12.182392900259353
-        }
-      ]
-    },
-    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-      "total": 3.717255835540323,
-      "apy": [
-        {
-          "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-          "apy": 3.717255835540323
-        }
-      ]
-    },
-    "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
-      "total": 18.624514496259437,
-      "apy": [
-        {
-          "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "apy": 18.624514496259437
-        }
-      ]
-    },
-    "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
-      "total": 0.009366186057380155,
-      "apy": [
-        {
-          "rewardToken": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-          "apy": 0.009366186057380155
-        }
-      ]
-    }
-  },
-  "compoundV3": {
-    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-      "total": 15.533839509307048,
-      "apy": [
-        {
-          "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-          "apy": 13.648175608392
-        },
-        {
-          "rewardToken": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-          "apy": 1.8856639009150489
-        }
-      ]
-    },
-    "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
-      "total": 3.082180910466966,
-      "apy": [
-        {
-          "rewardToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-          "apy": 1.6586943341328
-        },
-        {
-          "rewardToken": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-          "apy": 1.4234865763341658
-        }
-      ]
-    }
-  },
-  "flux": {
-    "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
-      "total": 3.8895072862356272,
-      "apy": [
-        {
-          "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-          "apy": 3.8895072862356272
-        }
-      ]
-    },
-    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-      "total": 4.797782868887301,
-      "apy": [
-        {
-          "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-          "apy": 4.797782868887301
-        }
-      ]
-    },
-    "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
-      "total": 4.499079146478757,
-      "apy": [
-        {
-          "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "apy": 4.499079146478757
-        }
-      ]
-    },
-    "0x853d955aCEf822Db058eb8505911ED77F175b99e": {
-      "total": 4.463968743430602,
-      "apy": [
-        {
-          "rewardToken": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
-          "apy": 4.463968743430602
-        }
-      ]
-    },
-    "0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92",
-          "apy": 0
-        }
-      ]
-    }
-  },
-  "idleJunior": {
-    "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
-      "total": 17.90908324676781,
-      "apy": [
-        {
-          "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-          "apy": 17.90908324676781
-        }
-      ]
-    },
-    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-      "total": 14.64028587257351,
-      "apy": [
-        {
-          "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-          "apy": 14.64028587257351
-        }
-      ]
-    },
-    "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
-      "total": 15.497070201413866,
-      "apy": [
-        {
-          "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "apy": 15.497070201413866
-        }
-      ]
-    },
-    "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
-      "total": 3.4258034660259007,
-      "apy": [
-        {
-          "rewardToken": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-          "apy": 3.4258034660259007
-        }
-      ]
-    }
-  },
-  "idleSenior": {
-    "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
-      "total": 6.399140552175564,
-      "apy": [
-        {
-          "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-          "apy": 6.399140552175564
-        }
-      ]
-    },
-    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-      "total": 5.623149658379933,
-      "apy": [
-        {
-          "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-          "apy": 5.623149658379933
-        }
-      ]
-    },
-    "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
-      "total": 5.637518836547484,
-      "apy": [
-        {
-          "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "apy": 5.637518836547484
-        }
-      ]
-    },
-    "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
-      "total": 4.4472837899657724,
-      "apy": [
-        {
-          "rewardToken": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-          "apy": 4.4472837899657724
-        }
-      ]
-    }
-  },
-  "origin": {
-    "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615": {
-      "total": 3.68,
-      "apy": [
-        {
-          "rewardToken": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
-          "apy": 3.68
-        }
-      ]
-    },
-    "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
-      "total": 4.225169020286237,
-      "apy": [
-        {
-          "rewardToken": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
-          "apy": 4.225169020286237
-        }
-      ]
-    },
-    "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86": {
-      "total": 6.357730856149801,
-      "apy": [
-        {
-          "rewardToken": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
-          "apy": 6.357730856149801
-        }
-      ]
-    }
-  },
-  "stargate": {
-    "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56": {
-      "total": 12.49287,
-      "apy": [
-        {
-          "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
-          "apy": 12.49287
-        }
-      ]
-    },
-    "0x38EA452219524Bb87e18dE1C24D3bB59510BD783": {
-      "total": 10.92295,
-      "apy": [
-        {
-          "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
-          "apy": 10.92295
-        }
-      ]
-    },
-    "0x101816545F6bd2b1076434B54383a1E633390A2E": {
-      "total": 6.84255,
-      "apy": [
-        {
-          "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
-          "apy": 6.84255
-        }
-      ]
-    },
-    "0x0Faf1d2d3CED330824de3B8200fc8dc6E397850d": {
-      "total": 11.05389,
-      "apy": [
-        {
-          "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
-          "apy": 11.05389
-        }
-      ]
-    },
-    "0xfA0F307783AC21C39E939ACFF795e27b650F6e68": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
-          "apy": 0
-        }
-      ]
-    },
-    "0x590d4f8A68583639f215f675F3a259Ed84790580": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x590d4f8A68583639f215f675F3a259Ed84790580",
-          "apy": 0
-        }
-      ]
-    },
-    "0xE8F55368C82D38bbbbDb5533e7F56AfC2E978CC2": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xE8F55368C82D38bbbbDb5533e7F56AfC2E978CC2",
-          "apy": 0
-        }
-      ]
-    }
-  },
-  "yearn": {
-    "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
-      "total": 0.5018084738611872,
-      "apy": [
-        {
-          "rewardToken": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
-          "apy": 0.5018084738611872
-        }
-      ]
-    },
-    "0x06325440D014e39736583c165C2963BA99fAf14E": {
-      "total": 0.40946593693380606,
-      "apy": [
-        {
-          "rewardToken": "0x06325440D014e39736583c165C2963BA99fAf14E",
-          "apy": 0.40946593693380606
-        }
-      ]
-    },
-    "0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c": {
-      "total": -1.2929782981217053,
-      "apy": [
-        {
-          "rewardToken": "0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c",
-          "apy": -1.2929782981217053
-        }
-      ]
-    },
-    "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
-      "total": 0.11550080420834608,
-      "apy": [
-        {
-          "rewardToken": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-          "apy": 0.11550080420834608
-        }
-      ]
-    },
-    "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
-      "total": 0.4672289985008238,
-      "apy": [
-        {
-          "rewardToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-          "apy": 0.4672289985008238
-        }
-      ]
-    },
-    "0x111111111117dC0aa78b770fA6A738034120C302": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x111111111117dC0aa78b770fA6A738034120C302",
-          "apy": 0
-        }
-      ]
-    },
-    "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
-      "total": 4.892662319489083,
-      "apy": [
-        {
-          "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-          "apy": 4.892662319489083
-        }
-      ]
-    },
-    "0x584bC13c7D411c00c01A62e8019472dE68768430": {
-      "total": 0.2522233617907821,
-      "apy": [
-        {
-          "rewardToken": "0x584bC13c7D411c00c01A62e8019472dE68768430",
-          "apy": 0.2522233617907821
-        }
-      ]
-    },
-    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-      "total": 3.477191999541107,
-      "apy": [
-        {
-          "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-          "apy": 3.477191999541107
-        }
-      ]
-    },
-    "0x5282a4eF67D9C33135340fB3289cc1711c13638C": {
-      "total": 4.915515058237108,
-      "apy": [
-        {
-          "rewardToken": "0x5282a4eF67D9C33135340fB3289cc1711c13638C",
-          "apy": 4.915515058237108
-        }
-      ]
-    },
-    "0xb19059ebb43466C323583928285a49f558E572Fd": {
-      "total": 0.4993008348192829,
-      "apy": [
-        {
-          "rewardToken": "0xb19059ebb43466C323583928285a49f558E572Fd",
-          "apy": 0.4993008348192829
-        }
-      ]
-    },
-    "0xc5bDdf9843308380375a611c18B50Fb9341f502A": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xc5bDdf9843308380375a611c18B50Fb9341f502A",
-          "apy": 0
-        }
-      ]
-    },
-    "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3": {
-      "total": 0.2559308356184786,
-      "apy": [
-        {
-          "rewardToken": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
-          "apy": 0.2559308356184786
-        }
-      ]
-    },
-    "0x49849C98ae39Fff122806C06791Fa73784FB3675": {
-      "total": 0.15970159245140003,
-      "apy": [
-        {
-          "rewardToken": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
-          "apy": 0.15970159245140003
-        }
-      ]
-    },
-    "0x02d341CcB60fAaf662bC0554d13778015d1b285C": {
-      "total": 5.083266415410237,
-      "apy": [
-        {
-          "rewardToken": "0x02d341CcB60fAaf662bC0554d13778015d1b285C",
-          "apy": 5.083266415410237
-        }
-      ]
-    },
-    "0x2fE94ea3d5d4a175184081439753DE15AeF9d614": {
-      "total": 0.041499994830140885,
-      "apy": [
-        {
-          "rewardToken": "0x2fE94ea3d5d4a175184081439753DE15AeF9d614",
-          "apy": 0.041499994830140885
-        }
-      ]
-    },
-    "0xDE5331AC4B3630f94853Ff322B66407e0D6331E8": {
-      "total": 0.13977012931287724,
-      "apy": [
-        {
-          "rewardToken": "0xDE5331AC4B3630f94853Ff322B66407e0D6331E8",
-          "apy": 0.13977012931287724
-        }
-      ]
-    },
-    "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA",
-          "apy": 0
-        }
-      ]
-    },
-    "0x410e3E86ef427e30B9235497143881f717d93c2A": {
-      "total": 0.14694740218077484,
-      "apy": [
-        {
-          "rewardToken": "0x410e3E86ef427e30B9235497143881f717d93c2A",
-          "apy": 0.14694740218077484
-        }
-      ]
-    },
-    "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd": {
-      "total": 0.16043308984943216,
-      "apy": [
-        {
-          "rewardToken": "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd",
-          "apy": 0.16043308984943216
-        }
-      ]
-    },
-    "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
-      "total": 1.9629631253792468e-9,
-      "apy": [
-        {
-          "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "apy": 1.9629631253792468e-9
-        }
-      ]
-    },
-    "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B": {
-      "total": 0.015646716981976283,
-      "apy": [
-        {
-          "rewardToken": "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B",
-          "apy": 0.015646716981976283
-        }
-      ]
-    },
-    "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-          "apy": 0
-        }
-      ]
-    },
-    "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B": {
-      "total": 1255151.881819826,
-      "apy": [
-        {
-          "rewardToken": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
-          "apy": 1255151.881819826
-        }
-      ]
-    },
-    "0x845838DF265Dcd2c412A1Dc9e959c7d08537f8a2": {
-      "total": 7.376522307185507,
-      "apy": [
-        {
-          "rewardToken": "0x845838DF265Dcd2c412A1Dc9e959c7d08537f8a2",
-          "apy": 7.376522307185507
-        }
-      ]
-    },
-    "0xD2967f45c4f384DEEa880F807Be904762a3DeA07": {
-      "total": 12.199461664969903,
-      "apy": [
-        {
-          "rewardToken": "0xD2967f45c4f384DEEa880F807Be904762a3DeA07",
-          "apy": 12.199461664969903
-        }
-      ]
-    },
-    "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8": {
-      "total": 2.2472999903136115,
-      "apy": [
-        {
-          "rewardToken": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
-          "apy": 2.2472999903136115
-        }
-      ]
-    },
-    "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490": {
-      "total": 2.2668735564996823,
-      "apy": [
-        {
-          "rewardToken": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
-          "apy": 2.2668735564996823
-        }
-      ]
-    },
-    "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1",
-          "apy": 0
-        }
-      ]
-    },
-    "0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a": {
-      "total": 9.237780471497814,
-      "apy": [
-        {
-          "rewardToken": "0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a",
-          "apy": 9.237780471497814
-        }
-      ]
-    },
-    "0x3a664Ab939FD8482048609f652f9a0B0677337B9": {
-      "total": 1070908147.5196921,
-      "apy": [
-        {
-          "rewardToken": "0x3a664Ab939FD8482048609f652f9a0B0677337B9",
-          "apy": 1070908147.5196921
-        }
-      ]
-    },
-    "0x94e131324b6054c0D789b190b2dAC504e4361b53": {
-      "total": 0.08792412303817443,
-      "apy": [
-        {
-          "rewardToken": "0x94e131324b6054c0D789b190b2dAC504e4361b53",
-          "apy": 0.08792412303817443
-        }
-      ]
-    },
-    "0x1AEf73d49Dedc4b1778d0706583995958Dc862e6": {
-      "total": 4.089188002936628,
-      "apy": [
-        {
-          "rewardToken": "0x1AEf73d49Dedc4b1778d0706583995958Dc862e6",
-          "apy": 4.089188002936628
-        }
-      ]
-    },
-    "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
-          "apy": 0
-        }
-      ]
-    },
-    "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-          "apy": 0
-        }
-      ]
-    },
-    "0xC25a3A3b969415c80451098fa907EC722572917F": {
-      "total": 2.2571919291363596,
-      "apy": [
-        {
-          "rewardToken": "0xC25a3A3b969415c80451098fa907EC722572917F",
-          "apy": 2.2571919291363596
-        }
-      ]
-    },
-    "0xcee60cFa923170e4f8204AE08B4fA6A3F5656F3a": {
-      "total": 0.6857345005140569,
-      "apy": [
-        {
-          "rewardToken": "0xcee60cFa923170e4f8204AE08B4fA6A3F5656F3a",
-          "apy": 0.6857345005140569
-        }
-      ]
-    },
-    "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522": {
-      "total": 18.742547262370767,
-      "apy": [
-        {
-          "rewardToken": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522",
-          "apy": 18.742547262370767
-        }
-      ]
-    },
-    "0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6": {
-      "total": 0.4288480226277924,
-      "apy": [
-        {
-          "rewardToken": "0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6",
-          "apy": 0.4288480226277924
-        }
-      ]
-    },
-    "0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c": {
-      "total": 3.2687420144796198,
-      "apy": [
-        {
-          "rewardToken": "0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c",
-          "apy": 3.2687420144796198
-        }
-      ]
-    },
-    "0x53a901d48795C58f485cBB38df08FA96a24669D5": {
-      "total": 1.3698447491457877,
-      "apy": [
-        {
-          "rewardToken": "0x53a901d48795C58f485cBB38df08FA96a24669D5",
-          "apy": 1.3698447491457877
-        }
-      ]
-    },
-    "0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf": {
-      "total": 0.2748475184479515,
-      "apy": [
-        {
-          "rewardToken": "0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf",
-          "apy": 0.2748475184479515
-        }
-      ]
-    },
-    "0xFd2a8fA60Abd58Efe3EeE34dd494cD491dC14900": {
-      "total": 5.553274860877022,
-      "apy": [
-        {
-          "rewardToken": "0xFd2a8fA60Abd58Efe3EeE34dd494cD491dC14900",
-          "apy": 5.553274860877022
-        }
-      ]
-    },
-    "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858": {
-      "total": 0.03688586616610312,
-      "apy": [
-        {
-          "rewardToken": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
-          "apy": 0.03688586616610312
-        }
-      ]
-    },
-    "0x194eBd173F6cDacE046C53eACcE9B953F28411d1": {
-      "total": 0.6363360619502156,
-      "apy": [
-        {
-          "rewardToken": "0x194eBd173F6cDacE046C53eACcE9B953F28411d1",
-          "apy": 0.6363360619502156
-        }
-      ]
-    },
-    "0x514910771AF9Ca656af840dff83E8264EcF986CA": {
-      "total": 0.28805533043292364,
-      "apy": [
-        {
-          "rewardToken": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
-          "apy": 0.28805533043292364
-        }
-      ]
-    },
-    "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
-          "apy": 0
-        }
-      ]
-    },
-    "0xcA3d75aC011BF5aD07a98d02f18225F9bD9A6BDF": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xcA3d75aC011BF5aD07a98d02f18225F9bD9A6BDF",
-          "apy": 0
-        }
-      ]
-    },
-    "0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8": {
-      "total": 53.64871866893039,
-      "apy": [
-        {
-          "rewardToken": "0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8",
-          "apy": 53.64871866893039
-        }
-      ]
-    },
-    "0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23",
-          "apy": 0
-        }
-      ]
-    },
-    "0x97E2768e8E73511cA874545DC5Ff8067eB19B787": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x97E2768e8E73511cA874545DC5Ff8067eB19B787",
-          "apy": 0
-        }
-      ]
-    },
-    "0xC2Ee6b0334C261ED60C72f6054450b61B8f18E35": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xC2Ee6b0334C261ED60C72f6054450b61B8f18E35",
-          "apy": 0
-        }
-      ]
-    },
-    "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff": {
-      "total": 2.303379283979301,
-      "apy": [
-        {
-          "rewardToken": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
-          "apy": 2.303379283979301
-        }
-      ]
-    },
-    "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-          "apy": 0
-        }
-      ]
-    },
-    "0xc00e94Cb662C3520282E6f5717214004A7f26888": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-          "apy": 0
-        }
-      ]
-    },
-    "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2": {
-      "total": 1.0709612550199754,
-      "apy": [
-        {
-          "rewardToken": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-          "apy": 1.0709612550199754
-        }
-      ]
-    },
-    "0x0000000000085d4780B73119b644AE5ecd22b376": {
-      "total": 4.4876069107729455,
-      "apy": [
-        {
-          "rewardToken": "0x0000000000085d4780B73119b644AE5ecd22b376",
-          "apy": 4.4876069107729455
-        }
-      ]
-    },
-    "0xFD5dB7463a3aB53fD211b4af195c5BCCC1A03890": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xFD5dB7463a3aB53fD211b4af195c5BCCC1A03890",
-          "apy": 0
-        }
-      ]
-    },
-    "0x5a6A4D54456819380173272A5E8E9B9904BdF41B": {
-      "total": 13.765923402863912,
-      "apy": [
-        {
-          "rewardToken": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
-          "apy": 13.765923402863912
-        }
-      ]
-    },
-    "0x9D0464996170c6B9e75eED71c68B99dDEDf279e8": {
-      "total": 1.8799302022941333,
-      "apy": [
-        {
-          "rewardToken": "0x9D0464996170c6B9e75eED71c68B99dDEDf279e8",
-          "apy": 1.8799302022941333
-        }
-      ]
-    },
-    "0x19b080FE1ffA0553469D20Ca36219F17Fcf03859": {
-      "total": 2.836084797929095,
-      "apy": [
-        {
-          "rewardToken": "0x19b080FE1ffA0553469D20Ca36219F17Fcf03859",
-          "apy": 2.836084797929095
-        }
-      ]
-    },
-    "0x8461A004b50d321CB22B7d034969cE6803911899": {
-      "total": 1.3717266774781134,
-      "apy": [
-        {
-          "rewardToken": "0x8461A004b50d321CB22B7d034969cE6803911899",
-          "apy": 1.3717266774781134
-        }
-      ]
-    },
-    "0xD6Ac1CB9019137a896343Da59dDE6d097F710538": {
-      "total": 1.92850000729754,
-      "apy": [
-        {
-          "rewardToken": "0xD6Ac1CB9019137a896343Da59dDE6d097F710538",
-          "apy": 1.92850000729754
-        }
-      ]
-    },
-    "0x3F1B0278A9ee595635B61817630cC19DE792f506": {
-      "total": 4.1278505775498076,
-      "apy": [
-        {
-          "rewardToken": "0x3F1B0278A9ee595635B61817630cC19DE792f506",
-          "apy": 4.1278505775498076
-        }
-      ]
-    },
-    "0x9c2C8910F113181783c249d8F6Aa41b51Cde0f0c": {
-      "total": 2.194934793626202,
-      "apy": [
-        {
-          "rewardToken": "0x9c2C8910F113181783c249d8F6Aa41b51Cde0f0c",
-          "apy": 2.194934793626202
-        }
-      ]
-    },
-    "0x8818a9bb44Fbf33502bE7c15c500d0C783B73067": {
-      "total": 3.4851899573327128,
-      "apy": [
-        {
-          "rewardToken": "0x8818a9bb44Fbf33502bE7c15c500d0C783B73067",
-          "apy": 3.4851899573327128
-        }
-      ]
-    },
-    "0x5B3b5DF2BF2B6543f78e053bD91C4Bdd820929f1": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x5B3b5DF2BF2B6543f78e053bD91C4Bdd820929f1",
-          "apy": 0
-        }
-      ]
-    },
-    "0xC4C319E2D4d66CcA4464C0c2B32c9Bd23ebe784e": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xC4C319E2D4d66CcA4464C0c2B32c9Bd23ebe784e",
-          "apy": 0
-        }
-      ]
-    },
-    "0x3Fb78e61784C9c637D560eDE23Ad57CA1294c14a": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x3Fb78e61784C9c637D560eDE23Ad57CA1294c14a",
-          "apy": 0
-        }
-      ]
-    },
-    "0x55A8a39bc9694714E2874c1ce77aa1E599461E18": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x55A8a39bc9694714E2874c1ce77aa1E599461E18",
-          "apy": 0
-        }
-      ]
-    },
-    "0x87650D7bbfC3A9F10587d7778206671719d9910D": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x87650D7bbfC3A9F10587d7778206671719d9910D",
-          "apy": 0
-        }
-      ]
-    },
-    "0xFbdCA68601f835b27790D98bbb8eC7f05FDEaA9B": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xFbdCA68601f835b27790D98bbb8eC7f05FDEaA9B",
-          "apy": 0
-        }
-      ]
-    },
-    "0xBaaa1F5DbA42C3389bDbc2c9D2dE134F5cD0Dc89": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xBaaa1F5DbA42C3389bDbc2c9D2dE134F5cD0Dc89",
-          "apy": 0
-        }
-      ]
-    },
-    "0x3b6831c0077a1e44ED0a21841C3bC4dC11bCE833": {
-      "total": 1.4744530188688154,
-      "apy": [
-        {
-          "rewardToken": "0x3b6831c0077a1e44ED0a21841C3bC4dC11bCE833",
-          "apy": 1.4744530188688154
-        }
-      ]
-    },
-    "0x3D229E1B4faab62F621eF2F6A610961f7BD7b23B": {
-      "total": 0.595614198615646,
-      "apy": [
-        {
-          "rewardToken": "0x3D229E1B4faab62F621eF2F6A610961f7BD7b23B",
-          "apy": 0.595614198615646
-        }
-      ]
-    },
-    "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0": {
-      "total": 3.8857257908460063,
-      "apy": [
-        {
-          "rewardToken": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-          "apy": 3.8857257908460063
-        }
-      ]
-    },
-    "0xb9446c4Ef5EBE66268dA6700D26f96273DE3d571": {
-      "total": 4.114363020985534,
-      "apy": [
-        {
-          "rewardToken": "0xb9446c4Ef5EBE66268dA6700D26f96273DE3d571",
-          "apy": 4.114363020985534
-        }
-      ]
-    },
-    "0xEd4064f376cB8d68F770FB1Ff088a3d0F3FF5c4d": {
-      "total": 3.50175975865481,
-      "apy": [
-        {
-          "rewardToken": "0xEd4064f376cB8d68F770FB1Ff088a3d0F3FF5c4d",
-          "apy": 3.50175975865481
-        }
-      ]
-    },
-    "0x3A283D9c08E8b55966afb64C515f5143cf907611": {
-      "total": 16.867387235789757,
-      "apy": [
-        {
-          "rewardToken": "0x3A283D9c08E8b55966afb64C515f5143cf907611",
-          "apy": 16.867387235789757
-        }
-      ]
-    },
-    "0xCEAF7747579696A2F0bb206a14210e3c9e6fB269": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xCEAF7747579696A2F0bb206a14210e3c9e6fB269",
-          "apy": 0
-        }
-      ]
-    },
-    "0x6BA5b4e438FA0aAf7C1bD179285aF65d13bD3D90": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x6BA5b4e438FA0aAf7C1bD179285aF65d13bD3D90",
-          "apy": 0
-        }
-      ]
-    },
-    "0xAA5A67c256e27A5d80712c51971408db3370927D": {
-      "total": 126.75455556408957,
-      "apy": [
-        {
-          "rewardToken": "0xAA5A67c256e27A5d80712c51971408db3370927D",
-          "apy": 126.75455556408957
-        }
-      ]
-    },
-    "0xc270b3B858c335B6BA5D5b10e2Da8a09976005ad": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xc270b3B858c335B6BA5D5b10e2Da8a09976005ad",
-          "apy": 0
-        }
-      ]
-    },
-    "0x29059568bB40344487d62f7450E78b8E6C74e0e5": {
-      "total": 3.2797905616654077,
-      "apy": [
-        {
-          "rewardToken": "0x29059568bB40344487d62f7450E78b8E6C74e0e5",
-          "apy": 3.2797905616654077
-        }
-      ]
-    },
-    "0x447Ddd4960d9fdBF6af9a790560d0AF76795CB08": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x447Ddd4960d9fdBF6af9a790560d0AF76795CB08",
-          "apy": 0
-        }
-      ]
-    },
-    "0x828b154032950C8ff7CF8085D841723Db2696056": {
-      "total": 1.3329449609141841,
-      "apy": [
-        {
-          "rewardToken": "0x828b154032950C8ff7CF8085D841723Db2696056",
-          "apy": 1.3329449609141841
-        }
-      ]
-    },
-    "0x4647B6D835f3B393C7A955df51EEfcf0db961606": {
-      "total": 2.205284446740885,
-      "apy": [
-        {
-          "rewardToken": "0x4647B6D835f3B393C7A955df51EEfcf0db961606",
-          "apy": 2.205284446740885
-        }
-      ]
-    },
-    "0x80CAcCdBD3f07BbdB558DB4a9e146D099933D677": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x80CAcCdBD3f07BbdB558DB4a9e146D099933D677",
-          "apy": 0
-        }
-      ]
-    },
-    "0x127091edE112aEd7Bae281747771b3150Bb047bB": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x127091edE112aEd7Bae281747771b3150Bb047bB",
-          "apy": 0
-        }
-      ]
-    },
-    "0x8682Fbf0CbF312C891532BA9F1A91e44f81ad7DF": {
-      "total": 2.863119792529112,
-      "apy": [
-        {
-          "rewardToken": "0x8682Fbf0CbF312C891532BA9F1A91e44f81ad7DF",
-          "apy": 2.863119792529112
-        }
-      ]
-    },
-    "0x08ceA8E5B4551722dEB97113C139Dd83C26c5398": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x08ceA8E5B4551722dEB97113C139Dd83C26c5398",
-          "apy": 0
-        }
-      ]
-    },
-    "0x22CF19EB64226e0E1A79c69b345b31466fD273A7": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x22CF19EB64226e0E1A79c69b345b31466fD273A7",
-          "apy": 0
-        }
-      ]
-    },
-    "0x54c8Ecf46A81496eEB0608BD3353388b5D7a2a33": {
-      "total": 7.174455748781328,
-      "apy": [
-        {
-          "rewardToken": "0x54c8Ecf46A81496eEB0608BD3353388b5D7a2a33",
-          "apy": 7.174455748781328
-        }
-      ]
-    },
-    "0xdf55670e27bE5cDE7228dD0A6849181891c9ebA1": {
-      "total": 0.21865970312975325,
-      "apy": [
-        {
-          "rewardToken": "0xdf55670e27bE5cDE7228dD0A6849181891c9ebA1",
-          "apy": 0.21865970312975325
-        }
-      ]
-    },
-    "0x7B50775383d3D6f0215A8F290f2C9e2eEBBEceb2": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x7B50775383d3D6f0215A8F290f2C9e2eEBBEceb2",
-          "apy": 0
-        }
-      ]
-    },
-    "0x0309A528bBa0394dC4A2Ce59123C52E317A54604": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x0309A528bBa0394dC4A2Ce59123C52E317A54604",
-          "apy": 0
-        }
-      ]
-    },
-    "0x4c1317326fD8EFDeBdBE5e1cd052010D97723bd6": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x4c1317326fD8EFDeBdBE5e1cd052010D97723bd6",
-          "apy": 0
-        }
-      ]
-    },
-    "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b": {
-      "total": 29.434480065164582,
-      "apy": [
-        {
-          "rewardToken": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
-          "apy": 29.434480065164582
-        }
-      ]
-    },
-    "0x453D92C7d4263201C69aACfaf589Ed14202d83a4": {
-      "total": 0.9036961944274502,
-      "apy": [
-        {
-          "rewardToken": "0x453D92C7d4263201C69aACfaf589Ed14202d83a4",
-          "apy": 0.9036961944274502
-        }
-      ]
-    },
-    "0xA13a9247ea42D743238089903570127DdA72fE44": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0xA13a9247ea42D743238089903570127DdA72fE44",
-          "apy": 0
-        }
-      ]
-    },
-    "0x178E029173417b1F9C8bC16DCeC6f697bC323746": {
-      "total": 0,
-      "apy": [
-        {
-          "rewardToken": "0x178E029173417b1F9C8bC16DCeC6f697bC323746",
-          "apy": 0
-        }
-      ]
-    }
-  },
-  "yearnFactory": {},
-  "pirex": {
-    "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC": {
-      "total": 14.055681159420292,
-      "apy": [
-        {
-          "rewardToken": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
-          "apy": 14.055681159420292
-        }
-      ]
-    }
-  },
-  "sommelier": {
-    "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
-      "total": 10.522217543702833,
-      "apy": [
-        {
-          "rewardToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-          "apy": 10.522217543702833
-        }
-      ]
-    }
-  },
-  "stader": {
-    "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC": {
-      "total": 3.97429,
-      "apy": [
-        {
-          "rewardToken": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
-          "apy": 3.97429
-        }
-      ]
-    },
-    "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
-      "total": 3.97429,
-      "apy": [
-        {
-          "rewardToken": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-          "apy": 3.97429
-        }
-      ]
-    },
-    "0x0000000000000000000000000000000000000000": {
-      "total": 3.97429,
-      "apy": [
-        {
-          "rewardToken": "0x0000000000000000000000000000000000000000",
-          "apy": 3.97429
-        }
-      ]
-    }
-  },
-  "kelpDao": {
-    "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC": {
-      "total": 3.97429,
-      "apy": [
-        {
-          "rewardToken": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
-          "apy": 3.97429
-        }
-      ]
-    },
-    "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7": {
-      "total": 3.97429,
-      "apy": [
-        {
-          "rewardToken": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
-          "apy": 3.97429
-        }
-      ]
+    "compoundV2": {
+      "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
+        "total": 7.213059162608526,
+        "apy": [
+          {
+            "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "apy": 7.213059162608526
+          }
+        ]
+      },
+      "0x0000000000085d4780B73119b644AE5ecd22b376": {
+        "total": 12.182392900259353,
+        "apy": [
+          {
+            "rewardToken": "0x0000000000085d4780B73119b644AE5ecd22b376",
+            "apy": 12.182392900259353
+          }
+        ]
+      },
+      "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+        "total": 3.717255835540323,
+        "apy": [
+          {
+            "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "apy": 3.717255835540323
+          }
+        ]
+      },
+      "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
+        "total": 18.624514496259437,
+        "apy": [
+          {
+            "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "apy": 18.624514496259437
+          }
+        ]
+      },
+      "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
+        "total": 0.009366186057380155,
+        "apy": [
+          {
+            "rewardToken": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "apy": 0.009366186057380155
+          }
+        ]
+      }
+    },
+    "compoundV3": {
+      "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+        "total": 15.533839509307048,
+        "apy": [
+          {
+            "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "apy": 13.648175608392
+          },
+          {
+            "rewardToken": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+            "apy": 1.8856639009150489
+          }
+        ]
+      },
+      "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
+        "total": 3.082180910466966,
+        "apy": [
+          {
+            "rewardToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "apy": 1.6586943341328
+          },
+          {
+            "rewardToken": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+            "apy": 1.4234865763341658
+          }
+        ]
+      }
+    },
+    "flux": {
+      "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
+        "total": 3.8895072862356272,
+        "apy": [
+          {
+            "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "apy": 3.8895072862356272
+          }
+        ]
+      },
+      "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+        "total": 4.797782868887301,
+        "apy": [
+          {
+            "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "apy": 4.797782868887301
+          }
+        ]
+      },
+      "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
+        "total": 4.499079146478757,
+        "apy": [
+          {
+            "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "apy": 4.499079146478757
+          }
+        ]
+      },
+      "0x853d955aCEf822Db058eb8505911ED77F175b99e": {
+        "total": 4.463968743430602,
+        "apy": [
+          {
+            "rewardToken": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+            "apy": 4.463968743430602
+          }
+        ]
+      },
+      "0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92",
+            "apy": 0
+          }
+        ]
+      }
+    },
+    "idleJunior": {
+      "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
+        "total": 17.90908324676781,
+        "apy": [
+          {
+            "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "apy": 17.90908324676781
+          }
+        ]
+      },
+      "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+        "total": 14.64028587257351,
+        "apy": [
+          {
+            "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "apy": 14.64028587257351
+          }
+        ]
+      },
+      "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
+        "total": 15.497070201413866,
+        "apy": [
+          {
+            "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "apy": 15.497070201413866
+          }
+        ]
+      },
+      "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
+        "total": 3.4258034660259007,
+        "apy": [
+          {
+            "rewardToken": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+            "apy": 3.4258034660259007
+          }
+        ]
+      }
+    },
+    "idleSenior": {
+      "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
+        "total": 6.399140552175564,
+        "apy": [
+          {
+            "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "apy": 6.399140552175564
+          }
+        ]
+      },
+      "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+        "total": 5.623149658379933,
+        "apy": [
+          {
+            "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "apy": 5.623149658379933
+          }
+        ]
+      },
+      "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
+        "total": 5.637518836547484,
+        "apy": [
+          {
+            "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "apy": 5.637518836547484
+          }
+        ]
+      },
+      "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
+        "total": 4.4472837899657724,
+        "apy": [
+          {
+            "rewardToken": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+            "apy": 4.4472837899657724
+          }
+        ]
+      }
+    },
+    "origin": {
+      "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615": {
+        "total": 3.68,
+        "apy": [
+          {
+            "rewardToken": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
+            "apy": 3.68
+          }
+        ]
+      },
+      "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
+        "total": 4.225169020286237,
+        "apy": [
+          {
+            "rewardToken": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+            "apy": 4.225169020286237
+          }
+        ]
+      },
+      "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86": {
+        "total": 6.357730856149801,
+        "apy": [
+          {
+            "rewardToken": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+            "apy": 6.357730856149801
+          }
+        ]
+      }
+    },
+    "stargate": {
+      "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56": {
+        "total": 12.49287,
+        "apy": [
+          {
+            "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+            "apy": 12.49287
+          }
+        ]
+      },
+      "0x38EA452219524Bb87e18dE1C24D3bB59510BD783": {
+        "total": 10.92295,
+        "apy": [
+          {
+            "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+            "apy": 10.92295
+          }
+        ]
+      },
+      "0x101816545F6bd2b1076434B54383a1E633390A2E": {
+        "total": 6.84255,
+        "apy": [
+          {
+            "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+            "apy": 6.84255
+          }
+        ]
+      },
+      "0x0Faf1d2d3CED330824de3B8200fc8dc6E397850d": {
+        "total": 11.05389,
+        "apy": [
+          {
+            "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+            "apy": 11.05389
+          }
+        ]
+      },
+      "0xfA0F307783AC21C39E939ACFF795e27b650F6e68": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+            "apy": 0
+          }
+        ]
+      },
+      "0x590d4f8A68583639f215f675F3a259Ed84790580": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x590d4f8A68583639f215f675F3a259Ed84790580",
+            "apy": 0
+          }
+        ]
+      },
+      "0xE8F55368C82D38bbbbDb5533e7F56AfC2E978CC2": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xE8F55368C82D38bbbbDb5533e7F56AfC2E978CC2",
+            "apy": 0
+          }
+        ]
+      }
+    },
+    "yearn": {
+      "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
+        "total": 0.5018084738611872,
+        "apy": [
+          {
+            "rewardToken": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+            "apy": 0.5018084738611872
+          }
+        ]
+      },
+      "0x06325440D014e39736583c165C2963BA99fAf14E": {
+        "total": 0.40946593693380606,
+        "apy": [
+          {
+            "rewardToken": "0x06325440D014e39736583c165C2963BA99fAf14E",
+            "apy": 0.40946593693380606
+          }
+        ]
+      },
+      "0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c": {
+        "total": -1.2929782981217053,
+        "apy": [
+          {
+            "rewardToken": "0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c",
+            "apy": -1.2929782981217053
+          }
+        ]
+      },
+      "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
+        "total": 0.11550080420834608,
+        "apy": [
+          {
+            "rewardToken": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "apy": 0.11550080420834608
+          }
+        ]
+      },
+      "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
+        "total": 0.4672289985008238,
+        "apy": [
+          {
+            "rewardToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "apy": 0.4672289985008238
+          }
+        ]
+      },
+      "0x111111111117dC0aa78b770fA6A738034120C302": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x111111111117dC0aa78b770fA6A738034120C302",
+            "apy": 0
+          }
+        ]
+      },
+      "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
+        "total": 4.892662319489083,
+        "apy": [
+          {
+            "rewardToken": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "apy": 4.892662319489083
+          }
+        ]
+      },
+      "0x584bC13c7D411c00c01A62e8019472dE68768430": {
+        "total": 0.2522233617907821,
+        "apy": [
+          {
+            "rewardToken": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+            "apy": 0.2522233617907821
+          }
+        ]
+      },
+      "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+        "total": 3.477191999541107,
+        "apy": [
+          {
+            "rewardToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "apy": 3.477191999541107
+          }
+        ]
+      },
+      "0x5282a4eF67D9C33135340fB3289cc1711c13638C": {
+        "total": 4.915515058237108,
+        "apy": [
+          {
+            "rewardToken": "0x5282a4eF67D9C33135340fB3289cc1711c13638C",
+            "apy": 4.915515058237108
+          }
+        ]
+      },
+      "0xb19059ebb43466C323583928285a49f558E572Fd": {
+        "total": 0.4993008348192829,
+        "apy": [
+          {
+            "rewardToken": "0xb19059ebb43466C323583928285a49f558E572Fd",
+            "apy": 0.4993008348192829
+          }
+        ]
+      },
+      "0xc5bDdf9843308380375a611c18B50Fb9341f502A": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xc5bDdf9843308380375a611c18B50Fb9341f502A",
+            "apy": 0
+          }
+        ]
+      },
+      "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3": {
+        "total": 0.2559308356184786,
+        "apy": [
+          {
+            "rewardToken": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+            "apy": 0.2559308356184786
+          }
+        ]
+      },
+      "0x49849C98ae39Fff122806C06791Fa73784FB3675": {
+        "total": 0.15970159245140003,
+        "apy": [
+          {
+            "rewardToken": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
+            "apy": 0.15970159245140003
+          }
+        ]
+      },
+      "0x02d341CcB60fAaf662bC0554d13778015d1b285C": {
+        "total": 5.083266415410237,
+        "apy": [
+          {
+            "rewardToken": "0x02d341CcB60fAaf662bC0554d13778015d1b285C",
+            "apy": 5.083266415410237
+          }
+        ]
+      },
+      "0x2fE94ea3d5d4a175184081439753DE15AeF9d614": {
+        "total": 0.041499994830140885,
+        "apy": [
+          {
+            "rewardToken": "0x2fE94ea3d5d4a175184081439753DE15AeF9d614",
+            "apy": 0.041499994830140885
+          }
+        ]
+      },
+      "0xDE5331AC4B3630f94853Ff322B66407e0D6331E8": {
+        "total": 0.13977012931287724,
+        "apy": [
+          {
+            "rewardToken": "0xDE5331AC4B3630f94853Ff322B66407e0D6331E8",
+            "apy": 0.13977012931287724
+          }
+        ]
+      },
+      "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA",
+            "apy": 0
+          }
+        ]
+      },
+      "0x410e3E86ef427e30B9235497143881f717d93c2A": {
+        "total": 0.14694740218077484,
+        "apy": [
+          {
+            "rewardToken": "0x410e3E86ef427e30B9235497143881f717d93c2A",
+            "apy": 0.14694740218077484
+          }
+        ]
+      },
+      "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd": {
+        "total": 0.16043308984943216,
+        "apy": [
+          {
+            "rewardToken": "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd",
+            "apy": 0.16043308984943216
+          }
+        ]
+      },
+      "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
+        "total": 1.9629631253792468e-9,
+        "apy": [
+          {
+            "rewardToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "apy": 1.9629631253792468e-9
+          }
+        ]
+      },
+      "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B": {
+        "total": 0.015646716981976283,
+        "apy": [
+          {
+            "rewardToken": "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B",
+            "apy": 0.015646716981976283
+          }
+        ]
+      },
+      "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+            "apy": 0
+          }
+        ]
+      },
+      "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B": {
+        "total": 1255151.881819826,
+        "apy": [
+          {
+            "rewardToken": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
+            "apy": 1255151.881819826
+          }
+        ]
+      },
+      "0x845838DF265Dcd2c412A1Dc9e959c7d08537f8a2": {
+        "total": 7.376522307185507,
+        "apy": [
+          {
+            "rewardToken": "0x845838DF265Dcd2c412A1Dc9e959c7d08537f8a2",
+            "apy": 7.376522307185507
+          }
+        ]
+      },
+      "0xD2967f45c4f384DEEa880F807Be904762a3DeA07": {
+        "total": 12.199461664969903,
+        "apy": [
+          {
+            "rewardToken": "0xD2967f45c4f384DEEa880F807Be904762a3DeA07",
+            "apy": 12.199461664969903
+          }
+        ]
+      },
+      "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8": {
+        "total": 2.2472999903136115,
+        "apy": [
+          {
+            "rewardToken": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
+            "apy": 2.2472999903136115
+          }
+        ]
+      },
+      "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490": {
+        "total": 2.2668735564996823,
+        "apy": [
+          {
+            "rewardToken": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+            "apy": 2.2668735564996823
+          }
+        ]
+      },
+      "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1",
+            "apy": 0
+          }
+        ]
+      },
+      "0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a": {
+        "total": 9.237780471497814,
+        "apy": [
+          {
+            "rewardToken": "0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a",
+            "apy": 9.237780471497814
+          }
+        ]
+      },
+      "0x3a664Ab939FD8482048609f652f9a0B0677337B9": {
+        "total": 1070908147.5196921,
+        "apy": [
+          {
+            "rewardToken": "0x3a664Ab939FD8482048609f652f9a0B0677337B9",
+            "apy": 1070908147.5196921
+          }
+        ]
+      },
+      "0x94e131324b6054c0D789b190b2dAC504e4361b53": {
+        "total": 0.08792412303817443,
+        "apy": [
+          {
+            "rewardToken": "0x94e131324b6054c0D789b190b2dAC504e4361b53",
+            "apy": 0.08792412303817443
+          }
+        ]
+      },
+      "0x1AEf73d49Dedc4b1778d0706583995958Dc862e6": {
+        "total": 4.089188002936628,
+        "apy": [
+          {
+            "rewardToken": "0x1AEf73d49Dedc4b1778d0706583995958Dc862e6",
+            "apy": 4.089188002936628
+          }
+        ]
+      },
+      "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+            "apy": 0
+          }
+        ]
+      },
+      "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+            "apy": 0
+          }
+        ]
+      },
+      "0xC25a3A3b969415c80451098fa907EC722572917F": {
+        "total": 2.2571919291363596,
+        "apy": [
+          {
+            "rewardToken": "0xC25a3A3b969415c80451098fa907EC722572917F",
+            "apy": 2.2571919291363596
+          }
+        ]
+      },
+      "0xcee60cFa923170e4f8204AE08B4fA6A3F5656F3a": {
+        "total": 0.6857345005140569,
+        "apy": [
+          {
+            "rewardToken": "0xcee60cFa923170e4f8204AE08B4fA6A3F5656F3a",
+            "apy": 0.6857345005140569
+          }
+        ]
+      },
+      "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522": {
+        "total": 18.742547262370767,
+        "apy": [
+          {
+            "rewardToken": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522",
+            "apy": 18.742547262370767
+          }
+        ]
+      },
+      "0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6": {
+        "total": 0.4288480226277924,
+        "apy": [
+          {
+            "rewardToken": "0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6",
+            "apy": 0.4288480226277924
+          }
+        ]
+      },
+      "0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c": {
+        "total": 3.2687420144796198,
+        "apy": [
+          {
+            "rewardToken": "0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c",
+            "apy": 3.2687420144796198
+          }
+        ]
+      },
+      "0x53a901d48795C58f485cBB38df08FA96a24669D5": {
+        "total": 1.3698447491457877,
+        "apy": [
+          {
+            "rewardToken": "0x53a901d48795C58f485cBB38df08FA96a24669D5",
+            "apy": 1.3698447491457877
+          }
+        ]
+      },
+      "0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf": {
+        "total": 0.2748475184479515,
+        "apy": [
+          {
+            "rewardToken": "0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf",
+            "apy": 0.2748475184479515
+          }
+        ]
+      },
+      "0xFd2a8fA60Abd58Efe3EeE34dd494cD491dC14900": {
+        "total": 5.553274860877022,
+        "apy": [
+          {
+            "rewardToken": "0xFd2a8fA60Abd58Efe3EeE34dd494cD491dC14900",
+            "apy": 5.553274860877022
+          }
+        ]
+      },
+      "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858": {
+        "total": 0.03688586616610312,
+        "apy": [
+          {
+            "rewardToken": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+            "apy": 0.03688586616610312
+          }
+        ]
+      },
+      "0x194eBd173F6cDacE046C53eACcE9B953F28411d1": {
+        "total": 0.6363360619502156,
+        "apy": [
+          {
+            "rewardToken": "0x194eBd173F6cDacE046C53eACcE9B953F28411d1",
+            "apy": 0.6363360619502156
+          }
+        ]
+      },
+      "0x514910771AF9Ca656af840dff83E8264EcF986CA": {
+        "total": 0.28805533043292364,
+        "apy": [
+          {
+            "rewardToken": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+            "apy": 0.28805533043292364
+          }
+        ]
+      },
+      "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
+            "apy": 0
+          }
+        ]
+      },
+      "0xcA3d75aC011BF5aD07a98d02f18225F9bD9A6BDF": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xcA3d75aC011BF5aD07a98d02f18225F9bD9A6BDF",
+            "apy": 0
+          }
+        ]
+      },
+      "0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8": {
+        "total": 53.64871866893039,
+        "apy": [
+          {
+            "rewardToken": "0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8",
+            "apy": 53.64871866893039
+          }
+        ]
+      },
+      "0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23",
+            "apy": 0
+          }
+        ]
+      },
+      "0x97E2768e8E73511cA874545DC5Ff8067eB19B787": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x97E2768e8E73511cA874545DC5Ff8067eB19B787",
+            "apy": 0
+          }
+        ]
+      },
+      "0xC2Ee6b0334C261ED60C72f6054450b61B8f18E35": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xC2Ee6b0334C261ED60C72f6054450b61B8f18E35",
+            "apy": 0
+          }
+        ]
+      },
+      "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff": {
+        "total": 2.303379283979301,
+        "apy": [
+          {
+            "rewardToken": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
+            "apy": 2.303379283979301
+          }
+        ]
+      },
+      "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "apy": 0
+          }
+        ]
+      },
+      "0xc00e94Cb662C3520282E6f5717214004A7f26888": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+            "apy": 0
+          }
+        ]
+      },
+      "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2": {
+        "total": 1.0709612550199754,
+        "apy": [
+          {
+            "rewardToken": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "apy": 1.0709612550199754
+          }
+        ]
+      },
+      "0x0000000000085d4780B73119b644AE5ecd22b376": {
+        "total": 4.4876069107729455,
+        "apy": [
+          {
+            "rewardToken": "0x0000000000085d4780B73119b644AE5ecd22b376",
+            "apy": 4.4876069107729455
+          }
+        ]
+      },
+      "0xFD5dB7463a3aB53fD211b4af195c5BCCC1A03890": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xFD5dB7463a3aB53fD211b4af195c5BCCC1A03890",
+            "apy": 0
+          }
+        ]
+      },
+      "0x5a6A4D54456819380173272A5E8E9B9904BdF41B": {
+        "total": 13.765923402863912,
+        "apy": [
+          {
+            "rewardToken": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+            "apy": 13.765923402863912
+          }
+        ]
+      },
+      "0x9D0464996170c6B9e75eED71c68B99dDEDf279e8": {
+        "total": 1.8799302022941333,
+        "apy": [
+          {
+            "rewardToken": "0x9D0464996170c6B9e75eED71c68B99dDEDf279e8",
+            "apy": 1.8799302022941333
+          }
+        ]
+      },
+      "0x19b080FE1ffA0553469D20Ca36219F17Fcf03859": {
+        "total": 2.836084797929095,
+        "apy": [
+          {
+            "rewardToken": "0x19b080FE1ffA0553469D20Ca36219F17Fcf03859",
+            "apy": 2.836084797929095
+          }
+        ]
+      },
+      "0x8461A004b50d321CB22B7d034969cE6803911899": {
+        "total": 1.3717266774781134,
+        "apy": [
+          {
+            "rewardToken": "0x8461A004b50d321CB22B7d034969cE6803911899",
+            "apy": 1.3717266774781134
+          }
+        ]
+      },
+      "0xD6Ac1CB9019137a896343Da59dDE6d097F710538": {
+        "total": 1.92850000729754,
+        "apy": [
+          {
+            "rewardToken": "0xD6Ac1CB9019137a896343Da59dDE6d097F710538",
+            "apy": 1.92850000729754
+          }
+        ]
+      },
+      "0x3F1B0278A9ee595635B61817630cC19DE792f506": {
+        "total": 4.1278505775498076,
+        "apy": [
+          {
+            "rewardToken": "0x3F1B0278A9ee595635B61817630cC19DE792f506",
+            "apy": 4.1278505775498076
+          }
+        ]
+      },
+      "0x9c2C8910F113181783c249d8F6Aa41b51Cde0f0c": {
+        "total": 2.194934793626202,
+        "apy": [
+          {
+            "rewardToken": "0x9c2C8910F113181783c249d8F6Aa41b51Cde0f0c",
+            "apy": 2.194934793626202
+          }
+        ]
+      },
+      "0x8818a9bb44Fbf33502bE7c15c500d0C783B73067": {
+        "total": 3.4851899573327128,
+        "apy": [
+          {
+            "rewardToken": "0x8818a9bb44Fbf33502bE7c15c500d0C783B73067",
+            "apy": 3.4851899573327128
+          }
+        ]
+      },
+      "0x5B3b5DF2BF2B6543f78e053bD91C4Bdd820929f1": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x5B3b5DF2BF2B6543f78e053bD91C4Bdd820929f1",
+            "apy": 0
+          }
+        ]
+      },
+      "0xC4C319E2D4d66CcA4464C0c2B32c9Bd23ebe784e": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xC4C319E2D4d66CcA4464C0c2B32c9Bd23ebe784e",
+            "apy": 0
+          }
+        ]
+      },
+      "0x3Fb78e61784C9c637D560eDE23Ad57CA1294c14a": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x3Fb78e61784C9c637D560eDE23Ad57CA1294c14a",
+            "apy": 0
+          }
+        ]
+      },
+      "0x55A8a39bc9694714E2874c1ce77aa1E599461E18": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x55A8a39bc9694714E2874c1ce77aa1E599461E18",
+            "apy": 0
+          }
+        ]
+      },
+      "0x87650D7bbfC3A9F10587d7778206671719d9910D": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x87650D7bbfC3A9F10587d7778206671719d9910D",
+            "apy": 0
+          }
+        ]
+      },
+      "0xFbdCA68601f835b27790D98bbb8eC7f05FDEaA9B": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xFbdCA68601f835b27790D98bbb8eC7f05FDEaA9B",
+            "apy": 0
+          }
+        ]
+      },
+      "0xBaaa1F5DbA42C3389bDbc2c9D2dE134F5cD0Dc89": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xBaaa1F5DbA42C3389bDbc2c9D2dE134F5cD0Dc89",
+            "apy": 0
+          }
+        ]
+      },
+      "0x3b6831c0077a1e44ED0a21841C3bC4dC11bCE833": {
+        "total": 1.4744530188688154,
+        "apy": [
+          {
+            "rewardToken": "0x3b6831c0077a1e44ED0a21841C3bC4dC11bCE833",
+            "apy": 1.4744530188688154
+          }
+        ]
+      },
+      "0x3D229E1B4faab62F621eF2F6A610961f7BD7b23B": {
+        "total": 0.595614198615646,
+        "apy": [
+          {
+            "rewardToken": "0x3D229E1B4faab62F621eF2F6A610961f7BD7b23B",
+            "apy": 0.595614198615646
+          }
+        ]
+      },
+      "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0": {
+        "total": 3.8857257908460063,
+        "apy": [
+          {
+            "rewardToken": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+            "apy": 3.8857257908460063
+          }
+        ]
+      },
+      "0xb9446c4Ef5EBE66268dA6700D26f96273DE3d571": {
+        "total": 4.114363020985534,
+        "apy": [
+          {
+            "rewardToken": "0xb9446c4Ef5EBE66268dA6700D26f96273DE3d571",
+            "apy": 4.114363020985534
+          }
+        ]
+      },
+      "0xEd4064f376cB8d68F770FB1Ff088a3d0F3FF5c4d": {
+        "total": 3.50175975865481,
+        "apy": [
+          {
+            "rewardToken": "0xEd4064f376cB8d68F770FB1Ff088a3d0F3FF5c4d",
+            "apy": 3.50175975865481
+          }
+        ]
+      },
+      "0x3A283D9c08E8b55966afb64C515f5143cf907611": {
+        "total": 16.867387235789757,
+        "apy": [
+          {
+            "rewardToken": "0x3A283D9c08E8b55966afb64C515f5143cf907611",
+            "apy": 16.867387235789757
+          }
+        ]
+      },
+      "0xCEAF7747579696A2F0bb206a14210e3c9e6fB269": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xCEAF7747579696A2F0bb206a14210e3c9e6fB269",
+            "apy": 0
+          }
+        ]
+      },
+      "0x6BA5b4e438FA0aAf7C1bD179285aF65d13bD3D90": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x6BA5b4e438FA0aAf7C1bD179285aF65d13bD3D90",
+            "apy": 0
+          }
+        ]
+      },
+      "0xAA5A67c256e27A5d80712c51971408db3370927D": {
+        "total": 126.75455556408957,
+        "apy": [
+          {
+            "rewardToken": "0xAA5A67c256e27A5d80712c51971408db3370927D",
+            "apy": 126.75455556408957
+          }
+        ]
+      },
+      "0xc270b3B858c335B6BA5D5b10e2Da8a09976005ad": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xc270b3B858c335B6BA5D5b10e2Da8a09976005ad",
+            "apy": 0
+          }
+        ]
+      },
+      "0x29059568bB40344487d62f7450E78b8E6C74e0e5": {
+        "total": 3.2797905616654077,
+        "apy": [
+          {
+            "rewardToken": "0x29059568bB40344487d62f7450E78b8E6C74e0e5",
+            "apy": 3.2797905616654077
+          }
+        ]
+      },
+      "0x447Ddd4960d9fdBF6af9a790560d0AF76795CB08": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x447Ddd4960d9fdBF6af9a790560d0AF76795CB08",
+            "apy": 0
+          }
+        ]
+      },
+      "0x828b154032950C8ff7CF8085D841723Db2696056": {
+        "total": 1.3329449609141841,
+        "apy": [
+          {
+            "rewardToken": "0x828b154032950C8ff7CF8085D841723Db2696056",
+            "apy": 1.3329449609141841
+          }
+        ]
+      },
+      "0x4647B6D835f3B393C7A955df51EEfcf0db961606": {
+        "total": 2.205284446740885,
+        "apy": [
+          {
+            "rewardToken": "0x4647B6D835f3B393C7A955df51EEfcf0db961606",
+            "apy": 2.205284446740885
+          }
+        ]
+      },
+      "0x80CAcCdBD3f07BbdB558DB4a9e146D099933D677": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x80CAcCdBD3f07BbdB558DB4a9e146D099933D677",
+            "apy": 0
+          }
+        ]
+      },
+      "0x127091edE112aEd7Bae281747771b3150Bb047bB": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x127091edE112aEd7Bae281747771b3150Bb047bB",
+            "apy": 0
+          }
+        ]
+      },
+      "0x8682Fbf0CbF312C891532BA9F1A91e44f81ad7DF": {
+        "total": 2.863119792529112,
+        "apy": [
+          {
+            "rewardToken": "0x8682Fbf0CbF312C891532BA9F1A91e44f81ad7DF",
+            "apy": 2.863119792529112
+          }
+        ]
+      },
+      "0x08ceA8E5B4551722dEB97113C139Dd83C26c5398": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x08ceA8E5B4551722dEB97113C139Dd83C26c5398",
+            "apy": 0
+          }
+        ]
+      },
+      "0x22CF19EB64226e0E1A79c69b345b31466fD273A7": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x22CF19EB64226e0E1A79c69b345b31466fD273A7",
+            "apy": 0
+          }
+        ]
+      },
+      "0x54c8Ecf46A81496eEB0608BD3353388b5D7a2a33": {
+        "total": 7.174455748781328,
+        "apy": [
+          {
+            "rewardToken": "0x54c8Ecf46A81496eEB0608BD3353388b5D7a2a33",
+            "apy": 7.174455748781328
+          }
+        ]
+      },
+      "0xdf55670e27bE5cDE7228dD0A6849181891c9ebA1": {
+        "total": 0.21865970312975325,
+        "apy": [
+          {
+            "rewardToken": "0xdf55670e27bE5cDE7228dD0A6849181891c9ebA1",
+            "apy": 0.21865970312975325
+          }
+        ]
+      },
+      "0x7B50775383d3D6f0215A8F290f2C9e2eEBBEceb2": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x7B50775383d3D6f0215A8F290f2C9e2eEBBEceb2",
+            "apy": 0
+          }
+        ]
+      },
+      "0x0309A528bBa0394dC4A2Ce59123C52E317A54604": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x0309A528bBa0394dC4A2Ce59123C52E317A54604",
+            "apy": 0
+          }
+        ]
+      },
+      "0x4c1317326fD8EFDeBdBE5e1cd052010D97723bd6": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x4c1317326fD8EFDeBdBE5e1cd052010D97723bd6",
+            "apy": 0
+          }
+        ]
+      },
+      "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b": {
+        "total": 29.434480065164582,
+        "apy": [
+          {
+            "rewardToken": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
+            "apy": 29.434480065164582
+          }
+        ]
+      },
+      "0x453D92C7d4263201C69aACfaf589Ed14202d83a4": {
+        "total": 0.9036961944274502,
+        "apy": [
+          {
+            "rewardToken": "0x453D92C7d4263201C69aACfaf589Ed14202d83a4",
+            "apy": 0.9036961944274502
+          }
+        ]
+      },
+      "0xA13a9247ea42D743238089903570127DdA72fE44": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0xA13a9247ea42D743238089903570127DdA72fE44",
+            "apy": 0
+          }
+        ]
+      },
+      "0x178E029173417b1F9C8bC16DCeC6f697bC323746": {
+        "total": 0,
+        "apy": [
+          {
+            "rewardToken": "0x178E029173417b1F9C8bC16DCeC6f697bC323746",
+            "apy": 0
+          }
+        ]
+      }
+    },
+    "yearnFactory": {},
+    "pirex": {
+      "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC": {
+        "total": 14.055681159420292,
+        "apy": [
+          {
+            "rewardToken": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
+            "apy": 14.055681159420292
+          }
+        ]
+      }
+    },
+    "sommelier": {
+      "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
+        "total": 10.522217543702833,
+        "apy": [
+          {
+            "rewardToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "apy": 10.522217543702833
+          }
+        ]
+      }
+    },
+    "stader": {
+      "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC": {
+        "total": 3.97429,
+        "apy": [
+          {
+            "rewardToken": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
+            "apy": 3.97429
+          }
+        ]
+      },
+      "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+        "total": 3.97429,
+        "apy": [
+          {
+            "rewardToken": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+            "apy": 3.97429
+          }
+        ]
+      },
+      "0x0000000000000000000000000000000000000000": {
+        "total": 3.97429,
+        "apy": [
+          {
+            "rewardToken": "0x0000000000000000000000000000000000000000",
+            "apy": 3.97429
+          }
+        ]
+      }
+    },
+    "kelpDao": {
+      "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC": {
+        "total": 3.97429,
+        "apy": [
+          {
+            "rewardToken": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
+            "apy": 3.97429
+          }
+        ]
+      },
+      "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7": {
+        "total": 3.97429,
+        "apy": [
+          {
+            "rewardToken": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+            "apy": 3.97429
+          }
+        ]
+      }
     }
   },
   "10": {
