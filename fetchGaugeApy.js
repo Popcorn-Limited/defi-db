@@ -89,7 +89,7 @@ function thisPeriodTimestamp() {
 
 async function getTokenPrice(token) {
   const { data } = await axios.get(
-    `https://coins.llama.fi/prices/current/ethereum:${token}`
+    `https://coins.llama.fi/prices/current/ethereum:${token}?searchWidth=24h`
   );
   return data.coins[`ethereum:${token}`]?.price;
 }
