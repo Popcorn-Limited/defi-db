@@ -382,5 +382,13 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38": {
+    "address": "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38",
+    "name": "VaultCraft VCX-LP Vault",
+    "symbol": "vc-vcx-lp",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

@@ -875,5 +875,26 @@
     "labels": [
       "New"
     ]
+  },
+  "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38": {
+    "address": "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38",
+    "assetAddress": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
+    "strategies": [
+      "0x7bDd71e46D602916c065B027028Df686a27D5cB2"
+    ],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": [
+      "New"
+    ]
   }
 }

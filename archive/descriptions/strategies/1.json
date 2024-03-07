@@ -334,5 +334,19 @@
     "name": "Aura",
     "description": "**Aura LP-Compounding** - The vault stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
     "resolver": "aura"
+  },
+  "0x0e67D694771260bD89AF0c4b788383c9B31c4dE1": {
+    "address": "0x0e67D694771260bD89AF0c4b788383c9B31c4dE1",
+    "asset": "0xdEdb11A6a23263469567C2881A9b9F8629eE0041",
+    "name": "Aura",
+    "description": "**Aura LP-Compounding** - The vault stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
+    "resolver": "aura"
+  },
+  "0x7bDd71e46D602916c065B027028Df686a27D5cB2": {
+    "address": "0x7bDd71e46D602916c065B027028Df686a27D5cB2",
+    "asset": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
+    "name": "Aura",
+    "description": "**Aura LP-Compounding** - The vault stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
+    "resolver": "aura"
   }
 }
