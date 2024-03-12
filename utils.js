@@ -1,4 +1,12 @@
 import { mainnet, polygon, optimism, arbitrum } from "viem/chains";
+
+export const networkMap = {
+    [1]: "Ethereum",
+    [137]: "Polygon",
+    [10]: "Optimism",
+    [42161]: "Arbitrum",
+  };
+
 export const VaultRegistryByChain = {
     1: "0x007318Dc89B314b47609C684260CfbfbcD412864",
     137: "0x2246c4c469735bCE95C120939b0C078EC37A08D0",
