@@ -176,16 +176,6 @@ async function calculateGaugeApr(gaugeData, chainId) {
       workingSupplyUSD /
       (100 / gaugeData.tokenlessProduction);
     upperAPR = annualRewardUSD / workingSupplyUSD;
-
-    console.log({
-      vaultAssetPriceInUsd,
-      vcxPriceInUsd,
-      relative_inflation,
-      annualRewardUSD,
-      workingSupplyUSD,
-      lowerAPR,
-      upperAPR,
-    });
   }
 
   return {
@@ -277,7 +267,7 @@ async function getGaugeData(gauge, gaugeType) {
 
   return {
     vault: data[4],
-    inflationRate: Number(isChildGauge ? data[0][0] : data[0]) / 1e18,
+    inflationRate: Number(isChildGauge ? data[0].rate : data[0]) / 1e18,
     cappedRelativeWeight: Number(data[1]) / 1e18,
     tokenlessProduction: Number(data[2]),
     workingSupply: Number(data[5]) / 10 ** Number(data[3]),
