@@ -11,7 +11,7 @@ import { VaultAbi } from "./lib/vaultAbi.js";
 const HIDDEN_GAUGES = [
   "0x38098e3600665168eBE4d827D24D0416efC24799", // Deployment script ran out of gas and somehow added a random address into the gauges which now breaks these calls
   "0xF4c8736c1cf9b03ccB09DA6e8A8312E75CA5B529", // Failed Op Gauge Test
-]
+];
 
 const GaugeControllerAddress = "0xD57d8EEC36F0Ba7D8Fd693B9D97e02D8353EB1F4";
 
@@ -28,17 +28,17 @@ const clientByChainId = {
     chain: networksByChainId[42161],
     transport: http(RPC_URLS[421611]),
   }),
-}
+};
 
 const gaugeTypeToChainId = {
   0: 1,
   1: 1,
   2: 1,
   3: 10,
-  4: 42161
-}
+  4: 42161,
+};
 
-const CHILD_GAUGE_TYPES = [3, 4]
+const CHILD_GAUGE_TYPES = [3, 4];
 
 const ARCHIVE_PATH = "./archive/gauge-apy";
 
@@ -70,9 +70,7 @@ const ARCHIVE_PATH = "./archive/gauge-apy";
     allowFailure: false,
   });
 
-  gauges = gauges.filter(
-    (gauge) => !HIDDEN_GAUGES.includes(gauge)
-  );
+  gauges = gauges.filter((gauge) => !HIDDEN_GAUGES.includes(gauge));
 
   const areGaugesKilled = await clientByChainId[1].multicall({
     contracts: gauges.map((gauge) => {
@@ -88,7 +86,7 @@ const ARCHIVE_PATH = "./archive/gauge-apy";
   gauges = gauges?.filter((gauge, idx) => !areGaugesKilled[idx]);
 
   const gaugeTypes = await clientByChainId[1].multicall({
-    contracts: gauges.map(address => {
+    contracts: gauges.map((address) => {
       return {
         address: GaugeControllerAddress,
         abi: GaugeControllerAbi,
@@ -103,9 +101,12 @@ const ARCHIVE_PATH = "./archive/gauge-apy";
 
   await Promise.all(
     gauges.map(async (gauge, i) => {
-      const gaugeType = Number(gaugeTypes[i])
+      const gaugeType = Number(gaugeTypes[i]);
       const gaugeData = await getGaugeData(gauge, gaugeType);
-      const apy = await calculateGaugeApr(gaugeData, gaugeTypeToChainId[gaugeType]);
+      const apy = await calculateGaugeApr(
+        gaugeData,
+        gaugeTypeToChainId[gaugeType]
+      );
 
       finalGaugeData[gauge] = {
         address: gauge,
@@ -114,7 +115,7 @@ const ARCHIVE_PATH = "./archive/gauge-apy";
         upperAPR: apy.upperAPR,
       };
     })
-  )
+  );
 
   writeFileSync(
     "./gauge-apy-data.json",
@@ -148,8 +149,14 @@ async function getVaultAssetPrice(vault, chainId) {
 }
 
 async function calculateGaugeApr(gaugeData, chainId) {
-  const vaultAssetPriceInUsd = await getVaultAssetPrice(gaugeData.vault, chainId);
-  const vcxPriceInUsd = await getTokenPrice("0xcE246eEa10988C495B4A90a905Ee9237a0f91543", 1);
+  const vaultAssetPriceInUsd = await getVaultAssetPrice(
+    gaugeData.vault,
+    chainId
+  );
+  const vcxPriceInUsd = await getTokenPrice(
+    "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
+    1
+  );
   // calculate the lowerAPR and upperAPR
   let lowerAPR = 0;
   let upperAPR = 0;
@@ -169,6 +176,16 @@ async function calculateGaugeApr(gaugeData, chainId) {
       workingSupplyUSD /
       (100 / gaugeData.tokenlessProduction);
     upperAPR = annualRewardUSD / workingSupplyUSD;
+
+    console.log({
+      vaultAssetPriceInUsd,
+      vcxPriceInUsd,
+      relative_inflation,
+      annualRewardUSD,
+      workingSupplyUSD,
+      lowerAPR,
+      upperAPR,
+    });
   }
 
   return {
@@ -180,10 +197,10 @@ async function calculateGaugeApr(gaugeData, chainId) {
 async function getGaugeData(gauge, gaugeType) {
   const gaugeContract = {
     address: gauge,
-    abi: GaugeAbi
-  }
+    abi: GaugeAbi,
+  };
 
-  const isChildGauge = CHILD_GAUGE_TYPES.includes(gaugeType)
+  const isChildGauge = CHILD_GAUGE_TYPES.includes(gaugeType);
 
   let data = [];
   if (isChildGauge) {
@@ -191,68 +208,70 @@ async function getGaugeData(gauge, gaugeType) {
       contracts: [
         {
           ...gaugeContract,
-          functionName: 'inflation_params', // root
+          functionName: "inflation_params", // root
         },
         {
           ...gaugeContract,
-          functionName: 'getCappedRelativeWeight', // root
-          args: [BigInt(thisPeriodTimestamp())]
-        }
+          functionName: "getCappedRelativeWeight", // root
+          args: [BigInt(thisPeriodTimestamp())],
+        },
       ],
-      allowFailure: false
-    })
-    const childData = await clientByChainId[gaugeTypeToChainId[gaugeType]].multicall({
+      allowFailure: false,
+    });
+    const childData = await clientByChainId[
+      gaugeTypeToChainId[gaugeType]
+    ].multicall({
       contracts: [
         {
           ...gaugeContract,
-          functionName: 'tokenless_production', // child
+          functionName: "tokenless_production", // child
         },
         {
           ...gaugeContract,
-          functionName: 'decimals', // child
+          functionName: "decimals", // child
         },
         {
           ...gaugeContract,
-          functionName: 'lp_token', // child
+          functionName: "lp_token", // child
         },
         {
           ...gaugeContract,
-          functionName: 'working_supply', // child
+          functionName: "working_supply", // child
         },
       ],
-      allowFailure: false
+      allowFailure: false,
     });
-    data.push(...childData)
+    data.push(...childData);
   } else {
     data = await clientByChainId[1].multicall({
       contracts: [
         {
           ...gaugeContract,
-          functionName: 'inflation_rate', // root
+          functionName: "inflation_rate", // root
         },
         {
           ...gaugeContract,
-          functionName: 'getCappedRelativeWeight', // root
-          args: [BigInt(thisPeriodTimestamp())]
+          functionName: "getCappedRelativeWeight", // root
+          args: [BigInt(thisPeriodTimestamp())],
         },
         {
           ...gaugeContract,
-          functionName: 'tokenless_production', // root
+          functionName: "tokenless_production", // root
         },
         {
           ...gaugeContract,
-          functionName: 'decimals', // root
+          functionName: "decimals", // root
         },
         {
           ...gaugeContract,
-          functionName: 'lp_token', // root
+          functionName: "lp_token", // root
         },
         {
           ...gaugeContract,
-          functionName: 'working_supply', // root
+          functionName: "working_supply", // root
         },
       ],
-      allowFailure: false
+      allowFailure: false,
     });
   }
 
