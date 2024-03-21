@@ -52494,5 +52494,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
     "chainId": 1
+  },
+  "0xcE246eEa10988C495B4A90a905Ee9237a0f91543":{
+    "address": "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
+    "name": "VCX",
+    "symbol": "VCX",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/vaultcraft_32.png",
+    "chainId": 1
   }
 }
