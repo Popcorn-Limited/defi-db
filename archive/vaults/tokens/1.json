@@ -390,5 +390,21 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x434E7EA9BC77C93c3F4680862281603338c7aE02": {
+    "address": "0x434E7EA9BC77C93c3F4680862281603338c7aE02",
+    "name": "VaultCraft ION wstETH Vault 1",
+    "symbol": "vc-ion-wstETH-1",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
+  "0xa48d49F63Dfc185cDD409B65f042955f509d9658": {
+    "address": "0xa48d49F63Dfc185cDD409B65f042955f509d9658",
+    "name": "VaultCraft ION wstETH Vault 2",
+    "symbol": "vc-ion-wstETH-2",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }
