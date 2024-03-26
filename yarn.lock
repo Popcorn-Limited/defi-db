@@ -458,10 +458,10 @@ undici-types@~5.26.4:
   resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-5.26.5.tgz#bcd539893d00b56e964fd2657a4866b221a65617"
   integrity sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==
 
-vaultcraft-sdk@0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/vaultcraft-sdk/-/vaultcraft-sdk-0.2.3.tgz#198fd9bca3c748755de00c632f411dc7b05495db"
-  integrity sha512-e2jA4JeGXRH0w7fULIWfBvNrMrivGpTLxQJ2+jHqJ3v31/CPYfqshgQOt3SGpUZY6NUhe7Fx4qOkFYOSyJdzDA==
+vaultcraft-sdk@0.2.4:
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/vaultcraft-sdk/-/vaultcraft-sdk-0.2.4.tgz#f575a3e2a7f59b1a22b839fd98ba3a6488078e49"
+  integrity sha512-QRKkrxmpC8wP74P43n72TIwieNKPW2m4CaGz8ZKLOMhnqek3optFM379ljq2B5KZh6CH3BiLpY6g8xiKzdgxBw==
   dependencies:
     "@curvefi/api" "2.44.0"
     axios "^1.5.0"

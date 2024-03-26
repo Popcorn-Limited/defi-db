@@ -10,7 +10,7 @@
     "@viem/anvil": "^0.0.6",
     "axios": "^1.6.5",
     "dayjs": "^1.11.10",
-    "vaultcraft-sdk": "0.2.3",
+    "vaultcraft-sdk": "0.2.4",
     "viem": "^1.10.14"
   }
 }
