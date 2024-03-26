@@ -348,5 +348,19 @@
     "name": "Aura",
     "description": "**Aura LP-Compounding** - The vault stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token is swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event. The transaction cost required to do all this is socialized among the vault's users.",
     "resolver": "aura"
+  },
+  "0x9E0c5d524dc3Ff0aa734c52aa57ab623436364e6": {
+    "address": "0x9E0c5d524dc3Ff0aa734c52aa57ab623436364e6",
+    "asset": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "name": "Ion",
+    "description":"**Lending** - The vault supplies assets into the ION wstETH / weETH market to earn interest.",
+    "resolver": "ion"
+  },
+  "0xA84397004Abe8229CC481cE91BA850ECd8204822": {
+    "address": "0xA84397004Abe8229CC481cE91BA850ECd8204822",
+    "asset": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "name": "Ion",
+    "description":"**Lending** - The vault supplies assets into the ION wstETH / rsETH market to earn interest.",
+    "resolver": "ion"
   }
 }

@@ -896,5 +896,47 @@
     "labels": [
       "New"
     ]
+  },
+  "0x434E7EA9BC77C93c3F4680862281603338c7aE02": {
+    "address": "0x434E7EA9BC77C93c3F4680862281603338c7aE02",
+    "assetAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "strategies": [
+      "0x9E0c5d524dc3Ff0aa734c52aa57ab623436364e6"
+    ],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": [
+      "New"
+    ]
+  },
+  "0xa48d49F63Dfc185cDD409B65f042955f509d9658": {
+    "address": "0xa48d49F63Dfc185cDD409B65f042955f509d9658",
+    "assetAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "strategies": [
+      "0xA84397004Abe8229CC481cE91BA850ECd8204822"
+    ],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": [
+      "New"
+    ]
   }
 }
