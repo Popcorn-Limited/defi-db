@@ -16654,5 +16654,13 @@
     "decimals": 18,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/FRAX.png",
     "chainId": 42161
+  },
+  "0x59a696bF34Eae5AD8Fd472020e3Bed410694a230":{
+    "address": "0x59a696bF34Eae5AD8Fd472020e3Bed410694a230",
+    "name": "VCX Call Option Token",
+    "symbol": "oVCX",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/vaultcraft_32.png",
+    "chainId": 42161
   }
 }
