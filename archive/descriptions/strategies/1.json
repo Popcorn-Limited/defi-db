@@ -296,7 +296,7 @@
   "0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d": {
     "address": "0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d",
     "asset": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
-    "name": "KelpDao",
+    "name": "KelpDAO",
     "description": "**KelpDao Depositor** - COMING SOON",
     "resolver": "kelpDao"
   },
