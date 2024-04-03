@@ -52510,5 +52510,13 @@
     "decimals": 18,
     "logoURI": "https://etherscan.io/token/images/vaultcraft_32.png",
     "chainId": 1
+  },
+  "0x0aB4bC35Ef33089B9082Ca7BB8657D7c4E819a1A":{
+    "address": "0x0aB4bC35Ef33089B9082Ca7BB8657D7c4E819a1A",
+    "name": "Vote Locked VCX",
+    "symbol": "veVCX",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/vaultcraft_32.png",
+    "chainId": 1
   }
 }
