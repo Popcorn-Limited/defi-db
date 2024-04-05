@@ -138,6 +138,13 @@ async function getTokenPrice(token, chainId) {
   return data.coins[key]?.price;
 }
 
+async function getVCXPrice() {
+  const { data: vcxPriceRes } = await axios.get(
+    "https://api.dexscreener.com/latest/dex/pairs/ethereum/0x577a7f7ee659aa14dc16fd384b3f8078e23f1920000200000000000000000633-0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2-0xcE246eEa10988C495B4A90a905Ee9237a0f91543"
+  );
+  return Number(vcxPriceRes.pair.priceUsd);
+}
+
 async function getVaultAssetPrice(vault, chainId) {
   const asset = await clientByChainId[chainId].readContract({
     address: vault,
@@ -153,10 +160,8 @@ async function calculateGaugeApr(gaugeData, chainId) {
     gaugeData.vault,
     chainId
   );
-  const vcxPriceInUsd = await getTokenPrice(
-    "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
-    1
-  );
+  const vcxPriceInUsd = await getVCXPrice();
+
   // calculate the lowerAPR and upperAPR
   let lowerAPR = 0;
   let upperAPR = 0;
