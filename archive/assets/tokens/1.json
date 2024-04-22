@@ -52519,6 +52519,14 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
+  "0x18445923592be303fbd3BC164ee685C7457051b4":{
+    "address": "0x18445923592be303fbd3BC164ee685C7457051b4",
+    "name": "xVCX",
+    "symbol": "xVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
   "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee": {
     "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
     "name": "Wrapped eETH",

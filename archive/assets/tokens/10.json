@@ -4055,7 +4055,7 @@
     "logoURI": "https://icons.llama.fi/yearn-finance.jpg",
     "chainId": 10
   },
-  "0xD41d34d6b50785fDC025caD971fE940B8AA1bE45":{
+  "0xD41d34d6b50785fDC025caD971fE940B8AA1bE45": {
     "address": "0xD41d34d6b50785fDC025caD971fE940B8AA1bE45",
     "name": "VCX Call Option Token",
     "symbol": "oVCX",
@@ -4063,10 +4063,18 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/oVcx.svg",
     "chainId": 10
   },
-  "0xC1A6Db6793967Ff7fb7f211E044A4c285A0eB7FB":{
+  "0xC1A6Db6793967Ff7fb7f211E044A4c285A0eB7FB": {
     "address": "0xC1A6Db6793967Ff7fb7f211E044A4c285A0eB7FB",
     "name": "Vote Locked VCX",
     "symbol": "veVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 10
+  },
+  "0xfe7950eC9AfE82538CEAC95735f1daf31829d066": {
+    "address": "0xfe7950eC9AfE82538CEAC95735f1daf31829d066",
+    "name": "xVCX",
+    "symbol": "xVCX",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10

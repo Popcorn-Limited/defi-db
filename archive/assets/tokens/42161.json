@@ -16670,5 +16670,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0x18445923592be303fbd3BC164ee685C7457051b4":{
+    "address": "0x18445923592be303fbd3BC164ee685C7457051b4",
+    "name": "xVCX",
+    "symbol": "xVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }
