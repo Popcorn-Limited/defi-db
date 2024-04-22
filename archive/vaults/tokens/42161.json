@@ -110,5 +110,13 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72": {
+    "address": "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72",
+    "name": "VaultCraft WBTC Vault",
+    "symbol": "vc-WBTC-LP",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }

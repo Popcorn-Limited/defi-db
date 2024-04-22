@@ -103,5 +103,12 @@
     "name": "Velodrome",
     "description": "**Velodrome LP-Compounding** - This vault earns compounding interest on LP-tokens of the OP / USDC liquidity pool on Velodrome. The LP-tokens are staked in a gauge on Velodrome to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
     "resolver": "velodrome"
+  },
+  "0x4c95761fA7Ee62c1023097b531a8B8E14F486956": {
+    "address": "0x4c95761fA7Ee62c1023097b531a8B8E14F486956",
+    "asset": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "name": "AaveV3",
+    "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the WBTC market. Which generates compound interest on your WBTC by lending it out to borrowers.",
+    "resolver": "aaveV3"
   }
 }

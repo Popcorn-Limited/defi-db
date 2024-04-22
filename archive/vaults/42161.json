@@ -226,5 +226,22 @@
     "description": "This is an experimental vault testing the CurveSingleAssetCompounder. It deploys FRAX into the crvUSD/FRAX Pool on Curve and compounds rewards back into it.",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "labels": ["Experimental"]
+  },
+  "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72": {
+    "address": "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72",
+    "assetAddress": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "strategies": ["0x8904c44f1b2AD67a1c8Ac43D6774272Cd5836eaA"],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["New"]
   }
 }
