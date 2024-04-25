@@ -9380,6 +9380,15 @@
       }
     },
     "origin": {
+      "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615": {
+        "total": 3.96,
+        "apy": [
+          {
+            "rewardToken": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
+            "apy": 3.96
+          }
+        ]
+      },
       "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3": {
         "total": 3.413800651934593,
         "apy": [
@@ -11584,20 +11593,20 @@
     },
     "ion": {
       "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee": {
-        "total": 0,
+        "total": 16.04,
         "apy": [
           {
             "rewardToken": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
-            "apy": 0
+            "apy": 16.04
           }
         ]
       },
       "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7": {
-        "total": 0,
+        "total": 13.85,
         "apy": [
           {
             "rewardToken": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
-            "apy": 0
+            "apy": 13.85
           }
         ]
       }
