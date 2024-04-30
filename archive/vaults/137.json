@@ -1,1 +1,34 @@
-{"0xDFd505B54E15D5B20842e868E4c19D7b6F0a4a5d":{"address":"0xDFd505B54E15D5B20842e868E4c19D7b6F0a4a5d","assetAddress":"0x29e38769f23701A2e4A8Ef0492e19dA4604Be62c","strategies":["0x5CE9601F1E15FDED207a6078b1180815D8F469AA"],"chainId":137,"fees":{"deposit":0,"withdrawal":0,"management":0,"performance":100000000000000000},"type":"single-asset-vault-v1","description":"","creator":"0x22f5413C075Ccd56D575A54763831C4c27A37Bdb","feeRecipient":"0x74bb390786072ea1329f270CA6C0058b2D1Afe3f"},"0xB38b9522005ffBb0e297c17A8e2a3f11C6433e8C":{"address":"0xB38b9522005ffBb0e297c17A8e2a3f11C6433e8C","assetAddress":"0x1205f31718499dBf1fCa446663B532Ef87481fe1","strategies":["0xdd1AB4f32a68eCA535a07bdFDfB350D29cC59230"],"chainId":137,"fees":{"deposit":0,"withdrawal":0,"management":0,"performance":100000000000000000},"type":"single-asset-vault-v1","description":"","creator":"0x22f5413C075Ccd56D575A54763831C4c27A37Bdb","feeRecipient":"0x74bb390786072ea1329f270CA6C0058b2D1Afe3f"}}
+{
+  "0xDFd505B54E15D5B20842e868E4c19D7b6F0a4a5d": {
+    "address": "0xDFd505B54E15D5B20842e868E4c19D7b6F0a4a5d",
+    "assetAddress": "0x29e38769f23701A2e4A8Ef0492e19dA4604Be62c",
+    "strategies": ["0x5CE9601F1E15FDED207a6078b1180815D8F469AA"],
+    "chainId": 137,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f"
+  },
+  "0xB38b9522005ffBb0e297c17A8e2a3f11C6433e8C": {
+    "address": "0xB38b9522005ffBb0e297c17A8e2a3f11C6433e8C",
+    "assetAddress": "0x1205f31718499dBf1fCa446663B532Ef87481fe1",
+    "strategies": ["0xdd1AB4f32a68eCA535a07bdFDfB350D29cC59230"],
+    "chainId": 137,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f"
+  }
+}
