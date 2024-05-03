@@ -7,6 +7,7 @@ import { networksByChainId, RPC_URLS, networkMap } from "./utils.js";
 import { GaugeControllerAbi } from "./lib/gaugeControllerAbi.js";
 import { GaugeAbi } from "./lib/gaugeAbi.js";
 import { VaultAbi } from "./lib/vaultAbi.js";
+import { ERC20Abi } from "./lib/erc20Abi.js";
 
 const HIDDEN_GAUGES = [
   "0x38098e3600665168eBE4d827D24D0416efC24799", // Deployment script ran out of gas and somehow added a random address into the gauges which now breaks these calls
@@ -147,7 +148,7 @@ async function getVCXPrice() {
     return Number(data.pair.priceUsd);
   } catch (e) {
     console.log("error fetching vcx price: ", e);
-    return 0.08563;
+    return 0.06346;
   }
 }
 
@@ -180,9 +181,7 @@ async function calculateGaugeApr(gaugeData, chainId) {
     const annualRewardUSD = relative_inflation * 86400 * 365 * oVcxPriceUSD;
     const workingSupplyUSD =
       (gaugeData.workingSupply > 0 ? gaugeData.workingSupply : 1e18) *
-      vaultAssetPriceInUsd;
-
-   
+      vaultAssetPriceInUsd * 1e9;
 
     lowerAPR =
       annualRewardUSD /
@@ -197,10 +196,10 @@ async function calculateGaugeApr(gaugeData, chainId) {
       vcxPriceInUsd,
       annualRewardUSD,
       workingSupplyUSD,
-      workingSupply:gaugeData.workingSupply,
-      decimals:gaugeData.decimals,
+      workingSupply: gaugeData.workingSupply,
+      decimals: gaugeData.decimals,
       lowerAPR,
-      upperAPR
+      upperAPR,
     });
   }
 
@@ -218,9 +217,9 @@ async function getGaugeData(gauge, gaugeType) {
 
   const isChildGauge = CHILD_GAUGE_TYPES.includes(gaugeType);
 
-  let data = [];
+  let gaugeData = [];
   if (isChildGauge) {
-    data = await clientByChainId[1].multicall({
+    gaugeData = await clientByChainId[1].multicall({
       contracts: [
         {
           ...gaugeContract,
@@ -244,22 +243,14 @@ async function getGaugeData(gauge, gaugeType) {
         },
         {
           ...gaugeContract,
-          functionName: "decimals", // child
-        },
-        {
-          ...gaugeContract,
           functionName: "lp_token", // child
-        },
-        {
-          ...gaugeContract,
-          functionName: "working_supply", // child
         },
       ],
       allowFailure: false,
     });
-    data.push(...childData);
+    gaugeData.push(...childData);
   } else {
-    data = await clientByChainId[1].multicall({
+    gaugeData = await clientByChainId[1].multicall({
       contracts: [
         {
           ...gaugeContract,
@@ -276,27 +267,58 @@ async function getGaugeData(gauge, gaugeType) {
         },
         {
           ...gaugeContract,
-          functionName: "decimals", // root
-        },
-        {
-          ...gaugeContract,
           functionName: "lp_token", // root
-        },
-        {
-          ...gaugeContract,
-          functionName: "working_supply", // root
         },
       ],
       allowFailure: false,
     });
   }
 
+  const vaultData = await clientByChainId[
+    gaugeTypeToChainId[gaugeType]
+  ].multicall({
+    contracts: [
+      {
+        address: gaugeData[3],
+        abi: VaultAbi,
+        functionName: "decimals",
+      },
+      {
+        address: gaugeData[3],
+        abi: VaultAbi,
+        functionName: "balanceOf",
+        args: [gauge],
+      },
+      {
+        address: gaugeData[3],
+        abi: VaultAbi,
+        functionName: "totalAssets",
+      },
+      {
+        address: gaugeData[3],
+        abi: VaultAbi,
+        functionName: "totalSupply",
+      },
+    ],
+    allowFailure: false,
+  });
+
+  console.log({ vaultData });
+
+  const assetsPerShare =
+    Number(vaultData[3]) > 0
+      ? (Number(vaultData[2]) + 1) / (Number(vaultData[3]) + 1e9)
+      : Number(1e-9);
+
+  console.log({ assetsPerShare });
+
   return {
-    vault: data[4],
-    inflationRate: Number(isChildGauge ? data[0].rate : data[0]) / 1e18,
-    cappedRelativeWeight: Number(data[1]) / 1e18,
-    tokenlessProduction: Number(data[2]),
-    workingSupply: Number(data[5]) / 10 ** Number(data[3]),
-    decimals: Number(data[3]),
+    vault: gaugeData[3],
+    inflationRate:
+      Number(isChildGauge ? gaugeData[0].rate : gaugeData[0]) / 1e18,
+    cappedRelativeWeight: Number(gaugeData[1]) / 1e18,
+    tokenlessProduction: Number(gaugeData[2]),
+    workingSupply:
+      (assetsPerShare * Number(vaultData[1])) / 10 ** Number(vaultData[0]),
   };
 }
