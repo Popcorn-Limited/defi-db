@@ -123,7 +123,7 @@
     "address": "0x4e93CC7B2d4bE75B9c3cFBC6436DD4315c46c412",
     "name": "VaultCraft WBTC Vault",
     "symbol": "vc-WBTC-LP",
-    "decimals": 27,
+    "decimals": 17,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   }
