@@ -95,14 +95,18 @@
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Idle",
     "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
-    "resolver": "idleSenior"
+    "resolver": "idleSenior",
+    "apy-id": "7368c365-8280-4f4c-99dd-d7a989b31176",
+    "apy-source": "defillama"
   },
   "0x197F58De2559097d956b4192e8F89A2F36190a48": {
     "address": "0x197F58De2559097d956b4192e8F89A2F36190a48",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "resolver": "idleJunior"
+    "resolver": "idleJunior",
+    "apy-id": "4419943a-dc35-470c-8210-a6f087e1fb70",
+    "apy-source": "defillama"
   },
   "0xaD8c7EbEEA0706476CB6656349456B44ccd79A64": {
     "address": "0xaD8c7EbEEA0706476CB6656349456B44ccd79A64",
@@ -116,14 +120,18 @@
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "resolver": "idleJunior"
+    "resolver": "idleJunior",
+    "apy-id": "3cc9c2ca-40e6-48e1-ab59-56812f05343f",
+    "apy-source": "defillama"
   },
   "0xE48d33e869f874D6BEe3701beF22ae72c60A3b3c": {
     "address": "0xE48d33e869f874D6BEe3701beF22ae72c60A3b3c",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "resolver": "idleJunior"
+    "resolver": "idleJunior",
+    "apy-id": "9f69b48a-def9-4d55-86eb-10e9deaa6008",
+    "apy-source": "defillama"
   },
   "0x550DE5484998957F90986FfAfcE505E790A43CDA": {
     "address": "0x550DE5484998957F90986FfAfcE505E790A43CDA",
@@ -277,7 +285,9 @@
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "name": "Sommelier",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Sommelier to maximize yield generation, leveraging Sommelier's expertise across various protocols without needing personal management of the investment process.",
-    "resolver": "sommelier"
+    "resolver": "sommelier",
+    "apy-id": "bc5d7692-fa5a-42aa-869f-42eb8c82b254",
+    "apy-source": "defillama"
   },
   "0xebEE0d3B137290438bd796109CB3e9eEa211d9D1": {
     "address": "0xebEE0d3B137290438bd796109CB3e9eEa211d9D1",
@@ -298,7 +308,9 @@
     "asset": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
     "name": "KelpDAO",
     "description": "**KelpDao Restaking** - This vault uses rsETH, a token representing a share of restaked Ethereum. Kelp DAO is developing this LRT on EigenLayer, aiming to provide liquidity and manage rewards for restaked Ethereum. Users benefit by saving on the effort typically required to select services and validators while maintaining the ability to leverage or exchange their rsETH for added flexibility.",
-    "resolver": "kelpDao"
+    "resolver": "kelpDao",
+    "apy-id": "33c732f6-a78d-41da-af5b-ccd9fa5e52d5",
+    "apy-source": "defillama"
   },
   "0xdce45fEab60668195D891242914864837Aa22d8d": {
     "address": "0xdce45fEab60668195D891242914864837Aa22d8d",
@@ -312,14 +324,18 @@
     "asset": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
     "name": "Origin",
     "description": "**Origin Restaking** - This vault uses PrimeETH, a token representing a share of restaked Ethereum. Origin is developing this LRT on EigenLayer, aiming to provide liquidity and manage rewards for restaked Ethereum. Users benefit by saving on the effort typically required to select services and validators while maintaining the ability to leverage or exchange their PrimeETH for added flexibility.",
-    "resolver": "origin"
+    "resolver": "origin",
+    "apy-id": "124e5b78-1c7d-41f0-b4ed-5f422948344e",
+    "apy-source": "defillama"
   },
   "0x24166a9C53D83b935c03F27C29081310d5bf1189": {
     "address": "0x24166a9C53D83b935c03F27C29081310d5bf1189",
     "asset": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
     "name": "Aura",
     "description": "**Aura LP-Compounding** - This vault earns compounding interest on LP-tokens of the ezETH / WETH liquidity pool on Balancer. The LP-tokens are staked in a gauge on Aura to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
-    "resolver": "aura"
+    "resolver": "aura",
+    "apy-id": "afce1731-b8d1-4410-9891-1c5cf8326ff1",
+    "apy-source": "defillama"
   },
   "0xcA8A6287A69977022Ad3b5211d568192e131a574": {
     "address": "0xcA8A6287A69977022Ad3b5211d568192e131a574",
@@ -333,7 +349,9 @@
     "asset": "0xdEdb11A6a23263469567C2881A9b9F8629eE0041",
     "name": "Aura",
     "description": "**Aura LP-Compounding** - This vault earns compounding interest on LP-tokens of the svETH / wstETH liquidity pool on Balancer. The LP-tokens are staked in a gauge on Aura to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
-    "resolver": "aura"
+    "resolver": "aura",
+    "apy-id": "d5461384-0367-4a2a-84db-0463596d3fcf",
+    "apy-source": "defillama"
   },
   "0x0e67D694771260bD89AF0c4b788383c9B31c4dE1": {
     "address": "0x0e67D694771260bD89AF0c4b788383c9B31c4dE1",
@@ -354,13 +372,17 @@
     "asset": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
     "name": "Ion",
     "description": "**Points Lending** - This vault uses a lending strategy on ION using the weETH market. Which generates compound interest on your wstETH by lending it out to borrowers. This strategy also earns points for ION and EtherFi.",
-    "resolver": "ion"
+    "resolver": "ion",
+    "apy-id": "a7c29d5b-da25-4329-a98e-ca427c075d23",
+    "apy-source": "defillama"
   },
   "0xA84397004Abe8229CC481cE91BA850ECd8204822": {
     "address": "0xA84397004Abe8229CC481cE91BA850ECd8204822",
     "asset": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
     "name": "Ion",
     "description": "**Points Lending** - This vault uses a lending strategy on ION using the weETH market. Which generates compound interest on your wstETH by lending it out to borrowers. This strategy also earns points for ION and Kelp DAO.",
-    "resolver": "ion"
+    "resolver": "ion",
+    "apy-id": "e05cc083-3ce9-47f3-87c7-c7cba4c9a8c6",
+    "apy-source": "defillama"
   }
 }

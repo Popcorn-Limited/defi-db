@@ -109,6 +109,8 @@
     "asset": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
     "name": "AaveV3",
     "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the WBTC market. Which generates compound interest on your WBTC by lending it out to borrowers.",
-    "resolver": "aaveV3"
+    "resolver": "aaveV3",
+    "apy-id": "e053590b-54f1-40aa-ae0d-14e701ca734c",
+    "apy-source": "defillama"
   }
 }
