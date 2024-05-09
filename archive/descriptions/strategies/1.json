@@ -4,6 +4,8 @@
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Compound",
     "description": "**Lending** - This vault uses a lending strategy on CompoundV2 using the DAI market. Which generates compound interest on your DAI by lending it out to borrowers.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "compoundV2"
   },
   "0xB98B71F5B756493a898E8B05ac7d6B20644435E6": {
@@ -11,6 +13,8 @@
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Compound",
     "description": "**Lending** - This vault uses a lending strategy on CompoundV2 using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "compoundV2"
   },
   "0x7a2F96F36a03c91Cbf5f4490B4002254c5b7a5E8": {
@@ -18,6 +22,8 @@
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x104AeAC31048aD01A2836254ad0330F3fC8E7Fbc": {
@@ -25,6 +31,8 @@
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x743EaD6E224283D00e29866327d4E35B6f196F79": {
@@ -32,6 +40,8 @@
     "asset": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
     "name": "Origin",
     "description": "**OETH** - OETH integrates with various Liquid Staking Provider to optimize interest earned by staking Ether.\n      ----\n      The OETH protocol also utilizes Curve and Convex Finance to earn trading fees and additional rewards on ETH / OETH. It automatically claims and converts bonus incentives that are being distributed by these protocols.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "origin"
   },
   "0x61e629419410E913060Cf321989b3f6AF2C09164": {
@@ -39,6 +49,8 @@
     "asset": "0x76FCf0e8C7Ff37A47a799FA2cd4c13cDe0D981C9",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "beefy"
   },
   "0xB597852043Ce22D293F533143C2bE47aF94C456A": {
@@ -46,6 +58,8 @@
     "asset": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x3e8a2993d950C718e5b85285D7FCa0b33Ae0C2eA": {
@@ -53,6 +67,8 @@
     "asset": "0xA13a9247ea42D743238089903570127DdA72fE44",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x33d9A49CfB1005E722a3BEE2959b2Ed3c127eA84": {
@@ -60,6 +76,8 @@
     "asset": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x99513f12ac1dd0d9979e07e59b06Cd5d6dfB9330": {
@@ -67,6 +85,8 @@
     "asset": "0x21E27a5E5513D6e65C4f830167390997aA84843a",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0xF35Dc1F592ed2D6dE8a9af2116683f2D6fac2a7f": {
@@ -74,6 +94,8 @@
     "asset": "0x5271045F7B73c17825A7A7aee6917eE46b0B7520",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x9bdC69Aaba05E1425a44fc439a7Fe92615977a1f": {
@@ -81,6 +103,8 @@
     "asset": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x1125f17E999ea4F2498D01c35785fE90B5C4d8ff": {
@@ -88,6 +112,8 @@
     "asset": "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56",
     "name": "Stargate",
     "description": "**Stargate Bridge LP-Compounding** - This vault earns compounding interest on LP-tokens of the USDC bridge liquidity pool on Stargate. The LP-tokens are staked in a gauge on Stargate to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "stargate"
   },
   "0xC09C94BDb26cAEd2099C7ffA8fBAc903E9338D02": {
@@ -113,6 +139,8 @@
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Idle",
     "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleSenior"
   },
   "0x29bE2A691394f635a9AC506a238Cc201BAA52351": {
@@ -138,6 +166,8 @@
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "name": "Idle",
     "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleSenior"
   },
   "0x2661495A1B6BF8b7a2F33c707A74801aBeCA3d74": {
@@ -145,6 +175,8 @@
     "asset": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
     "name": "Origin",
     "description": "**OUSD** - OUSD integrates with Aave and Compound to automate yield on over-collateralized loans.\n    ----\n    The OUSD protocol also routes USDT, USDC, and DAI to highly-performing liquidity pools as determined by trading volume and rewards tokens (e.g. Curve rewards CRV tokens to liquidity providers). Yields are then passed on to OUSD holders.\n    ---\n    In addition to collecting interest from and fees from market making, the protocol automatically claims and converts bonus incentives that are being distributed by DeFi protocols.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "origin"
   },
   "0x2d676E8547a99eb386Ddc6a9e0262E2ffC8215dc": {
@@ -152,6 +184,8 @@
     "asset": "0x20a61B948E33879ce7F23e535CC7BAA3BC66c5a9",
     "name": "Aura",
     "description": "**Aura LP-Compounding** - This vault earns compounding interest on LP-tokens of the R / DAI liquidity pool on Balancer. The LP-tokens are staked in a gauge on Aura to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "aura"
   },
   "0x239377821bbA921307622349C20ffb3DbBD36F2D": {
@@ -159,6 +193,8 @@
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleJunior"
   },
   "0xbA1d38D6bb5E2FA2a08aA9f660B2c7A6D933Da87": {
@@ -166,6 +202,8 @@
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleJunior"
   },
   "0x2BFDbad3504e585830409158e389FaBC9B4a0A49": {
@@ -173,6 +211,8 @@
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleJunior"
   },
   "0x9EB44d66a0610F89f227ca8Df38766a9c72A640c": {
@@ -180,6 +220,8 @@
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleJunior"
   },
   "0xA301B31184CF084e817C6eB1C7eF57956486853E": {
@@ -187,6 +229,8 @@
     "asset": "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "beefy"
   },
   "0xb7fBFBA3e2d146B849D0B473cd04d53fe88FD704": {
@@ -194,6 +238,8 @@
     "asset": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
     "name": "Aave",
     "description": "**Lending** - This vault uses a lending strategy on AaveV2 using the LUSD market. Which generates compound interest on your LUSD by lending it out to borrowers.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "aaveV2"
   },
   "0xf9C4E79C874465e275a236f71ca7D9BB699fA810": {
@@ -201,6 +247,8 @@
     "asset": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
     "name": "Aave",
     "description": "**Lending** - This vault uses a lending strategy on AaveV2 using the LUSD market. Which generates compound interest on your LUSD by lending it out to borrowers.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "aaveV2"
   },
   "0x37447E69A1Dd931a4B5b9c28C186B37e216aa4E8": {
@@ -208,6 +256,8 @@
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleJunior"
   },
   "0x89580C72a147A43CD05a9f001542729FdB194cFE": {
@@ -215,6 +265,8 @@
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleJunior"
   },
   "0x6Bd0C1823cd18f6bb8FFbb7Da0a3dEB09D2cFebB": {
@@ -222,6 +274,8 @@
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleJunior"
   },
   "0xc4Cc9a9008E0bd6C6ED156fc540C93D1b96ac7B9": {
@@ -229,6 +283,8 @@
     "asset": "0x971add32Ea87f10bD192671630be3BE8A11b8623",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0xBE1F69ed8f0cd5FCa72a28d8F249632e05Ec9655": {
@@ -236,6 +292,8 @@
     "asset": "0x971add32Ea87f10bD192671630be3BE8A11b8623",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x1061321151bD892F8044ecc095166a7F54D7d96a": {
@@ -243,6 +301,8 @@
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x351DFF520260b118cA7830c32cD50158e2AF85Ef": {
@@ -250,6 +310,8 @@
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "name": "Idle",
     "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "idleSenior"
   },
   "0xE4aa80152b36E0b52B366d8B1a5c8A36233DD978": {
@@ -257,6 +319,8 @@
     "asset": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
     "name": "Pirex",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Pirex to maximize yield generation, leveraging Pirex's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "pirex"
   },
   "0xaBA6F3A82DE6F64284D321d35974E903178D9b96": {
@@ -264,6 +328,8 @@
     "asset": "0x94B17476A93b3262d87B9a326965D1E91f9c13E7",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "beefy"
   },
   "0x641E2eb744360c10FCBff358488525E44029eA6A": {
@@ -271,6 +337,8 @@
     "asset": "0xCfCA23cA9CA720B6E98E3Eb9B6aa0fFC4a5C08B9",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "beefy"
   },
   "0xDD4D33dbB2A9922fB7524Ad5eD20b6F52EdA5d80": {
@@ -278,6 +346,8 @@
     "asset": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "beefy"
   },
   "0xE3267A9Ff2d38B748B6aA202e006F7d94Ca22df3": {
@@ -294,6 +364,8 @@
     "asset": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
     "name": "Yearn",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn to maximize yield generation, leveraging Yearn's expertise across various protocols without needing personal management of the investment process.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "yearn"
   },
   "0x27Da6422620A688619AaEf12BCc9C770C333A101": {
@@ -301,6 +373,8 @@
     "asset": "0xE7e2c68d3b13d905BBb636709cF4DfD21076b9D2",
     "name": "Aura",
     "description": "**Aura LP-Compounding** - This vault earns compounding interest on LP-tokens of the svETH / wstETH liquidity pool on Balancer. The LP-tokens are staked in a gauge on Aura to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "aura"
   },
   "0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d": {
@@ -317,6 +391,8 @@
     "asset": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
     "name": "Curve",
     "description": "**Curve LP-Compounding** - This vault earns compounding interest on LP-tokens of the pyUSD / crvUSD liquidity pool on Curve. The LP-tokens are staked in a gauge on Curve to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "curve"
   },
   "0xBD4458CfA154eA9ADE45BaF4dA6136cbC3A70f9f": {
@@ -342,6 +418,8 @@
     "asset": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
     "name": "Convex",
     "description": "**Convex LP-Compounding**  - This vault earns compounding interest on LP-tokens of the pyUSD / crvUSD liquidity pool on Curve. The LP-tokens are staked in a gauge on Convex to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "convex"
   },
   "0x8dEbf3E349E799c10813CB94214d36a32E81906E": {
@@ -358,6 +436,8 @@
     "asset": "0xdEdb11A6a23263469567C2881A9b9F8629eE0041",
     "name": "Aura",
     "description": "**Aura LP-Compounding** - This vault earns compounding interest on LP-tokens of the svETH / wstETH liquidity pool on Balancer. The LP-tokens are staked in a gauge on Aura to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "aura"
   },
   "0x7bDd71e46D602916c065B027028Df686a27D5cB2": {
@@ -365,6 +445,8 @@
     "asset": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
     "name": "Aura",
     "description": "**Aura LP-Compounding** - This vault earns compounding interest on LP-tokens of the VCX / WETH liquidity pool on Balancer. The LP-tokens are staked in a gauge on Aura to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "apy-id": "",
+    "apy-source": "custom",
     "resolver": "aura"
   },
   "0x9E0c5d524dc3Ff0aa734c52aa57ab623436364e6": {

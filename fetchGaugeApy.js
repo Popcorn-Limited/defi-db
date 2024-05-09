@@ -148,7 +148,7 @@ async function getVCXPrice() {
     return Number(data.pair.priceUsd);
   } catch (e) {
     console.log("error fetching vcx price: ", e);
-    return 0.06346;
+    return 0.08724;
   }
 }
 
