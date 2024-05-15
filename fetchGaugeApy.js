@@ -148,7 +148,7 @@ async function getVCXPrice() {
     return Number(data.pair.priceUsd);
   } catch (e) {
     console.log("error fetching vcx price: ", e);
-    return 0.08168;
+    return 0.08473;
   }
 }
 
@@ -181,7 +181,8 @@ async function calculateGaugeApr(gaugeData, chainId) {
     const annualRewardUSD = relative_inflation * 86400 * 365 * oVcxPriceUSD;
     const workingSupplyUSD =
       (gaugeData.workingSupply > 0 ? gaugeData.workingSupply : 1e18) *
-      vaultAssetPriceInUsd * 1e9;
+      vaultAssetPriceInUsd *
+      1e9;
 
     lowerAPR =
       annualRewardUSD /
