@@ -448,7 +448,10 @@
           }
         ]
       },
-      "0xae7bFd6fA54259fC477879712Eebe34164d3A84F": { "total": 0, "apy": [] },
+      "0xae7bFd6fA54259fC477879712Eebe34164d3A84F": {
+        "total": 0,
+        "apy": []
+      },
       "0x1E19CF2D73a72Ef1332C882F20534B6519Be0276": {
         "total": 0.6503618001525768,
         "apy": [
@@ -521,8 +524,14 @@
           }
         ]
       },
-      "0x1b65fe4881800B91d4277ba738b567CbB200A60d": { "total": 0, "apy": [] },
-      "0xf3AeB3aBbA741f0EEcE8a1B1D2F11b85899951CB": { "total": 0, "apy": [] },
+      "0x1b65fe4881800B91d4277ba738b567CbB200A60d": {
+        "total": 0,
+        "apy": []
+      },
+      "0xf3AeB3aBbA741f0EEcE8a1B1D2F11b85899951CB": {
+        "total": 0,
+        "apy": []
+      },
       "0x48607651416A943bF5AC71C41BE1420538e78f87": {
         "total": 0.3866425640783838,
         "apy": [
@@ -600,7 +609,10 @@
           }
         ]
       },
-      "0x186084fF790C65088BA694Df11758faE4943EE9E": { "total": 0, "apy": [] },
+      "0x186084fF790C65088BA694Df11758faE4943EE9E": {
+        "total": 0,
+        "apy": []
+      },
       "0x0578292CB20a443bA1CdE459c985CE14Ca2bDEe5": {
         "total": 0.9663441038902721,
         "apy": [
@@ -610,7 +622,6 @@
           }
         ]
       },
-      "0x178E029173417b1F9C8bC16DCeC6f697bC323746": { "total": 0, "apy": [] },
       "0x4EdcB2B46377530Bc18BB4D2c7Fe46a992c73e10": {
         "total": 2.681306921866896,
         "apy": [
@@ -765,8 +776,14 @@
           }
         ]
       },
-      "0xD1eC5e215E8148D76F4460e4097FD3d5ae0A3558": { "total": 0, "apy": [] },
-      "0x76FCf0e8C7Ff37A47a799FA2cd4c13cDe0D981C9": { "total": 0, "apy": [] },
+      "0xD1eC5e215E8148D76F4460e4097FD3d5ae0A3558": {
+        "total": 0,
+        "apy": []
+      },
+      "0x76FCf0e8C7Ff37A47a799FA2cd4c13cDe0D981C9": {
+        "total": 0,
+        "apy": []
+      },
       "0xDb0cBcF1b8282dedc90e8c2CEFe11041d6d1e9f0": {
         "total": 3.155132638219764,
         "apy": [
@@ -834,8 +851,14 @@
           }
         ]
       },
-      "0x384F67aA430376efc4f8987eaBf7F3f84eB9EA5d": { "total": 0, "apy": [] },
-      "0x831261f44931B7dA8ba0DcC547223c60BB75B47F": { "total": 0, "apy": [] },
+      "0x384F67aA430376efc4f8987eaBf7F3f84eB9EA5d": {
+        "total": 0,
+        "apy": []
+      },
+      "0x831261f44931B7dA8ba0DcC547223c60BB75B47F": {
+        "total": 0,
+        "apy": []
+      },
       "0x9F9d900462492D4C21e9523ca95A7CD86142F298": {
         "total": 5.494515530046222,
         "apy": [
@@ -909,7 +932,10 @@
           }
         ]
       },
-      "0x779d01F939D78a918A3de18cC236ee89221dfd4E": { "total": 0, "apy": [] },
+      "0x779d01F939D78a918A3de18cC236ee89221dfd4E": {
+        "total": 0,
+        "apy": []
+      },
       "0x79c58f70905F734641735BC61e45c19dD9Ad60bC": {
         "total": 1.5202509009669272,
         "apy": [
@@ -973,7 +999,10 @@
           }
         ]
       },
-      "0xd689ABc77B82803F22c49dE5C8A0049Cc74D11fD": { "total": 0, "apy": [] },
+      "0xd689ABc77B82803F22c49dE5C8A0049Cc74D11fD": {
+        "total": 0,
+        "apy": []
+      },
       "0x04248AAbca09E9a1a3D5129a7ba05b7F17DE7684": {
         "total": 2.782341617096695,
         "apy": [
@@ -1051,7 +1080,10 @@
           }
         ]
       },
-      "0xDf2c03c12442c7A0895455A48569B889079cA52A": { "total": 0, "apy": [] },
+      "0xDf2c03c12442c7A0895455A48569B889079cA52A": {
+        "total": 0,
+        "apy": []
+      },
       "0xdfE6e7e18f6Cc65FA13C8D8966013d4FdA74b6ba": {
         "total": 14.61286324865053,
         "apy": [
@@ -1086,7 +1118,10 @@
           }
         ]
       },
-      "0x18FDf15ff782e44C1f9B6C5846ff6B0F0004F6a2": { "total": 0, "apy": [] },
+      "0x18FDf15ff782e44C1f9B6C5846ff6B0F0004F6a2": {
+        "total": 0,
+        "apy": []
+      },
       "0x156C02f3f7fEf64a3A9D80CCF7085f23ccE91D76": {
         "total": 3.081774072419787,
         "apy": [
@@ -1137,10 +1172,22 @@
           }
         ]
       },
-      "0xc2B021133D1b0cF07dba696fd5DD89338428225B": { "total": 0, "apy": [] },
-      "0x3FA8C89704e5d07565444009e5d9e624B40Be813": { "total": 0, "apy": [] },
-      "0xB2B918f2d628b4c8ff237b0A1c6aC3Bea222FEDc": { "total": 0, "apy": [] },
-      "0x9A172e1cb0E99f7E6DCc4c52e4655e8f337d5c00": { "total": 0, "apy": [] },
+      "0xc2B021133D1b0cF07dba696fd5DD89338428225B": {
+        "total": 0,
+        "apy": []
+      },
+      "0x3FA8C89704e5d07565444009e5d9e624B40Be813": {
+        "total": 0,
+        "apy": []
+      },
+      "0xB2B918f2d628b4c8ff237b0A1c6aC3Bea222FEDc": {
+        "total": 0,
+        "apy": []
+      },
+      "0x9A172e1cb0E99f7E6DCc4c52e4655e8f337d5c00": {
+        "total": 0,
+        "apy": []
+      },
       "0x42ED016F826165C2e5976fe5bC3df540C5aD0Af7": {
         "total": 3.5315128957405135,
         "apy": [
@@ -1170,7 +1217,10 @@
           }
         ]
       },
-      "0xc443C15033FCB6Cf72cC24f1BDA0Db070DdD9786": { "total": 0, "apy": [] },
+      "0xc443C15033FCB6Cf72cC24f1BDA0Db070DdD9786": {
+        "total": 0,
+        "apy": []
+      },
       "0x41503C9D499ddbd1dCdf818a1b05e9774203Bf46": {
         "total": 2.926823361092969,
         "apy": [
@@ -1189,7 +1239,10 @@
           }
         ]
       },
-      "0x158e0fBC2271E1dCEbadD365a22E2B4dD173C0DB": { "total": 0, "apy": [] },
+      "0x158e0fBC2271E1dCEbadD365a22E2B4dD173C0DB": {
+        "total": 0,
+        "apy": []
+      },
       "0x759FABc513AccD292ADA967C4DD7Bb94Da39232e": {
         "total": 407.31497137677104,
         "apy": [
@@ -1496,7 +1549,10 @@
           }
         ]
       },
-      "0xf8C4CD95c7496cB7c8d97202Cf7e5b8DA2204C2b": { "total": 0, "apy": [] },
+      "0xf8C4CD95c7496cB7c8d97202Cf7e5b8DA2204C2b": {
+        "total": 0,
+        "apy": []
+      },
       "0x35c5C8C7B77942f9D44B535Fa590D8b503B2b00C": {
         "total": 3.107064190265423,
         "apy": [
@@ -1618,7 +1674,7 @@
           },
           {
             "rewardToken": "0xba100000625a3754423978a60c9317c58a424e3D",
-            "apy": 1.13
+            "apy": 1.16
           },
           {
             "rewardToken": "0x05ff47AFADa98a98982113758878F9A8B9FddA0a",
@@ -1943,7 +1999,10 @@
           }
         ]
       },
-      "0x767CB26E38beBddfd857d4Ad426d8ff5Bc0fAc2f": { "total": 0, "apy": [] },
+      "0x767CB26E38beBddfd857d4Ad426d8ff5Bc0fAc2f": {
+        "total": 0,
+        "apy": []
+      },
       "0xE3E0022d25194431a98e8bf5034D2617C96e1D44": {
         "total": 0.6350989711416527,
         "apy": [
@@ -2284,7 +2343,10 @@
           }
         ]
       },
-      "0x76FCf0e8C7Ff37A47a799FA2cd4c13cDe0D981C9": { "total": 0, "apy": [] },
+      "0x76FCf0e8C7Ff37A47a799FA2cd4c13cDe0D981C9": {
+        "total": 0,
+        "apy": []
+      },
       "0xB08885e6026bab4333A80024Ec25a1a3e1FF2b8A": {
         "total": 0.6259024439806941,
         "apy": [
@@ -2294,7 +2356,10 @@
           }
         ]
       },
-      "0x779d01F939D78a918A3de18cC236ee89221dfd4E": { "total": 0, "apy": [] },
+      "0x779d01F939D78a918A3de18cC236ee89221dfd4E": {
+        "total": 0,
+        "apy": []
+      },
       "0x27C9f71cC31464B906E0006d4FcBC8900F48f15f": {
         "total": 3.3984128340930706,
         "apy": [
@@ -2411,7 +2476,10 @@
           }
         ]
       },
-      "0x767CB26E38beBddfd857d4Ad426d8ff5Bc0fAc2f": { "total": 0, "apy": [] },
+      "0x767CB26E38beBddfd857d4Ad426d8ff5Bc0fAc2f": {
+        "total": 0,
+        "apy": []
+      },
       "0xe4e72f872c4048925a78E1e6Fddac411C9ae348A": {
         "total": 8.971658965456042,
         "apy": [
@@ -2560,7 +2628,10 @@
           }
         ]
       },
-      "0x8ED9e70BfA17A1E2C4F8e561c8d0c2d1acc092fA": { "total": 0, "apy": [] },
+      "0x8ED9e70BfA17A1E2C4F8e561c8d0c2d1acc092fA": {
+        "total": 0,
+        "apy": []
+      },
       "0x87a867f5D240a782d43D90b6B06DEa470F3f8F22": {
         "total": 0.7452490427586349,
         "apy": [
@@ -2589,7 +2660,10 @@
           }
         ]
       },
-      "0xae7bFd6fA54259fC477879712Eebe34164d3A84F": { "total": 0, "apy": [] },
+      "0xae7bFd6fA54259fC477879712Eebe34164d3A84F": {
+        "total": 0,
+        "apy": []
+      },
       "0xdd378A2a1DD89A90Ee1dE05afF195a4F2E476C49": {
         "total": 0,
         "apy": [
@@ -2625,7 +2699,10 @@
           }
         ]
       },
-      "0x15C1cDAcd3dA1E1C1304200b1bEb080D50BbBc0F": { "total": 0, "apy": [] },
+      "0x15C1cDAcd3dA1E1C1304200b1bEb080D50BbBc0F": {
+        "total": 0,
+        "apy": []
+      },
       "0x441b8a1980f2F2E43A9397099d15CC2Fe6D36250": {
         "total": 1.689749876010151,
         "apy": [
@@ -2790,7 +2867,10 @@
           }
         ]
       },
-      "0xf8C4CD95c7496cB7c8d97202Cf7e5b8DA2204C2b": { "total": 0, "apy": [] },
+      "0xf8C4CD95c7496cB7c8d97202Cf7e5b8DA2204C2b": {
+        "total": 0,
+        "apy": []
+      },
       "0x79c58f70905F734641735BC61e45c19dD9Ad60bC": {
         "total": 1.5202509009669272,
         "apy": [
@@ -2886,7 +2966,10 @@
           }
         ]
       },
-      "0xDf2c03c12442c7A0895455A48569B889079cA52A": { "total": 0, "apy": [] },
+      "0xDf2c03c12442c7A0895455A48569B889079cA52A": {
+        "total": 0,
+        "apy": []
+      },
       "0x40C806394d03d350420d13CD7d1DE1C806f34956": {
         "total": 0.899314538310325,
         "apy": [
@@ -2896,7 +2979,10 @@
           }
         ]
       },
-      "0xD278166DAbaf26707362f7CfDd204b277FD2a460": { "total": 0, "apy": [] },
+      "0xD278166DAbaf26707362f7CfDd204b277FD2a460": {
+        "total": 0,
+        "apy": []
+      },
       "0x0947592314Bf2BD0f86A74299bc8e534e3c7313f": {
         "total": 0,
         "apy": [
@@ -10207,11 +10293,11 @@
     "yearnFactory": {},
     "pirex": {
       "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC": {
-        "total": 21.41121739130435,
+        "total": 21.223884057971016,
         "apy": [
           {
             "rewardToken": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
-            "apy": 21.41121739130435
+            "apy": 21.223884057971016
           }
         ]
       }
