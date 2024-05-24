@@ -1,49 +1,4 @@
 {
-  "0x62a56830C10e3daD8Be198EfeDdec05Aa582392c": {
-    "address": "0x62a56830C10e3daD8Be198EfeDdec05Aa582392c",
-    "asset": "0xB67c014FA700E69681a673876eb8BAFAA36BFf71",
-    "name": "Beefy",
-    "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "",
-    "apy-source": "custom",
-    "resolver": "beefy"
-  },
-  "0x3592E15c4fA75acF1F0229c86fAB7C2304721359": {
-    "address": "0x3592E15c4fA75acF1F0229c86fAB7C2304721359",
-    "asset": "0x68f5d998F00bB2460511021741D098c05721d8fF",
-    "name": "Beefy",
-    "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "",
-    "apy-source": "custom",
-    "resolver": "beefy"
-  },
-  "0xaa8A299694aC82fe7529FE89148545C7C09Ff277": {
-    "address": "0xaa8A299694aC82fe7529FE89148545C7C09Ff277",
-    "asset": "0x5FB31318E9A82EfCaA2cfEFBaCF63e85f4dFF2F1",
-    "name": "Beefy",
-    "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "",
-    "apy-source": "custom",
-    "resolver": "beefy"
-  },
-  "0xe961DCb94A599B17b8be068AFF3F53A7C447918A": {
-    "address": "0xe961DCb94A599B17b8be068AFF3F53A7C447918A",
-    "asset": "0x5402B5F40310bDED796c7D0F3FF6683f5C0cFfdf",
-    "name": "Beefy",
-    "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "",
-    "apy-source": "custom",
-    "resolver": "beefy"
-  },
-  "0xDf92DaBbF013d9214822904b495CC0F70EFbdbC7": {
-    "address": "0xDf92DaBbF013d9214822904b495CC0F70EFbdbC7",
-    "asset": "0x9A592B4539E22EeB8B2A3Df679d572C7712Ef999",
-    "name": "Pirex",
-    "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Pirex to maximize yield generation, leveraging Pirex's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "",
-    "apy-source": "custom",
-    "resolver": "pirex"
-  },
   "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472": {
     "address": "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
@@ -76,8 +31,8 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "AaveV3",
     "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the FRAX market. Which generates compound interest on your FRAX by lending it out to borrowers.",
-    "apy-id": "",
-    "apy-source": "custom",
+    "apy-id": "8d4d3acb-e1bf-471a-8256-36b90a8f4d25",
+    "apy-source": "defillama",
     "resolver": "aaveV3"
   },
   "0x323053A0902E67791c06F65A5D2097ee79dD740F": {

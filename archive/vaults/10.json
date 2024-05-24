@@ -111,22 +111,6 @@
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
   },
-  "0x740dc6c1eA74BbbadCCA0aB6253319e200c421a5": {
-    "address": "0x740dc6c1eA74BbbadCCA0aB6253319e200c421a5",
-    "assetAddress": "0x56770b94279539416855fe29Ef14b26438B5e421",
-    "strategies": ["0x2736fE55eE782eADB5Af6a5660D9B9b01Bfe6105"],
-    "chainId": 10,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
-  },
   "0x400a838eeA2ec6Daf6fA30d7Bc60505f0CecCec1": {
     "address": "0x400a838eeA2ec6Daf6fA30d7Bc60505f0CecCec1",
     "assetAddress": "0x6dA98Bde0068d10DDD11b468b197eA97D96F96Bc",
