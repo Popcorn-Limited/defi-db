@@ -4,8 +4,8 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "FraxLend",
     "description": "**Lending** - This vault uses a lending strategy on FraxLend using the FRAX market. Which generates compound interest on your FRAX by lending it out to borrowers.",
-    "apy-id": "",
-    "apy-source": "custom",
+    "apyId": "",
+    "apySource": "custom",
     "resolver": "none"
   },
   "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08": {
@@ -13,8 +13,8 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "FraxLend",
     "description": "**Lending** - This vault uses a lending strategy on FraxLend using the FRAX market. Which generates compound interest on your FRAX by lending it out to borrowers.",
-    "apy-id": "",
-    "apy-source": "custom",
+    "apyId": "",
+    "apySource": "custom",
     "resolver": "none"
   },
   "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38": {
@@ -22,8 +22,8 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "FraxLend",
     "description": "**Lending** - This vault uses a lending strategy on FraxLend using the FRAX market. Which generates compound interest on your FRAX by lending it out to borrowers.",
-    "apy-id": "",
-    "apy-source": "custom",
+    "apyId": "",
+    "apySource": "custom",
     "resolver": "none"
   },
   "0x61dCd1Da725c0Cdb2C6e67a0058E317cA819Cf5f": {
@@ -31,8 +31,8 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "AaveV3",
     "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the FRAX market. Which generates compound interest on your FRAX by lending it out to borrowers.",
-    "apy-id": "8d4d3acb-e1bf-471a-8256-36b90a8f4d25",
-    "apy-source": "defillama",
+    "apyId": "8d4d3acb-e1bf-471a-8256-36b90a8f4d25",
+    "apySource": "defillama",
     "resolver": "aaveV3"
   },
   "0x323053A0902E67791c06F65A5D2097ee79dD740F": {
@@ -40,8 +40,8 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "CurveGauge",
     "description": "**Curve LP-Compounding** - This vault single side deposits FRAX into the crvUSD / FRAX liquidity pool on Curve. It earns compounding interest on LP-tokens of the by staking in a gauge on Curve to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
-    "apy-id": "",
-    "apy-source": "custom",
+    "apyId": "",
+    "apySource": "custom",
     "resolver": "curve"
   },
   "0x8904c44f1b2AD67a1c8Ac43D6774272Cd5836eaA": {
@@ -50,7 +50,7 @@
     "name": "AaveV3",
     "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the WBTC market. Which generates compound interest on your WBTC by lending it out to borrowers.",
     "resolver": "aaveV3",
-    "apy-id": "7c5e69a4-2430-4fa2-b7cb-857f79d7d1bf",
-    "apy-source": "defillama"
+    "apyId": "7c5e69a4-2430-4fa2-b7cb-857f79d7d1bf",
+    "apySource": "defillama"
   }
 }
