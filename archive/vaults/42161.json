@@ -1,176 +1,207 @@
 {
-  "0xF10878bc18193DD92F934C8A9b945c1172CCb5cA": {
-    "address": "0xF10878bc18193DD92F934C8A9b945c1172CCb5cA",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": ["0x2D0483FefAbA4325c7521539a3DFaCf94A19C472"],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
+    "0xF10878bc18193DD92F934C8A9b945c1172CCb5cA": {
+        "address": "0xF10878bc18193DD92F934C8A9b945c1172CCb5cA",
+        "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "strategies": [
+            "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 0
+        },
+        "type": "single-asset-lock-vault-v1",
+        "description": "",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "labels": [
+            "Deprecated"
+        ]
     },
-    "type": "single-asset-lock-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["Deprecated"]
-  },
-  "0xc44371C57073eF9FafB7631376573baCfEd3928a": {
-    "address": "0xc44371C57073eF9FafB7631376573baCfEd3928a",
-    "assetAddress": "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
-    "strategies": ["0x2D0483FefAbA4325c7521539a3DFaCf94A19C472"],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
+    "0xc44371C57073eF9FafB7631376573baCfEd3928a": {
+        "address": "0xc44371C57073eF9FafB7631376573baCfEd3928a",
+        "assetAddress": "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
+        "strategies": [
+            "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 0
+        },
+        "type": "single-asset-lock-vault-v1",
+        "description": "",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "labels": [
+            "Deprecated"
+        ]
     },
-    "type": "single-asset-lock-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["Deprecated"]
-  },
-  "0xdBd005FCe7767e7e66AeCfC53f054065187330A8": {
-    "address": "0xdBd005FCe7767e7e66AeCfC53f054065187330A8",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": ["0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08"],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
+    "0xdBd005FCe7767e7e66AeCfC53f054065187330A8": {
+        "address": "0xdBd005FCe7767e7e66AeCfC53f054065187330A8",
+        "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "strategies": [
+            "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 0
+        },
+        "type": "single-asset-lock-vault-v1",
+        "description": "",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "labels": [
+            "Deprecated"
+        ]
     },
-    "type": "single-asset-lock-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["Deprecated"]
-  },
-  "0x86Aa9599A8edE1F5d181c2dAc37D826c16792408": {
-    "address": "0x86Aa9599A8edE1F5d181c2dAc37D826c16792408",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": ["0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38"],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
+    "0x86Aa9599A8edE1F5d181c2dAc37D826c16792408": {
+        "address": "0x86Aa9599A8edE1F5d181c2dAc37D826c16792408",
+        "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "strategies": [
+            "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 0
+        },
+        "type": "single-asset-lock-vault-v1",
+        "description": "",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "labels": [
+            "Deprecated"
+        ]
     },
-    "type": "single-asset-lock-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["Deprecated"]
-  },
-  "0x44a7b29335cfc61C2bEA1c48710A1fE11f4aFBa9": {
-    "address": "0x44a7b29335cfc61C2bEA1c48710A1fE11f4aFBa9",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": ["0x2D0483FefAbA4325c7521539a3DFaCf94A19C472"],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
+    "0x44a7b29335cfc61C2bEA1c48710A1fE11f4aFBa9": {
+        "address": "0x44a7b29335cfc61C2bEA1c48710A1fE11f4aFBa9",
+        "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "strategies": [
+            "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 0
+        },
+        "type": "single-asset-lock-vault-v1",
+        "description": "",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
     },
-    "type": "single-asset-lock-vault-v1",
-    "description": "",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
-  },
-  "0x1F0a3bF1e4Ea8f27449AFa0a3A27eFc3817431fc": {
-    "address": "0x1F0a3bF1e4Ea8f27449AFa0a3A27eFc3817431fc",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": ["0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08"],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
+    "0x1F0a3bF1e4Ea8f27449AFa0a3A27eFc3817431fc": {
+        "address": "0x1F0a3bF1e4Ea8f27449AFa0a3A27eFc3817431fc",
+        "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "strategies": [
+            "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 0
+        },
+        "type": "single-asset-lock-vault-v1",
+        "description": "",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
     },
-    "type": "single-asset-lock-vault-v1",
-    "description": "",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
-  },
-  "0xDc5Ed7b972710594082479AF498B1dA02d03a273": {
-    "address": "0xDc5Ed7b972710594082479AF498B1dA02d03a273",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": ["0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38"],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
+    "0xDc5Ed7b972710594082479AF498B1dA02d03a273": {
+        "address": "0xDc5Ed7b972710594082479AF498B1dA02d03a273",
+        "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "strategies": [
+            "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 0
+        },
+        "type": "single-asset-lock-vault-v1",
+        "description": "",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
     },
-    "type": "single-asset-lock-vault-v1",
-    "description": "",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
-  },
-  "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93": {
-    "address": "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": [
-      "0x61dCd1Da725c0Cdb2C6e67a0058E317cA819Cf5f",
-      "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08",
-      "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
-      "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38"
-    ],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
+    "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93": {
+        "address": "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93",
+        "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "strategies": [
+            "0x61dCd1Da725c0Cdb2C6e67a0058E317cA819Cf5f",
+            "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08",
+            "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
+            "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 100000000000000000
+        },
+        "type": "multi-strategy-vault-v1",
+        "description": "This is an experimental vault testing the multi strategy vault. This vault allocates rebalances your assets between multiple fraxlend pools and aave to optimize your yield.",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+        "labels": [
+            "Experimental"
+        ]
     },
-    "type": "multi-strategy-vault-v1",
-    "description": "This is an experimental vault testing the multi strategy vault. This vault allocates rebalances your assets between multiple fraxlend pools and aave to optimize your yield.",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "labels": ["Experimental"]
-  },
-  "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c": {
-    "address": "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": [
-      "0x323053A0902E67791c06F65A5D2097ee79dD740F"
-    ],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
+    "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c": {
+        "address": "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c",
+        "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "strategies": [
+            "0x323053A0902E67791c06F65A5D2097ee79dD740F"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 100000000000000000
+        },
+        "type": "single-asset-vault-v1",
+        "description": "This is an experimental vault testing the CurveSingleAssetCompounder. It deploys FRAX into the crvUSD/FRAX Pool on Curve and compounds rewards back into it.",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+        "labels": [
+            "Experimental"
+        ]
     },
-    "type": "single-asset-vault-v1",
-    "description": "This is an experimental vault testing the CurveSingleAssetCompounder. It deploys FRAX into the crvUSD/FRAX Pool on Curve and compounds rewards back into it.",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "labels": ["Experimental"]
-  },
-  "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72": {
-    "address": "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72",
-    "assetAddress": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
-    "strategies": ["0x8904c44f1b2AD67a1c8Ac43D6774272Cd5836eaA"],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["New"]
-  }
+    "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72": {
+        "address": "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72",
+        "assetAddress": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "strategies": [
+            "0x8904c44f1b2AD67a1c8Ac43D6774272Cd5836eaA"
+        ],
+        "chainId": 42161,
+        "fees": {
+            "deposit": 0,
+            "withdrawal": 0,
+            "management": 0,
+            "performance": 100000000000000000
+        },
+        "type": "single-asset-vault-v1",
+        "description": "",
+        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+        "labels": [
+            "New"
+        ],
+        "gauge": "0x52843d173FE0BBeA5307fa4864665858AaFc9b73"
+    }
 }
