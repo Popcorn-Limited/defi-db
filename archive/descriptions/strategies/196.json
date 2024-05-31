@@ -1,1 +1,20 @@
-{}
+{
+  "0x0ae9515aC7900C6054F684795d554a9Dc202eb51": {
+    "address": "0x0ae9515aC7900C6054F684795d554a9Dc202eb51",
+    "asset": "0x15EEfE5B297136b8712291B632404B66A8eF4D25",
+    "name": "Bedrock",
+    "description": "**Bedrock Restaking** - This vault uses uniETH, a token representing a share of restaked Ethereum. Bedrock is developing this LRT on EigenLayer, aiming to provide liquidity and manage rewards for restaked Ethereum. Users benefit by saving on the effort typically required to select services and validators while maintaining the ability to leverage or exchange their uniETH for added flexibility.",
+    "resolver": "bedrock",
+    "apyId": "ad383eed-61d8-4378-80bd-a197d9a11c79",
+    "apySource": "defillama"
+  },
+  "0x5B23a71B488C3516c42b523710e3d7Fe7c4F9b96": {
+    "address": "0x5B23a71B488C3516c42b523710e3d7Fe7c4F9b96",
+    "asset": "0x5a71f5888ee05b36ded9149e6d32ee93812ee5e9",
+    "name": "KelpDAO",
+    "description": "**KelpDao Restaking** - This vault uses wrsETH, a token representing a share of restaked Ethereum. Kelp DAO is developing this LRT on EigenLayer, aiming to provide liquidity and manage rewards for restaked Ethereum. Users benefit by saving on the effort typically required to select services and validators while maintaining the ability to leverage or exchange their wrsETH for added flexibility.",
+    "resolver": "kelpDao",
+    "apyId": "33c732f6-a78d-41da-af5b-ccd9fa5e52d5",
+    "apySource": "defillama"
+  }
+}

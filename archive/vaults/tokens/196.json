@@ -1,1 +1,18 @@
-{}
+{
+  "0x2B39c0252E1BccF53fdD3D2da7F150f0A2C7902a": {
+    "address": "0x2B39c0252E1BccF53fdD3D2da7F150f0A2C7902a",
+    "name": "VaultCraft uniETH",
+    "symbol": "vc-uniETH",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 196
+  },
+  "0x4F8F9DA3D8ca847030bac1d393C9A6a8E73bAD0C": {
+    "address": "0x4F8F9DA3D8ca847030bac1d393C9A6a8E73bAD0C",
+    "name": "VaultCraft wrsETH",
+    "symbol": "vc-wrsETH",
+    "decimals": 27,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 196
+  }
+}
