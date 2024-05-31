@@ -4,8 +4,8 @@
     "asset": "0x6C5019D345Ec05004A7E7B0623A91a0D9B8D590d",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "c5c35ec1-056e-42cc-a276-97da9b813cb3",
-    "apy-source": "defillama",
+    "apyId": "c5c35ec1-056e-42cc-a276-97da9b813cb3",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0x49DE4F723F73eFE3cAe048b9a5CA061c13aF65dB": {
@@ -13,8 +13,8 @@
     "asset": "0x22D63A26c730d49e5Eab461E4f5De1D8BdF89C92",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "a83ea746-1cc2-44ef-ab91-3fc0459ff6d1",
-    "apy-source": "defillama",
+    "apyId": "a83ea746-1cc2-44ef-ab91-3fc0459ff6d1",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0x066f92a0e668e6FC497Ae53576E74d1f77820004": {
@@ -22,8 +22,8 @@
     "asset": "0xF753A50fc755c6622BBCAa0f59F0522f264F006e",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "c8ad893a-4d4b-474c-a7dc-529663a06925",
-    "apy-source": "defillama",
+    "apyId": "c8ad893a-4d4b-474c-a7dc-529663a06925",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0x93e944D7F37Ab622fC4911Cf42c529424a009d3B": {
@@ -31,8 +31,8 @@
     "asset": "0x207AddB05C548F262219f6bFC6e11c02d0f7fDbe",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "a3fbc2ff-8e82-4caa-99bc-06752279ecc2",
-    "apy-source": "defillama",
+    "apyId": "a3fbc2ff-8e82-4caa-99bc-06752279ecc2",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0xD2A73D2045706CF1250aBa3e6b42D8c07ae4eA14": {
@@ -40,8 +40,8 @@
     "asset": "0x0df083de449F75691fc5A36477a6f3284C269108",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "b4d2f975-2beb-47c6-ada2-8d8eeb605f56",
-    "apy-source": "defillama",
+    "apyId": "b4d2f975-2beb-47c6-ada2-8d8eeb605f56",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0x912c7945D83C34249B4D211421bD24b6F17fb3E4": {
@@ -49,8 +49,8 @@
     "asset": "0x7178F61694ba9109205B8d6F686282307625e62D",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "e34fddd6-f2d8-4f38-a11d-fa31aa3a63e9",
-    "apy-source": "defillama",
+    "apyId": "e34fddd6-f2d8-4f38-a11d-fa31aa3a63e9",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0x76133E7EADEcC50Cd4C226C2274B51635491E0fa": {
@@ -58,8 +58,8 @@
     "asset": "0xB720FBC32d60BB6dcc955Be86b98D8fD3c4bA645",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "614c95f5-e123-4be1-92b6-2656e1ac5cb7",
-    "apy-source": "defillama",
+    "apyId": "614c95f5-e123-4be1-92b6-2656e1ac5cb7",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0xa511A6E551B56726a5DE024E67EEDFAA40949007": {
@@ -67,8 +67,8 @@
     "asset": "0x6dA98Bde0068d10DDD11b468b197eA97D96F96Bc",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "bacf925e-28ff-4967-b853-e98d3d5842a1",
-    "apy-source": "defillama",
+    "apyId": "bacf925e-28ff-4967-b853-e98d3d5842a1",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0xCd55C34bc488fFa41Ab8e42AE590926b6955b0cF": {
@@ -76,8 +76,8 @@
     "asset": "0x8134A2fDC127549480865fB8E5A9E8A8a95a54c5",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "0ea4805a-ed01-40c7-8b33-976967822bc1",
-    "apy-source": "defillama",
+    "apyId": "0ea4805a-ed01-40c7-8b33-976967822bc1",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0xb74De14C51B1bCD60525A5f44016c67865AA1a6D": {
@@ -85,8 +85,8 @@
     "asset": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
     "name": "Idle",
     "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
-    "apy-id": "505fa2c9-f1f5-485f-b416-ed27bc34a558",
-    "apy-source": "defillama",
+    "apyId": "505fa2c9-f1f5-485f-b416-ed27bc34a558",
+    "apySource": "defillama",
     "resolver": "idleSenior"
   },
   "0x0D8C42319Cf265FBEfa7a5bcCbbd5Cb702c7E990": {
@@ -94,8 +94,8 @@
     "asset": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "apy-id": "324f5064-a293-4426-a582-2bd3d408f401",
-    "apy-source": "defillama",
+    "apyId": "324f5064-a293-4426-a582-2bd3d408f401",
+    "apySource": "defillama",
     "resolver": "idleJunior"
   },
   "0xe2839976C6c85b049Ba1DFBA7b837E8B36aC1848": {
@@ -103,8 +103,8 @@
     "asset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
     "name": "Idle",
     "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "apy-id": "5919ed4b-d459-47a2-9ad5-40c67a787790",
-    "apy-source": "defillama",
+    "apyId": "5919ed4b-d459-47a2-9ad5-40c67a787790",
+    "apySource": "defillama",
     "resolver": "idleJunior"
   },
   "0x4a71a7CB0D710F03BE90F4276bf996271706C816": {
@@ -112,8 +112,8 @@
     "asset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
     "name": "Idle",
     "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
-    "apy-id": "22de3492-71c1-4a00-b3cc-453fbbe1701c",
-    "apy-source": "defillama",
+    "apyId": "22de3492-71c1-4a00-b3cc-453fbbe1701c",
+    "apySource": "defillama",
     "resolver": "idleSenior"
   },
   "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72": {
@@ -121,8 +121,8 @@
     "asset": "0x0df083de449F75691fc5A36477a6f3284C269108",
     "name": "Velodrome",
     "description": "**Velodrome LP-Compounding** - This vault earns compounding interest on LP-tokens of the OP / USDC liquidity pool on Velodrome. The LP-tokens are staked in a gauge on Velodrome to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
-    "apy-id": "48fcc31e-1e01-4ab9-9ea7-6b39e5a0cfb8",
-    "apy-source": "defillama",
+    "apyId": "48fcc31e-1e01-4ab9-9ea7-6b39e5a0cfb8",
+    "apySource": "defillama",
     "resolver": "velodrome"
   },
   "0x4c95761fA7Ee62c1023097b531a8B8E14F486956": {
@@ -131,7 +131,7 @@
     "name": "AaveV3",
     "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the WBTC market. Which generates compound interest on your WBTC by lending it out to borrowers.",
     "resolver": "aaveV3",
-    "apy-id": "e053590b-54f1-40aa-ae0d-14e701ca734c",
-    "apy-source": "defillama"
+    "apyId": "e053590b-54f1-40aa-ae0d-14e701ca734c",
+    "apySource": "defillama"
   }
 }

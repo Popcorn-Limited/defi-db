@@ -4,8 +4,8 @@
     "asset": "0x29e38769f23701A2e4A8Ef0492e19dA4604Be62c",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "74a9a7da-4506-41ed-af08-08043903a99d",
-    "apy-source": "defillama",
+    "apyId": "74a9a7da-4506-41ed-af08-08043903a99d",
+    "apySource": "defillama",
     "resolver": "beefy"
   },
   "0xdd1AB4f32a68eCA535a07bdFDfB350D29cC59230": {
@@ -13,8 +13,8 @@
     "asset": "0x1205f31718499dBf1fCa446663B532Ef87481fe1",
     "name": "Beefy",
     "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Beefy to maximize yield generation, leveraging Beefy's expertise across various protocols without needing personal management of the investment process.",
-    "apy-id": "ecafefda-2c8b-43be-a40a-a8f119f56cf8",
-    "apy-source": "defillama",
+    "apyId": "ecafefda-2c8b-43be-a40a-a8f119f56cf8",
+    "apySource": "defillama",
     "resolver": "beefy"
   }
 }
