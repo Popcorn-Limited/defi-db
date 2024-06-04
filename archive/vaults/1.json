@@ -1,782 +1,723 @@
 {
-    "0x5d344226578DC100b2001DA251A4b154df58194f": {
-        "address": "0x5d344226578DC100b2001DA251A4b154df58194f",
-        "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "strategies": [
-            "0x612465C8d6F1B2Bc85DF43224a8A3b5e04F634fc"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f"
+  "0x5d344226578DC100b2001DA251A4b154df58194f": {
+    "address": "0x5d344226578DC100b2001DA251A4b154df58194f",
+    "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "strategies": ["0x612465C8d6F1B2Bc85DF43224a8A3b5e04F634fc"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D": {
-        "address": "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D",
-        "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "strategies": [
-            "0xB98B71F5B756493a898E8B05ac7d6B20644435E6"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
+    "apyId": ""
+  },
+  "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D": {
+    "address": "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D",
+    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "strategies": ["0xB98B71F5B756493a898E8B05ac7d6B20644435E6"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xb6cED1C0e5d26B815c3881038B88C829f39CE949": {
-        "address": "0xb6cED1C0e5d26B815c3881038B88C829f39CE949",
-        "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "strategies": [
-            "0x7a2F96F36a03c91Cbf5f4490B4002254c5b7a5E8"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
+    "apyId": ""
+  },
+  "0xb6cED1C0e5d26B815c3881038B88C829f39CE949": {
+    "address": "0xb6cED1C0e5d26B815c3881038B88C829f39CE949",
+    "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "strategies": ["0x7a2F96F36a03c91Cbf5f4490B4002254c5b7a5E8"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x2fD2C18f79F93eF299B20B681Ab2a61f5F28A6fF": {
-        "address": "0x2fD2C18f79F93eF299B20B681Ab2a61f5F28A6fF",
-        "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "strategies": [
-            "0x104AeAC31048aD01A2836254ad0330F3fC8E7Fbc"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0x2fD2C18f79F93eF299B20B681Ab2a61f5F28A6fF": {
+    "address": "0x2fD2C18f79F93eF299B20B681Ab2a61f5F28A6fF",
+    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "strategies": ["0x104AeAC31048aD01A2836254ad0330F3fC8E7Fbc"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xc8C88fdF2802733f8c4cd7c0bE0557fdC5d2471c": {
-        "address": "0xc8C88fdF2802733f8c4cd7c0bE0557fdC5d2471c",
-        "assetAddress": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
-        "strategies": [
-            "0x743EaD6E224283D00e29866327d4E35B6f196F79"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0xc8C88fdF2802733f8c4cd7c0bE0557fdC5d2471c": {
+    "address": "0xc8C88fdF2802733f8c4cd7c0bE0557fdC5d2471c",
+    "assetAddress": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+    "strategies": ["0x743EaD6E224283D00e29866327d4E35B6f196F79"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340": {
-        "address": "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340",
-        "assetAddress": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
-        "strategies": [
-            "0xB597852043Ce22D293F533143C2bE47aF94C456A"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340": {
+    "address": "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340",
+    "assetAddress": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
+    "strategies": ["0xB597852043Ce22D293F533143C2bE47aF94C456A"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x759281a408A48bfe2029D259c23D7E848A7EA1bC": {
-        "address": "0x759281a408A48bfe2029D259c23D7E848A7EA1bC",
-        "assetAddress": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
-        "strategies": [
-            "0x33d9A49CfB1005E722a3BEE2959b2Ed3c127eA84"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "gauge": "0xDCd86dDDE7B49C46292Aa7B699b10BF98248D4b5"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0x759281a408A48bfe2029D259c23D7E848A7EA1bC": {
+    "address": "0x759281a408A48bfe2029D259c23D7E848A7EA1bC",
+    "assetAddress": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
+    "strategies": ["0x33d9A49CfB1005E722a3BEE2959b2Ed3c127eA84"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xF1649eC625Aca15831237D29cd09F3c71a5cca63": {
-        "address": "0xF1649eC625Aca15831237D29cd09F3c71a5cca63",
-        "assetAddress": "0x21E27a5E5513D6e65C4f830167390997aA84843a",
-        "strategies": [
-            "0x99513f12ac1dd0d9979e07e59b06Cd5d6dfB9330"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0xDCd86dDDE7B49C46292Aa7B699b10BF98248D4b5",
+    "apyId": ""
+  },
+  "0xF1649eC625Aca15831237D29cd09F3c71a5cca63": {
+    "address": "0xF1649eC625Aca15831237D29cd09F3c71a5cca63",
+    "assetAddress": "0x21E27a5E5513D6e65C4f830167390997aA84843a",
+    "strategies": ["0x99513f12ac1dd0d9979e07e59b06Cd5d6dfB9330"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567": {
-        "address": "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567",
-        "assetAddress": "0x5271045F7B73c17825A7A7aee6917eE46b0B7520",
-        "strategies": [
-            "0xF35Dc1F592ed2D6dE8a9af2116683f2D6fac2a7f"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567": {
+    "address": "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567",
+    "assetAddress": "0x5271045F7B73c17825A7A7aee6917eE46b0B7520",
+    "strategies": ["0xF35Dc1F592ed2D6dE8a9af2116683f2D6fac2a7f"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xd4D442AC311d918272911691021E6073F620eb07": {
-        "address": "0xd4D442AC311d918272911691021E6073F620eb07",
-        "assetAddress": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
-        "strategies": [
-            "0x9bdC69Aaba05E1425a44fc439a7Fe92615977a1f"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0xd4D442AC311d918272911691021E6073F620eb07": {
+    "address": "0xd4D442AC311d918272911691021E6073F620eb07",
+    "assetAddress": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+    "strategies": ["0x9bdC69Aaba05E1425a44fc439a7Fe92615977a1f"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x8bd3D95Ec173380AD546a4Bd936B9e8eCb642de1": {
-        "address": "0x8bd3D95Ec173380AD546a4Bd936B9e8eCb642de1",
-        "assetAddress": "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56",
-        "strategies": [
-            "0x1125f17E999ea4F2498D01c35785fE90B5C4d8ff"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0x8bd3D95Ec173380AD546a4Bd936B9e8eCb642de1": {
+    "address": "0x8bd3D95Ec173380AD546a4Bd936B9e8eCb642de1",
+    "assetAddress": "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56",
+    "strategies": ["0x1125f17E999ea4F2498D01c35785fE90B5C4d8ff"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
     },
-    "0x30D6a7B8c985d5dd7B9823d3B6Ae2726c8FFf81F": {
-        "address": "0x30D6a7B8c985d5dd7B9823d3B6Ae2726c8FFf81F",
-        "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "strategies": [
-            "0xC09C94BDb26cAEd2099C7ffA8fBAc903E9338D02"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0x30D6a7B8c985d5dd7B9823d3B6Ae2726c8FFf81F": {
+    "address": "0x30D6a7B8c985d5dd7B9823d3B6Ae2726c8FFf81F",
+    "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "strategies": ["0xC09C94BDb26cAEd2099C7ffA8fBAc903E9338D02"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x6cE9c05E159F8C4910490D8e8F7a63e95E6CEcAF": {
-        "address": "0x6cE9c05E159F8C4910490D8e8F7a63e95E6CEcAF",
-        "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "strategies": [
-            "0x197F58De2559097d956b4192e8F89A2F36190a48"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "gauge": "0x37283861753d6B777DfEB039F1C2681aBaCeAC78"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0x6cE9c05E159F8C4910490D8e8F7a63e95E6CEcAF": {
+    "address": "0x6cE9c05E159F8C4910490D8e8F7a63e95E6CEcAF",
+    "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "strategies": ["0x197F58De2559097d956b4192e8F89A2F36190a48"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xcdc3CbF94114406a0b59aDA090807838369ced2b": {
-        "address": "0xcdc3CbF94114406a0b59aDA090807838369ced2b",
-        "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "strategies": [
-            "0xaD8c7EbEEA0706476CB6656349456B44ccd79A64"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0x37283861753d6B777DfEB039F1C2681aBaCeAC78",
+    "apyId": "286809c0-f5b1-4b86-9891-7e81013739d9"
+  },
+  "0xcdc3CbF94114406a0b59aDA090807838369ced2b": {
+    "address": "0xcdc3CbF94114406a0b59aDA090807838369ced2b",
+    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "strategies": ["0xaD8c7EbEEA0706476CB6656349456B44ccd79A64"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x52Aef3ea0D3F93766D255A1bb0aA7F1C4885E622": {
-        "address": "0x52Aef3ea0D3F93766D255A1bb0aA7F1C4885E622",
-        "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "strategies": [
-            "0x29bE2A691394f635a9AC506a238Cc201BAA52351"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "gauge": "0x3c6dda81628197B4eeBEfd7A2F64cb77e12Cbf89"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0x52Aef3ea0D3F93766D255A1bb0aA7F1C4885E622": {
+    "address": "0x52Aef3ea0D3F93766D255A1bb0aA7F1C4885E622",
+    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "strategies": ["0x29bE2A691394f635a9AC506a238Cc201BAA52351"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x3D04Aade5388962C9A4f83B636a3a8ED63ea5b4D": {
-        "address": "0x3D04Aade5388962C9A4f83B636a3a8ED63ea5b4D",
-        "assetAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "strategies": [
-            "0xE48d33e869f874D6BEe3701beF22ae72c60A3b3c"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "gauge": "0x3C77AA0db33ee268E9FC2712CF3Eff06fCC4E3Da"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0x3c6dda81628197B4eeBEfd7A2F64cb77e12Cbf89",
+    "apyId": "7929f17b-954f-4a7a-b1d8-865b68391b25"
+  },
+  "0x3D04Aade5388962C9A4f83B636a3a8ED63ea5b4D": {
+    "address": "0x3D04Aade5388962C9A4f83B636a3a8ED63ea5b4D",
+    "assetAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "strategies": ["0xE48d33e869f874D6BEe3701beF22ae72c60A3b3c"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x11E10B12e8DbF7aE44EE50873c09e5C7c3e01385": {
-        "address": "0x11E10B12e8DbF7aE44EE50873c09e5C7c3e01385",
-        "assetAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "strategies": [
-            "0x550DE5484998957F90986FfAfcE505E790A43CDA"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0x3C77AA0db33ee268E9FC2712CF3Eff06fCC4E3Da",
+    "apyId": ""
+  },
+  "0x11E10B12e8DbF7aE44EE50873c09e5C7c3e01385": {
+    "address": "0x11E10B12e8DbF7aE44EE50873c09e5C7c3e01385",
+    "assetAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "strategies": ["0x550DE5484998957F90986FfAfcE505E790A43CDA"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x95Ca391fB08F612Dc6b0CbDdcb6708C21d5A8295": {
-        "address": "0x95Ca391fB08F612Dc6b0CbDdcb6708C21d5A8295",
-        "assetAddress": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
-        "strategies": [
-            "0x2661495A1B6BF8b7a2F33c707A74801aBeCA3d74"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0x95Ca391fB08F612Dc6b0CbDdcb6708C21d5A8295": {
+    "address": "0x95Ca391fB08F612Dc6b0CbDdcb6708C21d5A8295",
+    "assetAddress": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+    "strategies": ["0x2661495A1B6BF8b7a2F33c707A74801aBeCA3d74"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x0f915066D3D87ACAf3e07F41b039B413ae128706": {
-        "address": "0x0f915066D3D87ACAf3e07F41b039B413ae128706",
-        "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "strategies": [
-            "0x239377821bbA921307622349C20ffb3DbBD36F2D"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 36900000000000000,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x51771112D43326f9Cb1b97bE4aa74e71Dd6Ed100",
-        "feeRecipient": "0x51771112D43326f9Cb1b97bE4aa74e71Dd6Ed100"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0x0f915066D3D87ACAf3e07F41b039B413ae128706": {
+    "address": "0x0f915066D3D87ACAf3e07F41b039B413ae128706",
+    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "strategies": ["0x239377821bbA921307622349C20ffb3DbBD36F2D"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 36900000000000000,
+      "performance": 0
     },
-    "0x98fFB8c18A48fae7a446B4b4C337109eCa0115d4": {
-        "address": "0x98fFB8c18A48fae7a446B4b4C337109eCa0115d4",
-        "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "strategies": [
-            "0xbA1d38D6bb5E2FA2a08aA9f660B2c7A6D933Da87"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x4204FDD868FFe0e62F57e6A626F8C9530F7d5AD1",
-        "feeRecipient": "0x4204FDD868FFe0e62F57e6A626F8C9530F7d5AD1"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x51771112D43326f9Cb1b97bE4aa74e71Dd6Ed100",
+    "feeRecipient": "0x51771112D43326f9Cb1b97bE4aa74e71Dd6Ed100",
+    "apyId": ""
+  },
+  "0x98fFB8c18A48fae7a446B4b4C337109eCa0115d4": {
+    "address": "0x98fFB8c18A48fae7a446B4b4C337109eCa0115d4",
+    "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "strategies": ["0xbA1d38D6bb5E2FA2a08aA9f660B2c7A6D933Da87"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
     },
-    "0x7975Ea3912d93F79Af42f0BC319470b737cbC42F": {
-        "address": "0x7975Ea3912d93F79Af42f0BC319470b737cbC42F",
-        "assetAddress": "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56",
-        "strategies": [
-            "0xA301B31184CF084e817C6eB1C7eF57956486853E"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x4204FDD868FFe0e62F57e6A626F8C9530F7d5AD1",
+    "feeRecipient": "0x4204FDD868FFe0e62F57e6A626F8C9530F7d5AD1",
+    "apyId": ""
+  },
+  "0x7975Ea3912d93F79Af42f0BC319470b737cbC42F": {
+    "address": "0x7975Ea3912d93F79Af42f0BC319470b737cbC42F",
+    "assetAddress": "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56",
+    "strategies": ["0xA301B31184CF084e817C6eB1C7eF57956486853E"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
     },
-    "0xB614BF04b7c82700895b9F5730A279696753675E": {
-        "address": "0xB614BF04b7c82700895b9F5730A279696753675E",
-        "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "strategies": [
-            "0x37447E69A1Dd931a4B5b9c28C186B37e216aa4E8"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x4204FDD868FFe0e62F57e6A626F8C9530F7d5AD1",
-        "feeRecipient": "0x4204FDD868FFe0e62F57e6A626F8C9530F7d5AD1"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "apyId": ""
+  },
+  "0xB614BF04b7c82700895b9F5730A279696753675E": {
+    "address": "0xB614BF04b7c82700895b9F5730A279696753675E",
+    "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "strategies": ["0x37447E69A1Dd931a4B5b9c28C186B37e216aa4E8"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
     },
-    "0x768558C7fFDb06164852006b10c4119A094Ef9B3": {
-        "address": "0x768558C7fFDb06164852006b10c4119A094Ef9B3",
-        "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "strategies": [
-            "0x89580C72a147A43CD05a9f001542729FdB194cFE"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x10f6bad16597955F3c4BfDf584e6ADB799F870dD",
-        "feeRecipient": "0x3977796f5b32F33Caa18170F9fD867F2C4266A20"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x4204FDD868FFe0e62F57e6A626F8C9530F7d5AD1",
+    "feeRecipient": "0x4204FDD868FFe0e62F57e6A626F8C9530F7d5AD1",
+    "apyId": ""
+  },
+  "0x768558C7fFDb06164852006b10c4119A094Ef9B3": {
+    "address": "0x768558C7fFDb06164852006b10c4119A094Ef9B3",
+    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "strategies": ["0x89580C72a147A43CD05a9f001542729FdB194cFE"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
     },
-    "0xC08962B618611DD0eee654427bd7ee92C234314D": {
-        "address": "0xC08962B618611DD0eee654427bd7ee92C234314D",
-        "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "strategies": [
-            "0x6Bd0C1823cd18f6bb8FFbb7Da0a3dEB09D2cFebB"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x10f6bad16597955F3c4BfDf584e6ADB799F870dD",
-        "feeRecipient": "0x10f6bad16597955F3c4BfDf584e6ADB799F870dD"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x10f6bad16597955F3c4BfDf584e6ADB799F870dD",
+    "feeRecipient": "0x3977796f5b32F33Caa18170F9fD867F2C4266A20",
+    "apyId": ""
+  },
+  "0xC08962B618611DD0eee654427bd7ee92C234314D": {
+    "address": "0xC08962B618611DD0eee654427bd7ee92C234314D",
+    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "strategies": ["0x6Bd0C1823cd18f6bb8FFbb7Da0a3dEB09D2cFebB"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xdD01c7f24801eE73a0d1Ff6a79048f18ee071AC2": {
-        "address": "0xdD01c7f24801eE73a0d1Ff6a79048f18ee071AC2",
-        "assetAddress": "0x971add32Ea87f10bD192671630be3BE8A11b8623",
-        "strategies": [
-            "0xBE1F69ed8f0cd5FCa72a28d8F249632e05Ec9655"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0xd29453Ec9daa21449944B7DF36C83b1f9979FA75",
-        "feeRecipient": "0xd29453Ec9daa21449944B7DF36C83b1f9979FA75"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x10f6bad16597955F3c4BfDf584e6ADB799F870dD",
+    "feeRecipient": "0x10f6bad16597955F3c4BfDf584e6ADB799F870dD",
+    "apyId": ""
+  },
+  "0xdD01c7f24801eE73a0d1Ff6a79048f18ee071AC2": {
+    "address": "0xdD01c7f24801eE73a0d1Ff6a79048f18ee071AC2",
+    "assetAddress": "0x971add32Ea87f10bD192671630be3BE8A11b8623",
+    "strategies": ["0xBE1F69ed8f0cd5FCa72a28d8F249632e05Ec9655"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
     },
-    "0x6b60f289F568E045099e8Bd2bC1067032aB53E4d": {
-        "address": "0x6b60f289F568E045099e8Bd2bC1067032aB53E4d",
-        "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "strategies": [
-            "0x1061321151bD892F8044ecc095166a7F54D7d96a"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 30000000000000000,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x6e294846E069a5b3Bf4bcDfF9496D092f554C522",
-        "feeRecipient": "0x6e294846E069a5b3Bf4bcDfF9496D092f554C522"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0xd29453Ec9daa21449944B7DF36C83b1f9979FA75",
+    "feeRecipient": "0xd29453Ec9daa21449944B7DF36C83b1f9979FA75",
+    "apyId": ""
+  },
+  "0x6b60f289F568E045099e8Bd2bC1067032aB53E4d": {
+    "address": "0x6b60f289F568E045099e8Bd2bC1067032aB53E4d",
+    "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "strategies": ["0x1061321151bD892F8044ecc095166a7F54D7d96a"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 30000000000000000,
+      "performance": 0
     },
-    "0xa9dfbFdDF8f1d8a93c563f9cC3Bb0cf109f619E8": {
-        "address": "0xa9dfbFdDF8f1d8a93c563f9cC3Bb0cf109f619E8",
-        "assetAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "strategies": [
-            "0x351DFF520260b118cA7830c32cD50158e2AF85Ef"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x6e294846E069a5b3Bf4bcDfF9496D092f554C522",
+    "feeRecipient": "0x6e294846E069a5b3Bf4bcDfF9496D092f554C522",
+    "apyId": ""
+  },
+  "0xa9dfbFdDF8f1d8a93c563f9cC3Bb0cf109f619E8": {
+    "address": "0xa9dfbFdDF8f1d8a93c563f9cC3Bb0cf109f619E8",
+    "assetAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "strategies": ["0x351DFF520260b118cA7830c32cD50158e2AF85Ef"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xdC266B3D2c62Ce094ff4E12DC52399c430283417": {
-        "address": "0xdC266B3D2c62Ce094ff4E12DC52399c430283417",
-        "assetAddress": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
-        "strategies": [
-            "0xE4aa80152b36E0b52B366d8B1a5c8A36233DD978"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "gauge": "0x9dE13e969A6c1D7Bf21Bbd2955D03F9f6e29F5Dc"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0xdC266B3D2c62Ce094ff4E12DC52399c430283417": {
+    "address": "0xdC266B3D2c62Ce094ff4E12DC52399c430283417",
+    "assetAddress": "0xBCe0Cf87F513102F22232436CCa2ca49e815C3aC",
+    "strategies": ["0xE4aa80152b36E0b52B366d8B1a5c8A36233DD978"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x61f313C98ebAd818442CBEE2A196720C8986Cdf4": {
-        "address": "0x61f313C98ebAd818442CBEE2A196720C8986Cdf4",
-        "assetAddress": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
-        "strategies": [
-            "0xDD4D33dbB2A9922fB7524Ad5eD20b6F52EdA5d80"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0x9dE13e969A6c1D7Bf21Bbd2955D03F9f6e29F5Dc",
+    "apyId": ""
+  },
+  "0x61f313C98ebAd818442CBEE2A196720C8986Cdf4": {
+    "address": "0x61f313C98ebAd818442CBEE2A196720C8986Cdf4",
+    "assetAddress": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+    "strategies": ["0xDD4D33dbB2A9922fB7524Ad5eD20b6F52EdA5d80"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D": {
-        "address": "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D",
-        "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "strategies": [
-            "0xE3267A9Ff2d38B748B6aA202e006F7d94Ca22df3"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "gauge": "0xB295347A5D044eD70A52E5Fb0a2bACE32a2d7499"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
+  },
+  "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D": {
+    "address": "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D",
+    "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "strategies": ["0xE3267A9Ff2d38B748B6aA202e006F7d94Ca22df3"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xA3cd112fFb1E3A358EF270a07F5901FF0fD1CD0f": {
-        "address": "0xA3cd112fFb1E3A358EF270a07F5901FF0fD1CD0f",
-        "assetAddress": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
-        "strategies": [
-            "0xebEE0d3B137290438bd796109CB3e9eEa211d9D1"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "gauge": "0x4658eC64b99cAd7F939b3bf87c345738A04310A9"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0xB295347A5D044eD70A52E5Fb0a2bACE32a2d7499",
+    "apyId": ""
+  },
+  "0xA3cd112fFb1E3A358EF270a07F5901FF0fD1CD0f": {
+    "address": "0xA3cd112fFb1E3A358EF270a07F5901FF0fD1CD0f",
+    "assetAddress": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+    "strategies": ["0xebEE0d3B137290438bd796109CB3e9eEa211d9D1"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x3B51bba174478D641770bF4356a1BF3c215AEd49": {
-        "address": "0x3B51bba174478D641770bF4356a1BF3c215AEd49",
-        "assetAddress": "0xE7e2c68d3b13d905BBb636709cF4DfD21076b9D2",
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "This is an experimental vault testing Aura Compounding. It stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token are swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event.",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "strategies": [
-            "0x27Da6422620A688619AaEf12BCc9C770C333A101"
-        ],
-        "labels": [
-            "Experimental"
-        ]
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0x4658eC64b99cAd7F939b3bf87c345738A04310A9",
+    "apyId": ""
+  },
+  "0x3B51bba174478D641770bF4356a1BF3c215AEd49": {
+    "address": "0x3B51bba174478D641770bF4356a1BF3c215AEd49",
+    "assetAddress": "0xE7e2c68d3b13d905BBb636709cF4DfD21076b9D2",
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
     },
-    "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725": {
-        "address": "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725",
-        "assetAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "strategies": [
-            "0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d"
-        ],
-        "gauge": "0x35fCa05eb9d7B4BeEbDfa110Ea342e6d9CA972ac"
+    "type": "single-asset-vault-v1",
+    "description": "This is an experimental vault testing Aura Compounding. It stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token are swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event.",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "strategies": ["0x27Da6422620A688619AaEf12BCc9C770C333A101"],
+    "labels": ["Experimental"],
+    "apyId": ""
+  },
+  "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725": {
+    "address": "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725",
+    "assetAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
     },
-    "0xE3514a5e431442D794A1aa738aC94984B593C799": {
-        "address": "0xE3514a5e431442D794A1aa738aC94984B593C799",
-        "assetAddress": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "This is an experimental vault testing the CurveGaugeCompounder. It deploys pyUSD/crvUSD into its Gauge on Curve and compounds rewards back into it.",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "labels": [
-            "Experimental"
-        ],
-        "strategies": [
-            "0xdce45fEab60668195D891242914864837Aa22d8d"
-        ]
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "strategies": ["0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d"],
+    "gauge": "0x35fCa05eb9d7B4BeEbDfa110Ea342e6d9CA972ac",
+    "apyId": "31b4b143-5b09-4768-8567-75799fddefa1"
+  },
+  "0xE3514a5e431442D794A1aa738aC94984B593C799": {
+    "address": "0xE3514a5e431442D794A1aa738aC94984B593C799",
+    "assetAddress": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77": {
-        "address": "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77",
-        "assetAddress": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 0
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "strategies": [
-            "0xBD4458CfA154eA9ADE45BaF4dA6136cbC3A70f9f"
-        ],
-        "labels": [
-            "New"
-        ],
-        "gauge": "0xC86B7c1A0d825E5883922e5fB507741A22C428Bb"
+    "type": "single-asset-vault-v1",
+    "description": "This is an experimental vault testing the CurveGaugeCompounder. It deploys pyUSD/crvUSD into its Gauge on Curve and compounds rewards back into it.",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["Experimental"],
+    "strategies": ["0xdce45fEab60668195D891242914864837Aa22d8d"],
+    "apyId": ""
+  },
+  "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77": {
+    "address": "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77",
+    "assetAddress": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
     },
-    "0xd24844c1eb111C1385A311DeEc62533A09d4C86B": {
-        "address": "0xd24844c1eb111C1385A311DeEc62533A09d4C86B",
-        "assetAddress": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
-        "strategies": [
-            "0x24166a9C53D83b935c03F27C29081310d5bf1189"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "labels": [
-            "New"
-        ],
-        "gauge": "0x82Cb9e5d875140e0730aD86A7f34E6807bF80889"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "strategies": ["0xBD4458CfA154eA9ADE45BaF4dA6136cbC3A70f9f"],
+    "labels": ["New"],
+    "gauge": "0xC86B7c1A0d825E5883922e5fB507741A22C428Bb",
+    "apyId": "2da6dcd0-a5a5-4b15-8b0b-6e01d362db11"
+  },
+  "0xd24844c1eb111C1385A311DeEc62533A09d4C86B": {
+    "address": "0xd24844c1eb111C1385A311DeEc62533A09d4C86B",
+    "assetAddress": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
+    "strategies": ["0x24166a9C53D83b935c03F27C29081310d5bf1189"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x2D5A6B779e3a227b20825e823924574211ceEc8d": {
-        "address": "0x2D5A6B779e3a227b20825e823924574211ceEc8d",
-        "assetAddress": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "This is an experimental vault testing the ConvexCompounder. It deploys pyUSD/crvUSD into its Gauge on Convex and compounds rewards back into it.",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "labels": [
-            "Experimental"
-        ],
-        "strategies": [
-            "0xcA8A6287A69977022Ad3b5211d568192e131a574"
-        ]
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["New"],
+    "gauge": "0x82Cb9e5d875140e0730aD86A7f34E6807bF80889",
+    "apyId": "87e67819-de4f-4711-b031-3fcf279e6e28"
+  },
+  "0x2D5A6B779e3a227b20825e823924574211ceEc8d": {
+    "address": "0x2D5A6B779e3a227b20825e823924574211ceEc8d",
+    "assetAddress": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xBb5B77A1f61ece8feAb332f2d437815983c00574": {
-        "address": "0xBb5B77A1f61ece8feAb332f2d437815983c00574",
-        "assetAddress": "0xdEdb11A6a23263469567C2881A9b9F8629eE0041",
-        "strategies": [
-            "0x8dEbf3E349E799c10813CB94214d36a32E81906E"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "labels": [
-            "New"
-        ],
-        "gauge": "0x77C5FBE6581Cb2Cf5600d15BCD97E4945A922A29"
+    "type": "single-asset-vault-v1",
+    "description": "This is an experimental vault testing the ConvexCompounder. It deploys pyUSD/crvUSD into its Gauge on Convex and compounds rewards back into it.",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "labels": ["Experimental"],
+    "strategies": ["0xcA8A6287A69977022Ad3b5211d568192e131a574"],
+    "apyId": ""
+  },
+  "0xBb5B77A1f61ece8feAb332f2d437815983c00574": {
+    "address": "0xBb5B77A1f61ece8feAb332f2d437815983c00574",
+    "assetAddress": "0xdEdb11A6a23263469567C2881A9b9F8629eE0041",
+    "strategies": ["0x8dEbf3E349E799c10813CB94214d36a32E81906E"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38": {
-        "address": "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38",
-        "assetAddress": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
-        "strategies": [
-            "0x7bDd71e46D602916c065B027028Df686a27D5cB2"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "labels": [
-            "New"
-        ],
-        "gauge": "0x843040e1308eCeAe40f6d9e09caa9578C91911E4"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["New"],
+    "gauge": "0x77C5FBE6581Cb2Cf5600d15BCD97E4945A922A29",
+    "apyId": ""
+  },
+  "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38": {
+    "address": "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38",
+    "assetAddress": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
+    "strategies": ["0x7bDd71e46D602916c065B027028Df686a27D5cB2"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0x434E7EA9BC77C93c3F4680862281603338c7aE02": {
-        "address": "0x434E7EA9BC77C93c3F4680862281603338c7aE02",
-        "assetAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-        "strategies": [
-            "0x9E0c5d524dc3Ff0aa734c52aa57ab623436364e6"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "name": "eETH Lend",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "labels": [
-            "New"
-        ],
-        "gauge": "0x205D821117A77fb9cbd8B07F2F8067c743f2d9D8"
+    "type": "single-asset-vault-v1",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["New"],
+    "gauge": "0x843040e1308eCeAe40f6d9e09caa9578C91911E4",
+    "apyId": "0a7a5fae-72a7-4ebb-80c6-fbe73d3f93ac"
+  },
+  "0x434E7EA9BC77C93c3F4680862281603338c7aE02": {
+    "address": "0x434E7EA9BC77C93c3F4680862281603338c7aE02",
+    "assetAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "strategies": ["0x9E0c5d524dc3Ff0aa734c52aa57ab623436364e6"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
     },
-    "0xa48d49F63Dfc185cDD409B65f042955f509d9658": {
-        "address": "0xa48d49F63Dfc185cDD409B65f042955f509d9658",
-        "assetAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-        "strategies": [
-            "0xA84397004Abe8229CC481cE91BA850ECd8204822"
-        ],
-        "chainId": 1,
-        "fees": {
-            "deposit": 0,
-            "withdrawal": 0,
-            "management": 0,
-            "performance": 100000000000000000
-        },
-        "type": "single-asset-vault-v1",
-        "name": "rsETH Lend",
-        "description": "",
-        "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-        "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-        "labels": [
-            "New"
-        ],
-        "gauge": "0x563aC2b10950EC1e322Ec14336407C8Ca6342a72"
-    }
+    "type": "single-asset-vault-v1",
+    "name": "eETH Lend",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["New"],
+    "gauge": "0x205D821117A77fb9cbd8B07F2F8067c743f2d9D8",
+    "apyId": "23e2eb33-6f6e-4665-8620-b9979ddd7777"
+  },
+  "0xa48d49F63Dfc185cDD409B65f042955f509d9658": {
+    "address": "0xa48d49F63Dfc185cDD409B65f042955f509d9658",
+    "assetAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "strategies": ["0xA84397004Abe8229CC481cE91BA850ECd8204822"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "single-asset-vault-v1",
+    "name": "rsETH Lend",
+    "description": "",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["New"],
+    "gauge": "0x563aC2b10950EC1e322Ec14336407C8Ca6342a72",
+    "apyId": "6d5df1af-1280-4ae9-9234-2a34461693e1"
+  }
 }
