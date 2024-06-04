@@ -355,7 +355,7 @@
     "asset": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
     "name": "Aura",
     "description": "**Aura LP-Compounding** - This vault earns compounding interest on LP-tokens of the VCX / WETH liquidity pool on Balancer. The LP-tokens are staked in a gauge on Aura to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
-    "apyId": "0a7a5fae-72a7-4ebb-80c6-fbe73d3f93ac",
+    "apyId": "bdc0f9c4-3a9b-4d43-8ba5-e9426d3c41c5",
     "apySource": "defillama",
     "resolver": "aura"
   },
