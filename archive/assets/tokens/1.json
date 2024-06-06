@@ -52487,7 +52487,7 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
     "chainId": 1
   },
-  "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920":{
+  "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920": {
     "address": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
     "name": "VCX-LP",
     "symbol": "vcx-lp",
@@ -52495,7 +52495,7 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
     "chainId": 1
   },
-  "0xcE246eEa10988C495B4A90a905Ee9237a0f91543":{
+  "0xcE246eEa10988C495B4A90a905Ee9237a0f91543": {
     "address": "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
     "name": "VCX",
     "symbol": "VCX",
@@ -52503,7 +52503,7 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0xaFa52E3860b4371ab9d8F08E801E9EA1027C0CA2":{
+  "0xaFa52E3860b4371ab9d8F08E801E9EA1027C0CA2": {
     "address": "0xaFa52E3860b4371ab9d8F08E801E9EA1027C0CA2",
     "name": "VCX Call Option Token",
     "symbol": "oVCX",
@@ -52511,7 +52511,7 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/oVcx.svg",
     "chainId": 1
   },
-  "0x0aB4bC35Ef33089B9082Ca7BB8657D7c4E819a1A":{
+  "0x0aB4bC35Ef33089B9082Ca7BB8657D7c4E819a1A": {
     "address": "0x0aB4bC35Ef33089B9082Ca7BB8657D7c4E819a1A",
     "name": "Vote Locked VCX",
     "symbol": "veVCX",
@@ -52519,7 +52519,7 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0x18445923592be303fbd3BC164ee685C7457051b4":{
+  "0x18445923592be303fbd3BC164ee685C7457051b4": {
     "address": "0x18445923592be303fbd3BC164ee685C7457051b4",
     "name": "xVCX",
     "symbol": "xVCX",
@@ -52541,6 +52541,14 @@
     "symbol": "osETH",
     "decimals": 18,
     "logoURI": "https://etherscan.io/token/images/stakewise_32.png",
+    "chainId": 1
+  },
+  "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3": {
+    "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+    "name": "USDe",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/ethenausde_32.png",
     "chainId": 1
   }
 }
