@@ -118,5 +118,13 @@
     "decimals": 17,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0xD3A17928245064B6DF5095a76e277fe441D538a4": {
+    "address": "0xD3A17928245064B6DF5095a76e277fe441D538a4",
+    "name": "VaultCraft USDC Vault",
+    "symbol": "vc-USDC",
+    "decimals": 15,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }
