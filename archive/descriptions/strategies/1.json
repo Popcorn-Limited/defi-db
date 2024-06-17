@@ -378,19 +378,19 @@
     "apySource": "defillama"
   },
   "0x658a94eF990c5307707a428C927ADcB65B89BD8F": {
-    "address": "0xA84397004Abe8229CC481cE91BA850ECd8204822",
+    "address": "0x658a94eF990c5307707a428C927ADcB65B89BD8F",
     "asset": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
     "name": "Pendle",
-    "description": "**Pendle LP-Compounding** - This vault earns compounding interest on LP-tokens of the USDe liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "description": "**Pendle LP-Compounding** - This vault earns compounding interest on LP-tokens of the USDe (Maturity 25.07.24) liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
     "resolver": "pendle",
-    "apyId": "e8927e83-f4d2-4a6b-811b-1c1bf9673cb7",
+    "apyId": "fcb70fe9-4b07-4046-a0cd-ecac7396efe7",
     "apySource": "defillama"
   },
   "0x1C9432248C5437C52A6cdff701259c247f870f88": {
     "address": "0x1C9432248C5437C52A6cdff701259c247f870f88",
     "asset": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
     "name": "Pendle",
-    "description": "**Pendle LP-Compounding** - This vault earns compounding interest on LP-tokens of the USDe liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "description": "**Pendle LP-Compounding** - This vault earns compounding interest on LP-tokens of the USDe (Zircuit) (Maturity 27.06.24)  liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
     "resolver": "pendle",
     "apyId": "92a90bfd-d74d-428f-a862-a775693fcebd",
     "apySource": "defillama"
