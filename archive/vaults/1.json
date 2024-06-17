@@ -638,6 +638,7 @@
     "type": "single-asset-vault-v1",
     "description": "This is an experimental vault testing the ConvexCompounder. It deploys pyUSD/crvUSD into its Gauge on Convex and compounds rewards back into it.",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "labels": ["Experimental"],
     "strategies": ["0xcA8A6287A69977022Ad3b5211d568192e131a574"],
     "apyId": ""
@@ -720,7 +721,7 @@
   },
   "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b": {
     "address": "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b",
-    "assetAddress": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+    "assetAddress": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
     "strategies": [
       "0x658a94eF990c5307707a428C927ADcB65B89BD8F",
       "0x1C9432248C5437C52A6cdff701259c247f870f88"
