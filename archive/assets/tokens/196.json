@@ -7,8 +7,8 @@
     "logoURI": "https://etherscan.io/token/images/bedrockunieth_32.png?v=4",
     "chainId": 196
   },
-  "0x5a71f5888ee05b36ded9149e6d32ee93812ee5e9": {
-    "address": "0x5a71f5888ee05b36ded9149e6d32ee93812ee5e9",
+  "0x5A71f5888EE05B36Ded9149e6D32eE93812EE5e9": {
+    "address": "0x5A71f5888EE05B36Ded9149e6D32eE93812EE5e9",
     "name": "wrsETH",
     "symbol": "wrsETH",
     "decimals": 18,

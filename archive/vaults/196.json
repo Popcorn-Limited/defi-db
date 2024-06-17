@@ -19,7 +19,7 @@
   },
   "0x4F8F9DA3D8ca847030bac1d393C9A6a8E73bAD0C": {
     "address": "0x4F8F9DA3D8ca847030bac1d393C9A6a8E73bAD0C",
-    "assetAddress": "0x5a71f5888ee05b36ded9149e6d32ee93812ee5e9",
+    "assetAddress": "0x5A71f5888EE05B36Ded9149e6D32eE93812EE5e9",
     "strategies": ["0x5B23a71B488C3516c42b523710e3d7Fe7c4F9b96"],
     "chainId": 196,
     "fees": {
