@@ -40,8 +40,8 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "CurveGauge",
     "description": "**Curve LP-Compounding** - This vault single side deposits FRAX into the crvUSD / FRAX liquidity pool on Curve. It earns compounding interest on LP-tokens of the by staking in a gauge on Curve to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
-    "apyId": "",
-    "apySource": "custom",
+    "apyId": "73bcf4c0-0287-4e40-a088-c9da5f3b86da",
+    "apySource": "defillama",
     "resolver": "curve"
   },
   "0x8904c44f1b2AD67a1c8Ac43D6774272Cd5836eaA": {
