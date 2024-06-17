@@ -406,5 +406,13 @@
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b": {
+    "address": "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b",
+    "name": "VaultCraft USDe MultiStrategy Vault",
+    "symbol": "vc-multi-USDe",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

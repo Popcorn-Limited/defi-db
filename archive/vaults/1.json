@@ -696,7 +696,6 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["New"],
     "gauge": "0x205D821117A77fb9cbd8B07F2F8067c743f2d9D8",
     "apyId": "23e2eb33-6f6e-4665-8620-b9979ddd7777"
   },
@@ -716,8 +715,30 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["New"],
     "gauge": "0x563aC2b10950EC1e322Ec14336407C8Ca6342a72",
     "apyId": "6d5df1af-1280-4ae9-9234-2a34461693e1"
+  },
+  "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b": {
+    "address": "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b",
+    "assetAddress": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+    "strategies": [
+      "0x658a94eF990c5307707a428C927ADcB65B89BD8F",
+      "0x1C9432248C5437C52A6cdff701259c247f870f88"
+    ],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "multi-strategy-vault-v1",
+    "name": "USDe MultiStrategy",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["New"],
+    "gauge": "",
+    "apyId": ""
   }
 }
