@@ -303,14 +303,6 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0x61f313C98ebAd818442CBEE2A196720C8986Cdf4": {
-    "address": "0x61f313C98ebAd818442CBEE2A196720C8986Cdf4",
-    "name": "VaultCraft Curve.fi Factory USD Metapool: Magic Internet Money 3Pool Vault",
-    "symbol": "vc-MIM-3LP3CRV-f",
-    "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
   "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D": {
     "address": "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D",
     "name": "VaultCraft Wrapped Ether Vault",
