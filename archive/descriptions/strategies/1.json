@@ -385,5 +385,24 @@
     "resolver": "pendle",
     "apyId": "92a90bfd-d74d-428f-a862-a775693fcebd",
     "apySource": "defillama"
+  },
+
+  "0xF82316c0cd110dB4c4a6c15F85dFaD7266551854": {
+    "address": "0xF82316c0cd110dB4c4a6c15F85dFaD7266551854",
+    "asset": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "name": "Pendle",
+    "description": "**Pendle LP-Compounding** - This vault earns compounding interest on LP-tokens of the sUSDe (Maturity 25.07.24) liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "resolver": "pendle",
+    "apyId": "e8927e83-f4d2-4a6b-811b-1c1bf9673cb7",
+    "apySource": "defillama"
+  },
+  "0x377DFCC7B9ce9aDD96347f34b2303C9bD8067e01": {
+    "address": "0x377DFCC7B9ce9aDD96347f34b2303C9bD8067e01",
+    "asset": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "name": "Pendle",
+    "description": "**Pendle LP-Compounding** - This vault earns compounding interest on LP-tokens of the sUSDe (Maturity 26.09.24)  liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "resolver": "pendle",
+    "apyId": "bf39425d-6856-40a7-87d3-aa5debc0d7ac",
+    "apySource": "defillama"
   }
 }

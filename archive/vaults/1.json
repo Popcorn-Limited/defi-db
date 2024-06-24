@@ -716,8 +716,31 @@
       "management": 0,
       "performance": 100000000000000000
     },
-    "type": "multi-strategy-vault-v1",
+    "type": "multi-strategy-vault-v2",
     "name": "USDe MultiStrategy",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["New"],
+    "gauge": "",
+    "apyId": ""
+  },
+  "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5": {
+    "address": "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5",
+    "assetAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "strategies": [
+      "0xF82316c0cd110dB4c4a6c15F85dFaD7266551854",
+      "0x377DFCC7B9ce9aDD96347f34b2303C9bD8067e01"
+    ],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "multi-strategy-vault-v2",
+    "name": "sUSDe MultiStrategy",
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
