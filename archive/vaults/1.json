@@ -714,10 +714,10 @@
       "deposit": 0,
       "withdrawal": 0,
       "management": 0,
-      "performance": 100000000000000000
+      "performance": 0
     },
     "type": "multi-strategy-vault-v2",
-    "name": "USDe MultiStrategy",
+    "name": "Modular USDe",
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
@@ -737,10 +737,10 @@
       "deposit": 0,
       "withdrawal": 0,
       "management": 0,
-      "performance": 100000000000000000
+      "performance": 0
     },
     "type": "multi-strategy-vault-v2",
-    "name": "sUSDe MultiStrategy",
+    "name": "Modular sUSDe",
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
