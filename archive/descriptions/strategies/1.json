@@ -404,5 +404,14 @@
     "resolver": "pendle",
     "apyId": "bf39425d-6856-40a7-87d3-aa5debc0d7ac",
     "apySource": "defillama"
+  },
+  "0xBB49b6e7b045E4a0f5E7d9c36Ce6826340BD939c": {
+    "address": "0xBB49b6e7b045E4a0f5E7d9c36Ce6826340BD939c",
+    "asset": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "name": "Ion",
+    "description": "**Points Lending** - This vault uses a lending strategy on ION using the rswETH market. Which generates compound interest on your wstETH by lending it out to borrowers. This strategy also earns points for ION and Swell.",
+    "resolver": "ion",
+    "apyId": "6be6c96b-0019-44ff-8bf8-f8ef2f8064bf",
+    "apySource": "defillama"
   }
 }
