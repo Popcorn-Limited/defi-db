@@ -413,5 +413,14 @@
     "resolver": "ion",
     "apyId": "6be6c96b-0019-44ff-8bf8-f8ef2f8064bf",
     "apySource": "defillama"
+  },
+  "0x7241820d17374EAAa312fD69209a64bc1F3A649C": {
+    "address": "0x7241820d17374EAAa312fD69209a64bc1F3A649C",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "name": "Ion",
+    "description": "**Points Lending** - This vault uses a lending strategy on ION using the ezETH market. Which generates compound interest on your WETH by lending it out to borrowers. This strategy also earns points for ION and Renzo.",
+    "resolver": "ion",
+    "apyId": "",
+    "apySource": "custom"
   }
 }
