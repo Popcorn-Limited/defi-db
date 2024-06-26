@@ -102,7 +102,7 @@
     "address": "0xC09C94BDb26cAEd2099C7ffA8fBAc903E9338D02",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Idle",
-    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside. This strategy converts DAI into USDC and deploys funds in the Portofino USDC borrowing pool on Clearpool. To see more stats on the Idle App click -LINK- https://app.idle.finance/#/earn/0x43ed68703006add5f99ce36b5182392362369c1c?tab=earn",
     "resolver": "idleSenior",
     "apyId": "7368c365-8280-4f4c-99dd-d7a989b31176",
     "apySource": "defillama"
@@ -111,25 +111,16 @@
     "address": "0x197F58De2559097d956b4192e8F89A2F36190a48",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding. This strategy converts DAI into USDC and deploys funds in the Portofino USDC borrowing pool on Clearpool. To see more stats on the Idle App click -LINK- https://app.idle.finance/#/earn/0x38D36353D07CfB92650822D9c31fB4AdA1c73D6E?tab=earn",
     "resolver": "idleJunior",
     "apyId": "4419943a-dc35-470c-8210-a6f087e1fb70",
     "apySource": "defillama"
-  },
-  "0xaD8c7EbEEA0706476CB6656349456B44ccd79A64": {
-    "address": "0xaD8c7EbEEA0706476CB6656349456B44ccd79A64",
-    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "name": "Idle",
-    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
-    "apyId": "527abdc2-bffe-4114-be35-9e45bbe57618",
-    "apySource": "defillama",
-    "resolver": "idleSenior"
   },
   "0x29bE2A691394f635a9AC506a238Cc201BAA52351": {
     "address": "0x29bE2A691394f635a9AC506a238Cc201BAA52351",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding. This strategy deploys funds in the Portofino USDC borrowing pool on Clearpool. To see more stats on the Idle App click -LINK- https://app.idle.finance/#/earn/0xf85Fd280B301c0A6232d515001dA8B6c8503D714?tab=earn",
     "resolver": "idleJunior",
     "apyId": "3cc9c2ca-40e6-48e1-ab59-56812f05343f",
     "apySource": "defillama"
@@ -138,7 +129,7 @@
     "address": "0xE48d33e869f874D6BEe3701beF22ae72c60A3b3c",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding. This strategy deploys funds in the Fasanara USDT borrowing pool on Clearpool. To see more stats on the Idle App click -LINK- https://app.idle.finance/#/earn/0x3Eb6318b8D9f362a0e1D99F6032eDB1C4c602500?tab=earn",
     "resolver": "idleJunior",
     "apyId": "9f69b48a-def9-4d55-86eb-10e9deaa6008",
     "apySource": "defillama"
@@ -147,7 +138,7 @@
     "address": "0x550DE5484998957F90986FfAfcE505E790A43CDA",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "name": "Idle",
-    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside. This strategy deploys funds in the Fasanara USDT borrowing pool on Clearpool. To see more stats on the Idle App click -LINK- https://app.idle.finance/#/earn/0x0a6f2449C09769950cFb76f905Ad11c341541f70?tab=earn",
     "apyId": "61f8ea49-8293-49f4-a959-84b0ef8872b5",
     "apySource": "defillama",
     "resolver": "idleSenior"
@@ -161,24 +152,6 @@
     "apySource": "defillama",
     "resolver": "origin"
   },
-  "0x239377821bbA921307622349C20ffb3DbBD36F2D": {
-    "address": "0x239377821bbA921307622349C20ffb3DbBD36F2D",
-    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "apyId": "25c15bbd-6287-4740-aca8-ff516327f5f3",
-    "apySource": "defillama",
-    "resolver": "idleJunior"
-  },
-  "0xbA1d38D6bb5E2FA2a08aA9f660B2c7A6D933Da87": {
-    "address": "0xbA1d38D6bb5E2FA2a08aA9f660B2c7A6D933Da87",
-    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-    "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "apyId": "4419943a-dc35-470c-8210-a6f087e1fb70",
-    "apySource": "defillama",
-    "resolver": "idleJunior"
-  },
   "0xA301B31184CF084e817C6eB1C7eF57956486853E": {
     "address": "0xA301B31184CF084e817C6eB1C7eF57956486853E",
     "asset": "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56",
@@ -187,33 +160,6 @@
     "apyId": "b5b80abd-761c-4f1f-8513-17d53971cb95",
     "apySource": "defillama",
     "resolver": "beefy"
-  },
-  "0x37447E69A1Dd931a4B5b9c28C186B37e216aa4E8": {
-    "address": "0x37447E69A1Dd931a4B5b9c28C186B37e216aa4E8",
-    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-    "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "apyId": "4419943a-dc35-470c-8210-a6f087e1fb70",
-    "apySource": "defillama",
-    "resolver": "idleJunior"
-  },
-  "0x89580C72a147A43CD05a9f001542729FdB194cFE": {
-    "address": "0x89580C72a147A43CD05a9f001542729FdB194cFE",
-    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "apyId": "3cc9c2ca-40e6-48e1-ab59-56812f05343f",
-    "apySource": "defillama",
-    "resolver": "idleJunior"
-  },
-  "0x6Bd0C1823cd18f6bb8FFbb7Da0a3dEB09D2cFebB": {
-    "address": "0x6Bd0C1823cd18f6bb8FFbb7Da0a3dEB09D2cFebB",
-    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
-    "apyId": "25c15bbd-6287-4740-aca8-ff516327f5f3",
-    "apySource": "defillama",
-    "resolver": "idleJunior"
   },
   "0xBE1F69ed8f0cd5FCa72a28d8F249632e05Ec9655": {
     "address": "0xBE1F69ed8f0cd5FCa72a28d8F249632e05Ec9655",
@@ -232,15 +178,6 @@
     "apyId": "7be3388a-0591-4281-a6f3-eff3217693fa",
     "apySource": "defillama",
     "resolver": "yearn"
-  },
-  "0x351DFF520260b118cA7830c32cD50158e2AF85Ef": {
-    "address": "0x351DFF520260b118cA7830c32cD50158e2AF85Ef",
-    "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "name": "Idle",
-    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
-    "apyId": "61f8ea49-8293-49f4-a959-84b0ef8872b5",
-    "apySource": "defillama",
-    "resolver": "idleSenior"
   },
   "0xE4aa80152b36E0b52B366d8B1a5c8A36233DD978": {
     "address": "0xE4aa80152b36E0b52B366d8B1a5c8A36233DD978",

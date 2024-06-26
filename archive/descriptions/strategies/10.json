@@ -84,7 +84,7 @@
     "address": "0xb74De14C51B1bCD60525A5f44016c67865AA1a6D",
     "asset": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
     "name": "Idle",
-    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside. This strategy deploys funds in the Portfino USDT borrowing pool on Clearpool. To see more stats on the Idle App click -LINK- https://app.idle.finance/#/earn/0x8552801C75C4f2b1Cac088aF352193858B201D4E?tab=earn",
     "apyId": "505fa2c9-f1f5-485f-b416-ed27bc34a558",
     "apySource": "defillama",
     "resolver": "idleSenior"
@@ -93,7 +93,7 @@
     "address": "0x0D8C42319Cf265FBEfa7a5bcCbbd5Cb702c7E990",
     "asset": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
     "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding. This strategy deploys funds in the Portofino USDT borrowing pool on Clearpool. To see more stats on the Idle App click -LINK- https://app.idle.finance/#/earn/0xafbAeA12DE33bF6B44105Eceecec24B29163077c?tab=earn",
     "apyId": "324f5064-a293-4426-a582-2bd3d408f401",
     "apySource": "defillama",
     "resolver": "idleJunior"
@@ -102,7 +102,7 @@
     "address": "0xe2839976C6c85b049Ba1DFBA7b837E8B36aC1848",
     "asset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
     "name": "Idle",
-    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding.",
+    "description": "**Junior Tranche** - The vault supplies assets into a junior tranche of Idle. Junior tranches offer higher returns but with higher risk since they minize the risk of the corresponding. This strategy deploys funds in the Wincent USDC borrowing pool on Clearpool. To see more stats on the Idle App click -LINK- https://app.idle.finance/#/earn/0xB1aD1E9309e5f10982d9bf480bC241580ccc4b02?tab=earn",
     "apyId": "5919ed4b-d459-47a2-9ad5-40c67a787790",
     "apySource": "defillama",
     "resolver": "idleJunior"
@@ -111,7 +111,7 @@
     "address": "0x4a71a7CB0D710F03BE90F4276bf996271706C816",
     "asset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
     "name": "Idle",
-    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside.",
+    "description": "**Senior Tranche** - The vault supplies assets into a senior tranche of Idle. Senior tranches offer stable returns with built-in coverage but reduced upside. This strategy deploys funds in the Wincent USDC borrowing pool on Clearpool. To see more stats on the Idle App click -LINK- https://app.idle.finance/#/earn/0x6AB470a650E1E0E68b8D1C0f154E78ca1a7147BF?tab=earn",
     "apyId": "22de3492-71c1-4a00-b3cc-453fbbe1701c",
     "apySource": "defillama",
     "resolver": "idleSenior"
