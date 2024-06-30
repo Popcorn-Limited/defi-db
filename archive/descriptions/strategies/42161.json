@@ -58,7 +58,7 @@
     "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "name": "CompoundV3",
     "description": "**Lending** - This vault uses a lending strategy on CompoundV3 using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers. On top of that the strategy farms COMP rewards and compounds them back into USDC which get redeposited into the strategy.",
-    "apyId": "9baee84c-3d94-4c24-9e38-604aea6e492d",
+    "apyId": "d9c395b9-00d0-4426-a6b3-572a6dd68e54",
     "apySource": "defillama",
     "resolver": "compound"
   },
@@ -67,7 +67,7 @@
     "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "name": "CompoundV3",
     "description": "**Lending** - This vault uses a lending strategy on CompoundV3 using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers. On top of that the strategy farms COMP rewards and compounds them back into USDC which get redeposited into the strategy.",
-    "apyId": "9baee84c-3d94-4c24-9e38-604aea6e492d",
+    "apyId": "d9c395b9-00d0-4426-a6b3-572a6dd68e54",
     "apySource": "defillama",
     "resolver": "compound"
   }
