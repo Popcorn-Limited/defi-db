@@ -184,7 +184,7 @@
   "0xD3A17928245064B6DF5095a76e277fe441D538a4": {
     "address": "0xD3A17928245064B6DF5095a76e277fe441D538a4",
     "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "strategies": ["0xCACc53bAcCe744ac7b5C1eC7eb7e3Ab01330733b"],
+    "strategies": ["0x5769F1c62Fa2AA6087df3dd1FA6a7Ae89Bb45FFd"],
     "chainId": 42161,
     "fees": {
       "deposit": 0,
