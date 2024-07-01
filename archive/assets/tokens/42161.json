@@ -588,7 +588,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://metadata-service.herokuapp.com/api/token/42161/0xaf88d065e77c8cc2239327c5edb3a432268e5831/icon",
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
     "chainId": 42161
   },
   "0x9623063377AD1B27544C965cCd7342f7EA7e88C7": {
