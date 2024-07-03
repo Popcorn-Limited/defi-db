@@ -127,8 +127,8 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
   },
-  "0x319121f8f39669599221a883bb6d7d0feef0e69c": {
-    "address": "0x319121f8f39669599221a883bb6d7d0feef0e69c",
+  "0x319121F8F39669599221A883Bb6d7d0Feef0E69c": {
+    "address": "0x319121F8F39669599221A883Bb6d7d0Feef0E69c",
     "name": "VaultCraft USDC Vault",
     "symbol": "vc-USDC-LP",
     "decimals": 6,
