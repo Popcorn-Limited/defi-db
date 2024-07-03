@@ -133,5 +133,14 @@
     "resolver": "aaveV3",
     "apyId": "e053590b-54f1-40aa-ae0d-14e701ca734c",
     "apySource": "defillama"
+  },
+  "0xc4c7b3fefecbd07b4174bb7a49701d508a633733": {
+    "address": "0xc4c7b3fefecbd07b4174bb7a49701d508a633733",
+    "asset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+    "name": "CompoundV3",
+    "description": "**Lending** - This vault uses a lending strategy on CompoundV3 using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers. On top of that the strategy farms COMP rewards and compounds them back into USDC which get redeposited into the strategy.",
+    "apyId": "",
+    "apySource": "custom",
+    "resolver": "compound"
   }
 }

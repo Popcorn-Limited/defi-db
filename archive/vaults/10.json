@@ -259,5 +259,26 @@
     "labels": ["New"],
     "gauge": "0x54581Aa242054B17738A58Eb984c43c3F33bB5cd",
     "apyId": "9231f995-d6d8-4ae4-b3a9-179fc111a3b0"
+  },
+  "0x319121f8f39669599221a883bb6d7d0feef0e69c": {
+    "address": "0x319121f8f39669599221a883bb6d7d0feef0e69c",
+    "assetAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+    "strategies": [
+      "0xC4C7B3FEfECbd07B4174Bb7a49701d508A633733"
+    ],
+    "chainId": 10,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "multi-strategy-vault-v2",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "labels": ["New"],
+    "gauge": "",
+    "apyId": ""
   }
 }
