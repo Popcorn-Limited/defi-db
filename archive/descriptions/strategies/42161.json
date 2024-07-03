@@ -4,7 +4,7 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "FraxLend",
     "description": "**Lending** - This vault uses a lending strategy on FraxLend using the FRAX market. Which generates compound interest on your FRAX by lending it out to borrowers.",
-    "apyId": "",
+    "apyId": "fraxlend",
     "apySource": "custom",
     "resolver": "none"
   },
@@ -13,7 +13,7 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "FraxLend",
     "description": "**Lending** - This vault uses a lending strategy on FraxLend using the FRAX market. Which generates compound interest on your FRAX by lending it out to borrowers.",
-    "apyId": "",
+    "apyId": "fraxlend",
     "apySource": "custom",
     "resolver": "none"
   },
@@ -22,7 +22,7 @@
     "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "FraxLend",
     "description": "**Lending** - This vault uses a lending strategy on FraxLend using the FRAX market. Which generates compound interest on your FRAX by lending it out to borrowers.",
-    "apyId": "",
+    "apyId": "fraxlend",
     "apySource": "custom",
     "resolver": "none"
   },

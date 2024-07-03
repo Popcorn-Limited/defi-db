@@ -452,7 +452,7 @@
     "name": "Arbitrum",
     "symbol": "ARB",
     "decimals": 18,
-    "logoURI": "https://metadata-service.herokuapp.com/api/token/42161/0x912ce59144191c1204e64559fe8253a0e49e6548/icon",
+    "logoURI": "https://arbiscan.io/token/images/arbitrumone2_32_new.png",
     "chainId": 42161
   },
   "0xdA51015b73cE11F77A115Bb1b8a7049e02dDEcf0": {
@@ -1020,7 +1020,7 @@
     "name": "Jones DAO",
     "symbol": "JONES",
     "decimals": 18,
-    "logoURI": "https://metadata-service.herokuapp.com/api/token/42161/0x10393c20975cf177a3513071bc110f7962cd67da/icon",
+    "logoURI": "https://arbiscan.io/token/images/jonesdaoarb_32.png",
     "chainId": 42161
   },
   "0x9164424A33a89202040F02170431073c59eFa1A9": {
@@ -2812,7 +2812,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://metadata-service.herokuapp.com/api/token/42161/0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7/icon",
+    "logoURI": "https://arbiscan.io/token/images/fraxsharefxs_32.png",
     "chainId": 42161
   },
   "0x2ea3CA79413C2EC4C1893D5f8C34C16acB2288A4": {
