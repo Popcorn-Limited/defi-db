@@ -328,7 +328,6 @@
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "strategies": ["0xBD4458CfA154eA9ADE45BaF4dA6136cbC3A70f9f"],
-    "labels": ["New"],
     "gauge": "0xC86B7c1A0d825E5883922e5fB507741A22C428Bb",
     "apyId": "2da6dcd0-a5a5-4b15-8b0b-6e01d362db11"
   },
@@ -347,7 +346,6 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["New"],
     "gauge": "0x82Cb9e5d875140e0730aD86A7f34E6807bF80889",
     "apyId": "87e67819-de4f-4711-b031-3fcf279e6e28"
   },
@@ -384,7 +382,6 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["New"],
     "gauge": "0x843040e1308eCeAe40f6d9e09caa9578C91911E4",
     "apyId": "0a7a5fae-72a7-4ebb-80c6-fbe73d3f93ac"
   },
@@ -442,10 +439,10 @@
     },
     "type": "multi-strategy-vault-v2",
     "name": "Modular USDe",
+    "labels": ["New"],
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["New"],
     "gauge": "",
     "apyId": ""
   },
@@ -465,10 +462,10 @@
     },
     "type": "multi-strategy-vault-v2",
     "name": "Modular sUSDe",
+    "labels": ["New"],
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["New"],
     "gauge": "",
     "apyId": ""
   }
