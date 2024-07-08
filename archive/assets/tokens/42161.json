@@ -16663,6 +16663,14 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/oVcx.svg",
     "chainId": 42161
   },
+  "0xaF33642938172011f711bA530acc900Ae17620A7": {
+    "address": "0xaF33642938172011f711bA530acc900Ae17620A7",
+    "name": "Wrapped oVCX",
+    "symbol": "woVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/oVcx.svg",
+    "chainId": 42161
+  },
   "0xC1A6Db6793967Ff7fb7f211E044A4c285A0eB7FB": {
     "address": "0xC1A6Db6793967Ff7fb7f211E044A4c285A0eB7FB",
     "name": "Vote Locked VCX",
