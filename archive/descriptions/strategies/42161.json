@@ -70,5 +70,23 @@
     "apyId": "d9c395b9-00d0-4426-a6b3-572a6dd68e54",
     "apySource": "defillama",
     "resolver": "compound"
+  },
+  "0x067e4c15B052C73998689D7A0e19D0B2910819dc": {
+    "address": "0x067e4c15B052C73998689D7A0e19D0B2910819dc",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "name": "CompoundV3",
+    "description": "**Lending** - This vault uses a lending strategy on CompoundV3 using the WETH market. Which generates compound interest on your WETH by lending it out to borrowers. On top of that the strategy farms COMP rewards and compounds them back into WETH which get redeposited into the strategy.",
+    "apyId": "be3d7cb9-f008-4050-8802-13ea505bcbdf",
+    "apySource": "defillama",
+    "resolver": "compound"
+  },
+  "0x268823d2D666643721A15462De02987F77DE7bbf": {
+    "address": "0x268823d2D666643721A15462De02987F77DE7bbf",
+    "asset": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "name": "CompoundV3",
+    "description": "**Lending** - This vault uses a lending strategy on CompoundV3 using the USDT market. Which generates compound interest on your USDT by lending it out to borrowers. On top of that the strategy farms COMP rewards and compounds them back into USDT which get redeposited into the strategy.",
+    "apyId": "85247b13-8180-44e7-b38c-4d324cc68a92",
+    "apySource": "defillama",
+    "resolver": "compound"
   }
 }

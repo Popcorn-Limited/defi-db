@@ -199,5 +199,43 @@
     "labels": ["New"],
     "gauge": "0xc9aD14cefb29506534a973F7E0E97e68eCe4fa3f",
     "apyId": ""
+  },
+  "0xC4bBbbAF12B1bE472E6E7B1A76d2756d5C763F95": {
+    "address": "0xC4bBbbAF12B1bE472E6E7B1A76d2756d5C763F95",
+    "assetAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "strategies": ["0x067e4c15B052C73998689D7A0e19D0B2910819dc"],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "labels": ["New"],
+    "type": "multi-strategy-vault-v2",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0x5E6A9859Dc1b393a82a5874F9cBA22E92d9fbBd2",
+    "apyId": ""
+  },
+  "0x8aD58FA719FDf6dc5B324Db9eE22E561377Fda69": {
+    "address": "0x8aD58FA719FDf6dc5B324Db9eE22E561377Fda69",
+    "assetAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "strategies": ["0x268823d2D666643721A15462De02987F77DE7bbf"],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "labels": ["New"],
+    "type": "multi-strategy-vault-v2",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0xf4CC0E086f70815f6153E66749A627227a8CA386",
+    "apyId": ""
   }
 }

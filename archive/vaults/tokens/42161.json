@@ -126,5 +126,21 @@
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0xC4bBbbAF12B1bE472E6E7B1A76d2756d5C763F95": {
+    "address": "0xC4bBbbAF12B1bE472E6E7B1A76d2756d5C763F95",
+    "name": "VaultCraft WETH Vault",
+    "symbol": "vc-WETH",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
+  },
+  "0x8aD58FA719FDf6dc5B324Db9eE22E561377Fda69": {
+    "address": "0x8aD58FA719FDf6dc5B324Db9eE22E561377Fda69",
+    "name": "VaultCraft USDT Vault",
+    "symbol": "vc-USDT",
+    "decimals": 6,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }
