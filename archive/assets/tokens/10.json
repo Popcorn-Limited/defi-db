@@ -2233,8 +2233,8 @@
   },
   "0xF753A50fc755c6622BBCAa0f59F0522f264F006e": {
     "address": "0xF753A50fc755c6622BBCAa0f59F0522f264F006e",
-    "name": "Hop USDT LP Token",
-    "symbol": "HOP-LP-USDT",
+    "name": "Hop USDT",
+    "symbol": "HOP-USDT",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/velodrome-lp.svg",
     "chainId": 10

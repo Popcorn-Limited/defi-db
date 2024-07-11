@@ -250,7 +250,7 @@
   "0x5a6A4D54456819380173272A5E8E9B9904BdF41B": {
     "address": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
     "name": "MIM LP",
-    "symbol": "MIM DAI USDC USDT",
+    "symbol": "MIM LP",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/curve-lp.png",
     "chainId": 1
@@ -369,8 +369,8 @@
   },
   "0xE7e2c68d3b13d905BBb636709cF4DfD21076b9D2": {
     "address": "0xE7e2c68d3b13d905BBb636709cF4DfD21076b9D2",
-    "name": "WETH swETH",
-    "symbol": "WETH swETH",
+    "name": "swETH LP",
+    "symbol": "swETH LP",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
     "chainId": 1
@@ -52473,8 +52473,8 @@
   },
   "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E": {
     "address": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
-    "name": "ezETH WETH",
-    "symbol": "ezETH-WETH",
+    "name": "ezETH LP",
+    "symbol": "ezETH-LP",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
     "chainId": 1
