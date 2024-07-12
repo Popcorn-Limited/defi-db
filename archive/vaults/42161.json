@@ -143,6 +143,7 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "labels": ["Experimental"],
+    "gauge": "0x1463b4F8EC81aA46D77b549Bda98390660eA92A6",
     "apyId": ""
   },
   "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c": {
