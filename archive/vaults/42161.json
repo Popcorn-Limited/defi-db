@@ -198,7 +198,7 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "labels": ["New"],
     "gauge": "0xc9aD14cefb29506534a973F7E0E97e68eCe4fa3f",
-    "apyId": ""
+    "apyId": "d25cd9ec-ffaf-4630-9a13-8b03d577f12f"
   },
   "0xC4bBbbAF12B1bE472E6E7B1A76d2756d5C763F95": {
     "address": "0xC4bBbbAF12B1bE472E6E7B1A76d2756d5C763F95",
@@ -217,7 +217,7 @@
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0x5E6A9859Dc1b393a82a5874F9cBA22E92d9fbBd2",
-    "apyId": ""
+    "apyId": "311c187e-bfac-4739-944a-f21d2fe3633b"
   },
   "0x8aD58FA719FDf6dc5B324Db9eE22E561377Fda69": {
     "address": "0x8aD58FA719FDf6dc5B324Db9eE22E561377Fda69",
@@ -236,6 +236,6 @@
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0xf4CC0E086f70815f6153E66749A627227a8CA386",
-    "apyId": ""
+    "apyId": "3171c3c6-4e25-455e-9758-984b0ac2bb47"
   }
 }
