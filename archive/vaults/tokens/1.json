@@ -414,5 +414,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x319121F8F39669599221A883Bb6d7d0Feef0E69c": {
+    "address": "0x319121F8F39669599221A883Bb6d7d0Feef0E69c",
+    "name": "VaultCraft Peapods MultiStrategy Vault",
+    "symbol": "vc-multi-pVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

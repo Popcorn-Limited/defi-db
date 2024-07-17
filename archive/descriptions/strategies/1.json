@@ -359,5 +359,14 @@
     "resolver": "ion",
     "apyId": "",
     "apySource": "custom"
+  },
+  "0xC4C7B3FEfECbd07B4174Bb7a49701d508A633733": {
+    "address": "0xC4C7B3FEfECbd07B4174Bb7a49701d508A633733",
+    "asset": "0x38aaCE3e7f9e46330f103A558CbF117972479904",
+    "name": "Peapods",
+    "description": "Peapods LP Compounding - This vault earns compounding interest on LP-tokens of the pVCX / pOHM liquidity pool on Peapods The LP-tokens are staked on Peapods to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "resolver": "Peapods",
+    "apyId": "",
+    "apySource": "custom"
   }
 }
