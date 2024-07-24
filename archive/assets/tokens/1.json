@@ -52535,6 +52535,22 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
+  "0x121936a3a28390035f3c9ec965743bf6ab6d90a5": {
+    "address": "0x121936a3a28390035f3c9ec965743bf6ab6d90a5",
+    "name": "Peapods VCX",
+    "symbol": "pVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
+  "0x88E08adB69f2618adF1A3FF6CC43c671612D1ca4": {
+    "address": "0x88E08adB69f2618adF1A3FF6CC43c671612D1ca4",
+    "name": "Peapods OHM",
+    "symbol": "pOHM",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/peapods_32.png",
+    "chainId": 1
+  },
   "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee": {
     "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
     "name": "Wrapped eETH",
