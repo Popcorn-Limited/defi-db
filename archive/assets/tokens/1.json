@@ -52535,8 +52535,8 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0x121936a3a28390035f3c9ec965743bf6ab6d90a5": {
-    "address": "0x121936a3a28390035f3c9ec965743bf6ab6d90a5",
+  "0x121936a3A28390035F3C9Ec965743bF6aB6D90A5": {
+    "address": "0x121936a3A28390035F3C9Ec965743bF6aB6D90A5",
     "name": "Peapods VCX",
     "symbol": "pVCX",
     "decimals": 18,
