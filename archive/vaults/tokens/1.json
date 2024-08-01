@@ -422,5 +422,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0xC9B383C73B915648DbA1204c3670a883B38f41ba": {
+    "address": "0xC9B383C73B915648DbA1204c3670a883B38f41ba",
+    "name": "Staked COMP",
+    "symbol": "stCOMP",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }
