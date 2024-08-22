@@ -144,7 +144,7 @@
     "chainId": 42161
   },
   "0x082840E017fF803156193287fd0b78Ff21Faab14": {
-    "address": "0x8aD58FA719FDf6dc5B324Db9eE22E561377Fda69",
+    "address": "0x082840E017fF803156193287fd0b78Ff21Faab14",
     "name": "VaultCraft USDC Managed Vault",
     "symbol": "vc-USDC",
     "decimals": 6,
