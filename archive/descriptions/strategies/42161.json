@@ -96,6 +96,27 @@
     "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys CLM Vault for the eUSD-USDC Pool on Uniswap.",
     "apyId": "bc206209-1321-40c4-b109-10bc3b18329a",
     "apySource": "defillama",
-    "resolver": "beefy"
+    "resolver": "beefy",
+    "type": "AnyToAnyV1"
+  },
+  "0xFbd3CfEE30a6F51F02eF6C2fd67F4DDC6B0f1Ab2": {
+    "address": "0xFbd3CfEE30a6F51F02eF6C2fd67F4DDC6B0f1Ab2",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Beefy",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys Compounding Vault for the USD+/USDT+ Pool on Convex.",
+    "apyId": "a1cb28c9-6095-4152-a40e-0c22fb5b95bf",
+    "apySource": "defillama",
+    "resolver": "beefy",
+    "type": "AnyToAnyV1"
+  },
+  "0x0f691096e0a89cD46fbc99E378711135db06aE0c": {
+    "address": "0x0f691096e0a89cD46fbc99E378711135db06aE0c",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Beefy",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys Compounding Vault for the USD+/FRAX/USDC.e Pool on Convex.",
+    "apyId": "d487b1d6-18d1-4261-8419-9dfb2154140f",
+    "apySource": "defillama",
+    "resolver": "beefy",
+    "type": "AnyToAnyV1"
   }
 }

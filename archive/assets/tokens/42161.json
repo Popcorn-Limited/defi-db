@@ -16702,5 +16702,21 @@
     "decimals": 18,
     "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
     "chainId": 42161
+  },
+  "0x42189E9E398fD830CFcca2FC1B2c84823d72C658": {
+    "address": "0x42189E9E398fD830CFcca2FC1B2c84823d72C658",
+    "name": "Beefy USD+/USDT+",
+    "symbol": "moo-USD+USDT+",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0xF2d3C18a13E0860de55B7201411D790473DF3caB": {
+    "address": "0xF2d3C18a13E0860de55B7201411D790473DF3caB",
+    "name": "Beefy USD+/FRAX/​USDC.e",
+    "symbol": "moo-USD+FRAXUSDC.e",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
   }
 }
