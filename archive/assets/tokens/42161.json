@@ -16679,7 +16679,7 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0x18445923592be303fbd3BC164ee685C7457051b4":{
+  "0x18445923592be303fbd3BC164ee685C7457051b4": {
     "address": "0x18445923592be303fbd3BC164ee685C7457051b4",
     "name": "xVCX",
     "symbol": "xVCX",
@@ -16687,12 +16687,20 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe":{
+  "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe": {
     "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
     "name": "Wrapped eETH",
     "symbol": "weETH",
     "decimals": 18,
     "logoURI": "https://etherscan.io/token/images/etherfiweeth_32.png",
+    "chainId": 42161
+  },
+  "0x02dB67e732748027293C2eaeb21C949d8DF3F6a8": {
+    "address": "0x02dB67e732748027293C2eaeb21C949d8DF3F6a8",
+    "name": "Beefy eUSD-USDC",
+    "symbol": "moo-eUSD-USDC",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
     "chainId": 42161
   }
 }

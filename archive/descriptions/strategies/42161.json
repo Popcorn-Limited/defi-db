@@ -88,5 +88,14 @@
     "apyId": "85247b13-8180-44e7-b38c-4d324cc68a92",
     "apySource": "defillama",
     "resolver": "compound"
+  },
+  "0xB8ac2F8964D7306752B44f4889E5Af14AcA45bee": {
+    "address": "0xB8ac2F8964D7306752B44f4889E5Af14AcA45bee",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Beefy",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys CLM Vault for the eUSD-USDC Pool on Uniswap.",
+    "apyId": "bc206209-1321-40c4-b109-10bc3b18329a",
+    "apySource": "defillama",
+    "resolver": "beefy"
   }
 }
