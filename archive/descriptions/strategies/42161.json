@@ -97,7 +97,8 @@
     "apyId": "bc206209-1321-40c4-b109-10bc3b18329a",
     "apySource": "defillama",
     "resolver": "beefy",
-    "type": "AnyToAnyV1"
+    "type": "AnyToAnyV1",
+    "yieldAsset": "0x02dB67e732748027293C2eaeb21C949d8DF3F6a8"
   },
   "0xFbd3CfEE30a6F51F02eF6C2fd67F4DDC6B0f1Ab2": {
     "address": "0xFbd3CfEE30a6F51F02eF6C2fd67F4DDC6B0f1Ab2",
@@ -107,7 +108,8 @@
     "apyId": "a1cb28c9-6095-4152-a40e-0c22fb5b95bf",
     "apySource": "defillama",
     "resolver": "beefy",
-    "type": "AnyToAnyV1"
+    "type": "AnyToAnyV1",
+    "yieldAsset": "0x42189E9E398fD830CFcca2FC1B2c84823d72C658S"
   },
   "0x0f691096e0a89cD46fbc99E378711135db06aE0c": {
     "address": "0x0f691096e0a89cD46fbc99E378711135db06aE0c",
@@ -117,6 +119,7 @@
     "apyId": "d487b1d6-18d1-4261-8419-9dfb2154140f",
     "apySource": "defillama",
     "resolver": "beefy",
-    "type": "AnyToAnyV1"
+    "type": "AnyToAnyV1",
+    "yieldAsset": "0xF2d3C18a13E0860de55B7201411D790473DF3caB"
   }
 }
