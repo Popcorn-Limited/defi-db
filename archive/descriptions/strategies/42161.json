@@ -109,7 +109,7 @@
     "apySource": "defillama",
     "resolver": "beefy",
     "type": "AnyToAnyV1",
-    "yieldAsset": "0x42189E9E398fD830CFcca2FC1B2c84823d72C658S"
+    "yieldAsset": "0x42189E9E398fD830CFcca2FC1B2c84823d72C658"
   },
   "0x0f691096e0a89cD46fbc99E378711135db06aE0c": {
     "address": "0x0f691096e0a89cD46fbc99E378711135db06aE0c",
