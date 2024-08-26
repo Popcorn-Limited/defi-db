@@ -121,5 +121,16 @@
     "resolver": "beefy",
     "type": "AnyToAnyV1",
     "yieldAsset": "0xF2d3C18a13E0860de55B7201411D790473DF3caB"
+  },
+  "0xC8D9AaD4EF9Da1E1436B150778eaF0A8be5e35Cd":{
+    "address": "0xC8D9AaD4EF9Da1E1436B150778eaF0A8be5e35Cd",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Beefy",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys Compounding Vault for the USD+/FRAX/USDC.e Pool on Convex.",
+    "apyId": "d487b1d6-18d1-4261-8419-9dfb2154140f",
+    "apySource": "defillama",
+    "resolver": "beefy",
+    "type": "AnyToAnyV1",
+    "yieldAsset": "0xF2d3C18a13E0860de55B7201411D790473DF3caB"
   }
 }

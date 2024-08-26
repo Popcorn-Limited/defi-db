@@ -257,5 +257,25 @@
     "creator": "0x7b6f5707BAE87d80c45d71C9128A3F63aa0f134a",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": ""
+  },
+  "0xA76331558b8D501dd644603e98aE02e291bBD197": {
+    "address": "0xA76331558b8D501dd644603e98aE02e291bBD197",
+    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "strategies": [
+      "0x5769F1c62Fa2AA6087df3dd1FA6a7Ae89Bb45FFd",
+      "0xC8D9AaD4EF9Da1E1436B150778eaF0A8be5e35Cd"
+    ],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "multi-strategy-vault-v2",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": ""
   }
 }
