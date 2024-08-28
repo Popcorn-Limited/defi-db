@@ -52535,6 +52535,14 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
+  "0xE5d383FC43F6c370DdD3975cf9e363Ad42367697": {
+    "address": "0xE5d383FC43F6c370DdD3975cf9e363Ad42367697",
+    "name": "Staked VCX",
+    "symbol": "stVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
   "0x121936a3A28390035F3C9Ec965743bF6aB6D90A5": {
     "address": "0x121936a3A28390035F3C9Ec965743bF6aB6D90A5",
     "name": "Peapods VCX",
