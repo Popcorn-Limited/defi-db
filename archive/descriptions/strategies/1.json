@@ -255,7 +255,7 @@
     "address": "0xcA8A6287A69977022Ad3b5211d568192e131a574",
     "asset": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
     "name": "Convex",
-    "description": "**Convex LP-Compounding**  - This vault earns compounding interest on LP-tokens of the pyUSD / crvUSD liquidity pool on Curve. The LP-tokens are staked in a gauge on Convex to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "description": "**Convex LP-Compounding** - This vault earns compounding interest on LP-tokens of the pyUSD / crvUSD liquidity pool on Curve. The LP-tokens are staked in a gauge on Convex to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
     "apyId": "443f0162-635e-493c-bc2b-4985f8f790e3",
     "apySource": "defillama",
     "resolver": "convex"
