@@ -14,9 +14,9 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
-
   "0x5Df527eb4cE7dE09f8e966F9bbc9bc4Edbc7f458": {
     "address": "0x5Df527eb4cE7dE09f8e966F9bbc9bc4Edbc7f458",
     "assetAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
@@ -52,7 +52,8 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "name": "Junior Tether USD",
     "gauge": "0xb5DC74CBF45A53a7E0920885ed506D5B862B119D",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
   "0x5372c5AF5f078f2d4B5dbBE4377b2f0225f2863A": {
     "address": "0x5372c5AF5f078f2d4B5dbBE4377b2f0225f2863A",
@@ -69,7 +70,8 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
   "0x4E564bC61Cf97737cE110c7929b17963E9232aE9": {
     "address": "0x4E564bC61Cf97737cE110c7929b17963E9232aE9",
@@ -86,7 +88,8 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
   "0x4e93CC7B2d4bE75B9c3cFBC6436DD4315c46c412": {
     "address": "0x4e93CC7B2d4bE75B9c3cFBC6436DD4315c46c412",

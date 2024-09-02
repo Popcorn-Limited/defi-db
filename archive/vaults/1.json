@@ -14,7 +14,8 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
   "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D": {
     "address": "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D",
@@ -31,7 +32,8 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
   "0xb6cED1C0e5d26B815c3881038B88C829f39CE949": {
     "address": "0xb6cED1C0e5d26B815c3881038B88C829f39CE949",
@@ -82,7 +84,8 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
   "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340": {
     "address": "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340",
@@ -117,7 +120,8 @@
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0xDCd86dDDE7B49C46292Aa7B699b10BF98248D4b5",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
   "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567": {
     "address": "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567",
@@ -221,7 +225,8 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
   "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D": {
     "address": "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D",
@@ -257,7 +262,8 @@
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0x4658eC64b99cAd7F939b3bf87c345738A04310A9",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   },
   "0x3B51bba174478D641770bF4356a1BF3c215AEd49": {
     "address": "0x3B51bba174478D641770bF4356a1BF3c215AEd49",
@@ -329,7 +335,8 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "strategies": ["0xBD4458CfA154eA9ADE45BaF4dA6136cbC3A70f9f"],
     "gauge": "0xC86B7c1A0d825E5883922e5fB507741A22C428Bb",
-    "apyId": "2da6dcd0-a5a5-4b15-8b0b-6e01d362db11"
+    "apyId": "2da6dcd0-a5a5-4b15-8b0b-6e01d362db11",
+    "labels": ["Deprecated"]
   },
   "0xd24844c1eb111C1385A311DeEc62533A09d4C86B": {
     "address": "0xd24844c1eb111C1385A311DeEc62533A09d4C86B",
@@ -439,7 +446,7 @@
     },
     "type": "multi-strategy-vault-v2",
     "name": "Modular USDe",
-    "labels": ["New"],
+    "labels": ["Experimental"],
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
@@ -462,7 +469,7 @@
     },
     "type": "multi-strategy-vault-v2",
     "name": "Modular sUSDe",
-    "labels": ["New"],
+    "labels": ["Experimental"],
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
@@ -472,9 +479,7 @@
   "0x319121F8F39669599221A883Bb6d7d0Feef0E69c": {
     "address": "0x319121F8F39669599221A883Bb6d7d0Feef0E69c",
     "assetAddress": "0x38aaCE3e7f9e46330f103A558CbF117972479904",
-    "strategies": [
-      "0xC4C7B3FEfECbd07B4174Bb7a49701d508A633733"
-    ],
+    "strategies": ["0xC4C7B3FEfECbd07B4174Bb7a49701d508A633733"],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -484,7 +489,7 @@
     },
     "type": "multi-strategy-vault-v2",
     "name": "Peapods pVCX",
-    "labels": ["New"],
+    "labels": ["Experimental"],
     "description": "",
     "creator": "0x89ef67a2f5d5e37540a43bdb36bac44874470ba6",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
@@ -504,7 +509,7 @@
     },
     "type": "multi-strategy-vault-v2",
     "name": "Staked COMP",
-    "labels": ["New"],
+    "labels": ["Experimental"],
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",

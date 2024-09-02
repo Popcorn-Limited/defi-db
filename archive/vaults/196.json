@@ -14,7 +14,8 @@
     "description": "To get uniETH on xLayer bridge it or simply click -LINK- https://app.bedrock.technology/crosschain",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0xA9c5E4484d0f204E758637f7Bf5A08A0AA09A39C",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Experimental"]
   },
   "0x4F8F9DA3D8ca847030bac1d393C9A6a8E73bAD0C": {
     "address": "0x4F8F9DA3D8ca847030bac1d393C9A6a8E73bAD0C",
@@ -31,6 +32,7 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0xA9c5E4484d0f204E758637f7Bf5A08A0AA09A39C",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Experimental"]
   }
 }

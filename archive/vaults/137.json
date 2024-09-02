@@ -14,6 +14,7 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
-    "apyId": ""
+    "apyId": "",
+    "labels": ["Deprecated"]
   }
 }
