@@ -158,5 +158,13 @@
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0xbCde085E5d663Ee592D760311C9cE33b37bEC684": {
+    "address": "0xbCde085E5d663Ee592D760311C9cE33b37bEC684",
+    "name": "TESTER TEST VAULT",
+    "symbol": "test",
+    "decimals": 6,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }
