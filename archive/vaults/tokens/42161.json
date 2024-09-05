@@ -166,5 +166,13 @@
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba": {
+    "address": "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba",
+    "name": "USDC Mega Managed Vault",
+    "symbol": "vc-USDC",
+    "decimals": 6,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }

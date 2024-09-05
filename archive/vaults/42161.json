@@ -300,5 +300,34 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "labels": ["Experimental"]
+  },
+  "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba": {
+    "address": "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba",
+    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "strategies": [
+      "0x430cF36a989DFef9ff8F0f3b7738059715a07B6c",
+      "0x5769F1c62Fa2AA6087df3dd1FA6a7Ae89Bb45FFd",
+      "0x7D375fAA1A42F183ACe063e188c3c95fCBf04e93",
+      "0xA2655b902dc8e6AfAD89e03f13fc2a484043F416",
+      "0x970550f7057fdE945a7Ca3B32EBc23994ABC2239",
+      "0xA714B8585f5a17ae4E85700fA3d81d0ab0C6dDEB",
+      "0xCEe8104ED8796CD6eF6d7CC761Ea88FaFD3b80ee",
+      "0x7385AaFE2FD203B2720f172178dBCf1951CcC062",
+      "0xb8108710706a6B870e06270c3a2e6570aE03804a",
+      "0x15f8190294846c429615435Bd1A3E1Efe0dc93Ee"
+    ],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 20000000000000000,
+      "performance": 100000000000000000
+    },
+    "type": "multi-strategy-vault-v2.5",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "labels": ["Experimental"]
   }
 }

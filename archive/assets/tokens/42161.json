@@ -16718,5 +16718,69 @@
     "decimals": 18,
     "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
     "chainId": 42161
+  },
+  "0x485cAC13E6492CcF4d47764b0E4e07b5272B0167": {
+    "address": "0x485cAC13E6492CcF4d47764b0E4e07b5272B0167",
+    "name": "Ipor USDC",
+    "symbol": "ipUSDC",
+    "decimals": 18,
+    "logoURI": "https://app.ipor.io/tokens/usdc.svg",
+    "chainId": 42161
+  },
+  "0x34a2b066AF16409648eF15d239E656edB8790ca0": {
+    "address": "0x34a2b066AF16409648eF15d239E656edB8790ca0",
+    "name": "Yearn PT-USDe",
+    "symbol": "yPT-USDe",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/ethenausde_32.png",
+    "chainId": 42161
+  },
+  "0x88cD2e60A549525e13bE59daED9E2F8eBb74174a": {
+    "address": "0x88cD2e60A549525e13bE59daED9E2F8eBb74174a",
+    "name": "Beefy MIM-USDC",
+    "symbol": "moo-MIM-USDC",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0x2651D82Bf8Cd7b2Eb021d97A34f059B47BA9A272": {
+    "address": "0x2651D82Bf8Cd7b2Eb021d97A34f059B47BA9A272",
+    "name": "Beefy MIM-USDT",
+    "symbol": "moo-MIM-USDT",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0x503ebD3E15A19C43F76A27263466be0C7fB4b401": {
+    "address": "0x503ebD3E15A19C43F76A27263466be0C7fB4b401",
+    "name": "Beefy sFRAX-4Pool",
+    "symbol": "moo-sFRAX-4Pool",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0xC66F3928D2653B82367B4B7B2d3E3B43f4A1f647": {
+    "address": "0xC66F3928D2653B82367B4B7B2d3E3B43f4A1f647",
+    "name": "Beefy USDe-USDC CLM",
+    "symbol": "moo-USDe-USDC CLM",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0x281fE15fd3E08A282f52D5cf09a4d13c3709E66D": {
+    "address": "0x281fE15fd3E08A282f52D5cf09a4d13c3709E66D",
+    "name": "Pendle USDe LP",
+    "symbol": "pUSDE-LP",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/ethenausde_32.png",
+    "chainId": 42161
+  },
+  "0xa877a0E177b54A37066c1786F91a1DAb68F094AF": {
+    "address": "0xa877a0E177b54A37066c1786F91a1DAb68F094AF",
+    "name": "Pendle gUSD LP",
+    "symbol": "pgUSD-LP",
+    "decimals": 18,
+    "logoURI": "https://arbiscan.io/token/images/gainsgusdc_32.png",
+    "chainId": 42161
   }
 }

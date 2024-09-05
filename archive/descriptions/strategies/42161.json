@@ -122,7 +122,7 @@
     "type": "AnyToAnyV1",
     "yieldAsset": "0xF2d3C18a13E0860de55B7201411D790473DF3caB"
   },
-  "0xC8D9AaD4EF9Da1E1436B150778eaF0A8be5e35Cd":{
+  "0xC8D9AaD4EF9Da1E1436B150778eaF0A8be5e35Cd": {
     "address": "0xC8D9AaD4EF9Da1E1436B150778eaF0A8be5e35Cd",
     "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "name": "Beefy",
@@ -132,5 +132,98 @@
     "resolver": "beefy",
     "type": "AnyToAnyV1",
     "yieldAsset": "0xF2d3C18a13E0860de55B7201411D790473DF3caB"
+  },
+  "0x430cF36a989DFef9ff8F0f3b7738059715a07B6c": {
+    "address": "0x430cF36a989DFef9ff8F0f3b7738059715a07B6c",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "AaveV3",
+    "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "d9fa8e14-0447-4207-9ae8-7810199dfa1f",
+    "apySource": "defillama",
+    "resolver": "aaveV3"
+  },
+  "0x7D375fAA1A42F183ACe063e188c3c95fCBf04e93": {
+    "address": "0x7D375fAA1A42F183ACe063e188c3c95fCBf04e93",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Ipor",
+    "description": "**????** - This vault uses IPOR that does ????",
+    "apyId": "24fe98a4-10ce-4690-903b-ac605e599093",
+    "apySource": "defillama",
+    "resolver": "ipor",
+    "yieldAsset": "0x485cAC13E6492CcF4d47764b0E4e07b5272B0167"
+  },
+  "0xA2655b902dc8e6AfAD89e03f13fc2a484043F416": {
+    "address": "0xA2655b902dc8e6AfAD89e03f13fc2a484043F416",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Yearn",
+    "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn which auto rolls USDe in Pendle.",
+    "apyId": "88dcad41-1610-44c7-8759-e93d8f1157a9",
+    "apySource": "defillama",
+    "resolver": "yearn",
+    "yieldAsset": "0x34a2b066AF16409648eF15d239E656edB8790ca0"
+  },
+  "0x970550f7057fdE945a7Ca3B32EBc23994ABC2239": {
+    "address": "0x970550f7057fdE945a7Ca3B32EBc23994ABC2239",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Beefy",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys Compounding Vault for the MIM-USDC Pool on MIMSwap.",
+    "apyId": "2802aef3-8c1c-4ba1-a89f-411f7e3c4fe8",
+    "apySource": "defillama",
+    "resolver": "beefy",
+    "type": "AnyToAnyV1",
+    "yieldAsset": "0x88cD2e60A549525e13bE59daED9E2F8eBb74174a"
+  },
+  "0xA714B8585f5a17ae4E85700fA3d81d0ab0C6dDEB": {
+    "address": "0xA714B8585f5a17ae4E85700fA3d81d0ab0C6dDEB",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Beefy",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys Compounding Vault for the MIM-USDT Pool on MIMSwap.",
+    "apyId": "2aef7e76-432a-4142-94c9-93130f0158fe",
+    "apySource": "defillama",
+    "resolver": "beefy",
+    "type": "AnyToAnyV1",
+    "yieldAsset": "0x2651D82Bf8Cd7b2Eb021d97A34f059B47BA9A272"
+  },
+  "0xCEe8104ED8796CD6eF6d7CC761Ea88FaFD3b80ee": {
+    "address": "0xCEe8104ED8796CD6eF6d7CC761Ea88FaFD3b80ee",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Beefy",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys Compounding Vault for the sFRAX-4Pool on Aura.",
+    "apyId": "13701a08-92d3-46a8-9025-2282cbeed004",
+    "apySource": "defillama",
+    "resolver": "beefy",
+    "type": "AnyToAnyV1",
+    "yieldAsset": "0x503ebD3E15A19C43F76A27263466be0C7fB4b401"
+  },
+  "0x7385AaFE2FD203B2720f172178dBCf1951CcC062": {
+    "address": "0x7385AaFE2FD203B2720f172178dBCf1951CcC062",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Beefy",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys Compounding Vault for the USDe-USDC CLM on Camelot.",
+    "apyId": "d9550272-bc19-4af4-8c2b-6346d2516716",
+    "apySource": "defillama",
+    "resolver": "beefy",
+    "type": "AnyToAnyV1",
+    "yieldAsset": "0xC66F3928D2653B82367B4B7B2d3E3B43f4A1f647"
+  },
+  "0xb8108710706a6B870e06270c3a2e6570aE03804a": {
+    "address": "0xb8108710706a6B870e06270c3a2e6570aE03804a",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Pendle",
+    "description": "**Managed Strategy** - his strategy is actively managed to convert USDC into a Pendle LP-tokens of USDe (Maturity 28.09.24) liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "resolver": "pendle",
+    "apyId": "41c01eca-96c6-48db-962b-f2dcb35d3674",
+    "apySource": "defillama",
+    "yieldAsset": "0x281fE15fd3E08A282f52D5cf09a4d13c3709E66D"
+  },
+  "0x15f8190294846c429615435Bd1A3E1Efe0dc93Ee": {
+    "address": "0x15f8190294846c429615435Bd1A3E1Efe0dc93Ee",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "Pendle",
+    "description": "**Managed Strategy** - his strategy is actively managed to convert USDC into a Pendle LP-tokens of gUSD (Maturity 26.12.24) liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "resolver": "pendle",
+    "apyId": "41c01eca-96c6-48db-962b-f2dcb35d3674",
+    "apySource": "defillama",
+    "yieldAsset": "0xa877a0E177b54A37066c1786F91a1DAb68F094AF"
   }
 }
