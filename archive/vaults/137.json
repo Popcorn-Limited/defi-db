@@ -16,5 +16,22 @@
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
     "apyId": "",
     "labels": ["Deprecated"]
+  },
+  "0x3c30fee45fb024045c36f4de781df3704787c4a0": {
+    "address": "0x3c30fee45fb024045c36f4de781df3704787c4a0",
+    "assetAddress": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+    "strategies": ["0xB0CDFb59D54b4f5EeAa180dFb9cE3786Cc7D9835"],
+    "chainId": 137,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "multi-strategy-vault-v2",
+    "description": "",
+    "creator": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
+    "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
+    "apyId": ""
   }
 }

@@ -14,5 +14,13 @@
     "decimals": 15,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 137
+  },
+  "0x3c30fee45fb024045c36f4de781df3704787c4a0": {
+    "address": "0x3c30fee45fb024045c36f4de781df3704787c4a0",
+    "name": "VaultCraft MaticX Looper Vault",
+    "symbol": "vc-MaticX-L",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 137
   }
 }
