@@ -222,7 +222,7 @@
     "name": "Pendle",
     "description": "**Managed Strategy** - his strategy is actively managed to convert USDC into a Pendle LP-tokens of gUSD (Maturity 26.12.24) liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
     "resolver": "pendle",
-    "apyId": "41c01eca-96c6-48db-962b-f2dcb35d3674",
+    "apyId": "5a4715ce-6e7c-425c-9880-50e87ae61fd4",
     "apySource": "defillama",
     "yieldAsset": "0xa877a0E177b54A37066c1786F91a1DAb68F094AF"
   }
