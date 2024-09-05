@@ -515,5 +515,25 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0x8996c9f987D721BE5DF0F3683fCB561fB119331A",
     "apyId": ""
+  },
+  "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887": {
+    "address": "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887",
+    "assetAddress": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "strategies": [],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "multi-strategy-vault-v2.5",
+    "name": "LBTC Vault",
+    "labels": ["New"],
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "",
+    "apyId": ""
   }
 }

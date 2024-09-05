@@ -52598,5 +52598,13 @@
     "decimals": 18,
     "logoURI": "https://etherscan.io/token/images/peapods_32.png",
     "chainId": 1
+  },
+  "0x8236a87084f8B84306f72007F36F2618A5634494":{
+    "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "name": "Lombard Staked Bitcoin",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
+    "chainId": 1
   }
 }

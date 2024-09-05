@@ -430,5 +430,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887": {
+    "address": "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887",
+    "name": "LBTC Vault",
+    "symbol": "vcx-LBTC",
+    "decimals": 8,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }
