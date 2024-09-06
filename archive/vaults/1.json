@@ -530,25 +530,7 @@
     "type": "multi-strategy-vault-v2.5",
     "name": "Modular LBTC",
     "labels": ["New"],
-    "description": "Goals:
-
-Modular LBTC, developed in collaboration with Lombard Finance, is a non-custodial, multi-strategy yield product designed to maximize BTC-denominated returns. It achieves this by diversifying deposits across a range of high-yield DeFi strategies.
-
-Strategies:
-
-Modular LBTC utilizes several strategies, including providing liquidity on Curve, lending on platforms such as Aave, Gearbox, and Morpho, and engaging in yield trading on Pendle. The Vault also automates compounding by efficiently converting all accrued DeFi rewards into LBTC.
-
-Risks:
-
-Modular LBTC carries smart contract risk and economic risk.
-
-Utilization Rate:
-
-The utilization rate refers to the percentage of liquidity deployed into Modular LBTC's strategies.
-
-Audits:
-VaultCraft's smart contracts have been audited by Paladin, C4, BlockSec, and multiple white hats: -LINK- https://docs.vaultcraft.io/security/audits
-",
+    "description": "Goals:",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "",
