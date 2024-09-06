@@ -236,29 +236,6 @@
     "gauge": "0xf4CC0E086f70815f6153E66749A627227a8CA386",
     "apyId": "3171c3c6-4e25-455e-9758-984b0ac2bb47"
   },
-  "0x082840E017fF803156193287fd0b78Ff21Faab14": {
-    "address": "0x082840E017fF803156193287fd0b78Ff21Faab14",
-    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "strategies": [
-      "0x5769F1c62Fa2AA6087df3dd1FA6a7Ae89Bb45FFd",
-      "0xB8ac2F8964D7306752B44f4889E5Af14AcA45bee",
-      "0xFbd3CfEE30a6F51F02eF6C2fd67F4DDC6B0f1Ab2",
-      "0x0f691096e0a89cD46fbc99E378711135db06aE0c"
-    ],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "multi-strategy-vault-v2",
-    "description": "",
-    "creator": "0x7b6f5707BAE87d80c45d71C9128A3F63aa0f134a",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "labels": ["Experimental"]
-  },
   "0xA76331558b8D501dd644603e98aE02e291bBD197": {
     "address": "0xA76331558b8D501dd644603e98aE02e291bBD197",
     "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",

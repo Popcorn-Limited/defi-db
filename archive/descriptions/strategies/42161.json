@@ -89,19 +89,8 @@
     "apySource": "defillama",
     "resolver": "compound"
   },
-  "0xB8ac2F8964D7306752B44f4889E5Af14AcA45bee": {
-    "address": "0xB8ac2F8964D7306752B44f4889E5Af14AcA45bee",
-    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "name": "Beefy",
-    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys CLM Vault for the eUSD-USDC Pool on Uniswap.",
-    "apyId": "bc206209-1321-40c4-b109-10bc3b18329a",
-    "apySource": "defillama",
-    "resolver": "beefy",
-    "type": "AnyToAnyV1",
-    "yieldAsset": "0x02dB67e732748027293C2eaeb21C949d8DF3F6a8"
-  },
-  "0xFbd3CfEE30a6F51F02eF6C2fd67F4DDC6B0f1Ab2": {
-    "address": "0xFbd3CfEE30a6F51F02eF6C2fd67F4DDC6B0f1Ab2",
+  "0x48d3f4282422be5A4d2560f880d5Ed9949E8E865": {
+    "address": "0x48d3f4282422be5A4d2560f880d5Ed9949E8E865",
     "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "name": "Beefy",
     "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys Compounding Vault for the USD+/USDT+ Pool on Convex.",
@@ -111,8 +100,8 @@
     "type": "AnyToAnyV1",
     "yieldAsset": "0x42189E9E398fD830CFcca2FC1B2c84823d72C658"
   },
-  "0x0f691096e0a89cD46fbc99E378711135db06aE0c": {
-    "address": "0x0f691096e0a89cD46fbc99E378711135db06aE0c",
+  "0x415287C93530bDF26c55EE3010e774c5De0a2033": {
+    "address": "0x415287C93530bDF26c55EE3010e774c5De0a2033",
     "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "name": "Beefy",
     "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into Beefys Compounding Vault for the USD+/FRAX/USDC.e Pool on Convex.",
@@ -146,20 +135,22 @@
     "address": "0x7D375fAA1A42F183ACe063e188c3c95fCBf04e93",
     "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "name": "Ipor",
-    "description": "**????** - This vault uses IPOR that does ????",
+    "description": "**Managed Strategy** - This vault uses IPOR that does ????",
     "apyId": "24fe98a4-10ce-4690-903b-ac605e599093",
     "apySource": "defillama",
     "resolver": "ipor",
+    "type": "AnyToAnyV1",
     "yieldAsset": "0x485cAC13E6492CcF4d47764b0E4e07b5272B0167"
   },
   "0xA2655b902dc8e6AfAD89e03f13fc2a484043F416": {
     "address": "0xA2655b902dc8e6AfAD89e03f13fc2a484043F416",
     "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "name": "Yearn",
-    "description": "**Automated Asset Strategy** - This vault deploys your assets into automated asset strategies of Yearn which auto rolls USDe in Pendle.",
+    "description": "**Managed Strategy** - TThis strategy is actively managed to convert USDC into Yearns Vault which auto rolls USDe in Pendle.",
     "apyId": "88dcad41-1610-44c7-8759-e93d8f1157a9",
     "apySource": "defillama",
     "resolver": "yearn",
+    "type": "AnyToAnyV1",
     "yieldAsset": "0x34a2b066AF16409648eF15d239E656edB8790ca0"
   },
   "0x970550f7057fdE945a7Ca3B32EBc23994ABC2239": {
@@ -214,6 +205,7 @@
     "resolver": "pendle",
     "apyId": "41c01eca-96c6-48db-962b-f2dcb35d3674",
     "apySource": "defillama",
+    "type": "AnyToAnyV1",
     "yieldAsset": "0x281fE15fd3E08A282f52D5cf09a4d13c3709E66D"
   },
   "0x15f8190294846c429615435Bd1A3E1Efe0dc93Ee": {
@@ -224,6 +216,7 @@
     "resolver": "pendle",
     "apyId": "5a4715ce-6e7c-425c-9880-50e87ae61fd4",
     "apySource": "defillama",
+    "type": "AnyToAnyV1",
     "yieldAsset": "0xa877a0E177b54A37066c1786F91a1DAb68F094AF"
   }
 }
