@@ -302,7 +302,7 @@
     },
     "type": "multi-strategy-vault-v2.5",
     "description": "",
-    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "creator": "0x4CC090Ba6f871212c87565A94e7e35f09E894c59",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "labels": ["Experimental"]
