@@ -276,7 +276,7 @@
       "performance": 0
     },
     "type": "single-asset-vault-v1",
-    "description": "This is an experimental vault testing Aura Compounding. It stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token are swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event.",
+    "description": "<p>This is an experimental vault testing Aura Compounding. It stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token are swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event.</p>",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "strategies": ["0x27Da6422620A688619AaEf12BCc9C770C333A101"],
@@ -312,7 +312,7 @@
       "performance": 100000000000000000
     },
     "type": "single-asset-vault-v1",
-    "description": "This is an experimental vault testing the CurveGaugeCompounder. It deploys pyUSD/crvUSD into its Gauge on Curve and compounds rewards back into it.",
+    "description": "<p>This is an experimental vault testing the CurveGaugeCompounder. It deploys pyUSD/crvUSD into its Gauge on Curve and compounds rewards back into it.</p>",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "labels": ["Experimental"],
@@ -367,7 +367,7 @@
       "performance": 100000000000000000
     },
     "type": "single-asset-vault-v1",
-    "description": "This is an experimental vault testing the ConvexCompounder. It deploys pyUSD/crvUSD into its Gauge on Convex and compounds rewards back into it.",
+    "description": "<p>This is an experimental vault testing the ConvexCompounder. It deploys pyUSD/crvUSD into its Gauge on Convex and compounds rewards back into it.</p>",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "labels": ["Experimental"],
@@ -530,7 +530,7 @@
     "type": "multi-strategy-vault-v2.5",
     "name": "Modular LBTC",
     "labels": ["New"],
-    "description": "Goals:",
+    "description": "<div><p className='font-bold'>Goals:</p><p>Modular LBTC, developed in collaboration with Lombard Finance, is a non-custodial, multi-strategy yield product designed to maximize BTC-denominated returns. It achieves this by diversifying deposits across a range of high-yield DeFi strategies.</p></div>",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "",
