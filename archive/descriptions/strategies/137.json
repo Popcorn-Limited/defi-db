@@ -25,6 +25,6 @@
     "resolver": "stader",
     "apySource": "custom",
     "apyId": "",
-    "type:": "LeverageV1"
+    "type": "LeverageV1"
   }
 }
