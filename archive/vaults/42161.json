@@ -305,6 +305,7 @@
     "creator": "0x4CC090Ba6f871212c87565A94e7e35f09E894c59",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
-    "labels": ["Experimental"]
+    "labels": ["Experimental"],
+    "name":"Mega USDC Vault"
   }
 }
