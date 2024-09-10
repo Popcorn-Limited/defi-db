@@ -368,5 +368,27 @@
     "resolver": "peapods",
     "apyId": "",
     "apySource": "custom"
+  },
+  "0x8b9481468B7Ea2abe4Ac6Db15567e00A215a2603": {
+    "address": "0x8b9481468B7Ea2abe4Ac6Db15567e00A215a2603",
+    "asset": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "name": "Etherfi",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert LBTC into eBTC on Etherfi.",
+    "resolver": "etherfi",
+    "apyId": "",
+    "apySource": "custom",
+    "type": "AnyToAnyV1",
+    "yieldToken": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642"
+  },
+  "0xDd21Bc8D4e690a9F97E5F47Ae419b867c07522Dd": {
+    "address": "0xDd21Bc8D4e690a9F97E5F47Ae419b867c07522Dd",
+    "asset": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "name": "Pendle",
+    "description": "**Managed Compounder** - This strategy is actively managed to convert LBTC into a Pendle LP-tokens of eBTC (Maturity 26.12.24) liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "resolver": "pendle",
+    "apyId": "782161ae-9fb4-4db7-a39c-bac2e7e946fb",
+    "apySource": "defillama",
+    "type": "AnyToAnyCompounderV1",
+    "yieldToken": "0x36d3ca43ae7939645C306E26603ce16e39A89192"
   }
 }
