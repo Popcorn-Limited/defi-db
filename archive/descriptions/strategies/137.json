@@ -24,7 +24,7 @@
     "description": "**Leverage Strategy** - This vault leverages your MaticX yield by depositing MaticX into Aave - borrowing wMatic and stake it for more MaticX, which is then deposited again into aave. This is achieved via flash loans in order to reach the desired leverage in one transaction.",
     "resolver": "stader",
     "apySource": "custom",
-    "apyId": "",
+    "apyId": "67cb77ab-9d9c-4002-9eaf-4388bc892ba5",
     "type": "LeverageV1"
   }
 }
