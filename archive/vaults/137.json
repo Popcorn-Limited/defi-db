@@ -34,5 +34,23 @@
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
     "apyId": "",
     "labels": ["Leverage"]
+  },
+  "0x4BA04db16799d4Dfbc658d3E4cCC509F564a7eF5": {
+    "address": "0x4BA04db16799d4Dfbc658d3E4cCC509F564a7eF5",
+    "assetAddress": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+    "strategies": ["0xb75F5eB5b802A450e301a83165A58aA17e03eD3A"],
+    "chainId": 137,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 100000000000000000
+    },
+    "type": "multi-strategy-vault-v2",
+    "description": "",
+    "creator": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
+    "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
+    "apyId": "",
+    "labels": ["Leverage"]
   }
 }

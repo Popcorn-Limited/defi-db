@@ -26,5 +26,13 @@
     "apySource": "custom",
     "apyId": "67cb77ab-9d9c-4002-9eaf-4388bc892ba5",
     "type": "LeverageV1"
+  },
+  "0xb75F5eB5b802A450e301a83165A58aA17e03eD3A": {
+    "address": "0xb75F5eB5b802A450e301a83165A58aA17e03eD3A",
+    "asset": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+    "name": "Stader",
+    "description": "**Automated Asset Strategy** - This vault leverages your MaticX yield by depositing MaticX into Aave - borrowing wMatic and stake it for more MaticX, which is then deposited again into aave. This is achieved via flash loans in order to reach the desired leverage in one transaction.",
+    "resolver": "stader",
+    "type": "LeverageV1"
   }
 }
