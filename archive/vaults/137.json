@@ -33,7 +33,8 @@
     "creator": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
     "apyId": "",
-    "labels": ["Leverage"]
+    "labels": ["Leverage"],
+    "name":"MaticX 5X Smart Loop"
   },
   "0x4BA04db16799d4Dfbc658d3E4cCC509F564a7eF5": {
     "address": "0x4BA04db16799d4Dfbc658d3E4cCC509F564a7eF5",
@@ -51,6 +52,7 @@
     "creator": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
     "apyId": "",
-    "labels": ["Leverage"]
+    "labels": ["Leverage"],
+    "name":"MaticX 10X Smart Loop"
   }
 }
