@@ -25,12 +25,12 @@
     "fees": {
       "deposit": 0,
       "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
+      "management": 5000000000000000,
+      "performance": 0
     },
     "type": "multi-strategy-vault-v2",
     "description": "",
-    "creator": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
     "apyId": "",
     "labels": ["Leverage"],
@@ -44,12 +44,12 @@
     "fees": {
       "deposit": 0,
       "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
+      "management": 5000000000000000,
+      "performance": 0
     },
     "type": "multi-strategy-vault-v2",
     "description": "",
-    "creator": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
     "apyId": "",
     "labels": ["Leverage"],
