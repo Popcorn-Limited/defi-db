@@ -390,5 +390,15 @@
     "apySource": "defillama",
     "type": "AnyToAnyCompounderV1",
     "yieldToken": "0x36d3ca43ae7939645C306E26603ce16e39A89192"
+  },
+  "0xDafC709d84f5FE09546fD054220EA59b47517379": {
+    "address": "0xDafC709d84f5FE09546fD054220EA59b47517379",
+    "asset": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+    "name": "Stader",
+    "description": "**Leverage Strategy** - This vault leverages your EthX yield by depositing EthX into Aave - borrowing wETH and stake it for more EthX, which is then deposited again into aave. This is achieved via flash loans in order to reach the desired leverage in one transaction.",
+    "resolver": "stader",
+    "type": "LeverageV1",
+    "apySource": "custom",
+    "apyId": ""
   }
 }

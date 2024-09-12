@@ -438,5 +438,13 @@
     "decimals": 8,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE": {
+    "address": "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE",
+    "name": "VaultCraft ETHx 10x Looper Vault",
+    "symbol": "vc-ETHx-L-10x",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

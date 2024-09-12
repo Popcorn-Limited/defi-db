@@ -535,5 +535,24 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "",
     "apyId": ""
+  }, 
+  "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE": {
+    "address": "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE",
+    "assetAddress": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+    "strategies": ["0xDafC709d84f5FE09546fD054220EA59b47517379"],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 50000000000000000
+    },
+    "type": "multi-strategy-vault-v2",
+    "description": "",
+    "creator": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "labels": ["Leverage"],
+    "name":"ETHx 10X Smart Loop"
   }
 }
