@@ -399,7 +399,7 @@
     "resolver": "stader",
     "type": "LeverageV1",
     "apySource": "custom",
-    "apyId": ""
+    "apyId": "90bfb3c2-5d35-4959-a275-ba5085b08aa3"
   },
   "0xcdc20718Cc869c6DBD541B7302C97758fF17250b": {
     "address": "0xcdc20718Cc869c6DBD541B7302C97758fF17250b",
@@ -409,6 +409,6 @@
     "resolver": "stader",
     "type": "LeverageV1",
     "apySource": "custom",
-    "apyId": ""
+    "apyId": "90bfb3c2-5d35-4959-a275-ba5085b08aa3"
   }
 }
