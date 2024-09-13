@@ -519,7 +519,10 @@
   "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887": {
     "address": "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887",
     "assetAddress": "0x8236a87084f8B84306f72007F36F2618A5634494",
-    "strategies": [],
+    "strategies": [
+      "0x8b9481468B7Ea2abe4Ac6Db15567e00A215a2603",
+      "0xDd21Bc8D4e690a9F97E5F47Ae419b867c07522Dd"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -535,7 +538,7 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "",
     "apyId": ""
-  }, 
+  },
   "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE": {
     "address": "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE",
     "assetAddress": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
@@ -553,7 +556,7 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "labels": ["Leverage"],
-    "name":"ETHx 10X Smart Loop"
+    "name": "ETHx 10X Smart Loop"
   },
   "0x4425142e7044339508c76ca8FaA7617A594faC04": {
     "address": "0x4425142e7044339508c76ca8FaA7617A594faC04",
@@ -572,6 +575,6 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "labels": ["Leverage"],
-    "name":"ETHx 5X Smart Loop"
+    "name": "ETHx 5X Smart Loop"
   }
 }
