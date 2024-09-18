@@ -419,5 +419,16 @@
     "apyId": "d13e3a25-d1a7-47d7-af9f-00755fb262ab",
     "apySource": "defillama",
     "resolver": "zerolend"
+  },
+  "0x94C28249029d0c660716F0a98569134EEF144d45": {
+    "address": "0x94C28249029d0c660716F0a98569134EEF144d45",
+    "asset": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "name": "Pendle",
+    "description": "**Managed Compounder** - This strategy is actively managed to convert LBTC into a Pendle LP-tokens of LBTC (Corn) (Maturity 26.12.24) liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "resolver": "pendle",
+    "apyId": "3d57101f-5d5a-414e-a3d9-a05b8d89bf20",
+    "apySource": "defillama",
+    "type": "AnyToAnyCompounderV1",
+    "yieldToken": "0xCaE62858DB831272A03768f5844cbe1B40bB381f"
   }
 }
