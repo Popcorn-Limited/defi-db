@@ -410,5 +410,14 @@
     "type": "LeverageV1",
     "apySource": "custom",
     "apyId": "90bfb3c2-5d35-4959-a275-ba5085b08aa3"
+  },
+  "0x87520b96405BA8e846142262D246F6d36F6B831D": {
+    "address": "0x87520b96405BA8e846142262D246F6d36F6B831D",
+    "asset": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "name": "ZeroLend",
+    "description": "**Lending** - This vault uses a lending strategy on ZeroLend using the LBTC market. Which generates compound interest on your LBTC by lending it out to borrowers.",
+    "apyId": "d13e3a25-d1a7-47d7-af9f-00755fb262ab",
+    "apySource": "defillama",
+    "resolver": "zerolend"
   }
 }
