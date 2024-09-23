@@ -52622,5 +52622,13 @@
     "decimals": 18,
     "logoURI": "https://app.ether.fi/images/liquid/ebtc-icon.png",
     "chainId": 1
+  },
+  "0xCaE62858DB831272A03768f5844cbe1B40bB381f": {
+    "address": "0xCaE62858DB831272A03768f5844cbe1B40bB381f",
+    "name": "Pendle LBTC(Corn) LP",
+    "symbol": "LBTC(Corn)-LP",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
+    "chainId": 1
   }
 }
