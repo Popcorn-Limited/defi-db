@@ -539,7 +539,37 @@
     "creator": "0xB85e0d4ad9078676Ca86C6bAa51228aB3E21F5da",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "",
-    "apyId": ""
+    "apyId": "",
+    "points": [
+      {
+        "provider":"Lombard",
+        "multiplier":3
+      },
+      {
+        "provider":"Babylon",
+        "multiplier":3
+      },
+      {
+        "provider":"Corn",
+        "multiplier":0.75
+      },
+      {
+        "provider":"Symbiotic",
+        "multiplier":0.75
+      },
+      {
+        "provider":"Etherfi",
+        "multiplier":2.25
+      },
+      {
+        "provider":"Veda",
+        "multiplier":2.25
+      },
+      {
+        "provider":"VaultCraft",
+        "multiplier":2
+      }
+    ]
   },
   "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE": {
     "address": "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE",
