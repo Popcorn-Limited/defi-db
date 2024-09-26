@@ -1,40 +1,4 @@
 {
-  "0x5d344226578DC100b2001DA251A4b154df58194f": {
-    "address": "0x5d344226578DC100b2001DA251A4b154df58194f",
-    "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-    "strategies": ["0x612465C8d6F1B2Bc85DF43224a8A3b5e04F634fc"],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
-    "apyId": "",
-    "labels": ["Deprecated"]
-  },
-  "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D": {
-    "address": "0xc1D4a319dD7C44e332Bd54c724433C6067FeDd0D",
-    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "strategies": ["0xB98B71F5B756493a898E8B05ac7d6B20644435E6"],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
-    "apyId": "",
-    "labels": ["Deprecated"]
-  },
   "0xb6cED1C0e5d26B815c3881038B88C829f39CE949": {
     "address": "0xb6cED1C0e5d26B815c3881038B88C829f39CE949",
     "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -69,24 +33,6 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": ""
   },
-  "0xc8C88fdF2802733f8c4cd7c0bE0557fdC5d2471c": {
-    "address": "0xc8C88fdF2802733f8c4cd7c0bE0557fdC5d2471c",
-    "assetAddress": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
-    "strategies": ["0x743EaD6E224283D00e29866327d4E35B6f196F79"],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "labels": ["Deprecated"]
-  },
   "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340": {
     "address": "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340",
     "assetAddress": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
@@ -103,25 +49,6 @@
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": ""
-  },
-  "0x759281a408A48bfe2029D259c23D7E848A7EA1bC": {
-    "address": "0x759281a408A48bfe2029D259c23D7E848A7EA1bC",
-    "assetAddress": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
-    "strategies": ["0x33d9A49CfB1005E722a3BEE2959b2Ed3c127eA84"],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "gauge": "0xDCd86dDDE7B49C46292Aa7B699b10BF98248D4b5",
-    "apyId": "",
-    "labels": ["Deprecated"]
   },
   "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567": {
     "address": "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567",
@@ -210,24 +137,6 @@
     "gauge": "0x3c6dda81628197B4eeBEfd7A2F64cb77e12Cbf89",
     "apyId": "7929f17b-954f-4a7a-b1d8-865b68391b25"
   },
-  "0x95Ca391fB08F612Dc6b0CbDdcb6708C21d5A8295": {
-    "address": "0x95Ca391fB08F612Dc6b0CbDdcb6708C21d5A8295",
-    "assetAddress": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
-    "strategies": ["0x2661495A1B6BF8b7a2F33c707A74801aBeCA3d74"],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "labels": ["Deprecated"]
-  },
   "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D": {
     "address": "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -245,25 +154,6 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0xB295347A5D044eD70A52E5Fb0a2bACE32a2d7499",
     "apyId": "03558eef-b4d2-45bf-97f4-fe12e402f838"
-  },
-  "0xA3cd112fFb1E3A358EF270a07F5901FF0fD1CD0f": {
-    "address": "0xA3cd112fFb1E3A358EF270a07F5901FF0fD1CD0f",
-    "assetAddress": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
-    "strategies": ["0xebEE0d3B137290438bd796109CB3e9eEa211d9D1"],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "gauge": "0x4658eC64b99cAd7F939b3bf87c345738A04310A9",
-    "apyId": "",
-    "labels": ["Deprecated"]
   },
   "0x3B51bba174478D641770bF4356a1BF3c215AEd49": {
     "address": "0x3B51bba174478D641770bF4356a1BF3c215AEd49",
@@ -318,25 +208,6 @@
     "labels": ["Experimental"],
     "strategies": ["0xdce45fEab60668195D891242914864837Aa22d8d"],
     "apyId": ""
-  },
-  "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77": {
-    "address": "0x59fD900cA80Bf914374AaFB1D16aB12aE1234F77",
-    "assetAddress": "0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "strategies": ["0xBD4458CfA154eA9ADE45BaF4dA6136cbC3A70f9f"],
-    "gauge": "0xC86B7c1A0d825E5883922e5fB507741A22C428Bb",
-    "apyId": "2da6dcd0-a5a5-4b15-8b0b-6e01d362db11",
-    "labels": ["Deprecated"]
   },
   "0xd24844c1eb111C1385A311DeEc62533A09d4C86B": {
     "address": "0xd24844c1eb111C1385A311DeEc62533A09d4C86B",

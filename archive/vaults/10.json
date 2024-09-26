@@ -1,22 +1,4 @@
 {
-  "0xe64E5e2E58904366A6E24CF1e0aC7922AfCe4332": {
-    "address": "0xe64E5e2E58904366A6E24CF1e0aC7922AfCe4332",
-    "assetAddress": "0xF753A50fc755c6622BBCAa0f59F0522f264F006e",
-    "strategies": ["0x066f92a0e668e6FC497Ae53576E74d1f77820004"],
-    "chainId": 10,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "labels": ["Deprecated"]
-  },
   "0x5Df527eb4cE7dE09f8e966F9bbc9bc4Edbc7f458": {
     "address": "0x5Df527eb4cE7dE09f8e966F9bbc9bc4Edbc7f458",
     "assetAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
@@ -34,62 +16,6 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "name": "Senior Tether USD",
     "apyId": ""
-  },
-  "0x78C44B3A63b94d2EFc98c2Cc9701F9BEE1b6a56A": {
-    "address": "0x78C44B3A63b94d2EFc98c2Cc9701F9BEE1b6a56A",
-    "assetAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-    "strategies": ["0x0D8C42319Cf265FBEfa7a5bcCbbd5Cb702c7E990"],
-    "chainId": 10,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "name": "Junior Tether USD",
-    "gauge": "0xb5DC74CBF45A53a7E0920885ed506D5B862B119D",
-    "apyId": "",
-    "labels": ["Deprecated"]
-  },
-  "0x5372c5AF5f078f2d4B5dbBE4377b2f0225f2863A": {
-    "address": "0x5372c5AF5f078f2d4B5dbBE4377b2f0225f2863A",
-    "assetAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
-    "strategies": ["0xe2839976C6c85b049Ba1DFBA7b837E8B36aC1848"],
-    "chainId": 10,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "labels": ["Deprecated"]
-  },
-  "0x4E564bC61Cf97737cE110c7929b17963E9232aE9": {
-    "address": "0x4E564bC61Cf97737cE110c7929b17963E9232aE9",
-    "assetAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
-    "strategies": ["0x4a71a7CB0D710F03BE90F4276bf996271706C816"],
-    "chainId": 10,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "labels": ["Deprecated"]
   },
   "0x4e93CC7B2d4bE75B9c3cFBC6436DD4315c46c412": {
     "address": "0x4e93CC7B2d4bE75B9c3cFBC6436DD4315c46c412",
