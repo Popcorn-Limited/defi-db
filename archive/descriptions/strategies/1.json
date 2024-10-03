@@ -430,5 +430,16 @@
     "apySource": "defillama",
     "type": "AnyToAnyCompounderV1",
     "yieldToken": "0xCaE62858DB831272A03768f5844cbe1B40bB381f"
+  },
+  "0xc59B7cA9d2556dfEbCf4f1c4a357b590AB54583c": {
+    "address": "0xc59B7cA9d2556dfEbCf4f1c4a357b590AB54583c",
+    "asset": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "name": "Pendle",
+    "description": "**Managed Compounder** - This strategy is actively managed to convert LBTC into Pendle LP-tokens for the LBTC (Maturity 27.03.25) liquidity pool on Pendle. The LP-tokens are staked on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "resolver": "pendle",
+    "apyId": "77e0e01b-e62e-4de4-83f0-9e581872b77d",
+    "apySource": "defillama",
+    "type": "AnyToAnyCompounderV1",
+    "yieldToken": "0x70B70Ac0445C3eF04E314DFdA6caafd825428221"
   }
 }

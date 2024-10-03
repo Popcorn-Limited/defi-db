@@ -52630,5 +52630,13 @@
     "decimals": 18,
     "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
     "chainId": 1
+  },
+  "0x70B70Ac0445C3eF04E314DFdA6caafd825428221": {
+    "address": "0x70B70Ac0445C3eF04E314DFdA6caafd825428221",
+    "name": "Pendle LBTC LP",
+    "symbol": "LBTC-LP",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
+    "chainId": 1
   }
 }
