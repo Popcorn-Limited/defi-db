@@ -1,1 +1,10 @@
-{}
+{
+  "0xcC4e5eE7D4c19BaC139f209a26709E2F87Ab2eB9": {
+    "address": "0xcC4e5eE7D4c19BaC139f209a26709E2F87Ab2eB9",
+    "name": "Frax Rebalancing Vault",
+    "symbol": "vc-rFrax",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 252
+  }
+}

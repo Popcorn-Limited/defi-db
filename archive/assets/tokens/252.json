@@ -1,1 +1,26 @@
-{}
+{
+  "0xFc00000000000000000000000000000000000001": {
+    "address": "0xFc00000000000000000000000000000000000001",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/FRAX.png",
+    "chainId": 252
+  },
+  "0xFc00000000000000000000000000000000000002": {
+    "address": "0xFc00000000000000000000000000000000000002",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/1/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0/icon",
+    "chainId": 252
+  },
+  "0xFC00000000000000000000000000000000000005": {
+    "address": "0xFC00000000000000000000000000000000000005",
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "decimals": 18,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/1/0xac3e018457b222d93114458476f3e3416abbe38f/icon",
+    "chainId": 252
+  }
+}

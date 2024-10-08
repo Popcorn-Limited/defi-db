@@ -1,1 +1,24 @@
-{}
+{
+  "0xcC4e5eE7D4c19BaC139f209a26709E2F87Ab2eB9": {
+    "address": "0xcC4e5eE7D4c19BaC139f209a26709E2F87Ab2eB9",
+    "assetAddress": "0xFc00000000000000000000000000000000000001",
+    "strategies": [
+      "0x8EdA613EC96992D3C42BCd9aC2Ae58a92929Ceb2",
+      "0x4F968317721B9c300afBff3FD37365637318271D"
+    ],
+    "chainId": 252,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 10000000000000000,
+      "performance": 0
+    },
+    "type": "multi-strategy-vault-v2.5",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0xe3Bf0045C12C1CF31D7DAc40D0Fc0a49a410bBA2",
+    "apyId": "",
+    "labels": ["New"],
+    "name": "Mega FRAX Vault"
+  }
+}

@@ -1,1 +1,20 @@
-{}
+{
+  "0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc": {
+    "address": "0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "name": "AaveV3",
+    "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "7e0661bf-8cf3-45e6-9424-31916d4c7b84",
+    "apySource": "defillama",
+    "resolver": "aaveV3"
+  },
+  "0x0FaBfEAcedf47e890c50C8120177fff69C6a1d9B": {
+    "address": "0x0FaBfEAcedf47e890c50C8120177fff69C6a1d9B",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "name": "Morpho",
+    "description": "**Lending** - This vault uses the allocation vault for USDC managed by RE7 on Morpho Blue. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "301667a4-dc42-492d-a978-ea4f69811a72",
+    "apySource": "defillama",
+    "resolver": "morpho"
+  }
+}

@@ -1,1 +1,24 @@
-{}
+{
+  "0xcC4e5eE7D4c19BaC139f209a26709E2F87Ab2eB9": {
+    "address": "0xcC4e5eE7D4c19BaC139f209a26709E2F87Ab2eB9",
+    "assetAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "strategies": [
+      "0x0FaBfEAcedf47e890c50C8120177fff69C6a1d9B",
+      "0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc"
+    ],
+    "chainId": 8453,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 10000000000000000,
+      "performance": 0
+    },
+    "type": "multi-strategy-vault-v2.5",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0xe3Bf0045C12C1CF31D7DAc40D0Fc0a49a410bBA2",
+    "apyId": "",
+    "labels": ["New"],
+    "name": "Mega USDC Vault"
+  }
+}
