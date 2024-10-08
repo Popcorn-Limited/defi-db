@@ -10,7 +10,7 @@
   },
   "0x4F968317721B9c300afBff3FD37365637318271D": {
     "address": "0x4F968317721B9c300afBff3FD37365637318271D",
-    "asset": "0xFC00000000000000000000000000000000000001",
+    "asset": "0xFc00000000000000000000000000000000000001",
     "name": "FraxLend",
     "description": "**Lending** - This vault uses a lending strategy on FraxLend using the sfrxETH market. Which generates compound interest on your FRAX by lending it out to borrowers.",
     "apyId": "fraxlend",
