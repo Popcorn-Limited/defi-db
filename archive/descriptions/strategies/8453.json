@@ -16,5 +16,38 @@
     "apyId": "301667a4-dc42-492d-a978-ea4f69811a72",
     "apySource": "defillama",
     "resolver": "morpho"
+  },
+  "0x90C555f136225f4202B2CE43FFac43f2C0271E63": {
+    "address": "0x90C555f136225f4202B2CE43FFac43f2C0271E63",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "name": "Aerodrome",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into USDz-DOLA sLP on Aerodome.The LP-tokens are staked on Aerodrome to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "apyId": "6cab64ef-4498-4cca-8427-a0752b324471",
+    "apySource": "defillama",
+    "resolver": "aerodrome",
+    "type": "AnyToAnyV1",
+    "yieldToken": "0xa98815c2E5741660786cF74da5f2A8d3A17B5474"
+  },
+  "0x8E0D9e1651764B06DA4559e36E23973de881209f": {
+    "address": "0x8E0D9e1651764B06DA4559e36E23973de881209f",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "name": "Aerodrome",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into USDz-USDC sLP on Aerodome.The LP-tokens are staked on Aerodrome to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy. ",
+    "apyId": "d04bd4d1-6d35-416c-be39-53318be4f916",
+    "apySource": "defillama",
+    "resolver": "aerodrome",
+    "type": "AnyToAnyV1",
+    "yieldToken": "0x3b5F990364fa9BF1Db34d9d24B0Bdca6eE4bD4B1"
+  },
+  "0xbB9c9eD8D985877775287fee6B54B10Ce32414aF": {
+    "address": "0xbB9c9eD8D985877775287fee6B54B10Ce32414aF",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "name": "Aerodrome",
+    "description": "**Managed Strategy** - This strategy is actively managed to convert USDC into DOLA-USDC sLP on Aerodome.The LP-tokens are staked on Aerodrome to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
+    "apyId": "a27ac28f-99fe-447e-ae22-a486ec49c5ba",
+    "apySource": "defillama",
+    "resolver": "aerodrome",
+    "type": "AnyToAnyV1",
+    "yieldToken": "0x5A47993216fa6ACaf93418f9830cee485e82d0ba"
   }
 }

@@ -6,5 +6,29 @@
     "decimals": 6,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
     "chainId": 8453
+  },
+  "0xa98815c2E5741660786cF74da5f2A8d3A17B5474": {
+    "address": "0xa98815c2E5741660786cF74da5f2A8d3A17B5474",
+    "name": "Beefy USDz-DOLA sLP",
+    "symbol": "moo-USDz-DOLA sLP",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 8453
+  },
+  "0x3b5F990364fa9BF1Db34d9d24B0Bdca6eE4bD4B1": {
+    "address": "0x3b5F990364fa9BF1Db34d9d24B0Bdca6eE4bD4B1",
+    "name": "Beefy USDz-USDC sLP",
+    "symbol": "moo-USDz-USDC sLP",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 8453
+  },
+  "0x5A47993216fa6ACaf93418f9830cee485e82d0ba": {
+    "address": "0x5A47993216fa6ACaf93418f9830cee485e82d0ba",
+    "name": "Beefy DOLA-USDC sLP",
+    "symbol": "moo-DOLA-USDC sLP",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 8453
   }
 }
