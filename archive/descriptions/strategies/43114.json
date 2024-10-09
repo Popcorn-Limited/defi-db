@@ -1,1 +1,11 @@
-{}
+{
+  "0xC509aB7bB4eDbF193b82264D499a7Fc526Cd01F4": {
+    "address": "0xC509aB7bB4eDbF193b82264D499a7Fc526Cd01F4",
+    "asset": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "name": "AaveV3",
+    "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "c4b05318-88af-4536-a834-f5fc8940d2d3",
+    "apySource": "defillama",
+    "resolver": "aaveV3"
+  }
+}
