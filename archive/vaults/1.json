@@ -449,7 +449,7 @@
   "0x4425142e7044339508c76ca8FaA7617A594faC04": {
     "address": "0x4425142e7044339508c76ca8FaA7617A594faC04",
     "assetAddress": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
-    "strategies": ["0xcdc20718Cc869c6DBD541B7302C97758fF17250b"],
+    "strategies": ["0x8D63e0B19753FFc1C2339689526B7c4AAD6e3758"],
     "chainId": 1,
     "fees": {
       "deposit": 0,
