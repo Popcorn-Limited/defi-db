@@ -17,8 +17,8 @@
     "apySource": "defillama",
     "resolver": "beefy"
   },
-  "0xB0CDFb59D54b4f5EeAa180dFb9cE3786Cc7D9835": {
-    "address": "0xB0CDFb59D54b4f5EeAa180dFb9cE3786Cc7D9835",
+  "0x40B74aC60F4133b31F297767B455B4328d917809": {
+    "address": "0x40B74aC60F4133b31F297767B455B4328d917809",
     "asset": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
     "name": "Stader",
     "description": "**Leverage Strategy** - This vault leverages your MaticX yield by depositing MaticX into Aave - borrowing wMatic and stake it for more MaticX, which is then deposited again into aave. This is achieved via flash loans in order to reach the desired leverage in one transaction.",

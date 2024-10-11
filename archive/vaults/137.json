@@ -2,7 +2,7 @@
   "0x3C30fEe45Fb024045c36f4de781df3704787c4a0": {
     "address": "0x3C30fEe45Fb024045c36f4de781df3704787c4a0",
     "assetAddress": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
-    "strategies": ["0xB0CDFb59D54b4f5EeAa180dFb9cE3786Cc7D9835"],
+    "strategies": ["0x40B74aC60F4133b31F297767B455B4328d917809"],
     "chainId": 137,
     "fees": {
       "deposit": 0,
