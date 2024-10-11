@@ -399,7 +399,7 @@
     "resolver": "stader",
     "type": "LeverageV1",
     "apySource": "custom",
-    "apyId": "90bfb3c2-5d35-4959-a275-ba5085b08aa3"
+    "apyId": "0f45d730-b279-4629-8e11-ccb5cc3038b4"
   },
   "0x8D63e0B19753FFc1C2339689526B7c4AAD6e3758": {
     "address": "0x8D63e0B19753FFc1C2339689526B7c4AAD6e3758",
@@ -409,7 +409,7 @@
     "resolver": "stader",
     "type": "LeverageV1",
     "apySource": "custom",
-    "apyId": "90bfb3c2-5d35-4959-a275-ba5085b08aa3"
+    "apyId": "0f45d730-b279-4629-8e11-ccb5cc3038b4"
   },
   "0x87520b96405BA8e846142262D246F6d36F6B831D": {
     "address": "0x87520b96405BA8e846142262D246F6d36F6B831D",
