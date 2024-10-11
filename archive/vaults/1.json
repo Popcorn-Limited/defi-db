@@ -430,7 +430,7 @@
   "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE": {
     "address": "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE",
     "assetAddress": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
-    "strategies": ["0xDafC709d84f5FE09546fD054220EA59b47517379"],
+    "strategies": ["0x40B74aC60F4133b31F297767B455B4328d917809"],
     "chainId": 1,
     "fees": {
       "deposit": 0,
