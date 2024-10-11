@@ -422,22 +422,6 @@
         "multiplier":1
       },
       {
-        "provider":"Corn",
-        "multiplier":0.75
-      },
-      {
-        "provider":"Symbiotic",
-        "multiplier":0.75
-      },
-      {
-        "provider":"Etherfi",
-        "multiplier":2.25
-      },
-      {
-        "provider":"Veda",
-        "multiplier":2.25
-      },
-      {
         "provider":"VaultCraft",
         "multiplier":2
       }
