@@ -21,7 +21,7 @@
   "0x4BA04db16799d4Dfbc658d3E4cCC509F564a7eF5": {
     "address": "0x4BA04db16799d4Dfbc658d3E4cCC509F564a7eF5",
     "assetAddress": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
-    "strategies": ["0xb75F5eB5b802A450e301a83165A58aA17e03eD3A"],
+    "strategies": ["0x8D63e0B19753FFc1C2339689526B7c4AAD6e3758"],
     "chainId": 137,
     "fees": {
       "deposit": 0,
