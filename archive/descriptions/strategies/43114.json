@@ -7,5 +7,14 @@
     "apyId": "c4b05318-88af-4536-a834-f5fc8940d2d3",
     "apySource": "defillama",
     "resolver": "aaveV3"
+  },
+  "0xC20D5cA179f592c5445548f9f6bF52e48ecDFBF6": {
+    "address": "0xC20D5cA179f592c5445548f9f6bF52e48ecDFBF6",
+    "asset": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "name": "LFJ",
+    "description": "**CLM** - Experimental CLM Strategy on LFJ",
+    "apyId": "05be8356-541f-433f-993a-eceba43befa2",
+    "apySource": "defillama",
+    "resolver": "lfj"
   }
 }
