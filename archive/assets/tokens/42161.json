@@ -16782,5 +16782,13 @@
     "decimals": 18,
     "logoURI": "https://arbiscan.io/token/images/gainsgusdc_32.png",
     "chainId": 42161
+  },
+  "0xFeae6470A79b7779888f4a64af315Ca997D6cF33": {
+    "address": "0xFeae6470A79b7779888f4a64af315Ca997D6cF33",
+    "name": "wVCX",
+    "symbol": "wVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }
