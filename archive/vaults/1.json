@@ -464,5 +464,33 @@
     "apyId": "",
     "labels": ["Leverage"],
     "name": "ETHx 5X Smart Loop"
+  },
+  "0x0989B0618b039a0494486146c4F8f4869436988d": {
+    "address": "0x0989B0618b039a0494486146c4F8f4869436988d",
+    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "strategies": [
+      "0x779Fc28F55c1db147eDcf6D5Ee5569d361d963FD",
+      "0x4485b515B648baD2Bc72C6c66Ce5e6Ec109438Db",
+      "0x9Fb7b4477576Fe5B32be4C1843aFB1e55F251B33",
+      "0x19433012Db9E7f53a969C8A1a5436b219Fb72Ab6",
+      "0x602DA189F5aDa033E9aC7096Fc39C7F44a77e942",
+      "0xda00000035fef4082F78dEF6A8903bee419FbF8E",
+      "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
+      "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+      "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458"
+    ],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "multi-strategy-vault-v2",
+    "description": "",
+    "creator": "0xa2E0C84271563bE255d7052668DA4f540f685F20",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Edge DeFi USDC"
   }
 }

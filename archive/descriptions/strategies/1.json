@@ -441,5 +441,86 @@
     "apySource": "defillama",
     "type": "AnyToAnyCompounderV1",
     "yieldToken": "0x70B70Ac0445C3eF04E314DFdA6caafd825428221"
+  },
+  "0x779Fc28F55c1db147eDcf6D5Ee5569d361d963FD": {
+    "address": "0x779Fc28F55c1db147eDcf6D5Ee5569d361d963FD",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "AaveV3",
+    "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "aa70268e-4b52-42bf-a116-608b370f9501",
+    "apySource": "defillama",
+    "resolver": "aaveV3"
+  },
+  "0x4485b515B648baD2Bc72C6c66Ce5e6Ec109438Db": {
+    "address": "0x4485b515B648baD2Bc72C6c66Ce5e6Ec109438Db",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "CompoundV3",
+    "description": "**Lending** - This vault uses a lending strategy on CompoundV3 using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "7da72d09-56ca-4ec5-a45f-59114353e487",
+    "apySource": "defillama",
+    "resolver": "compoundV3"
+  },
+  "0x9Fb7b4477576Fe5B32be4C1843aFB1e55F251B33": {
+    "address": "0x9Fb7b4477576Fe5B32be4C1843aFB1e55F251B33",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "Fluid",
+    "description": "**Lending** - This vault uses a lending strategy on Fluid using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "4438dabc-7f0c-430b-8136-2722711ae663",
+    "apySource": "defillama",
+    "resolver": "fluid"
+  },
+  "0x19433012Db9E7f53a969C8A1a5436b219Fb72Ab6": {
+    "address": "0x19433012Db9E7f53a969C8A1a5436b219Fb72Ab6",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "Spark",
+    "description": "**Lending** - This vault uses a lending strategy on Spark using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "65ce8276-b4d9-41ba-9f6f-21fc374cf9bc",
+    "apySource": "defillama",
+    "resolver": "spark"
+  },
+  "0x602DA189F5aDa033E9aC7096Fc39C7F44a77e942": {
+    "address": "0x602DA189F5aDa033E9aC7096Fc39C7F44a77e942",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "Maker",
+    "description": "**Automated Asset Strategy** - Invests the USDC through MakerDAO's Peg Stability Module (PSM) and Sky into USDS and farms yearn's USDS vault for yield.",
+    "apyId": "c8a24fee-ec00-4f38-86c0-9f6daebc4225",
+    "apySource": "defillama",
+    "resolver": "maker"
+  },
+  "0xda00000035fef4082F78dEF6A8903bee419FbF8E": {
+    "address": "0xda00000035fef4082F78dEF6A8903bee419FbF8E",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "Gearbox",
+    "description": "**Lending** - This vault uses a lending strategy on Gearbox using the USDC market. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "1b532a84-38ab-4e80-8bd2-94f062810ac4",
+    "apySource": "defillama",
+    "resolver": "gearbox"
+  },
+  "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a": {
+    "address": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "Morpho",
+    "description": "**Lending** - This vault uses a the Relend USDC vault managed by B.Protocol and Relend Network. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "0677605a-0842-40af-8b8d-9d4ba5f55de3",
+    "apySource": "defillama",
+    "resolver": "morpho"
+  },
+  "0xd63070114470f685b75B74D60EEc7c1113d33a3D": {
+    "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "Morpho",
+    "description": "**Lending** - This vault uses a the Usual Boosted USDC vault managed by MEV Capital. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "32d65ccd-5c07-4b45-8441-98bc86c0720a",
+    "apySource": "defillama",
+    "resolver": "morpho"
+  },
+  "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458": {
+    "address": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "Morpho",
+    "description": "**Lending** - This vault uses a the Gauntlet USDC Core vault managed by Gauntlet. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "apyId": "468e4c2c-02df-427a-b2c7-5cea3a77014a",
+    "apySource": "defillama",
+    "resolver": "morpho"
   }
 }

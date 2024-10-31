@@ -454,5 +454,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+ "0x0989B0618b039a0494486146c4F8f4869436988d": {
+    "address": "0x0989B0618b039a0494486146c4F8f4869436988d",
+    "name": "Edge DeFi USDC Vault",
+    "symbol": "edge-USDC",
+    "decimals": 6,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }
