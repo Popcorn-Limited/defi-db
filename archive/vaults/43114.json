@@ -3,7 +3,8 @@
     "address": "0xACb87043D9355a6216cf648B2bEE91496Db8461F",
     "assetAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
     "strategies": [
-      "0xC509aB7bB4eDbF193b82264D499a7Fc526Cd01F4"
+      "0xC509aB7bB4eDbF193b82264D499a7Fc526Cd01F4",
+      "0xC20D5cA179f592c5445548f9f6bF52e48ecDFBF6"
     ],
     "chainId": 43114,
     "fees": {
