@@ -1,4 +1,44 @@
 {
+  "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/DAI.png",
+    "chainId": 42161
+  },
+  "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": {
+    "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "name": "USDC (Bridged)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
+    "chainId": 42161
+  },
+  "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": {
+    "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9/icon",
+    "chainId": 42161
+  },
+  "0xaf88d065e77c8cC2239327C5EDb3A432268e5831": {
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
+    "chainId": 42161
+  },
+  "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b": {
+    "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+    "name": "LUSD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/LUSD.png",
+    "chainId": 42161
+  },
   "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F": {
     "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "name": "Frax",
@@ -21,22 +61,6 @@
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/WETH.svg",
-    "chainId": 42161
-  },
-  "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": {
-    "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "decimals": 6,
-    "logoURI": "https://metadata-service.herokuapp.com/api/token/42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9/icon",
-    "chainId": 42161
-  },
-  "0xaf88d065e77c8cC2239327C5EDb3A432268e5831": {
-    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
     "chainId": 42161
   },
   "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472": {

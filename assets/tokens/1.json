@@ -15,6 +15,30 @@
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
+  "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDT.png",
+    "chainId": 1
+  },
+  "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0": {
+    "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+    "name": "LUSD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/LUSD.png",
+    "chainId": 1
+  },
+  "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
+    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WBTC.png",
+    "chainId": 1
+  },
   "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "name": "Wrapped Ether",
@@ -22,6 +46,14 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/1/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/icon",
+    "chainId": 1
   },
   "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7": {
     "address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
@@ -55,58 +87,10 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
     "chainId": 1
   },
-  "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3": {
-    "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
-    "name": "USDe",
-    "symbol": "USDe",
-    "decimals": 18,
-    "logoURI": "https://etherscan.io/token/images/ethenausde_32.png",
-    "chainId": 1
-  },
-  "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497": {
-    "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
-    "name": "sUSDe",
-    "symbol": "sUSDe",
-    "decimals": 18,
-    "logoURI": "https://etherscan.io/token/images/stakedusde_32.png",
-    "chainId": 1
-  },
-  "0x38aaCE3e7f9e46330f103A558CbF117972479904": {
-    "address": "0x38aaCE3e7f9e46330f103A558CbF117972479904",
-    "name": "pVCX/pOHM",
-    "symbol": "pVCX-pOHM",
-    "decimals": 18,
-    "logoURI": "https://etherscan.io/token/images/peapods_32.png",
-    "chainId": 1
-  },
-  "0x8236a87084f8B84306f72007F36F2618A5634494": {
-    "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
-    "name": "Lombard Staked Bitcoin",
-    "symbol": "LBTC",
-    "decimals": 8,
-    "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
-    "chainId": 1
-  },
-  "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E": {
-    "address": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
-    "name": "ezETH LP",
-    "symbol": "ezETH-LP",
-    "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
-    "chainId": 1
-  },
   "0xdEdb11A6a23263469567C2881A9b9F8629eE0041": {
     "address": "0xdEdb11A6a23263469567C2881A9b9F8629eE0041",
     "name": "svETH/wstETH",
     "symbol": "svETH-wstETH",
-    "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
-    "chainId": 1
-  },
-  "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920": {
-    "address": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
-    "name": "VCX-LP",
-    "symbol": "vcx-lp",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
     "chainId": 1
@@ -253,6 +237,22 @@
     "symbol": "LBTC-LP",
     "decimals": 18,
     "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
+    "chainId": 1
+  },
+  "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b": {
+    "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+    "name": "Stader ETHx",
+    "symbol": "ETHX",
+    "decimals": 18,
+    "logoURI": "https://www.staderlabs.com/eth/ethx.svg?imwidth=32",
+    "chainId": 1
+  },
+  "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0": {
+    "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "name": "Wrapped Staked Ether",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
     "chainId": 1
   }
 }

@@ -7,12 +7,44 @@
     "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
     "chainId": 10
   },
+  "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/DAI.png",
+    "chainId": 10
+  },
   "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58": {
     "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/USDT.png",
+    "chainId": 10
+  },
+  "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819": {
+    "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+    "name": "LUSD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/LUSD.png",
+    "chainId": 10
+  },
+  "0x4200000000000000000000000000000000000006": {
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WETH.svg",
+    "chainId": 10
+  },
+  "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/10/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/icon",
     "chainId": 10
   },
   "0x68f180fcCe6836688e9084f035309E29Bf0A2095": {

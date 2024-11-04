@@ -1,10 +1,66 @@
 {
+"0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
+    "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "name": "USD Coin Bridged",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
+    "chainId": 137
+  },
+  "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359": {
+    "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+    "name": "USD Coin Bridged",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
+    "chainId": 137
+  },
+  "0xc2132D05D31c914a87C6611C10748AEb04B58e8F": {
+    "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/137/0xc2132d05d31c914a87c6611c10748aeb04b58e8f/icon",
+    "chainId": 137
+  },
+  "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063": {
+    "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "name": "(PoS) Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/137/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063/icon",
+    "chainId": 137
+  },
+  "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "name": "MATIC",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/137/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/icon",
+    "chainId": 137
+  },
+  "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270": {
+    "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "name": "Wrapped Matic",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/137/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/icon",
+    "chainId": 137
+  },
   "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6": {
     "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
     "name": "MaticX",
     "symbol": "MaticX",
     "decimals": 18,
     "logoURI": "https://metadata-service.herokuapp.com/api/token/137/0xfa68fb4628dff1028cfec22b4162fccd0d45efb6/icon",
+    "chainId": 137
+  },
+  "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
+    "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/137/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/icon",
     "chainId": 137
   }
 }
