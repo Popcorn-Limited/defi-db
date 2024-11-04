@@ -1,0 +1,258 @@
+{
+  "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7": {
+    "address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+    "name": "rsETH",
+    "symbol": "rsETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://icons.llamao.fi/icons/protocols/kelp-dao?w=48&h=48"
+  },
+  "0x625E92624Bc2D88619ACCc1788365A69767f6200": {
+    "address": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
+    "name": "pyUSD/crvUSD",
+    "symbol": "PYcrvUSD",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/curve-lp.png"
+  },
+  "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E": {
+    "address": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
+    "name": "ezETH LP",
+    "symbol": "ezETH-LP",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
+    "chainId": 1
+  },
+  "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920": {
+    "address": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
+    "name": "VCX-LP",
+    "symbol": "vcx-lp",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
+    "chainId": 1
+  },
+  "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3": {
+    "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+    "name": "USDe",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/ethenausde_32.png",
+    "chainId": 1
+  },
+  "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497": {
+    "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "name": "sUSDe",
+    "symbol": "sUSDe",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/stakedusde_32.png",
+    "chainId": 1
+  },
+  "0x38aaCE3e7f9e46330f103A558CbF117972479904": {
+    "address": "0x38aaCE3e7f9e46330f103A558CbF117972479904",
+    "name": "pVCX/pOHM",
+    "symbol": "pVCX-pOHM",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/peapods_32.png",
+    "chainId": 1
+  },
+  "0x8236a87084f8B84306f72007F36F2618A5634494": {
+    "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "name": "Lombard Staked Bitcoin",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
+    "chainId": 1
+  },
+  "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E": {
+    "address": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
+    "name": "ezETH LP",
+    "symbol": "ezETH-LP",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
+    "chainId": 1
+  },
+  "0xdEdb11A6a23263469567C2881A9b9F8629eE0041": {
+    "address": "0xdEdb11A6a23263469567C2881A9b9F8629eE0041",
+    "name": "svETH/wstETH",
+    "symbol": "svETH-wstETH",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
+    "chainId": 1
+  },
+  "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920": {
+    "address": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
+    "name": "VCX-LP",
+    "symbol": "vcx-lp",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/balancer-lp.png",
+    "chainId": 1
+  },
+  "0xcE246eEa10988C495B4A90a905Ee9237a0f91543": {
+    "address": "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
+    "name": "VCX",
+    "symbol": "VCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
+  "0xaFa52E3860b4371ab9d8F08E801E9EA1027C0CA2": {
+    "address": "0xaFa52E3860b4371ab9d8F08E801E9EA1027C0CA2",
+    "name": "VCX Call Option Token",
+    "symbol": "oVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/oVcx.svg",
+    "chainId": 1
+  },
+  "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60": {
+    "address": "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60",
+    "name": "Wrapped oVCX",
+    "symbol": "woVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/oVcx.svg",
+    "chainId": 1
+  },
+  "0x0aB4bC35Ef33089B9082Ca7BB8657D7c4E819a1A": {
+    "address": "0x0aB4bC35Ef33089B9082Ca7BB8657D7c4E819a1A",
+    "name": "Vote Locked VCX",
+    "symbol": "veVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
+  "0x18445923592be303fbd3BC164ee685C7457051b4": {
+    "address": "0x18445923592be303fbd3BC164ee685C7457051b4",
+    "name": "xVCX",
+    "symbol": "xVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
+  "0xE5d383FC43F6c370DdD3975cf9e363Ad42367697": {
+    "address": "0xE5d383FC43F6c370DdD3975cf9e363Ad42367697",
+    "name": "Staked VCX",
+    "symbol": "stVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
+  "0x121936a3A28390035F3C9Ec965743bF6aB6D90A5": {
+    "address": "0x121936a3A28390035F3C9Ec965743bF6aB6D90A5",
+    "name": "Peapods VCX",
+    "symbol": "pVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
+  "0x88E08adB69f2618adF1A3FF6CC43c671612D1ca4": {
+    "address": "0x88E08adB69f2618adF1A3FF6CC43c671612D1ca4",
+    "name": "Peapods OHM",
+    "symbol": "pOHM",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/peapods_32.png",
+    "chainId": 1
+  },
+  "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee": {
+    "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/etherfiweeth_32.png",
+    "chainId": 1
+  },
+  "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38": {
+    "address": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+    "name": "Staked ETH",
+    "symbol": "osETH",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/stakewise_32.png",
+    "chainId": 1
+  },
+  "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3": {
+    "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+    "name": "USDe",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/ethenausde_32.png",
+    "chainId": 1
+  },
+  "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497": {
+    "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "name": "sUSDe",
+    "symbol": "sUSDe",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/stakedusde_32.png",
+    "chainId": 1
+  },
+  "0x38aaCE3e7f9e46330f103A558CbF117972479904": {
+    "address": "0x38aaCE3e7f9e46330f103A558CbF117972479904",
+    "name": "pVCX/pOHM",
+    "symbol": "pVCX-pOHM",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/peapods_32.png",
+    "chainId": 1
+  },
+  "0x8236a87084f8B84306f72007F36F2618A5634494": {
+    "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "name": "Lombard Staked Bitcoin",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
+    "chainId": 1
+  },
+  "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642": {
+    "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
+    "name": "Etherfi Bitcoin",
+    "symbol": "eBTC",
+    "decimals": 8,
+    "logoURI": "https://app.ether.fi/images/liquid/ebtc-icon.png",
+    "chainId": 1
+  },
+  "0x36d3ca43ae7939645C306E26603ce16e39A89192": {
+    "address": "0x36d3ca43ae7939645C306E26603ce16e39A89192",
+    "name": "Pendle eBTC LP",
+    "symbol": "peBTC-LP",
+    "decimals": 18,
+    "logoURI": "https://app.ether.fi/images/liquid/ebtc-icon.png",
+    "chainId": 1
+  },
+  "0xCaE62858DB831272A03768f5844cbe1B40bB381f": {
+    "address": "0xCaE62858DB831272A03768f5844cbe1B40bB381f",
+    "name": "Pendle LBTC(Corn) LP",
+    "symbol": "LBTC(Corn)-LP",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
+    "chainId": 1
+  },
+  "0x70B70Ac0445C3eF04E314DFdA6caafd825428221": {
+    "address": "0x70B70Ac0445C3eF04E314DFdA6caafd825428221",
+    "name": "Pendle LBTC LP",
+    "symbol": "LBTC-LP",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/lombardfinance_32.png",
+    "chainId": 1
+  }
+}

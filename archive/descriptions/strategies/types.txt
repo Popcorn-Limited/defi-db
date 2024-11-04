@@ -1,9 +1,0 @@
-{
-  [
-    "address": "Address"
-  ] : {
-    "name": "string",
-    "description": "string",
-    "resolver": "string"
-  }
-}

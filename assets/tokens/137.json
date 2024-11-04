@@ -1,0 +1,10 @@
+{
+  "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6": {
+    "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+    "name": "MaticX",
+    "symbol": "MaticX",
+    "decimals": 18,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/137/0xfa68fb4628dff1028cfec22b4162fccd0d45efb6/icon",
+    "chainId": 137
+  }
+}

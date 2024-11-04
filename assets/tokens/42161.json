@@ -1,0 +1,186 @@
+{
+  "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F": {
+    "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/FRAX.png",
+    "chainId": 42161
+  },
+  "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f": {
+    "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WBTC.png",
+    "chainId": 42161
+  },
+  "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
+    "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WETH.svg",
+    "chainId": 42161
+  },
+  "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": {
+    "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://metadata-service.herokuapp.com/api/token/42161/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9/icon",
+    "chainId": 42161
+  },
+  "0xaf88d065e77c8cC2239327C5EDb3A432268e5831": {
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/USDC.png",
+    "chainId": 42161
+  },
+  "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472": {
+    "address": "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
+    "name": "Interest Bearing FRAX",
+    "symbol": "ibFRAX",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/FRAX.png",
+    "chainId": 42161
+  },
+  "0x59a696bF34Eae5AD8Fd472020e3Bed410694a230": {
+    "address": "0x59a696bF34Eae5AD8Fd472020e3Bed410694a230",
+    "name": "VCX Call Option Token",
+    "symbol": "oVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/oVcx.svg",
+    "chainId": 42161
+  },
+  "0xaF33642938172011f711bA530acc900Ae17620A7": {
+    "address": "0xaF33642938172011f711bA530acc900Ae17620A7",
+    "name": "Wrapped oVCX",
+    "symbol": "woVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/oVcx.svg",
+    "chainId": 42161
+  },
+  "0xC1A6Db6793967Ff7fb7f211E044A4c285A0eB7FB": {
+    "address": "0xC1A6Db6793967Ff7fb7f211E044A4c285A0eB7FB",
+    "name": "Vote Locked VCX",
+    "symbol": "veVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
+  },
+  "0x18445923592be303fbd3BC164ee685C7457051b4": {
+    "address": "0x18445923592be303fbd3BC164ee685C7457051b4",
+    "name": "xVCX",
+    "symbol": "xVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
+  },
+  "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe": {
+    "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/etherfiweeth_32.png",
+    "chainId": 42161
+  },
+  "0x02dB67e732748027293C2eaeb21C949d8DF3F6a8": {
+    "address": "0x02dB67e732748027293C2eaeb21C949d8DF3F6a8",
+    "name": "Beefy eUSD-USDC",
+    "symbol": "moo-eUSD-USDC",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0x42189E9E398fD830CFcca2FC1B2c84823d72C658": {
+    "address": "0x42189E9E398fD830CFcca2FC1B2c84823d72C658",
+    "name": "Beefy USD+/USDT+",
+    "symbol": "moo-USD+USDT+",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0xF2d3C18a13E0860de55B7201411D790473DF3caB": {
+    "address": "0xF2d3C18a13E0860de55B7201411D790473DF3caB",
+    "name": "Beefy USD+/FRAX/​USDC.e",
+    "symbol": "moo-USD+FRAXUSDC.e",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0x485cAC13E6492CcF4d47764b0E4e07b5272B0167": {
+    "address": "0x485cAC13E6492CcF4d47764b0E4e07b5272B0167",
+    "name": "Ipor USDC",
+    "symbol": "ipUSDC",
+    "decimals": 18,
+    "logoURI": "https://app.ipor.io/tokens/usdc.svg",
+    "chainId": 42161
+  },
+  "0x34a2b066AF16409648eF15d239E656edB8790ca0": {
+    "address": "0x34a2b066AF16409648eF15d239E656edB8790ca0",
+    "name": "Yearn PT-USDe",
+    "symbol": "yPT-USDe",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/ethenausde_32.png",
+    "chainId": 42161
+  },
+  "0x88cD2e60A549525e13bE59daED9E2F8eBb74174a": {
+    "address": "0x88cD2e60A549525e13bE59daED9E2F8eBb74174a",
+    "name": "Beefy MIM-USDC",
+    "symbol": "moo-MIM-USDC",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0x2651D82Bf8Cd7b2Eb021d97A34f059B47BA9A272": {
+    "address": "0x2651D82Bf8Cd7b2Eb021d97A34f059B47BA9A272",
+    "name": "Beefy MIM-USDT",
+    "symbol": "moo-MIM-USDT",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0x503ebD3E15A19C43F76A27263466be0C7fB4b401": {
+    "address": "0x503ebD3E15A19C43F76A27263466be0C7fB4b401",
+    "name": "Beefy sFRAX-4Pool",
+    "symbol": "moo-sFRAX-4Pool",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0xC66F3928D2653B82367B4B7B2d3E3B43f4A1f647": {
+    "address": "0xC66F3928D2653B82367B4B7B2d3E3B43f4A1f647",
+    "name": "Beefy USDe-USDC CLM",
+    "symbol": "moo-USDe-USDC CLM",
+    "decimals": 18,
+    "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
+    "chainId": 42161
+  },
+  "0x281fE15fd3E08A282f52D5cf09a4d13c3709E66D": {
+    "address": "0x281fE15fd3E08A282f52D5cf09a4d13c3709E66D",
+    "name": "Pendle USDe LP",
+    "symbol": "pUSDE-LP",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/ethenausde_32.png",
+    "chainId": 42161
+  },
+  "0xa877a0E177b54A37066c1786F91a1DAb68F094AF": {
+    "address": "0xa877a0E177b54A37066c1786F91a1DAb68F094AF",
+    "name": "Pendle gUSD LP",
+    "symbol": "pgUSD-LP",
+    "decimals": 18,
+    "logoURI": "https://arbiscan.io/token/images/gainsgusdc_32.png",
+    "chainId": 42161
+  },
+  "0xFeae6470A79b7779888f4a64af315Ca997D6cF33": {
+    "address": "0xFeae6470A79b7779888f4a64af315Ca997D6cF33",
+    "name": "wVCX",
+    "symbol": "wVCX",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
+  }
+}
