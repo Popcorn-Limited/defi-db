@@ -482,7 +482,7 @@
     "address": "0x602DA189F5aDa033E9aC7096Fc39C7F44a77e942",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Maker",
-    "description": "**Automated Asset Strategy** - Invests the USDC through MakerDAO's Peg Stability Module (PSM) and Sky into USDS and farms yearn's USDS vault for yield.",
+    "description": "**USDS Stability Module** - Invests the USDC through MakerDAO's Peg Stability Module (PSM) and Sky into USDS and farms yearn's USDS vault for yield.",
     "apyId": "c8a24fee-ec00-4f38-86c0-9f6daebc4225",
     "apySource": "defillama",
     "resolver": "maker"
@@ -500,7 +500,7 @@
     "address": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Morpho",
-    "description": "**Lending** - This vault uses a the Relend USDC vault managed by B.Protocol and Relend Network. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "description": "**Lending Relend** - This vault uses a the Relend USDC vault managed by B.Protocol and Relend Network. Which generates compound interest on your USDC by lending it out to borrowers.",
     "apyId": "0677605a-0842-40af-8b8d-9d4ba5f55de3",
     "apySource": "defillama",
     "resolver": "morpho"
@@ -509,7 +509,7 @@
     "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Morpho",
-    "description": "**Lending** - This vault uses a the Usual Boosted USDC vault managed by MEV Capital. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "description": "**Lending Usual** - This vault uses a the Usual Boosted USDC vault managed by MEV Capital. Which generates compound interest on your USDC by lending it out to borrowers.",
     "apyId": "32d65ccd-5c07-4b45-8441-98bc86c0720a",
     "apySource": "defillama",
     "resolver": "morpho"
@@ -518,7 +518,7 @@
     "address": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "name": "Morpho",
-    "description": "**Lending** - This vault uses a the Gauntlet USDC Core vault managed by Gauntlet. Which generates compound interest on your USDC by lending it out to borrowers.",
+    "description": "**Lending Gauntlet Core** - This vault uses a the Gauntlet USDC Core vault managed by Gauntlet. Which generates compound interest on your USDC by lending it out to borrowers.",
     "apyId": "468e4c2c-02df-427a-b2c7-5cea3a77014a",
     "apySource": "defillama",
     "resolver": "morpho"
