@@ -74,24 +74,6 @@
     "gauge": "0x1463b4F8EC81aA46D77b549Bda98390660eA92A6",
     "apyId": ""
   },
-  "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c": {
-    "address": "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": ["0x323053A0902E67791c06F65A5D2097ee79dD740F"],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "<p>This is an experimental vault testing the CurveSingleAssetCompounder. It deploys FRAX into the crvUSD/FRAX Pool on Curve and compounds rewards back into it.</p>",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "labels": ["Experimental"],
-    "apyId": ""
-  },
   "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72": {
     "address": "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72",
     "assetAddress": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
@@ -163,48 +145,6 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0xf4CC0E086f70815f6153E66749A627227a8CA386",
     "apyId": "3171c3c6-4e25-455e-9758-984b0ac2bb47"
-  },
-  "0xA76331558b8D501dd644603e98aE02e291bBD197": {
-    "address": "0xA76331558b8D501dd644603e98aE02e291bBD197",
-    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "strategies": [
-      "0x5769F1c62Fa2AA6087df3dd1FA6a7Ae89Bb45FFd",
-      "0xC8D9AaD4EF9Da1E1436B150778eaF0A8be5e35Cd"
-    ],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "multi-strategy-vault-v2.5",
-    "description": "",
-    "creator": "0xA5aEf04E03789AD15405D153a82D0b128c36988b",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "labels": ["Experimental"]
-  },
-  "0xbCde085E5d663Ee592D760311C9cE33b37bEC684": {
-    "address": "0xbCde085E5d663Ee592D760311C9cE33b37bEC684",
-    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "strategies": [
-      "0x5769F1c62Fa2AA6087df3dd1FA6a7Ae89Bb45FFd",
-      "0xC8D9AaD4EF9Da1E1436B150778eaF0A8be5e35Cd"
-    ],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "multi-strategy-vault-v2.5",
-    "description": "",
-    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "labels": ["Experimental"]
   },
   "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba": {
     "address": "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba",

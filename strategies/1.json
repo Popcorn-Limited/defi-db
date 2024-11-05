@@ -206,15 +206,6 @@
     "apySource": "defillama",
     "resolver": "yearn"
   },
-  "0x27Da6422620A688619AaEf12BCc9C770C333A101": {
-    "address": "0x27Da6422620A688619AaEf12BCc9C770C333A101",
-    "asset": "0xE7e2c68d3b13d905BBb636709cF4DfD21076b9D2",
-    "name": "Aura",
-    "description": "**Aura LP-Compounding** - This vault earns compounding interest on LP-tokens of the svETH / wstETH liquidity pool on Balancer. The LP-tokens are staked in a gauge on Aura to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
-    "apyId": "45ec4aa9-c1db-46ce-ab74-9c78a2b17a48",
-    "apySource": "defillama",
-    "resolver": "aura"
-  },
   "0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d": {
     "address": "0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d",
     "asset": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
@@ -305,25 +296,6 @@
     "apyId": "e05cc083-3ce9-47f3-87c7-c7cba4c9a8c6",
     "apySource": "defillama"
   },
-  "0x658a94eF990c5307707a428C927ADcB65B89BD8F": {
-    "address": "0x658a94eF990c5307707a428C927ADcB65B89BD8F",
-    "asset": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
-    "name": "Pendle",
-    "description": "**Pendle LP-Compounding** - This vault earns compounding interest on LP-tokens of the USDe (Maturity 25.07.24) liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
-    "resolver": "pendle",
-    "apyId": "fcb70fe9-4b07-4046-a0cd-ecac7396efe7",
-    "apySource": "defillama"
-  },
-  "0x1C9432248C5437C52A6cdff701259c247f870f88": {
-    "address": "0x1C9432248C5437C52A6cdff701259c247f870f88",
-    "asset": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
-    "name": "Pendle",
-    "description": "**Pendle LP-Compounding** - This vault earns compounding interest on LP-tokens of the USDe (Zircuit) (Maturity 27.06.24)  liquidity pool on Pendle. The LP-tokens are staked in a on Pendle to earn governance tokens. The rewards are then sold for additional LP tokens which get redeposited into the strategy.",
-    "resolver": "pendle",
-    "apyId": "92a90bfd-d74d-428f-a862-a775693fcebd",
-    "apySource": "defillama"
-  },
-
   "0xF82316c0cd110dB4c4a6c15F85dFaD7266551854": {
     "address": "0xF82316c0cd110dB4c4a6c15F85dFaD7266551854",
     "asset": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",

@@ -155,24 +155,6 @@
     "gauge": "0xB295347A5D044eD70A52E5Fb0a2bACE32a2d7499",
     "apyId": "03558eef-b4d2-45bf-97f4-fe12e402f838"
   },
-  "0x3B51bba174478D641770bF4356a1BF3c215AEd49": {
-    "address": "0x3B51bba174478D641770bF4356a1BF3c215AEd49",
-    "assetAddress": "0xE7e2c68d3b13d905BBb636709cF4DfD21076b9D2",
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "single-asset-vault-v1",
-    "description": "<p>This is an experimental vault testing Aura Compounding. It stakes the user's LP Token in a Aura gauge, earning the platform's governance token. Earned token are swapped for more LP Token. To complete the compounding cycle, the new LP Token is added to the farm, ready to go for the next earning event.</p>",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "strategies": ["0x27Da6422620A688619AaEf12BCc9C770C333A101"],
-    "labels": ["Experimental"],
-    "apyId": ""
-  },
   "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725": {
     "address": "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725",
     "assetAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
@@ -191,24 +173,6 @@
     "gauge": "0x35fCa05eb9d7B4BeEbDfa110Ea342e6d9CA972ac",
     "apyId": "31b4b143-5b09-4768-8567-75799fddefa1"
   },
-  "0xE3514a5e431442D794A1aa738aC94984B593C799": {
-    "address": "0xE3514a5e431442D794A1aa738aC94984B593C799",
-    "assetAddress": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "<p>This is an experimental vault testing the CurveGaugeCompounder. It deploys pyUSD/crvUSD into its Gauge on Curve and compounds rewards back into it.</p>",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["Experimental"],
-    "strategies": ["0xdce45fEab60668195D891242914864837Aa22d8d"],
-    "apyId": ""
-  },
   "0xd24844c1eb111C1385A311DeEc62533A09d4C86B": {
     "address": "0xd24844c1eb111C1385A311DeEc62533A09d4C86B",
     "assetAddress": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
@@ -226,24 +190,6 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0x82Cb9e5d875140e0730aD86A7f34E6807bF80889",
     "apyId": "87e67819-de4f-4711-b031-3fcf279e6e28"
-  },
-  "0x2D5A6B779e3a227b20825e823924574211ceEc8d": {
-    "address": "0x2D5A6B779e3a227b20825e823924574211ceEc8d",
-    "assetAddress": "0x625E92624Bc2D88619ACCc1788365A69767f6200",
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "single-asset-vault-v1",
-    "description": "<p>This is an experimental vault testing the ConvexCompounder. It deploys pyUSD/crvUSD into its Gauge on Convex and compounds rewards back into it.</p>",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "labels": ["Experimental"],
-    "strategies": ["0xcA8A6287A69977022Ad3b5211d568192e131a574"],
-    "apyId": ""
   },
   "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38": {
     "address": "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38",
@@ -301,29 +247,6 @@
     "gauge": "0x563aC2b10950EC1e322Ec14336407C8Ca6342a72",
     "apyId": "6d5df1af-1280-4ae9-9234-2a34461693e1"
   },
-  "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b": {
-    "address": "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b",
-    "assetAddress": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
-    "strategies": [
-      "0x658a94eF990c5307707a428C927ADcB65B89BD8F",
-      "0x1C9432248C5437C52A6cdff701259c247f870f88"
-    ],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "multi-strategy-vault-v2",
-    "name": "Modular USDe",
-    "labels": ["Experimental"],
-    "description": "",
-    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "gauge": "",
-    "apyId": ""
-  },
   "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5": {
     "address": "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5",
     "assetAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
@@ -365,26 +288,6 @@
     "creator": "0x89ef67a2f5d5e37540a43bdb36bac44874470ba6",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "",
-    "apyId": ""
-  },
-  "0xC9B383C73B915648DbA1204c3670a883B38f41ba": {
-    "address": "0xC9B383C73B915648DbA1204c3670a883B38f41ba",
-    "assetAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-    "strategies": [],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "multi-strategy-vault-v2",
-    "name": "Staked COMP",
-    "labels": ["Experimental"],
-    "description": "",
-    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "gauge": "0x8996c9f987D721BE5DF0F3683fCB561fB119331A",
     "apyId": ""
   },
   "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887": {

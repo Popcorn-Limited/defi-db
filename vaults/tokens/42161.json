@@ -103,14 +103,6 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c": {
-    "address": "0xC9ed56fbCbc3f0CE764D38e039cdaF36aa3c284c",
-    "name": "Frax SingleAssetCompounder Vault",
-    "symbol": "vc-sacFrax",
-    "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
   "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72": {
     "address": "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72",
     "name": "VaultCraft WBTC Vault",
@@ -147,22 +139,6 @@
     "address": "0x082840E017fF803156193287fd0b78Ff21Faab14",
     "name": "VaultCraft USDC Managed Vault",
     "symbol": "vc-USDC",
-    "decimals": 6,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
-  "0xA76331558b8D501dd644603e98aE02e291bBD197": {
-    "address": "0xA76331558b8D501dd644603e98aE02e291bBD197",
-    "name": "TEST USDC Managed Vault",
-    "symbol": "vc-USDC",
-    "decimals": 6,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
-  "0xbCde085E5d663Ee592D760311C9cE33b37bEC684": {
-    "address": "0xbCde085E5d663Ee592D760311C9cE33b37bEC684",
-    "name": "TESTER TEST VAULT",
-    "symbol": "test",
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161

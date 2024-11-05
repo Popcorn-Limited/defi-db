@@ -319,26 +319,10 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0x3B51bba174478D641770bF4356a1BF3c215AEd49": {
-    "address": "0x3B51bba174478D641770bF4356a1BF3c215AEd49",
-    "name": "VaultCraft Balancer swETH-WETH",
-    "symbol": "vc-swETH-WETH",
-    "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
   "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725": {
     "address": "0x7CEbA0cAeC8CbE74DB35b26D7705BA68Cb38D725",
     "name": "VaultCraft rsETH Vault",
     "symbol": "vc-rsETH",
-    "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
-  "0xE3514a5e431442D794A1aa738aC94984B593C799": {
-    "address": "0xE3514a5e431442D794A1aa738aC94984B593C799",
-    "name": "VaultCraft pyUSD/crvUSD Vault",
-    "symbol": "vc-pyUSDLp",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
@@ -355,14 +339,6 @@
     "address": "0xd24844c1eb111C1385A311DeEc62533A09d4C86B",
     "name": "VaultCraft Balancer ezETH-WETH Vault",
     "symbol": "vc-ezETH-WETH",
-    "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
-  "0x2D5A6B779e3a227b20825e823924574211ceEc8d": {
-    "address": "0x2D5A6B779e3a227b20825e823924574211ceEc8d",
-    "name": "VaultCraft pyUSD/crvUSD Vault",
-    "symbol": "vc-pyUSDLp",
     "decimals": 27,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
@@ -399,14 +375,6 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b": {
-    "address": "0x877FF2b4517A323954D794F1AF4C3Bb7a64AF93b",
-    "name": "VaultCraft USDe MultiStrategy Vault",
-    "symbol": "vc-multi-USDe",
-    "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
   "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5": {
     "address": "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5",
     "name": "VaultCraft sUSDe MultiStrategy Vault",
@@ -419,14 +387,6 @@
     "address": "0x319121F8F39669599221A883Bb6d7d0Feef0E69c",
     "name": "VaultCraft Peapods MultiStrategy Vault",
     "symbol": "vc-multi-pVCX",
-    "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
-  "0xC9B383C73B915648DbA1204c3670a883B38f41ba": {
-    "address": "0xC9B383C73B915648DbA1204c3670a883B38f41ba",
-    "name": "Staked COMP",
-    "symbol": "stCOMP",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
