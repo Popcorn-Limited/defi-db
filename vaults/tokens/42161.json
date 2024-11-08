@@ -150,5 +150,13 @@
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0x39e6ACC140395862aaaC5FdA063Bb2D11fAeF137": {
+    "address": "0x39e6ACC140395862aaaC5FdA063Bb2D11fAeF137",
+    "name": "Safe Test Vault",
+    "symbol": "oVault",
+    "decimals": 6,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }
