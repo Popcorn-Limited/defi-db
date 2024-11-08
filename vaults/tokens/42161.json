@@ -151,10 +151,26 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0xcc667A12394A8eBF2c1CBC081b3459F13c6AB6F2": {
-    "address": "0xcc667A12394A8eBF2c1CBC081b3459F13c6AB6F2",
+  "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a": {
+    "address": "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a",
     "name": "Safe Test Vault",
     "symbol": "oVault",
+    "decimals": 6,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
+  },
+  "0x1aaafe03a8a2e93a399dbce03f88bbaff1b08d60": {
+    "address": "0x1aaafe03a8a2e93a399dbce03f88bbaff1b08d60",
+    "name": "Edge Capital Test Vault",
+    "symbol": "eVault",
+    "decimals": 6,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
+  },
+  "0x416b7d5be8fff4e1b274f5f6b64b0a83df669e14": {
+    "address": "0x416b7d5be8fff4e1b274f5f6b64b0a83df669e14",
+    "name": "Arbelos Test Vault",
+    "symbol": "aVault",
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
