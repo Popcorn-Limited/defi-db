@@ -167,8 +167,8 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0x416b7d5be8fff4e1b274f5f6b64b0a83df669e14": {
-    "address": "0x416b7d5be8fff4e1b274f5f6b64b0a83df669e14",
+  "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14": {
+    "address": "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14",
     "name": "Arbelos Test Vault",
     "symbol": "aVault",
     "decimals": 6,

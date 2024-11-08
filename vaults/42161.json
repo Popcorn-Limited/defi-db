@@ -216,8 +216,8 @@
     "name": "Edge Capital Test Vault",
     "labels": ["Experimental"]
   },
-  "0x416b7d5be8fff4e1b274f5f6b64b0a83df669e14": {
-    "address": "0x416b7d5be8fff4e1b274f5f6b64b0a83df669e14",
+  "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14": {
+    "address": "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14",
     "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "safe": "0xcF3e0D72416c1475308fcFa301D1C23F87775892",
     "strategies": [],
