@@ -159,8 +159,8 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0x1aaafe03a8a2e93a399dbce03f88bbaff1b08d60": {
-    "address": "0x1aaafe03a8a2e93a399dbce03f88bbaff1b08d60",
+  "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60": {
+    "address": "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60",
     "name": "Edge Capital Test Vault",
     "symbol": "eVault",
     "decimals": 6,

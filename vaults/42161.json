@@ -196,8 +196,8 @@
     "name": "Safe Test Vault",
     "labels": ["Experimental"]
   },
-  "0x1aaafe03a8a2e93a399dbce03f88bbaff1b08d60": {
-    "address": "0x1aaafe03a8a2e93a399dbce03f88bbaff1b08d60",
+  "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60": {
+    "address": "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60",
     "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "safe": "0x17987698369a186b0ED6b984A81267074E06bb52",
     "strategies": [],
