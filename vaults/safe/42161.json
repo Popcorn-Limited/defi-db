@@ -1,7 +1,7 @@
 {
   "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a": {
     "address": "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a",
-    "token": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "safe": "0x3C99dEa58119DE3962253aea656e61E5fBE21613",
     "holdings": [
       {
