@@ -41,8 +41,8 @@
         "spread": 0
       },
       {
-        "token": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-        "debtToken": "0x0c84331e39d6658Cd6e6b9ba04736cC4c4734351",
+        "token": "0x0c84331e39d6658Cd6e6b9ba04736cC4c4734351",
+        "interestToken": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "spread": 0
       }
     ]
