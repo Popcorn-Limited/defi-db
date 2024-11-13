@@ -5,6 +5,10 @@
     "safe": "0x3C99dEa58119DE3962253aea656e61E5fBE21613",
     "holdings": [
       {
+        "token": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "spread": 0
+      },
+      {
         "token": "0x47c031236e19d024b42f8AE6780E44A573170703",
         "spread": 0
       },
