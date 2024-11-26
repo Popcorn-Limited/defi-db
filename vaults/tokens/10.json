@@ -134,5 +134,13 @@
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
+  },
+  "https://app.vaultcraft.io/vaults/0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60?chainId=42161": {
+    "address": "https://app.vaultcraft.io/vaults/0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60?chainId=42161",
+    "name": "Lido Vault",
+    "symbol": "lVault",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 10
   }
 }

@@ -235,5 +235,25 @@
     "apyId": "",
     "name": "Arbelos Test Vault",
     "labels": ["Experimental"]
+  },
+  "0x281992068b13fA2ec02F82ed1a3502f2f4A9CeeE": {
+    "address": "0x281992068b13fA2ec02F82ed1a3502f2f4A9CeeE",
+    "assetAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "safe": "0x158a006d5FBA167C8c439e010343e0603DC44847",
+    "strategies": [],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Lido Vault",
+    "labels": ["New"]
   }
 }

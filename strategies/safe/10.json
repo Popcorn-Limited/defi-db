@@ -1,1 +1,18 @@
-{}
+{
+  "https://app.vaultcraft.io/vaults/0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60?chainId=42161": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "asset": "0x4200000000000000000000000000000000000006",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "Test Safe",
+        "protocol": "Safe",
+        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
+  ]
+}
