@@ -182,5 +182,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0xcc39eaCb9559B5f579e9777881C1529bc64343Dd": {
+    "address": "0xcc39eaCb9559B5f579e9777881C1529bc64343Dd",
+    "name": "Aave WETH Vault",
+    "symbol": "vc-aave-wETH",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }

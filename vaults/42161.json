@@ -255,5 +255,24 @@
     "apyId": "",
     "name": "Lido Vault",
     "labels": ["New"]
+  },
+  "0xcc39eaCb9559B5f579e9777881C1529bc64343Dd": {
+    "address": "0xcc39eaCb9559B5f579e9777881C1529bc64343Dd",
+    "assetAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "strategies": ["0x59040F90c5566c766287C29bfCD53FCDa9a61665"],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 10000000000000000,
+      "performance": 0
+    },
+    "type": "multi-strategy-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "e302de4d-952e-4e18-9749-0a9dc86e98bc",
+    "name": "Aave WETH Vault",
+    "labels": ["New"]
   }
 }

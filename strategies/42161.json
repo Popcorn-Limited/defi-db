@@ -218,5 +218,14 @@
     "apySource": "defillama",
     "type": "AnyToAnyV1",
     "yieldToken": "0xa877a0E177b54A37066c1786F91a1DAb68F094AF"
+  },
+  "0x59040F90c5566c766287C29bfCD53FCDa9a61665": {
+    "address": "0x59040F90c5566c766287C29bfCD53FCDa9a61665",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "name": "AaveV3",
+    "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the WETH market, which generates compound interest on your WETH by lending it out to borrowers.",
+    "apyId": "e302de4d-952e-4e18-9749-0a9dc86e98bc",
+    "apySource": "defillama",
+    "resolver": "aaveV3"
   }
 }
