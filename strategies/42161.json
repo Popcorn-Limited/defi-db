@@ -224,7 +224,7 @@
     "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
     "name": "AaveV3",
     "description": "**Lending** - This vault uses a lending strategy on AaveV3 using the WETH market, which generates compound interest on your WETH by lending it out to borrowers.",
-    "apyId": "",
+    "apyId": "e302de4d-952e-4e18-9749-0a9dc86e98bc",
     "apySource": "defillama",
     "resolver": "aaveV3"
   }

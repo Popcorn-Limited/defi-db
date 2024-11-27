@@ -271,7 +271,7 @@
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
+    "apyId": "e302de4d-952e-4e18-9749-0a9dc86e98bc",
     "name": "Aave WETH Vault",
     "labels": ["New"]
   }
