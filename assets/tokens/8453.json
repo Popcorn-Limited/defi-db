@@ -30,5 +30,13 @@
     "decimals": 18,
     "logoURI": "https://app.beefy.com/assets/BIFI-37d31208.png",
     "chainId": 8453
+  },
+  "0x4200000000000000000000000000000000000006": {
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WETH.svg",
+    "chainId": 8453
   }
 }
