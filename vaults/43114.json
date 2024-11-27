@@ -20,5 +20,45 @@
     "apyId": "",
     "labels": ["New"],
     "name": "Mega USDC Vault"
+  },
+  "0xaF33642938172011f711bA530acc900Ae17620A7": {
+    "address": "0xaF33642938172011f711bA530acc900Ae17620A7",
+    "assetAddress": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "safe": "0x45e9FB58FadfD830E40Aa525773b8E6458743CeF",
+    "strategies": [],
+    "chainId": 43114,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Safe Vault AVAX",
+    "labels": ["New"]
+  },
+  "0x067e4c15B052C73998689D7A0e19D0B2910819dc": {
+    "address": "0x067e4c15B052C73998689D7A0e19D0B2910819dc",
+    "assetAddress": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "safe": "0x69F6868F23dA17769a9993Bf83Cb71a5a3744376",
+    "strategies": [],
+    "chainId": 43114,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Safe Vault BTC",
+    "labels": ["New"]
   }
 }

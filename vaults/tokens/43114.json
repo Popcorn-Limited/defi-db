@@ -6,6 +6,22 @@
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 43114
+  },
+  "0xaF33642938172011f711bA530acc900Ae17620A7": {
+    "address": "0xaF33642938172011f711bA530acc900Ae17620A7",
+    "name": "Safe Vault AVAX",
+    "symbol": "sVault",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 43114
+  },
+  "0x067e4c15B052C73998689D7A0e19D0B2910819dc": {
+    "address": "0x067e4c15B052C73998689D7A0e19D0B2910819dc",
+    "name": "Safe Vault BTC",
+    "symbol": "sVault",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 43114
   }
 }
   

@@ -1,1 +1,34 @@
-{}
+{
+  "0xAe5CbB42F0Afa59B90769df4b4c6D623896E4573": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "asset": "0x4200000000000000000000000000000000000006",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "Test Safe",
+        "protocol": "Safe",
+        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
+  ],
+  "0x27d47664e034f3F2414d647DE7Cd1c1e8E72a89c": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "asset": "0x4200000000000000000000000000000000000006",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "Test Safe",
+        "protocol": "Safe",
+        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
+  ]
+}

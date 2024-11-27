@@ -137,7 +137,7 @@
   },
   "0x04661C1d878E36EFa44721B59911a3b8373efBCd": {
     "address": "0x04661C1d878E36EFa44721B59911a3b8373efBCd",
-    "name": "Lido Vault",
+    "name": "Lido Vault (VCX)",
     "symbol": "lVault",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",

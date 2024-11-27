@@ -14,5 +14,21 @@
     "decimals": 6,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/USDT.png",
     "chainId": 43114
+  },
+  "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7": {
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WAVAX.png",
+    "chainId": 43114
+  },
+  "0x152b9d0FdC40C096757F570A51E494bd4b943E50": {
+    "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "name": "Bitcoin",
+    "symbol": "BTC.b",
+    "decimals": 18,
+    "logoURI": "https://snowscan.xyz/token/images/bitcoinb_32.png",
+    "chainId": 43114
   }
 }

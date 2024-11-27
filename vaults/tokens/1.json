@@ -433,7 +433,7 @@
   },
   "0x872418226D8Dbd423084007f33B8e242D5C3c074": {
     "address": "0x872418226D8Dbd423084007f33B8e242D5C3c074",
-    "name": "Lido Vault",
+    "name": "Lido Vault (Edge Capital)",
     "symbol": "lVault",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",

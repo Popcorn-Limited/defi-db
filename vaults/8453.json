@@ -23,5 +23,45 @@
     "apyId": "",
     "labels": ["New"],
     "name": "Mega USDC Vault"
+  },
+  "0xAe5CbB42F0Afa59B90769df4b4c6D623896E4573": {
+    "address": "0xAe5CbB42F0Afa59B90769df4b4c6D623896E4573",
+    "assetAddress": "0x4200000000000000000000000000000000000006",
+    "safe": "0x158a006d5FBA167C8c439e010343e0603DC44847",
+    "strategies": [],
+    "chainId": 8453,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Lido Vault (VCX)",
+    "labels": ["New"]
+  },
+  "0x27d47664e034f3F2414d647DE7Cd1c1e8E72a89c": {
+    "address": "0x27d47664e034f3F2414d647DE7Cd1c1e8E72a89c",
+    "assetAddress": "0x4200000000000000000000000000000000000006",
+    "safe": "0xCA1BD54AA1Ba661e9939491Bb8678C85E8c0e532",
+    "strategies": [],
+    "chainId": 8453,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Morpho Looper",
+    "labels": ["New"]
   }
 }
