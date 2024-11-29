@@ -137,8 +137,16 @@
   },
   "0x04661C1d878E36EFa44721B59911a3b8373efBCd": {
     "address": "0x04661C1d878E36EFa44721B59911a3b8373efBCd",
-    "name": "Lido Vault (VCX)",
+    "name": "Lido stETH 5X Leveraged Looper (Compound)",
     "symbol": "lVault",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 10
+  },
+  "0x297E1fCb68A7D1EDB7c9d2fDC782797E1c01E68e": {
+    "address": "0x297E1fCb68A7D1EDB7c9d2fDC782797E1c01E68e",
+    "name": "Vaultcraft WETH Vault",
+    "symbol": "vc-WETH",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 10
