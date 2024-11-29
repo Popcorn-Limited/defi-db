@@ -27,7 +27,9 @@
   "0x27d47664e034f3F2414d647DE7Cd1c1e8E72a89c": {
     "address": "0x27d47664e034f3F2414d647DE7Cd1c1e8E72a89c",
     "assetAddress": "0x4200000000000000000000000000000000000006",
-    "safe": "0xCA1BD54AA1Ba661e9939491Bb8678C85E8c0e532",
+    "safes": [
+      "0xCA1BD54AA1Ba661e9939491Bb8678C85E8c0e532"
+    ],
     "strategies": [],
     "chainId": 8453,
     "fees": {

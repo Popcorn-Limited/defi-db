@@ -179,7 +179,9 @@
   "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a": {
     "address": "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a",
     "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "safe": "0x3C99dEa58119DE3962253aea656e61E5fBE21613",
+    "safes": [
+      "0x3C99dEa58119DE3962253aea656e61E5fBE21613"
+    ],
     "strategies": [],
     "chainId": 42161,
     "fees": {
@@ -196,30 +198,12 @@
     "name": "Safe Test Vault",
     "labels": ["Experimental"]
   },
-  "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60": {
-    "address": "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60",
-    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "safe": "0x17987698369a186b0ED6b984A81267074E06bb52",
-    "strategies": [],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "safe-vault-v1",
-    "description": "",
-    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "name": "Edge Capital Test Vault",
-    "labels": ["Experimental"]
-  },
   "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14": {
     "address": "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14",
     "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "safe": "0xcF3e0D72416c1475308fcFa301D1C23F87775892",
+    "safes": [
+      "0xcF3e0D72416c1475308fcFa301D1C23F87775892"
+    ],
     "strategies": [],
     "chainId": 42161,
     "fees": {
