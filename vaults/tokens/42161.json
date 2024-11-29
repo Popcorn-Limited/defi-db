@@ -159,14 +159,6 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60": {
-    "address": "0x1AaAFe03A8a2E93A399DbCE03F88Bbaff1b08D60",
-    "name": "Edge Capital Test Vault",
-    "symbol": "eVault",
-    "decimals": 6,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
   "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14": {
     "address": "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14",
     "name": "Arbelos Test Vault",
