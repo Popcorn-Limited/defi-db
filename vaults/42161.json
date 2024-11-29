@@ -238,5 +238,27 @@
     "apyId": "e302de4d-952e-4e18-9749-0a9dc86e98bc",
     "name": "Aave WETH Vault",
     "labels": ["New"]
+  },
+  "0x16B8B4D25376aE3fC291CAc698628A1CCca622F0": {
+    "address": "0x16B8B4D25376aE3fC291CAc698628A1CCca622F0",
+    "assetAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "safes": [
+      "0x01e9d3f901e4f8a8cb9E1687F8aB2062aAb799DF"
+    ],
+    "strategies": [],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Lido stETH 3x Leveraged Looper (Multistrategy)",
+    "labels": ["New"]
   }
 }

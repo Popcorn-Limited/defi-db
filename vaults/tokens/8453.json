@@ -14,6 +14,14 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 8453
+  },
+  "0xCed0A751FDFfD92e4DeBD4181bbF9Bf26227DC7E": {
+    "address": "0xCed0A751FDFfD92e4DeBD4181bbF9Bf26227DC7E",
+    "name": "Lido stETH 3x Leveraged Looper (Multistrategy)",
+    "symbol": "mLooper",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 8453
   }
 }
   

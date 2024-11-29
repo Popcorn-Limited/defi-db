@@ -69,5 +69,27 @@
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": ""
+  },
+  "0xEF4a9Ee0CD2a897bC0aF93E5aCD0C0324568A065": {
+    "address": "0xEF4a9Ee0CD2a897bC0aF93E5aCD0C0324568A065",
+    "assetAddress": "0x4200000000000000000000000000000000000006",
+    "safes": [
+      "0x2B56DE7c834521CBe9B62c415952f6cDde794C43"
+    ],
+    "strategies": [],
+    "chainId": 10,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Lido stETH 5x Leveraged Looper (Multistrategy)",
+    "labels": ["New"]
   }
 }

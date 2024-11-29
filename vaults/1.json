@@ -418,5 +418,27 @@
     "apyId": "",
     "name": "Lido Vault (Edge Capital)",
     "labels": ["New"]
+  },
+  "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": {
+    "address": "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE",
+    "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "safes": [
+      "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"
+    ],
+    "strategies": [],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Kelp Vault (Edge Capital)",
+    "labels": ["New"]
   }
 }

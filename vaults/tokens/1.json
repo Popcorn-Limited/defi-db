@@ -430,5 +430,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": {
+    "address": "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE",
+    "name": "Kelp Vault (Edge Capital)",
+    "symbol": "kVault",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

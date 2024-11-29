@@ -45,5 +45,27 @@
     "apyId": "",
     "name": "Lido stETH 6X Leveraged Looper (Morpho)",
     "labels": ["New"]
+  },
+  "0xCed0A751FDFfD92e4DeBD4181bbF9Bf26227DC7E": {
+    "address": "0xCed0A751FDFfD92e4DeBD4181bbF9Bf26227DC7E",
+    "assetAddress": "0x4200000000000000000000000000000000000006",
+    "safes": [
+      "0xc2E4a44b4559789a1e98796f616878Ac899d5F1f"
+    ],
+    "strategies": [],
+    "chainId": 8453,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Lido stETH 3x Leveraged Looper (Multistrategy)",
+    "labels": ["New"]
   }
 }
