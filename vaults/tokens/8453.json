@@ -17,7 +17,7 @@
   },
   "0x27d47664e034f3F2414d647DE7Cd1c1e8E72a89c": {
     "address": "0x27d47664e034f3F2414d647DE7Cd1c1e8E72a89c",
-    "name": "Morpho Looper",
+    "name": "Lido stETH 6X Leveraged Looper (Morpho)",
     "symbol": "mLooper",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
