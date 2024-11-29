@@ -175,14 +175,6 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0x281992068b13fA2ec02F82ed1a3502f2f4A9CeeE": {
-    "address": "0x281992068b13fA2ec02F82ed1a3502f2f4A9CeeE",
-    "name": "Lido stETH 3X Leveraged Looper (Aave)",
-    "symbol": "lVault",
-    "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
   "0xcc39eaCb9559B5f579e9777881C1529bc64343Dd": {
     "address": "0xcc39eaCb9559B5f579e9777881C1529bc64343Dd",
     "name": "Aave WETH Vault",

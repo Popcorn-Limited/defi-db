@@ -46,33 +46,5 @@
         "spread": 0
       }
     ]
-  },
-  "0x281992068b13fA2ec02F82ed1a3502f2f4A9CeeE": {
-    "address": "0x281992068b13fA2ec02F82ed1a3502f2f4A9CeeE",
-    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-    "safe": "0x158a006d5FBA167C8c439e010343e0603DC44847",
-    "holdings": [
-      {
-        "token": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-        "spread": 0
-      },
-      {
-        "token": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
-        "spread": 0
-      },
-      {
-        "token": "0x5979D7b546E38E414F7E9822514be443A4800529",
-        "spread": 0
-      },
-      {
-        "token": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
-        "spread": 0
-      },
-      {
-        "token": "0x0c84331e39d6658Cd6e6b9ba04736cC4c4734351",
-        "interestToken": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-        "spread": 0
-      }
-    ]
   }
 }

@@ -53,26 +53,6 @@
     "gauge": "0xfaa623d80c706eF6BeC95Ac392A26dF742BFdF9e",
     "apyId": "9ef1651d-8ea0-41e0-99d7-b20424e03117"
   },
-  "0x04661C1d878E36EFa44721B59911a3b8373efBCd": {
-    "address": "0x04661C1d878E36EFa44721B59911a3b8373efBCd",
-    "assetAddress": "0x4200000000000000000000000000000000000006",
-    "safe": "0x158a006d5FBA167C8c439e010343e0603DC44847",
-    "strategies": [],
-    "chainId": 10,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 10000000000000000,
-      "performance": 0
-    },
-    "type": "safe-vault-v1",
-    "description": "",
-    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "name": "Lido stETH 5X Leveraged Looper (Compound)",
-    "labels": ["New"]
-  },
   "0x297E1fCb68A7D1EDB7c9d2fDC782797E1c01E68e": {
     "address": "0x297E1fCb68A7D1EDB7c9d2fDC782797E1c01E68e",
     "assetAddress": "0x4200000000000000000000000000000000000006",

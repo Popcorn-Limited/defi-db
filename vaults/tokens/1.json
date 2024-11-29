@@ -423,14 +423,6 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0x92f60021b107867b970DE439D93f023E472947A8": {
-    "address": "0x92f60021b107867b970DE439D93f023E472947A8",
-    "name": "Test Vault",
-    "symbol": "tVault",
-    "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
   "0x872418226D8Dbd423084007f33B8e242D5C3c074": {
     "address": "0x872418226D8Dbd423084007f33B8e242D5C3c074",
     "name": "Lido Vault (Edge Capital)",
