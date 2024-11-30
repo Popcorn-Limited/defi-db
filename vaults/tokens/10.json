@@ -145,7 +145,7 @@
   },
   "0xEF4a9Ee0CD2a897bC0aF93E5aCD0C0324568A065": {
     "address": "0xEF4a9Ee0CD2a897bC0aF93E5aCD0C0324568A065",
-    "name": "Lido stETH 5x Leveraged Looper (Multistrategy)",
+    "name": "Lido stETH 5x Leveraged Looper (Compound)",
     "symbol": "mLooper",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
