@@ -37,14 +37,16 @@
       "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
-        "name": "Test Safe",
-        "protocol": "Safe",
-        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
-        "type": "safe"
+        "name": "stETH Leverage",
+        "protocol": "AaveV3",
+        "description": "This vault leverages stETH yield by depositing stETH into AaveV3 - borrowing wETH and stake it for more stETH, which is then deposited again into AaveV3. This is achieved via flash loans in order to reach the desired leverage in one transaction",
+        "type": "LeverageV1"
       },
-      "resolver": "safe",
+      "resolver": "aave",
+      "apySource": "custom",
+      "apyId": "0f45d730-b279-4629-8e11-ccb5cc3038b4",
       "allocationPerc": 100,
-      "leverage": 0
+      "leverage": 3
     }
   ]
 }
