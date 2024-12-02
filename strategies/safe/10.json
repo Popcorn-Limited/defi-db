@@ -1,14 +1,14 @@
 {
   "0xEF4a9Ee0CD2a897bC0aF93E5aCD0C0324568A065": [
     {
-      "address": "0x0000000000000000000000000000000000000000",
+      "address": "0x2B56DE7c834521CBe9B62c415952f6cDde794C43",
       "asset": "0x4200000000000000000000000000000000000006",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
         "name": "stETH Leverage",
         "protocol": "Compound",
         "description": "This vault leverages stETH yield by depositing stETH into Compound - borrowing wETH and stake it for more stETH, which is then deposited again into Compound. This is achieved via flash loans in order to reach the desired leverage in one transaction",
-        "type": "LeverageV1"
+        "type": "LeverageV2"
       },
       "resolver": "compound",
       "apySource": "custom",

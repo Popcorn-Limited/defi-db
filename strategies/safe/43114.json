@@ -1,34 +1,38 @@
 {
   "0xaF33642938172011f711bA530acc900Ae17620A7": [
     {
-      "address": "0x0000000000000000000000000000000000000000",
+      "address": "0x45e9FB58FadfD830E40Aa525773b8E6458743CeF",
       "asset": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
-        "name": "Test Safe",
-        "protocol": "Safe",
-        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
-        "type": "safe"
+        "name": "sAvax Leverage",
+        "protocol": "Benqi",
+        "description": "This vault leverages sAvax yield by depositing sAvax into Benqi - borrowing wAvax and stake it for more sAvax, which is then deposited again into Benqi. This is achieved via flash loans in order to reach the desired leverage in one transaction",
+        "type": "LeverageV2"
       },
-      "resolver": "safe",
+      "resolver": "benqi",
+      "apySource": "defillama",
+      "apyId": "3790c3e5-8644-4f6b-8feb-12434d8b99f9",
       "allocationPerc": 100,
-      "leverage": 0
+      "leverage": 3
     }
   ],
   "0x067e4c15B052C73998689D7A0e19D0B2910819dc": [
     {
-      "address": "0x0000000000000000000000000000000000000000",
+      "address": "0x69F6868F23dA17769a9993Bf83Cb71a5a3744376",
       "asset": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
-        "name": "Test Safe",
-        "protocol": "Safe",
-        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
-        "type": "safe"
+        "name": "BTCb Looper",
+        "protocol": "Benqi",
+        "description": "This vault leverages BTCb reward yield by depositing BTCb into Benqi - borrowing BTCb and redepositing it. In this method the user gets to farm the rewards on Benqi multiple times with just a single position.",
+        "type": "LeverageV2"
       },
-      "resolver": "safe",
+      "resolver": "benqi",
+      "apySource": "defillama",
+      "apyId": "3790c3e5-8644-4f6b-8feb-12434d8b99f9",
       "allocationPerc": 100,
-      "leverage": 0
+      "leverage": 3
     }
   ]
 }

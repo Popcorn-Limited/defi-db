@@ -9,7 +9,7 @@
   },
   "0x27d47664e034f3F2414d647DE7Cd1c1e8E72a89c": {
     "address": "0x27d47664e034f3F2414d647DE7Cd1c1e8E72a89c",
-    "name": "Lido stETH 6X Leveraged Looper (Morpho)",
+    "name": "Lido stETH 6X Leveraged Looper",
     "symbol": "mLooper",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
@@ -17,7 +17,7 @@
   },
   "0xCed0A751FDFfD92e4DeBD4181bbF9Bf26227DC7E": {
     "address": "0xCed0A751FDFfD92e4DeBD4181bbF9Bf26227DC7E",
-    "name": "Lido stETH 3x Leveraged Looper (Multistrategy)",
+    "name": "Lido stETH 3x Leveraged Looper",
     "symbol": "mLooper",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
