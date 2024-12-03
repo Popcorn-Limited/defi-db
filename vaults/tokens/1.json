@@ -438,5 +438,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x77e88cA17A6D384DCBB13747F6767F30e3753e63": {
+    "address": "0x77e88cA17A6D384DCBB13747F6767F30e3753e63",
+    "name": "nBTC Vault",
+    "symbol": "vcx-nBTC",
+    "decimals": 8,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

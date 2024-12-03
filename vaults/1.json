@@ -440,5 +440,27 @@
     "apyId": "",
     "name": "Kelp Vault (Edge Capital)",
     "labels": ["New"]
+  },
+  "0x77e88cA17A6D384DCBB13747F6767F30e3753e63": {
+    "address": "0x77e88cA17A6D384DCBB13747F6767F30e3753e63",
+    "assetAddress": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
+    "safes": [
+      "0x7b514263665C3eC36e4Eb24b4B7dC95BB183D255"
+    ],
+    "strategies": [],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "NBTC Vault",
+    "labels": ["New"]
   }
 }
