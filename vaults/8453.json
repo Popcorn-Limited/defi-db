@@ -35,7 +35,7 @@
     "fees": {
       "deposit": 0,
       "withdrawal": 0,
-      "management": 0,
+      "management": 10000000000000000,
       "performance": 0
     },
     "type": "safe-vault-v1",
@@ -43,7 +43,7 @@
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
-    "name": "Lido stETH 3X Leveraged Looper (Morpho)",
+    "name": "Lido stETH 4X Leveraged Looper (Morpho)",
     "labels": ["New"]
   },
   "0xCed0A751FDFfD92e4DeBD4181bbF9Bf26227DC7E": {
