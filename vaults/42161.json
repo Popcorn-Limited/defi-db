@@ -179,9 +179,7 @@
   "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a": {
     "address": "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a",
     "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "safes": [
-      "0x3C99dEa58119DE3962253aea656e61E5fBE21613"
-    ],
+    "safes": ["0x3C99dEa58119DE3962253aea656e61E5fBE21613"],
     "strategies": [],
     "chainId": 42161,
     "fees": {
@@ -201,9 +199,7 @@
   "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14": {
     "address": "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14",
     "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "safes": [
-      "0xcF3e0D72416c1475308fcFa301D1C23F87775892"
-    ],
+    "safes": ["0xcF3e0D72416c1475308fcFa301D1C23F87775892"],
     "strategies": [],
     "chainId": 42161,
     "fees": {
@@ -235,6 +231,7 @@
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0xe518E8e355AFd952F852b65E431ec017D4A0F569",
     "apyId": "e302de4d-952e-4e18-9749-0a9dc86e98bc",
     "name": "Aave WETH Vault",
     "labels": ["New"]
@@ -242,9 +239,7 @@
   "0x16B8B4D25376aE3fC291CAc698628A1CCca622F0": {
     "address": "0x16B8B4D25376aE3fC291CAc698628A1CCca622F0",
     "assetAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-    "safes": [
-      "0x01e9d3f901e4f8a8cb9E1687F8aB2062aAb799DF"
-    ],
+    "safes": ["0x01e9d3f901e4f8a8cb9E1687F8aB2062aAb799DF"],
     "strategies": [],
     "chainId": 42161,
     "fees": {
@@ -257,6 +252,7 @@
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0x2053D28880d6C74A0eb1d78637c59077Ef2dFe25",
     "apyId": "",
     "name": "Lido stETH 3X Leveraged Looper",
     "labels": ["New"]
