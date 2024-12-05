@@ -256,5 +256,25 @@
     "apyId": "",
     "name": "Lido stETH 3X Leveraged Looper",
     "labels": ["New"]
+  },
+  "0x7D40d6fefaA59668B54Cb15Ce342fe975D78B6fd": {
+    "address": "0x7D40d6fefaA59668B54Cb15Ce342fe975D78B6fd",
+    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "safes": ["0x78337C88d41CD0A305F3b138a0dDF3dD9F39545C"],
+    "strategies": [],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Edge USDC Test Vault",
+    "labels": ["Experimental"]
   }
 }
