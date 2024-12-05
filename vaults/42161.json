@@ -266,8 +266,8 @@
     "fees": {
       "deposit": 0,
       "withdrawal": 0,
-      "management": 0,
-      "performance": 0
+      "management": 20000000000000000,
+      "performance": 200000000000000000
     },
     "type": "safe-vault-v1",
     "description": "",
