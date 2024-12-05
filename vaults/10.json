@@ -68,14 +68,13 @@
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0x0f49a85451F267924bB2E4e44fC5Bc7907c3427f",
     "apyId": ""
   },
   "0xEF4a9Ee0CD2a897bC0aF93E5aCD0C0324568A065": {
     "address": "0xEF4a9Ee0CD2a897bC0aF93E5aCD0C0324568A065",
     "assetAddress": "0x4200000000000000000000000000000000000006",
-    "safes": [
-      "0x2B56DE7c834521CBe9B62c415952f6cDde794C43"
-    ],
+    "safes": ["0x2B56DE7c834521CBe9B62c415952f6cDde794C43"],
     "strategies": [],
     "chainId": 10,
     "fees": {
@@ -88,6 +87,7 @@
     "description": "",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "gauge": "0x0e89A0B7d97529435a28649246D9f13B195e8FfD",
     "apyId": "",
     "name": "Lido stETH 5X Leveraged Looper",
     "labels": ["New"]
