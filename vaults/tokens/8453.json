@@ -12,7 +12,7 @@
     "name": "Lido stETH 3X Leveraged Looper",
     "symbol": "mLooper",
     "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
     "chainId": 8453
   },
   "0xCed0A751FDFfD92e4DeBD4181bbF9Bf26227DC7E": {
@@ -20,7 +20,7 @@
     "name": "Lido stETH 3X Leveraged Looper",
     "symbol": "mLooper",
     "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
     "chainId": 8453
   }
 }
