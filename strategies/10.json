@@ -148,8 +148,8 @@
     "asset": "0x4200000000000000000000000000000000000006",
     "name": "CompoundV3",
     "description": "**Lending** - This vault uses a lending strategy on CompoundV3 using the WETH market. Which generates compound interest on your WETH by lending it out to borrowers. On top of that the strategy farms COMP rewards and compounds them back into WETH which get redeposited into the strategy.",
-    "apyId": "",
-    "apySource": "",
+    "apyId": "c0b1d745-7fe9-4c27-a95d-b02aa9d26465",
+    "apySource": "defillama",
     "resolver": "compound"
   }
 }
