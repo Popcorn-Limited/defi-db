@@ -37,9 +37,9 @@
       "asset": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
-        "name": "Test Safe",
-        "protocol": "Safe",
-        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
+        "name": "Matrixport",
+        "protocol": "Matrixport",
+        "description": "NexusBTC (“NBTC”) is a wrapped Bitcoin token by Matrixport designed to facilitate cross-chain transactions within the DeFI ecosystem such as with babypiexyz.io or pumpbtc.xyz. The token is backed by a reserve of Bitcoin that exceeds a 1:1 ratio. This over-collateralization provides additional security and stability for users.",
         "type": "safe"
       },
       "resolver": "safe",
