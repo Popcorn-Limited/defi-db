@@ -462,5 +462,27 @@
     "apyId": "",
     "name": "NBTC Vault",
     "labels": ["New"]
+  },
+  "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1": {
+    "address": "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1",
+    "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "safes": [
+      "0x35902EcbB6691913470840F221852f363137366F"
+    ],
+    "strategies": [],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Lido Vault (Edge Capital)",
+    "labels": ["New"]
   }
 }

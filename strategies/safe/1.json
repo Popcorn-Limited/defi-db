@@ -46,5 +46,21 @@
       "allocationPerc": 100,
       "leverage": 0
     }
+  ],
+  "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1": [
+    {
+      "address": "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1",
+      "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "Test Safe",
+        "protocol": "Safe",
+        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
   ]
 }

@@ -446,5 +446,13 @@
     "decimals": 8,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1": {
+    "address": "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1",
+    "name": "Lido Vault (Edge Capital)",
+    "symbol": "lVault",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
+    "chainId": 1
   }
 }
