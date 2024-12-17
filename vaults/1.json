@@ -247,49 +247,6 @@
     "gauge": "0x563aC2b10950EC1e322Ec14336407C8Ca6342a72",
     "apyId": "6d5df1af-1280-4ae9-9234-2a34461693e1"
   },
-  "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5": {
-    "address": "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5",
-    "assetAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
-    "strategies": [
-      "0xF82316c0cd110dB4c4a6c15F85dFaD7266551854",
-      "0x377DFCC7B9ce9aDD96347f34b2303C9bD8067e01"
-    ],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "multi-strategy-vault-v2",
-    "name": "Modular sUSDe",
-    "labels": ["Experimental"],
-    "description": "",
-    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "gauge": "",
-    "apyId": ""
-  },
-  "0x319121F8F39669599221A883Bb6d7d0Feef0E69c": {
-    "address": "0x319121F8F39669599221A883Bb6d7d0Feef0E69c",
-    "assetAddress": "0x38aaCE3e7f9e46330f103A558CbF117972479904",
-    "strategies": ["0xC4C7B3FEfECbd07B4174Bb7a49701d508A633733"],
-    "chainId": 1,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "multi-strategy-vault-v2",
-    "name": "Peapods pVCX",
-    "labels": ["Experimental"],
-    "description": "",
-    "creator": "0x89ef67a2f5d5e37540a43bdb36bac44874470ba6",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "gauge": "",
-    "apyId": ""
-  },
   "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887": {
     "address": "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887",
     "assetAddress": "0x8236a87084f8B84306f72007F36F2618A5634494",

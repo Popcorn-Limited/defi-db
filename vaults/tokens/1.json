@@ -375,22 +375,6 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
-  "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5": {
-    "address": "0x12c1701d28DB5C08586c58469Be1D3DA279d39c5",
-    "name": "VaultCraft sUSDe MultiStrategy Vault",
-    "symbol": "vc-multi-sUSDe",
-    "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
-  "0x319121F8F39669599221A883Bb6d7d0Feef0E69c": {
-    "address": "0x319121F8F39669599221A883Bb6d7d0Feef0E69c",
-    "name": "VaultCraft Peapods MultiStrategy Vault",
-    "symbol": "vc-multi-pVCX",
-    "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
   "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887": {
     "address": "0xCe3Ac66020555EdcE9b54dAD5EC1c35E0478B887",
     "name": "LBTC Vault",
