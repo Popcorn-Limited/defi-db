@@ -185,7 +185,7 @@
   },
   "0x7D40d6fefaA59668B54Cb15Ce342fe975D78B6fd": {
     "address": "0x7D40d6fefaA59668B54Cb15Ce342fe975D78B6fd",
-    "name": "Edge USDC Test Vault",
+    "name": "USDC Test Vault (UltraYield)",
     "symbol": "eUSDC",
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",

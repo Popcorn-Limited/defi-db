@@ -1,13 +1,13 @@
 {
   "0x872418226D8Dbd423084007f33B8e242D5C3c074": [
     {
-      "address": "0x0000000000000000000000000000000000000000",
+      "address": "0x872418226D8Dbd423084007f33B8e242D5C3c074",
       "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
-        "name": "Test Safe",
-        "protocol": "Safe",
-        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
+        "name": "UltraYield",
+        "protocol": "UltraYield",
+        "description": "This vault is managed by UltraYield.",
         "type": "safe"
       },
       "resolver": "safe",
@@ -17,13 +17,13 @@
   ],
   "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": [
     {
-      "address": "0x0000000000000000000000000000000000000000",
+      "address": "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE",
       "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
-        "name": "Test Safe",
-        "protocol": "Safe",
-        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
+        "name": "UltraYield",
+        "protocol": "UltraYield",
+        "description": "This vault is managed by UltraYield.",
         "type": "safe"
       },
       "resolver": "safe",
@@ -53,9 +53,9 @@
       "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
-        "name": "Test Safe",
-        "protocol": "Safe",
-        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
+        "name": "UltraYield",
+        "protocol": "UltraYield",
+        "description": "This vault is managed by UltraYield.",
         "type": "safe"
       },
       "resolver": "safe",

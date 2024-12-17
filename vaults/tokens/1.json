@@ -415,17 +415,9 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   },
- "0x0989B0618b039a0494486146c4F8f4869436988d": {
-    "address": "0x0989B0618b039a0494486146c4F8f4869436988d",
-    "name": "Edge DeFi USDC Vault",
-    "symbol": "edge-USDC",
-    "decimals": 6,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 1
-  },
   "0x872418226D8Dbd423084007f33B8e242D5C3c074": {
     "address": "0x872418226D8Dbd423084007f33B8e242D5C3c074",
-    "name": "Lido Vault (Edge Capital)",
+    "name": "Lido Vault (UltraYield)",
     "symbol": "lVault",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
@@ -433,7 +425,7 @@
   },
   "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": {
     "address": "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE",
-    "name": "Kelp Vault (Edge Capital)",
+    "name": "Kelp Vault (UltraYield)",
     "symbol": "kVault",
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
@@ -449,7 +441,7 @@
   },
   "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1": {
     "address": "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1",
-    "name": "Lido Vault (Edge Capital)",
+    "name": "Lido Vault (UltraYield)",
     "symbol": "lVault",
     "decimals": 18,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
