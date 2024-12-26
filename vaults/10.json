@@ -61,7 +61,7 @@
     "fees": {
       "deposit": 0,
       "withdrawal": 0,
-      "management": 10000000000000000,
+      "management": 5000000000000000,
       "performance": 0
     },
     "type": "multi-strategy-vault-v2",
