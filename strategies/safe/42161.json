@@ -1,36 +1,4 @@
 {
-  "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a": [
-    {
-      "address": "0x0000000000000000000000000000000000000000",
-      "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-      "yieldToken": "0x0000000000000000000000000000000000000000",
-      "metadata": {
-        "name": "Test Safe",
-        "protocol": "Safe",
-        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
-        "type": "safe"
-      },
-      "resolver": "safe",
-      "allocationPerc": 100,
-      "leverage": 0
-    }
-  ],
-  "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14": [
-    {
-      "address": "0x0000000000000000000000000000000000000000",
-      "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-      "yieldToken": "0x0000000000000000000000000000000000000000",
-      "metadata": {
-        "name": "Test Safe",
-        "protocol": "Safe",
-        "description": "**Test Safe** - This is a test vault for the Safe protocol.",
-        "type": "safe"
-      },
-      "resolver": "safe",
-      "allocationPerc": 100,
-      "leverage": 0
-    }
-  ],
   "0x16B8B4D25376aE3fC291CAc698628A1CCca622F0": [
     {
       "address": "0x01e9d3f901e4f8a8cb9E1687F8aB2062aAb799DF",
