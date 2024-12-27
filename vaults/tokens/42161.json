@@ -95,14 +95,6 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
   },
-  "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93": {
-    "address": "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93",
-    "name": "Frax Rebalancing Vault",
-    "symbol": "vc-rFrax",
-    "decimals": 27,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
   "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72": {
     "address": "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72",
     "name": "VaultCraft WBTC Vault",
@@ -139,30 +131,6 @@
     "address": "0x082840E017fF803156193287fd0b78Ff21Faab14",
     "name": "VaultCraft USDC Managed Vault",
     "symbol": "vc-USDC",
-    "decimals": 6,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
-  "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba": {
-    "address": "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba",
-    "name": "USDC Mega Managed Vault",
-    "symbol": "vc-USDC",
-    "decimals": 6,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
-  "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a": {
-    "address": "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a",
-    "name": "Safe Test Vault",
-    "symbol": "oVault",
-    "decimals": 6,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
-    "chainId": 42161
-  },
-  "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14": {
-    "address": "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14",
-    "name": "Arbelos Test Vault",
-    "symbol": "aVault",
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161

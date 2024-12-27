@@ -50,30 +50,6 @@
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "apyId": ""
   },
-  "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93": {
-    "address": "0xcede40B40F7AF69f5Aa6b12D75fd5eA9cE138b93",
-    "assetAddress": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "strategies": [
-      "0x61dCd1Da725c0Cdb2C6e67a0058E317cA819Cf5f",
-      "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08",
-      "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
-      "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38"
-    ],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 100000000000000000
-    },
-    "type": "multi-strategy-vault-v1",
-    "description": "<p>This is an experimental vault testing the multi strategy vault. This vault allocates rebalances your assets between multiple fraxlend pools and aave to optimize your yield.</p>",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
-    "labels": ["Experimental"],
-    "gauge": "0x1463b4F8EC81aA46D77b549Bda98390660eA92A6",
-    "apyId": ""
-  },
   "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72": {
     "address": "0xd11A312a7d9745C62dfc014D72E7Bb2403DABf72",
     "assetAddress": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
@@ -145,76 +121,6 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0xf4CC0E086f70815f6153E66749A627227a8CA386",
     "apyId": "3171c3c6-4e25-455e-9758-984b0ac2bb47"
-  },
-  "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba": {
-    "address": "0x55c4d29cCdf671cb901081dAF2e91891c95b07ba",
-    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "strategies": [
-      "0x430cF36a989DFef9ff8F0f3b7738059715a07B6c",
-      "0x5769F1c62Fa2AA6087df3dd1FA6a7Ae89Bb45FFd",
-      "0x7D375fAA1A42F183ACe063e188c3c95fCBf04e93",
-      "0xA2655b902dc8e6AfAD89e03f13fc2a484043F416",
-      "0x970550f7057fdE945a7Ca3B32EBc23994ABC2239",
-      "0xA714B8585f5a17ae4E85700fA3d81d0ab0C6dDEB",
-      "0xCEe8104ED8796CD6eF6d7CC761Ea88FaFD3b80ee",
-      "0x7385AaFE2FD203B2720f172178dBCf1951CcC062",
-      "0xb8108710706a6B870e06270c3a2e6570aE03804a",
-      "0x15f8190294846c429615435Bd1A3E1Efe0dc93Ee"
-    ],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 20000000000000000,
-      "performance": 100000000000000000
-    },
-    "type": "multi-strategy-vault-v2.5",
-    "description": "",
-    "creator": "0x4CC090Ba6f871212c87565A94e7e35f09E894c59",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "labels": ["Experimental"],
-    "name": "Mega USDC Vault"
-  },
-  "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a": {
-    "address": "0xa5F5e90304758250764Ad26CbdD04b68D6Ce5d2a",
-    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "safes": ["0x3C99dEa58119DE3962253aea656e61E5fBE21613"],
-    "strategies": [],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "safe-vault-v1",
-    "description": "",
-    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "name": "Safe Test Vault",
-    "labels": ["Experimental"]
-  },
-  "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14": {
-    "address": "0x416b7d5Be8FfF4e1b274F5f6b64b0a83dF669E14",
-    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "safes": ["0xcF3e0D72416c1475308fcFa301D1C23F87775892"],
-    "strategies": [],
-    "chainId": 42161,
-    "fees": {
-      "deposit": 0,
-      "withdrawal": 0,
-      "management": 0,
-      "performance": 0
-    },
-    "type": "safe-vault-v1",
-    "description": "",
-    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
-    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "apyId": "",
-    "name": "Test Vault (Arbelos)",
-    "labels": ["Experimental"]
   },
   "0xcc39eaCb9559B5f579e9777881C1529bc64343Dd": {
     "address": "0xcc39eaCb9559B5f579e9777881C1529bc64343Dd",
