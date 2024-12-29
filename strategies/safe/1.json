@@ -49,7 +49,23 @@
   ],
   "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1": [
     {
-      "address": "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1",
+      "address": "0x35902EcbB6691913470840F221852f363137366F",
+      "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "UltraYield",
+        "protocol": "UltraYield",
+        "description": "This vault is managed by UltraYield.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
+  ],
+  "0x4dfF3ABa0fbd61c332F38205ED4a8Ba42B4407d6": [
+    {
+      "address": "0xaeED5DFC59524f284F53dae2Ee7440F8068899e0",
       "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {

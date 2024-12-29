@@ -413,5 +413,27 @@
     "apyId": "",
     "name": "Lido Vault (UltraYield)",
     "labels": ["New"]
+  },
+  "0x4dfF3ABa0fbd61c332F38205ED4a8Ba42B4407d6": {
+    "address": "0x4dfF3ABa0fbd61c332F38205ED4a8Ba42B4407d6",
+    "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "safes": [
+      "0xaeED5DFC59524f284F53dae2Ee7440F8068899e0"
+    ],
+    "strategies": [],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "WETH Vault (UltraYield)",
+    "labels": ["New"]
   }
 }

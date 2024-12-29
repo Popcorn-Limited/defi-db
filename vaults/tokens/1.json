@@ -425,8 +425,16 @@
   },
   "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1": {
     "address": "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1",
-    "name": "Lido Vault (UltraYield)",
+    "name": "Lido Vault (UltraYield) - Old",
     "symbol": "lVault",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
+    "chainId": 1
+  },
+  "0x4dfF3ABa0fbd61c332F38205ED4a8Ba42B4407d6": {
+    "address": "0x4dfF3ABa0fbd61c332F38205ED4a8Ba42B4407d6",
+    "name": "WETH Vault (UltraYield)",
+    "symbol": "ultraWETH",
     "decimals": 18,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
     "chainId": 1
