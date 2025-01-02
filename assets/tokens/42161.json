@@ -206,5 +206,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0x912CE59144191C1204E64559FE8253a0e49E6548":{
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logoURI": "https://arbiscan.io/token/images/arbitrumone2_32_new.png",
+    "chainId": 42161
   }
 }

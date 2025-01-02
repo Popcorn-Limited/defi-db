@@ -159,7 +159,7 @@
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "gauge": "0x2053D28880d6C74A0eb1d78637c59077Ef2dFe25",
-    "apyId": "",
+    "apyId": "52a73c98-7555-463b-ae59-21fc0659fab5",
     "name": "Lido stETH 3X Leveraged Looper",
     "labels": ["New"]
   },
