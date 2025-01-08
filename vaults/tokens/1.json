@@ -438,5 +438,13 @@
     "decimals": 18,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
     "chainId": 1
+  },
+  "0xcF9273BA04b875F94E4A9D8914bbD6b3C1f08EDb": {
+    "address": "0xcF9273BA04b875F94E4A9D8914bbD6b3C1f08EDb",
+    "name": "Grizzly Gain Vault",
+    "symbol": "ggETH",
+    "decimals": 18,
+    "logoURI": "https://icons.llamao.fi/icons/protocols/kelp-dao?w=48&h=48",
+    "chainId": 1
   }
 }

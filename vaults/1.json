@@ -274,16 +274,16 @@
     "apyId": "",
     "points": [
       {
-        "provider":"Lombard",
-        "multiplier":3
+        "provider": "Lombard",
+        "multiplier": 3
       },
       {
-        "provider":"Babylon",
-        "multiplier":1
+        "provider": "Babylon",
+        "multiplier": 1
       },
       {
-        "provider":"VaultCraft",
-        "multiplier":2
+        "provider": "VaultCraft",
+        "multiplier": 2
       }
     ]
   },
@@ -351,9 +351,7 @@
   "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": {
     "address": "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "safes": [
-      "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"
-    ],
+    "safes": ["0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"],
     "strategies": [],
     "chainId": 1,
     "fees": {
@@ -373,9 +371,7 @@
   "0x77e88cA17A6D384DCBB13747F6767F30e3753e63": {
     "address": "0x77e88cA17A6D384DCBB13747F6767F30e3753e63",
     "assetAddress": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
-    "safes": [
-      "0x7b514263665C3eC36e4Eb24b4B7dC95BB183D255"
-    ],
+    "safes": ["0x7b514263665C3eC36e4Eb24b4B7dC95BB183D255"],
     "strategies": [],
     "chainId": 1,
     "fees": {
@@ -395,9 +391,7 @@
   "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1": {
     "address": "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "safes": [
-      "0x35902EcbB6691913470840F221852f363137366F"
-    ],
+    "safes": ["0x35902EcbB6691913470840F221852f363137366F"],
     "strategies": [],
     "chainId": 1,
     "fees": {
@@ -417,9 +411,7 @@
   "0x4dfF3ABa0fbd61c332F38205ED4a8Ba42B4407d6": {
     "address": "0x4dfF3ABa0fbd61c332F38205ED4a8Ba42B4407d6",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "safes": [
-      "0xaeED5DFC59524f284F53dae2Ee7440F8068899e0"
-    ],
+    "safes": ["0xaeED5DFC59524f284F53dae2Ee7440F8068899e0"],
     "strategies": [],
     "chainId": 1,
     "fees": {
@@ -434,6 +426,26 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "name": "WETH Vault (UltraYield)",
+    "labels": ["New"]
+  },
+  "0xcF9273BA04b875F94E4A9D8914bbD6b3C1f08EDb": {
+    "address": "0xcF9273BA04b875F94E4A9D8914bbD6b3C1f08EDb",
+    "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "safes": ["0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"],
+    "strategies": [],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "Earn yield the right away while farming Bera rewards with your pre-deposits! rsETH is deposited into Compound Finance and collateralized to borrow WETH. WETH is then deposited into Yearn Finance, which deploys WETH across Morpho, Sturdy, Swell, Gearbox, and Across to lend and compound rewards.",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Grizzly Gain Vault",
     "labels": ["New"]
   }
 }
