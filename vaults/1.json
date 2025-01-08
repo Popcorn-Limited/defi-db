@@ -441,7 +441,7 @@
       "performance": 0
     },
     "type": "safe-vault-v1",
-    "description": "Earn yield the right away while farming Bera rewards with your pre-deposits! rsETH is deposited into Compound Finance and collateralized to borrow WETH. WETH is then deposited into Yearn Finance, which deploys WETH across Morpho, Sturdy, Swell, Gearbox, and Across to lend and compound rewards.",
+    "description": "Earn yield right away while farming Bera rewards with your pre-deposits! Until Bera goes live, your rsETH is deposited into blue chips protocols like Compound, Yearn, and Morpho to lend and farm rewards.",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
