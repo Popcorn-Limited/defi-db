@@ -17,13 +17,13 @@
   ],
   "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": [
     {
-      "address": "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE",
+      "address": "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7",
       "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
-        "name": "UltraYield",
-        "protocol": "UltraYield",
-        "description": "This vault is managed by UltraYield.",
+        "name": "VaultCraft",
+        "protocol": "VaultCraft",
+        "description": "This vault is managed by VaultCraft.",
         "type": "safe"
       },
       "resolver": "safe",

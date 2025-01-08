@@ -409,10 +409,10 @@
   },
   "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": {
     "address": "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE",
-    "name": "Kelp Vault (UltraYield)",
+    "name": "rsETH Vault",
     "symbol": "kVault",
     "decimals": 18,
-    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "logoURI": "https://icons.llamao.fi/icons/protocols/kelp-dao?w=48&h=48",
     "chainId": 1
   },
   "0x77e88cA17A6D384DCBB13747F6767F30e3753e63": {
