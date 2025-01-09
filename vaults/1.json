@@ -2,7 +2,9 @@
   "0xb6cED1C0e5d26B815c3881038B88C829f39CE949": {
     "address": "0xb6cED1C0e5d26B815c3881038B88C829f39CE949",
     "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-    "strategies": ["0x7a2F96F36a03c91Cbf5f4490B4002254c5b7a5E8"],
+    "strategies": [
+      "0x7a2F96F36a03c91Cbf5f4490B4002254c5b7a5E8"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -19,7 +21,9 @@
   "0x2fD2C18f79F93eF299B20B681Ab2a61f5F28A6fF": {
     "address": "0x2fD2C18f79F93eF299B20B681Ab2a61f5F28A6fF",
     "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "strategies": ["0x104AeAC31048aD01A2836254ad0330F3fC8E7Fbc"],
+    "strategies": [
+      "0x104AeAC31048aD01A2836254ad0330F3fC8E7Fbc"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -36,7 +40,9 @@
   "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340": {
     "address": "0xDFf04Efb38465369fd1A2E8B40C364c22FfEA340",
     "assetAddress": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
-    "strategies": ["0xB597852043Ce22D293F533143C2bE47aF94C456A"],
+    "strategies": [
+      "0xB597852043Ce22D293F533143C2bE47aF94C456A"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -53,7 +59,9 @@
   "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567": {
     "address": "0xcBb5A4a829bC086d062e4af8Eba69138aa61d567",
     "assetAddress": "0x5271045F7B73c17825A7A7aee6917eE46b0B7520",
-    "strategies": ["0xF35Dc1F592ed2D6dE8a9af2116683f2D6fac2a7f"],
+    "strategies": [
+      "0xF35Dc1F592ed2D6dE8a9af2116683f2D6fac2a7f"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -70,7 +78,9 @@
   "0xd4D442AC311d918272911691021E6073F620eb07": {
     "address": "0xd4D442AC311d918272911691021E6073F620eb07",
     "assetAddress": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
-    "strategies": ["0x9bdC69Aaba05E1425a44fc439a7Fe92615977a1f"],
+    "strategies": [
+      "0x9bdC69Aaba05E1425a44fc439a7Fe92615977a1f"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -87,7 +97,9 @@
   "0x8bd3D95Ec173380AD546a4Bd936B9e8eCb642de1": {
     "address": "0x8bd3D95Ec173380AD546a4Bd936B9e8eCb642de1",
     "assetAddress": "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56",
-    "strategies": ["0x1125f17E999ea4F2498D01c35785fE90B5C4d8ff"],
+    "strategies": [
+      "0x1125f17E999ea4F2498D01c35785fE90B5C4d8ff"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -104,7 +116,9 @@
   "0x6cE9c05E159F8C4910490D8e8F7a63e95E6CEcAF": {
     "address": "0x6cE9c05E159F8C4910490D8e8F7a63e95E6CEcAF",
     "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-    "strategies": ["0x197F58De2559097d956b4192e8F89A2F36190a48"],
+    "strategies": [
+      "0x197F58De2559097d956b4192e8F89A2F36190a48"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -122,7 +136,9 @@
   "0x52Aef3ea0D3F93766D255A1bb0aA7F1C4885E622": {
     "address": "0x52Aef3ea0D3F93766D255A1bb0aA7F1C4885E622",
     "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "strategies": ["0x29bE2A691394f635a9AC506a238Cc201BAA52351"],
+    "strategies": [
+      "0x29bE2A691394f635a9AC506a238Cc201BAA52351"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -140,7 +156,9 @@
   "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D": {
     "address": "0xe1489Af32c45c51f94Acdb3F36B7032A82F6f55D",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "strategies": ["0xE3267A9Ff2d38B748B6aA202e006F7d94Ca22df3"],
+    "strategies": [
+      "0xE3267A9Ff2d38B748B6aA202e006F7d94Ca22df3"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -169,14 +187,18 @@
     "description": "",
     "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
-    "strategies": ["0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d"],
+    "strategies": [
+      "0xF6Fe643cb8DCc3E379Cdc6DB88818B09fdF2200d"
+    ],
     "gauge": "0x35fCa05eb9d7B4BeEbDfa110Ea342e6d9CA972ac",
     "apyId": "31b4b143-5b09-4768-8567-75799fddefa1"
   },
   "0xd24844c1eb111C1385A311DeEc62533A09d4C86B": {
     "address": "0xd24844c1eb111C1385A311DeEc62533A09d4C86B",
     "assetAddress": "0x596192bB6e41802428Ac943D2f1476C1Af25CC0E",
-    "strategies": ["0x24166a9C53D83b935c03F27C29081310d5bf1189"],
+    "strategies": [
+      "0x24166a9C53D83b935c03F27C29081310d5bf1189"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -194,7 +216,9 @@
   "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38": {
     "address": "0x99a53fAB6fBD1eacb59AE998dA2DbF130BE94C38",
     "assetAddress": "0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920",
-    "strategies": ["0x7bDd71e46D602916c065B027028Df686a27D5cB2"],
+    "strategies": [
+      "0x7bDd71e46D602916c065B027028Df686a27D5cB2"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -212,7 +236,9 @@
   "0x434E7EA9BC77C93c3F4680862281603338c7aE02": {
     "address": "0x434E7EA9BC77C93c3F4680862281603338c7aE02",
     "assetAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-    "strategies": ["0x9E0c5d524dc3Ff0aa734c52aa57ab623436364e6"],
+    "strategies": [
+      "0x9E0c5d524dc3Ff0aa734c52aa57ab623436364e6"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -231,7 +257,9 @@
   "0xa48d49F63Dfc185cDD409B65f042955f509d9658": {
     "address": "0xa48d49F63Dfc185cDD409B65f042955f509d9658",
     "assetAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-    "strategies": ["0xA84397004Abe8229CC481cE91BA850ECd8204822"],
+    "strategies": [
+      "0xA84397004Abe8229CC481cE91BA850ECd8204822"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -266,7 +294,10 @@
     },
     "type": "multi-strategy-vault-v2.5",
     "name": "LBTC",
-    "labels": ["New", "Points"],
+    "labels": [
+      "New",
+      "Points"
+    ],
     "description": "<div class='mt-2'><p>This vault utilises semi-liquid strategies. Additional funds available for withdrawal will be released once a day at 18:00 CET. In the near future, withdrawals will be automated with withdrawal queues.</p><p class='text-lg font-bold'>Goals:</p><p class='mb-2'>The LBTC Smart Vault, developed in collaboration with Lombard Finance, is a non-custodial, multi-strategy yield product designed to maximize BTC-denominated returns. It achieves this by diversifying deposits across a range of high-yield DeFi strategies.</p><p class='text-lg font-bold'>Strategies:</p><p class='mb-2'>The LBTC Smart Vault utilizes several strategies, including providing liquidity on Pendle, lending on ZeroLend, and engaging in yield trading on Pendle. The Vault also automates compounding by efficiently converting all accrued DeFi rewards into LBTC.</p><p class='text-lg font-bold'>Risks:</p><p class='mb-2'>The LBTC Smart Vault carries smart contract risk and economic risk.</p><p class='text-lg font-bold'>Audits:</p><p class='mb-2'>VaultCraft's smart contracts have been audited by Paladin, C4, BlockSec, and multiple white hats. <a href='https://docs.vaultcraft.io/security/audits' class='text-secondaryBlue'>Read more</a></p></div>",
     "creator": "0xB85e0d4ad9078676Ca86C6bAa51228aB3E21F5da",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
@@ -290,7 +321,9 @@
   "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE": {
     "address": "0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE",
     "assetAddress": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
-    "strategies": ["0x40B74aC60F4133b31F297767B455B4328d917809"],
+    "strategies": [
+      "0x40B74aC60F4133b31F297767B455B4328d917809"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -303,13 +336,17 @@
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
-    "labels": ["Leverage"],
+    "labels": [
+      "Leverage"
+    ],
     "name": "ETHx 10X Smart Loop"
   },
   "0x4425142e7044339508c76ca8FaA7617A594faC04": {
     "address": "0x4425142e7044339508c76ca8FaA7617A594faC04",
     "assetAddress": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
-    "strategies": ["0x8D63e0B19753FFc1C2339689526B7c4AAD6e3758"],
+    "strategies": [
+      "0x8D63e0B19753FFc1C2339689526B7c4AAD6e3758"
+    ],
     "chainId": 1,
     "fees": {
       "deposit": 0,
@@ -322,7 +359,9 @@
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
-    "labels": ["Leverage"],
+    "labels": [
+      "Leverage"
+    ],
     "name": "ETHx 5X Smart Loop"
   },
   "0x872418226D8Dbd423084007f33B8e242D5C3c074": {
@@ -346,12 +385,16 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "name": "Lido Vault (UltraYield)",
-    "labels": ["New"]
+    "labels": [
+      "New"
+    ]
   },
   "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": {
     "address": "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "safes": ["0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"],
+    "safes": [
+      "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"
+    ],
     "strategies": [],
     "chainId": 1,
     "fees": {
@@ -366,12 +409,16 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "name": "Kelp Boyco Vault",
-    "labels": ["New"]
+    "labels": [
+      "New"
+    ]
   },
   "0x77e88cA17A6D384DCBB13747F6767F30e3753e63": {
     "address": "0x77e88cA17A6D384DCBB13747F6767F30e3753e63",
     "assetAddress": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
-    "safes": ["0x7b514263665C3eC36e4Eb24b4B7dC95BB183D255"],
+    "safes": [
+      "0x7b514263665C3eC36e4Eb24b4B7dC95BB183D255"
+    ],
     "strategies": [],
     "chainId": 1,
     "fees": {
@@ -386,12 +433,16 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "name": "NBTC Vault",
-    "labels": ["New"]
+    "labels": [
+      "New"
+    ]
   },
   "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1": {
     "address": "0x3E5936Efe69CBf837FDe12fBbe43f00C8c0660A1",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "safes": ["0x35902EcbB6691913470840F221852f363137366F"],
+    "safes": [
+      "0x35902EcbB6691913470840F221852f363137366F"
+    ],
     "strategies": [],
     "chainId": 1,
     "fees": {
@@ -406,12 +457,16 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "name": "Lido Vault (UltraYield)",
-    "labels": ["New"]
+    "labels": [
+      "New"
+    ]
   },
   "0x4dfF3ABa0fbd61c332F38205ED4a8Ba42B4407d6": {
     "address": "0x4dfF3ABa0fbd61c332F38205ED4a8Ba42B4407d6",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "safes": ["0xaeED5DFC59524f284F53dae2Ee7440F8068899e0"],
+    "safes": [
+      "0xaeED5DFC59524f284F53dae2Ee7440F8068899e0"
+    ],
     "strategies": [],
     "chainId": 1,
     "fees": {
@@ -426,12 +481,16 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "name": "WETH Vault (UltraYield)",
-    "labels": ["New"]
+    "labels": [
+      "New"
+    ]
   },
   "0xcF9273BA04b875F94E4A9D8914bbD6b3C1f08EDb": {
     "address": "0xcF9273BA04b875F94E4A9D8914bbD6b3C1f08EDb",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "safes": ["0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"],
+    "safes": [
+      "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"
+    ],
     "strategies": [],
     "chainId": 1,
     "fees": {
@@ -446,6 +505,27 @@
     "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
     "apyId": "",
     "name": "Grizzly Gain Vault",
-    "labels": ["New"]
+    "labels": [
+      "New",
+      "Points"
+    ],
+    "points": [
+      {
+        "provider": "Dolomite",
+        "multiplier": 0
+      },
+      {
+        "provider": "BeraBorrow",
+        "multiplier": 0
+      },
+      {
+        "provider": "Kodiak",
+        "multiplier": 0
+      },
+      {
+        "provider": "Goldilocks",
+        "multiplier": 0
+      }
+    ]
   }
 }
