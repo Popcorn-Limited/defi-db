@@ -525,6 +525,14 @@
       {
         "provider": "Goldilocks",
         "multiplier": 0
+      },
+      {
+        "provider": "KelpDAO",
+        "multiplier": 2
+      },
+      {
+        "provider": "Eigenlayer",
+        "multiplier": 1
       }
     ]
   }
