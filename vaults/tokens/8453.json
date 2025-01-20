@@ -22,6 +22,14 @@
     "decimals": 18,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
     "chainId": 8453
+  },
+  "0x63acB844f2415C696FDb726DcA73024e79e15f93": {
+    "address": "0x63acB844f2415C696FDb726DcA73024e79e15f93",
+    "name": "Ai Vault",
+    "symbol": "aiVault",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "chainId": 8453
   }
 }
   

@@ -67,5 +67,27 @@
     "apyId": "",
     "name": "Lido stETH 3X Leveraged Looper (Multistrategy)",
     "labels": ["New"]
+  },
+  "0x63acB844f2415C696FDb726DcA73024e79e15f93": {
+    "address": "0x63acB844f2415C696FDb726DcA73024e79e15f93",
+    "assetAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "safes": [
+      "0xf360D1EfF05C0c0f29137ba3f718e2dD443E0CD0"
+    ],
+    "strategies": [],
+    "chainId": 8453,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "apyId": "",
+    "name": "Ai Vault",
+    "labels": ["New"]
   }
 }
