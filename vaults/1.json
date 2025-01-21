@@ -536,5 +536,56 @@
         "multiplier": 1
       }
     ]
+  },
+  "0xB64D29F6AB71A11e55953a6EE030A92E6ACB8814": {
+    "address": "0xB64D29F6AB71A11e55953a6EE030A92E6ACB8814",
+    "assetAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+    "safes": [
+      "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"
+    ],
+    "strategies": [],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "Earn yield right away while farming Bera rewards with your pre-deposits! Until Bera goes live, your rsETH is deposited into blue chips protocols like Compound, Yearn, and Morpho to lend and farm rewards.",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Grizzly Gain Vault 2",
+    "labels": [
+      "New",
+      "Points"
+    ],
+    "points": [
+      {
+        "provider": "Dolomite",
+        "multiplier": 0
+      },
+      {
+        "provider": "BeraBorrow",
+        "multiplier": 0
+      },
+      {
+        "provider": "Kodiak",
+        "multiplier": 0
+      },
+      {
+        "provider": "Goldilocks",
+        "multiplier": 0
+      },
+      {
+        "provider": "KelpDAO",
+        "multiplier": 2
+      },
+      {
+        "provider": "Eigenlayer",
+        "multiplier": 1
+      }
+    ]
   }
 }

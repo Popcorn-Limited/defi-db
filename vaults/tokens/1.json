@@ -446,5 +446,13 @@
     "decimals": 18,
     "logoURI": "https://icons.llamao.fi/icons/protocols/kelp-dao?w=48&h=48",
     "chainId": 1
+  },
+  "0xB64D29F6AB71A11e55953a6EE030A92E6ACB8814": {
+    "address": "0xB64D29F6AB71A11e55953a6EE030A92E6ACB8814",
+    "name": "Grizzly Gain Vault 2",
+    "symbol": "ggETH2",
+    "decimals": 18,
+    "logoURI": "https://icons.llamao.fi/icons/protocols/kelp-dao?w=48&h=48",
+    "chainId": 1
   }
 }

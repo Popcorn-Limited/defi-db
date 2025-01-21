@@ -15,38 +15,6 @@
       "leverage": 0
     }
   ],
-  "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": [
-    {
-      "address": "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7",
-      "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "yieldToken": "0x0000000000000000000000000000000000000000",
-      "metadata": {
-        "name": "VaultCraft",
-        "protocol": "VaultCraft",
-        "description": "This vault is managed by VaultCraft.",
-        "type": "safe"
-      },
-      "resolver": "safe",
-      "allocationPerc": 100,
-      "leverage": 0
-    }
-  ],
-  "0xcF9273BA04b875F94E4A9D8914bbD6b3C1f08EDb": [
-    {
-      "address": "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7",
-      "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "yieldToken": "0x0000000000000000000000000000000000000000",
-      "metadata": {
-        "name": "VaultCraft",
-        "protocol": "VaultCraft",
-        "description": "This vault is managed by VaultCraft.",
-        "type": "safe"
-      },
-      "resolver": "safe",
-      "allocationPerc": 100,
-      "leverage": 0
-    }
-  ],
   "0x77e88cA17A6D384DCBB13747F6767F30e3753e63": [
     {
       "address": "0x7b514263665C3eC36e4Eb24b4B7dC95BB183D255",
@@ -88,6 +56,54 @@
         "name": "UltraYield",
         "protocol": "UltraYield",
         "description": "This vault is managed by UltraYield.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
+  ],
+  "0xFdBa40D5502CbA8163b09955c7AbbBAFC349BCbE": [
+    {
+      "address": "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7",
+      "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "VaultCraft",
+        "protocol": "VaultCraft",
+        "description": "This vault is managed by VaultCraft.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
+  ],
+  "0xcF9273BA04b875F94E4A9D8914bbD6b3C1f08EDb": [
+    {
+      "address": "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7",
+      "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "VaultCraft",
+        "protocol": "VaultCraft",
+        "description": "This vault is managed by VaultCraft.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
+  ],
+  "0xB64D29F6AB71A11e55953a6EE030A92E6ACB8814": [
+    {
+      "address": "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7",
+      "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "VaultCraft",
+        "protocol": "VaultCraft",
+        "description": "This vault is managed by VaultCraft.",
         "type": "safe"
       },
       "resolver": "safe",
