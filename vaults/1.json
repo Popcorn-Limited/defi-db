@@ -419,6 +419,7 @@
     "safes": [
       "0x7b514263665C3eC36e4Eb24b4B7dC95BB183D255"
     ],
+    "gauge": "0xde11EDDE86a4F14B8FfF1Ff45d36b89903B06a75",
     "strategies": [],
     "chainId": 1,
     "fees": {
