@@ -564,19 +564,19 @@
     "points": [
       {
         "provider": "Dolomite",
-        "multiplier": 0
+        "multiplier": 1
       },
       {
         "provider": "BeraBorrow",
-        "multiplier": 0
+        "multiplier": 1
       },
       {
         "provider": "Kodiak",
-        "multiplier": 0
+        "multiplier": 1
       },
       {
         "provider": "Goldilocks",
-        "multiplier": 0
+        "multiplier": 1
       },
       {
         "provider": "KelpDAO",
