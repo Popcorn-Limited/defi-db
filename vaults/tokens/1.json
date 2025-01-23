@@ -452,7 +452,7 @@
     "name": "Grizzly Gain Vault - rsETH",
     "symbol": "ggETH2",
     "decimals": 18,
-    "logoURI": "https://icons.llamao.fi/icons/protocols/kelp-dao?w=48&h=48",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29242.png",
     "chainId": 1
   }
 }
