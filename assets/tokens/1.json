@@ -255,6 +255,14 @@
     "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
     "chainId": 1
   },
+  "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
+    "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "name": "Staked Ether",
+    "symbol": "stETH",
+    "decimals": 18,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/stETH.svg",
+    "chainId": 1
+  },
   "0x8BB97A618211695f5a6a889faC3546D1a573ea77": {
     "address": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
     "name": "Nexus Bitcoin",
