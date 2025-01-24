@@ -447,10 +447,10 @@
     "logoURI": "https://cdn.furucombo.app/assets/img/token/WETH.svg",
     "chainId": 1
   },
-  "0xB64D29F6AB71A11e55953a6EE030A92E6ACB8814": {
-    "address": "0xB64D29F6AB71A11e55953a6EE030A92E6ACB8814",
-    "name": "Grizzly Gain Vault - rsETH",
-    "symbol": "ggETH2",
+  "0x11eAA7a46afE1023f47040691071e174125366C8": {
+    "address": "0x11eAA7a46afE1023f47040691071e174125366C8",
+    "name": "Grizzly Gain Vault",
+    "symbol": "ggETH",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29242.png",
     "chainId": 1
