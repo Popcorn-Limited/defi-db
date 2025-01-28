@@ -158,5 +158,13 @@
     "decimals": 6,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 42161
+  },
+  "0x22BE8D6596595B6E29e3a8A71C551D9a6388C236": {
+    "address": "0x22BE8D6596595B6E29e3a8A71C551D9a6388C236",
+    "name": "Keyrock Test Vault",
+    "symbol": "keyVault",
+    "decimals": 6,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 42161
   }
 }

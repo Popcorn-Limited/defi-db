@@ -182,5 +182,25 @@
     "apyId": "",
     "name": "USDC Test Vault (UltraYield)",
     "labels": ["Experimental"]
+  },
+  "0x22BE8D6596595B6E29e3a8A71C551D9a6388C236": {
+    "address": "0x22BE8D6596595B6E29e3a8A71C551D9a6388C236",
+    "assetAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "safes": ["0x83801c47c4E3E3C5D2CCe85cA9b1ebFb88f75c07"],
+    "strategies": [],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "Keyrock Test Vault",
+    "labels": ["Experimental"]
   }
 }
