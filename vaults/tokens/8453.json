@@ -30,6 +30,14 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
     "chainId": 8453
+  },
+  "0xc0B668aE0E6b182f7e8E733f793BD83c0F3503d0": {
+    "address": "0xc0B668aE0E6b182f7e8E733f793BD83c0F3503d0",
+    "name": "ezETH Vault",
+    "symbol": "ezVault",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 8453
   }
 }
   
