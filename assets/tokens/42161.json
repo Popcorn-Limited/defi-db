@@ -214,5 +214,13 @@
     "decimals": 18,
     "logoURI": "https://arbiscan.io/token/images/arbitrumone2_32_new.png",
     "chainId": 42161
+  },
+  "0x2416092f143378750bb29b79eD961ab195CcEea5": {
+    "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "name": "Renzo Restaked ETH",
+    "symbol": "ezETH",
+    "decimals": 18,
+    "logoURI": "https://arbiscan.io/token/images/renzoezeth_32.png",
+    "chainId": 42161
   }
 }

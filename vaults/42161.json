@@ -202,5 +202,25 @@
     "apyId": "",
     "name": "Keyrock Test Vault",
     "labels": ["Experimental"]
+  },
+  "0xce7398f83f8ADe8F2a78E0556A8b90ee85f84B83": {
+    "address": "0xce7398f83f8ADe8F2a78E0556A8b90ee85f84B83",
+    "assetAddress": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "safes": ["0x2c300DF07825aA41E42CBcA50fd3BFa1dd2D8ce6"],
+    "strategies": [],
+    "chainId": 42161,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1.5",
+    "description": "",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "ezETH Vault",
+    "labels": ["New"]
   }
 }
