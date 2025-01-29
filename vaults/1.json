@@ -517,7 +517,7 @@
       },
       {
         "provider": "BeraBorrow",
-        "multiplier": 1
+        "multiplier": 4
       },
       {
         "provider": "Kodiak",
@@ -528,12 +528,16 @@
         "multiplier": 1
       },
       {
-        "provider": "KelpDAO",
+        "provider": "Kernel",
         "multiplier": 2
       },
       {
         "provider": "Eigenlayer",
         "multiplier": 1
+      },
+      {
+        "provider": "Dinero",
+        "multiplier": 2
       }
     ]
   },
@@ -568,7 +572,7 @@
       },
       {
         "provider": "BeraBorrow",
-        "multiplier": 1
+        "multiplier": 4
       },
       {
         "provider": "Kodiak",
@@ -579,12 +583,16 @@
         "multiplier": 1
       },
       {
-        "provider": "KelpDAO",
+        "provider": "Kernel",
         "multiplier": 2
       },
       {
         "provider": "Eigenlayer",
         "multiplier": 1
+      },
+      {
+        "provider": "Dinero",
+        "multiplier": 2
       }
     ]
   }
