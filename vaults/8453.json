@@ -95,7 +95,7 @@
     "assetAddress": "0x2416092f143378750bb29b79eD961ab195CcEea5",
     "safes": ["0x2c300DF07825aA41E42CBcA50fd3BFa1dd2D8ce6"],
     "strategies": [],
-    "chainId": 42161,
+    "chainId": 8453,
     "fees": {
       "deposit": 0,
       "withdrawal": 0,
