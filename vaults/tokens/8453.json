@@ -39,8 +39,8 @@
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 8453
   },
-  "0xE3f858BC1E08f135EF8619F404406051a3065D59": {
-    "address": "0xE3f858BC1E08f135EF8619F404406051a3065D59",
+  "0x1A3274Ca79773422A505E38f9E54968EbF6AFeE5": {
+    "address": "0x1A3274Ca79773422A505E38f9E54968EbF6AFeE5",
     "name": "Ouroboros Vault",
     "symbol": "ourVault",
     "decimals": 6,
