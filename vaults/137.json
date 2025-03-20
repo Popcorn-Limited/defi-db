@@ -11,7 +11,7 @@
       "performance": 0
     },
     "type": "multi-strategy-vault-v2",
-    "description": "",
+    "description": "<div class='mt-2'><p class='text-lg font-bold'>Risks:</p><ul class='list-disc list-inside'><li>Leverage strategies experience slippage when adjusting leverage up or down due to execution price fluctuations.</li><li>Over time, the yield typically compensates for these losses. However, if a user withdraws in the short term, slippage and trade execution losses may exceed the yield earned.</li><li>In periods of high volatility, the strategy also risks accruing higher borrowing costs than the yield generated, potentially leading to principal losses.</li><li>If users withdraw during volatile market conditions, they are likely to incur losses on their principal.</li><li>Do you own research and read our disclaimer before depositing</li></ul></div>",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
     "apyId": "",
@@ -30,7 +30,7 @@
       "performance": 0
     },
     "type": "multi-strategy-vault-v2",
-    "description": "",
+    "description": "<div class='mt-2'><p class='text-lg font-bold'>Risks:</p><ul class='list-disc list-inside'><li>Leverage strategies experience slippage when adjusting leverage up or down due to execution price fluctuations.</li><li>Over time, the yield typically compensates for these losses. However, if a user withdraws in the short term, slippage and trade execution losses may exceed the yield earned.</li><li>In periods of high volatility, the strategy also risks accruing higher borrowing costs than the yield generated, potentially leading to principal losses.</li><li>If users withdraw during volatile market conditions, they are likely to incur losses on their principal.</li><li>Do you own research and read our disclaimer before depositing</li></ul></div>",
     "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
     "feeRecipient": "0x74bb390786072ea1329f270CA6C0058b2D1Afe3f",
     "apyId": "",

@@ -490,7 +490,7 @@
     "address": "0xcF9273BA04b875F94E4A9D8914bbD6b3C1f08EDb",
     "assetAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "safes": [
-      "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"
+      "0xC4F32C2b0f43921F2696f9AD83440EaEd916aDa4"
     ],
     "strategies": [],
     "chainId": 1,
@@ -545,7 +545,7 @@
     "address": "0x11eAA7a46afE1023f47040691071e174125366C8",
     "assetAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
     "safes": [
-      "0x02A85B10BcaebbCED4141fc0460D6eE3a15716A7"
+      "0xC4F32C2b0f43921F2696f9AD83440EaEd916aDa4"
     ],
     "strategies": [],
     "chainId": 1,
