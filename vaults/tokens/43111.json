@@ -1,1 +1,10 @@
-{}
+{
+  "0x748973D83d499019840880f61B32F1f83B46f1A5": {
+    "address": "0x748973D83d499019840880f61B32F1f83B46f1A5",
+    "name": "nBTC Vault",
+    "symbol": "vcx-nBTC",
+    "decimals": 8,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 43111
+  }
+}
