@@ -1,1 +1,10 @@
-{}
+{
+  "0xC93B7aae2802f57eb9D98E2B6a68217d75a0658c": {
+    "address": "0xC93B7aae2802f57eb9D98E2B6a68217d75a0658c",
+    "name": "Nexus Bitcoin",
+    "symbol": "NBTC",
+    "decimals": 8,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WBTC.png",
+    "chainId": 43111
+  }
+}

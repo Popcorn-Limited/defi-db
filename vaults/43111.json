@@ -1,1 +1,26 @@
-{}
+{
+  "0x748973D83d499019840880f61B32F1f83B46f1A5": {
+    "address": "0x748973D83d499019840880f61B32F1f83B46f1A5",
+    "assetAddress": "0xC93B7aae2802f57eb9D98E2B6a68217d75a0658c",
+    "safes": [
+      "0xe22A32633dC5313c6E2F012d802863357545d3d7"
+    ],
+    "strategies": [],
+    "chainId": 43111,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "NexusBTC enables users to participate in DeFi projects across various blockchain networks, allowing users to leverage their Bitcoin holdings to participate in yield-generating strategies while maintaining safe custody of the underlying asset.",
+    "creator": "0x22f5413C075Ccd56D575A54763831C4c27A37Bdb",
+    "feeRecipient": "0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E",
+    "apyId": "",
+    "name": "NBTC Vault",
+    "labels": [
+      "New"
+    ]
+  }
+}
