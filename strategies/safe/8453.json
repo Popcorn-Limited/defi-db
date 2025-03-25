@@ -98,5 +98,21 @@
       "allocationPerc": 100,
       "leverage": 0
     }
+  ],
+  "0x023577b99e8A59ac18454161EecD840Bd648D782": [
+    {
+      "address": "0x023577b99e8A59ac18454161EecD840Bd648D782",
+      "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "Pendle",
+        "protocol": "Pendle",
+        "description": "This strategy involves purchasing Principal Tokens (PT) for USR that mature on April 24, 2025. By buying these tokens at a discount to their maturity value, you lock in a guaranteed fixed return if held until the maturity date.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
   ]
 }
