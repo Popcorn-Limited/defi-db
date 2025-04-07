@@ -1,1 +1,10 @@
-{}
+{
+  "0x93a2edb20e47C663624EFBfC9ec28B32CcaBCafd": {
+    "address": "0x93a2edb20e47C663624EFBfC9ec28B32CcaBCafd",
+    "name": "bvUSD Vault",
+    "symbol": "sbvUSD",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 56
+  }
+}
