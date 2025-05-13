@@ -121,8 +121,8 @@
       "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "yieldToken": "0x0000000000000000000000000000000000000000",
       "metadata": {
-        "name": "VaultCraft",
-        "protocol": "VaultCraft",
+        "name": "GSR",
+        "protocol": "GSR",
         "description": "This vault is managed by GSR",
         "type": "safe"
       },
