@@ -114,5 +114,21 @@
       "allocationPerc": 100,
       "leverage": 0
     }
+  ],
+  "0xF75b4D295294F4bcD2A40B51B66Bbcc71a729Ed1": [
+    {
+      "address": "0x5AF123921BcEfa351880C7189306C97296d4dBa0",
+      "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "VaultCraft",
+        "protocol": "VaultCraft",
+        "description": "This vault is managed by GSR",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
   ]
 }

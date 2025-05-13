@@ -153,5 +153,27 @@
     "name": "DrPepe.ai’s Cure to HPV - IP market",
     "labels": ["New"],
     "description": "<div><p>This is <span class='font-bold'>DrPepe.ai’s</span> first de-risked IP market funding the cure to HPV via repurposed Chloroquine (topical, injection).</p><ul class='list-disc list-inside'><li>Chloroquine is an old anti-malaria drug that gained memetic popularity during Covid-19 via Elon Musk, Trump, RFK, etc.</li><li>HPV accounts for .8% of deaths and 5% of cancers worldwide + is #1 STI</li><li>100x Monetization Strategy</li><li class='ml-6'>D2C telehealth for external HPV skin lesions (crushed up pills applied topically, 90%+ cure)</li><li class='ml-6'>Rare disease clinical trial for internal oral HPV lesions (submit for FDA approval after just one 30 person trial, chloroquine injected directly into HPV lesion, 90%+ cure expected)</li></ul><div><p class='font-bold mt-4'>What is DrPepe.ai?</p><p>DrPepe.ai (www.drpepe.ai) is the first AI-driven longevity framework designed to integrate seamlessly into the AI agent economy. Think of it as your personal Jarvis for longevity—an intelligent agent that not only tracks and optimizes your health but also ensures you always have the right supplements, protocols, and interventions at your fingertips.</p></div></div>"
+  },
+  "0xF75b4D295294F4bcD2A40B51B66Bbcc71a729Ed1": {
+    "address": "0xF75b4D295294F4bcD2A40B51B66Bbcc71a729Ed1",
+    "assetAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "safes": [
+      "0x5AF123921BcEfa351880C7189306C97296d4dBa0"
+    ],
+    "strategies": [],
+    "chainId": 8453,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1.5",
+    "description": "",
+    "creator": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
+    "feeRecipient": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
+    "apyId": "",
+    "name": "GSR Vault",
+    "labels": ["New"]
   }
 }
