@@ -1,1 +1,22 @@
-{}
+{
+  "0x2529A6Ac43aCaD57fE82F850d7dc824a44d2e6e8": {
+    "address": "0x2529A6Ac43aCaD57fE82F850d7dc824a44d2e6e8",
+    "assetAddress": "0x950e7FB62398C3CcaBaBc0e3e0de3137fb0daCd2",
+    "safes": ["0x1303eB438Dd4f086A61815fa7c8C6f923bF5995F"],
+    "strategies": [],
+    "chainId": 2818,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "MorphBTC enables users to participate in DeFi projects across the Morph blockchain network, allowing users to leverage their Bitcoin holdings to participate in yield-generating strategies while maintaining safe custody of the underlying asset.",
+    "creator": "0x919D5a6F2CBc0731380C26B4AC4f6183dD3A40C8",
+    "feeRecipient": "0x919D5a6F2CBc0731380C26B4AC4f6183dD3A40C8",
+    "apyId": "",
+    "name": "Morph BTC Vault",
+    "labels": ["New"]
+  }
+}

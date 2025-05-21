@@ -1,1 +1,10 @@
-{}
+{
+    "0x2529A6Ac43aCaD57fE82F850d7dc824a44d2e6e8": {
+      "address": "0x2529A6Ac43aCaD57fE82F850d7dc824a44d2e6e8",
+      "name": "mphBTC Vault",
+      "symbol": "vcx-mphBTC",
+      "decimals": 10,
+      "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+      "chainId": 2818
+    }
+  }

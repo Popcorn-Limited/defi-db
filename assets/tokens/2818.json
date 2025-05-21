@@ -1,1 +1,10 @@
-{}
+{
+  "0x950e7FB62398C3CcaBaBc0e3e0de3137fb0daCd2": {
+    "address": "0x950e7FB62398C3CcaBaBc0e3e0de3137fb0daCd2",
+    "name": "Morph Bitcoin",
+    "symbol": "mphBTC",
+    "decimals": 10,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WBTC.png",
+    "chainId": 2818
+  }
+}
