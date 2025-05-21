@@ -6,5 +6,13 @@
       "decimals": 10,
       "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
       "chainId": 2818
+    },
+    "0x119682fcbCCBCd1C7e09835BfC856D7Da88d593E": {
+      "address": "0x119682fcbCCBCd1C7e09835BfC856D7Da88d593E",
+      "name": "bgBTC Vault",
+      "symbol": "vcx-bgBTC",
+      "decimals": 8,
+      "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+      "chainId": 2818
     }
   }

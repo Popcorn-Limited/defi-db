@@ -6,5 +6,13 @@
     "decimals": 10,
     "logoURI": "https://cdn.furucombo.app/assets/img/token/WBTC.png",
     "chainId": 2818
+  },
+  "0x34951712c39d6284eC1afF60798C2E01E7cfB8eF": {
+    "address": "0x34951712c39d6284eC1afF60798C2E01E7cfB8eF",
+    "name": "Bitget Bitcoin",
+    "symbol": "bgBTC",
+    "decimals": 8,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WBTC.png",
+    "chainId": 2818
   }
 }

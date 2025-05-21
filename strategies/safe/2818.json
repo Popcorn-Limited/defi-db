@@ -7,7 +7,23 @@
       "metadata": {
         "name": "Morph",
         "protocol": "Morph",
-        "description": "Morph BTC (“NBTC”) is a wrapped Bitcoin token by Morph.",
+        "description": "Morph BTC (mphBTC) is a wrapped Bitcoin token by Morph.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
+  ],
+  "0x119682fcbCCBCd1C7e09835BfC856D7Da88d593E": [
+    {
+      "address": "0x1303eB438Dd4f086A61815fa7c8C6f923bF5995F",
+      "asset": "0x34951712c39d6284eC1afF60798C2E01E7cfB8eF",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "Bitget WBTC",
+        "protocol": "Morph",
+        "description": "Bitget WBTC (bgBTC) is a wrapped Bitcoin token by Bitget.",
         "type": "safe"
       },
       "resolver": "safe",
