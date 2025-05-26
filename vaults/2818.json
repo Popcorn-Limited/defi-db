@@ -2,7 +2,7 @@
   "0x2529A6Ac43aCaD57fE82F850d7dc824a44d2e6e8": {
     "address": "0x2529A6Ac43aCaD57fE82F850d7dc824a44d2e6e8",
     "assetAddress": "0x950e7FB62398C3CcaBaBc0e3e0de3137fb0daCd2",
-    "safes": ["0x1303eB438Dd4f086A61815fa7c8C6f923bF5995F"],
+    "safes": ["0xF8d69F8D094159121b27B6c4304ac6c940382D51"],
     "strategies": [],
     "chainId": 2818,
     "fees": {
