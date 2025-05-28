@@ -6,5 +6,13 @@
     "decimals": 8,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 43111
+  },
+  "0x43Ad2CFDDA3CEFf40d832eB9bc33eC3FACE86829": {
+    "address": "0x43Ad2CFDDA3CEFf40d832eB9bc33eC3FACE86829",
+    "name": "enzoBTC Vault",
+    "symbol": "vcx-enzoBTC",
+    "decimals": 8,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 43111
   }
 }

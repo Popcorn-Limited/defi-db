@@ -14,5 +14,21 @@
       "allocationPerc": 100,
       "leverage": 0
     }
+  ],
+  "0x43Ad2CFDDA3CEFf40d832eB9bc33eC3FACE86829": [
+    {
+      "address": "0xB12f8CE82d6a6F83EfCE73304F234d72F440eaE5",
+      "asset": "0x6A9A65B84843F5fD4aC9a0471C4fc11AFfFBce4a",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "enzoBTC",
+        "protocol": "Lorenzo",
+        "description": "enzoBTC is a wrapped Bitcoin token by Lorenzo protocol designed to facilitate cross-chain transactions within the DeFI ecosystem.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
   ]
 }
