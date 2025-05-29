@@ -12,7 +12,7 @@
     "name": "Bitget Bitcoin",
     "symbol": "bgBTC",
     "decimals": 8,
-    "logoURI": "https://cdn.furucombo.app/assets/img/token/WBTC.png",
+    "logoURI": "https://app.vaultcraft.io/images/tokens/bitgetbtc.jpeg",
     "chainId": 2818
   }
 }
