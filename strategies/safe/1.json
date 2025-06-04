@@ -110,5 +110,37 @@
       "allocationPerc": 100,
       "leverage": 0
     }
+  ],
+  "0x7B42e0d1B7f2111B04C6547FcA8Ca2b0f271498c": [
+    {
+      "address": "0xe9c83D19D7448F93F00e3bC8097368849a3362E0",
+      "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "VaultCraft",
+        "protocol": "VaultCraft",
+        "description": "This vault is managed by MEV",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
+  ],
+  "0x2529A6Ac43aCaD57fE82F850d7dc824a44d2e6e8": [
+    {
+      "address": "0xeD4d94b15263B6A3470dA6D14cC6Bad3600374F7",
+      "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "VaultCraft",
+        "protocol": "VaultCraft",
+        "description": "This vault is managed by DeWhales",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
   ]
 }
