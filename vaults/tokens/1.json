@@ -454,5 +454,21 @@
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29242.png",
     "chainId": 1
+  },
+  "0x7B42e0d1B7f2111B04C6547FcA8Ca2b0f271498c": {
+    "address": "0x7B42e0d1B7f2111B04C6547FcA8Ca2b0f271498c",
+    "name": "MEV USDC Deposit Vault",
+    "symbol": "mev-USDC",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
+  },
+  "0x2529A6Ac43aCaD57fE82F850d7dc824a44d2e6e8": {
+    "address": "0x2529A6Ac43aCaD57fE82F850d7dc824a44d2e6e8",
+    "name": "DeWhales USDC Deposit Vault",
+    "symbol": "DeWhales-USDC",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }
