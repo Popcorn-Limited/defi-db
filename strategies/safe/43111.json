@@ -30,5 +30,21 @@
       "allocationPerc": 100,
       "leverage": 0
     }
+  ],
+  "0x0b8E088a35879f30a4d63F686B10adAD9cB3DBE1": [
+    {
+      "address": "0x8a1340D273818A0B54e9AFBcE8dE5650D6c613DD",
+      "asset": "0x5B6d6D09F425da2a816D1cDBabd049449Ae8d8e6",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "bgBTC",
+        "protocol": "Bitget",
+        "description": "bgBTC is a wrapped Bitcoin token by Bitget designed to facilitate cross-chain transactions within the DeFI ecosystem.",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
   ]
 }
