@@ -46,5 +46,29 @@
     "labels": [
       "New"
     ]
+  },
+  "0x0b8E088a35879f30a4d63F686B10adAD9cB3DBE1": {
+    "address": "0x0b8E088a35879f30a4d63F686B10adAD9cB3DBE1",
+    "assetAddress": "0x5B6d6D09F425da2a816D1cDBabd049449Ae8d8e6",
+    "safes": [
+      "0x8a1340D273818A0B54e9AFBcE8dE5650D6c613DD"
+    ],
+    "strategies": [],
+    "chainId": 43111,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "bgBTC is a wrapped Bitcoin token by Bitget designed to facilitate cross-chain transactions within the DeFI ecosystem",
+    "creator": "0x2C3B135cd7dc6C673b358BEF214843DAb3464278",
+    "feeRecipient": "0x9bE75Bc132923847290677328b8FFB15d3081f2c",
+    "apyId": "",
+    "name": "bgBTC Vault",
+    "labels": [
+      "New"
+    ]
   }
 }
