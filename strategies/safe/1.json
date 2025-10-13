@@ -142,5 +142,21 @@
       "allocationPerc": 100,
       "leverage": 0
     }
+  ],
+  "0x54C5515133Dd9Ced5c8F0bff834A2C004D9B7CCc": [
+    {
+      "address": "0x8a1340D273818A0B54e9AFBcE8dE5650D6c613DD",
+      "asset": "0x0520930F21b14Cafac7a27b102487beE7138a017",
+      "yieldToken": "0x0000000000000000000000000000000000000000",
+      "metadata": {
+        "name": "VaultCraft",
+        "protocol": "VaultCraft",
+        "description": "This vault is managed by Vaultcraft",
+        "type": "safe"
+      },
+      "resolver": "safe",
+      "allocationPerc": 100,
+      "leverage": 0
+    }
   ]
 }
