@@ -470,5 +470,13 @@
     "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
+  },
+  "0x54C5515133Dd9Ced5c8F0bff834A2C004D9B7CCc": {
+    "address": "0x54C5515133Dd9Ced5c8F0bff834A2C004D9B7CCc",
+    "name": "Bitget bgBTC Vault",
+    "symbol": "Bitget-bgBTC",
+    "decimals": 18,
+    "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
+    "chainId": 1
   }
 }

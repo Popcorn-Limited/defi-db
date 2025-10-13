@@ -643,5 +643,29 @@
     "labels": [
       "New"
     ]
+  },
+  "0x54C5515133Dd9Ced5c8F0bff834A2C004D9B7CCc": {
+    "address": "0x54C5515133Dd9Ced5c8F0bff834A2C004D9B7CCc",
+    "assetAddress": "0x0520930F21b14Cafac7a27b102487beE7138a017",
+    "safes": [
+      "0x8a1340D273818A0B54e9AFBcE8dE5650D6c613DD"
+    ],
+    "strategies": [],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "Bitget bgBTC Safe Vault",
+    "creator": "0x919D5a6F2CBc0731380C26B4AC4f6183dD3A40C8",
+    "feeRecipient": "0x919D5a6F2CBc0731380C26B4AC4f6183dD3A40C8",
+    "apyId": "",
+    "name": "Bitget bgBTC Vault",
+    "labels": [
+      "New"
+    ]
   }
 }
