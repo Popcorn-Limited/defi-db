@@ -667,5 +667,29 @@
     "labels": [
       "New"
     ]
+  },
+  "0xdB06a9D79f5Ff660f611234c963c255E03Cb5554": {
+    "address": "0xdB06a9D79f5Ff660f611234c963c255E03Cb5554",
+    "assetAddress": "0x6A9A65B84843F5fD4aC9a0471C4fc11AFfFBce4a",
+    "safes": [
+      "0xB12f8CE82d6a6F83EfCE73304F234d72F440eaE5"
+    ],
+    "strategies": [],
+    "chainId": 1,
+    "fees": {
+      "deposit": 0,
+      "withdrawal": 0,
+      "management": 0,
+      "performance": 0
+    },
+    "type": "safe-vault-v1",
+    "description": "enzoBTC is a wrapped Bitcoin token by Lorenzo protocol designed to facilitate cross-chain transactions within the DeFI ecosystem",
+    "creator": "0x919D5a6F2CBc0731380C26B4AC4f6183dD3A40C8",
+    "feeRecipient": "0x919D5a6F2CBc0731380C26B4AC4f6183dD3A40C8",
+    "apyId": "",
+    "name": "enzoBTC Vault",
+    "labels": [
+      "New"
+    ]
   }
 }

@@ -278,5 +278,13 @@
     "decimals": 8,
     "logoURI": "https://app.vaultcraft.io/images/tokens/bitgetbtc.jpeg",
     "chainId": 1
+  },
+  "0x6A9A65B84843F5fD4aC9a0471C4fc11AFfFBce4a": {
+    "address": "0x6A9A65B84843F5fD4aC9a0471C4fc11AFfFBce4a",
+    "name": "Lorenzo Wrapped Bitcoin",
+    "symbol": "enzoBTC",
+    "decimals": 8,
+    "logoURI": "https://cdn.furucombo.app/assets/img/token/WBTC.png",
+    "chainId": 1
   }
 }
