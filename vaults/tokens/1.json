@@ -483,7 +483,7 @@
     "address": "0xdB06a9D79f5Ff660f611234c963c255E03Cb5554",
     "name": "enzoBTC Vault",
     "symbol": "vcx-enzoBTC",
-    "decimals": 8,
+    "decimals": 18,
     "logoURI": "https://app.vaultcraft.io/images/tokens/vcx.svg",
     "chainId": 1
   }
